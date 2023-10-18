@@ -15,6 +15,6 @@ An SRD for my D&amp;D heartbreaker.
 |  18%  | +3 |
 
 <small>
-\* Scores below 3 are only possible through magic or physical trauma.<br/>
+* Scores below 3 are only possible through magic or physical trauma.<br/>
 % Scores above 18 are only possible through magic or other supernatural effects.
 </small>
