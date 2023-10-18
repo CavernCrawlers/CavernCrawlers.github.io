@@ -110,18 +110,18 @@ Most everything in the game world has one or more tags.  These are a game-mechan
 Damage Types are a particular form of Tag that denotes the nature of the damage an attack does.  Different creatures may be resistant or vulnerable to one or more types of damage.
 
 Here is a list of common damage types: 
-**Acid** – Caustic damage that dissolves the target, such as a Gelatinous Cube’s digestive enzymes.
-**Blunt** – Blunt trauma, such as from a fall, a club, etc.
-**Cold** – Damage caused by extremely cold temperatures, such as a Frost Dragon’s breath.
-**Fire** – Burning damage from heat, such as a torch or a Fire Dragon’s breath.
-**Lightning** – Any form of electrical damage, such as from a lightning bolt.
-**Necrotic** – Damage directly to a creature’s life force or any effect that necrotizes the flesh (such as a wraith’s touch).
-**Piercing** – Damage that pierces the skin, such as arrows and spears.
-**Poison** – Venoms and toxins, such as a spider or snake bite.
-**Radiant** – Damage caused by high intensity light (such as a laser or an angel’s battle aura).
-**Slashing** – Damages that cuts open the target, such as from an ax.
-**Spirit** - Damage that directly affects a creature's spirit or mind, such as a Lich's soul drain.
-**Thunder** – Sonic damage that both shocks the senses and rattles the bones.
+- **Acid** – Caustic damage that dissolves the target, such as a Gelatinous Cube’s digestive enzymes.
+- **Blunt** – Blunt trauma, such as from a fall, a club, etc.
+- **Cold** – Damage caused by extremely cold temperatures, such as a Frost Dragon’s breath.
+- **Fire** – Burning damage from heat, such as a torch or a Fire Dragon’s breath.
+- **Lightning** – Any form of electrical damage, such as from a lightning bolt.
+- **Necrotic** – Damage directly to a creature’s life force or any effect that necrotizes the flesh (such as a wraith’s touch).
+- **Piercing** – Damage that pierces the skin, such as arrows and spears.
+- **Poison** – Venoms and toxins, such as a spider or snake bite.
+- **Radiant** – Damage caused by high intensity light (such as a laser or an angel’s battle aura).
+- **Slashing** – Damages that cuts open the target, such as from an ax.
+- **Spirit** - Damage that directly affects a creature's spirit or mind, such as a Lich's soul drain.
+- **Thunder** – Sonic damage that both shocks the senses and rattles the bones.
 
 ## Time
 Time is broken up into three broad categories: **Combat Time**, **Exploration Time** and **Narrative Time**.  Combat Time is measured in **Turns** (one creature’s chance to move and act), **Rounds** (the combined Turns of all participants; approximately 6 seconds) and **Minutes** (1 minute / 10 Rounds).  **Exploration Time** is measured in **Segments** (approximately 10 minutes), **Hours** and **Watches** (4 Hours).  Narrative Time is not strictly tracked and, instead, the GM determines how much time has passed once the narration is concluded.  
