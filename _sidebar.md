@@ -1,4 +1,4 @@
 - [Home](/)
 - [Core Rules](CoreRules.md)
-- [Character Creation](Character Creation.md)
+- [Character Creation](CharacterCreation.md)
 - 
