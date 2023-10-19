@@ -1,5 +1,3 @@
-# Character Creation
-
 ## Generating Ability Scores
 Multiple methods of generating ability scores are offered here.  It is suggested that all players use the same method.
 
@@ -62,7 +60,7 @@ The measure of a character’s raw physical power.  This is used in feats of mig
 This is a character’s overall agility, coordination and reflexes.  It is used in feats of acrobatics, hand-eye coordination and to avoid effects that could be dodged.  The raw score is used for. . .
 
 #### Constitution
-This is measures a character’s toughness, endurance and overall health.  It is used to resist the negative effects of poisons, diseases and other physical ailments.  The raw score is also used in recovering from injuries after a **Long Rest**.
+This is measures a character’s toughness, endurance and overall health.  It is used to resist the negative effects of poisons, diseases and other physical ailments.  The raw score is also used for determining your starting hit points and in recovering from injuries after a **Long Rest**.
 
 #### Intelligence
 Intelligence is a character’s quickness of mind and understanding.  Those with high intelligence scores are quickly able to work out puzzles, recognize patterns and recall past information.  The raw score is used to . . .
@@ -115,6 +113,7 @@ Dwarves have a permanent +2 bonus on their **Hardiness Defense**.
 Dwarves see in dim light nearly as well as full daylight; however, this vision is shades of gray only, so color cannot be discerned in these conditions.  Also, this ability does not function in full darkness.
 ##### True Name
 As creatures of rock and stone, old as the earth, dwarves have **True Names**, and those with that knowledge may use a dwarf’s name against him. By calling out the name, a character gains **Advantage** on all actions taken against the dwarf, including attacking him.
+
 ### Elf
 **AKA**: Alfar, Aelph, Erle, Olve, Shee
 Elves are as much of the Fey world as they are of the mortal realm.  While this has granted them many advantages, such as a long life (typically living to be 750 years or more and not considered adults until after their first century has passed) and a greater capacity for resisting baleful magics, it also makes them seem among the most alien of all the common species.  They are slender in build and typically range between 5 and 6 feet in height.
@@ -134,6 +133,7 @@ Elves have +2 on Perception checks.
 Due to their inherently magical nature, elves gain a +2 bonus on all **Special Defenses** vs magic.
 ##### True Name
 As fae creatures, elves have **True Names**, and those with the knowledge may use an elf’s true name against her. By calling out the true name, a character gains **Advantage** on all actions taken against the elf, including attacking her.
+
 ### Goblin
 **AKA**: Kobold, Koballus, Luton, Skreetok
 Goblins are a species of naturally nocturnal humanoids most commonly found in the woods and mountains.  They stand 4 to 5 feet in height, have pointed ears, cat-like eyes, sharp teeth, long arms and spare or patchy body hair.  Their skin tones are some shade of gray, red, yellow or green.  They typically stand between 4 and 5 feet in height and have a lifespan rarely exceeding 50 years.
@@ -155,6 +155,7 @@ Being small hurts in a fight. You are a small creature and have **Disadvantage**
 On the other hand, you gain a +2 bonus on all Stealth checks.
 ##### True Name
 As fae creatures, goblins have **True Names**, and those with the knowledge may use an goblin’s true name against her. By calling out the true name, a character gains **Advantage** on all actions taken against the goblin, including attacking her.
+
 ### Hob
 **AKA**: Hin, Hobniz, Pech, Puck, Smallfolk, Halfling
 Aside from their height, slightly pointed ears and thick-soled hairy feet, hobs seem to be the most similar to humans among the great variety of species.  Even their own ethnicities seem to follow the same patterns as those of humans.  They are most frequently found living among humans, though also occasionally among elves, dwarves and other cultures.  There do exist, however, a handful of hob-centric towns, villages and nomadic troupes scattered around the many kingdoms.
@@ -174,6 +175,7 @@ Hobs raise the spirits of even the most downtrodden and are valued by all their 
 Being small hurts in a fight. You are a small creature and have **Disadvantage** wielding any weapon with the Heavy property, or when wielding a Versatile weapon one-handed.
 
 On the other hand, you gain a +2 bonus on all Stealth checks.
+
 ### Human
 **AKA**: Cholvek, Homin, Insan, Menneskelig
 Humans are the most common species in all the world, and can be found in most any climate or region, no matter how hostile or remote.  They typically reach physical maturity around age 18 and have a typical lifespan of around 75 years.  They are normally between 5 and 6 ½ feet tall and weigh between 120 and 250 pounds.
@@ -187,6 +189,7 @@ Humans are the most common species in all the world, and can be found in most an
 #### Features
 ##### Intrepid
 A Human’s Base and Max **Fortune Points** are each increased by 1.
+
 ### Orc
 **AKA**: Bugbear, Euroz, Krork, Orteh
 Orcs are a physically powerful race slightly taller than humans but much stockier and more muscled.  Their features are superficially similar to those of Goblins, causing some to believe that the species are related but neither Orcs nor Goblins consider this to be true.  Additionally, while both have similar skin tones, lack of hair and pointed ears, Orc teeth are less sharp with a pair of tusks protruding from their lower jaws.  The orcish lifespan is slightly less than that of a human, typically maturing around age 15 and living around 65 years.
@@ -200,13 +203,16 @@ Orcs are a physically powerful race slightly taller than humans but much stockie
 #### Features
 ##### Relentless Endurance
 Orcs do not tire easily and have a +2 on any **Constitution** or **Wisdom Check** to resist gaining a level of **Exhaustion**.  They also increase their **Strength** by +2 for determining **Encumbrance** limits..
+
 ## Pick a Class
-There are six character classes: Warrior, Rogue, Mage, Warrior/Rogue, Warrior/Mage and Rogue/Mage.
+There are six character classes: [Warrior](Warrior), [Rogue](Rogue), [Mage](Mage), [[Warrior-Rogue]], [[Warrior-Mage]] and [[Rogue-Mage]].
+
 ## Pick Skills
-Give your character 2 skills from the Skill List.
+Give your character 2 skills from the Skill List (or more if a rogue / partial-rogue).
 
 Having a skill gives your character a +4 to their **Ability Checks**.  Taking the same skill a second time, increases this bonus to +6.
 
 In addition to your starting skills, your character will gain an additional skill at various levels as indicated in your class’s description.
+
 ## Pick Languages
 Most characters begin the game speaking two languages (their native language and a "common" tongue).  To this, add a number of additional languages equal to your character’s **Intelligence Bonus** (if it is positive).  Additionally, most characters are illiterate.  One language pick may be spent for a character to become literate.  Once literate, a character is considered literate in all languages they know.

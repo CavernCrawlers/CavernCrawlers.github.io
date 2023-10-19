@@ -1,4 +1,10 @@
 - [Home](/)
 - [Core Rules](CoreRules.md)
 - [Character Creation](CharacterCreation.md)
-- 
+- Classes
+	- [[Warrior]]
+	- [[Rogue]]
+	- [[Mage]]
+	- [[Warrior-Rogue]]
+	- [[Warrior-Mage]]
+	- [[Rogue-Mage]]

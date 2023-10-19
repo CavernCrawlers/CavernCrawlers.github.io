@@ -1,5 +1,3 @@
-# Core Rules
-
 ## D20 Checks
 D20 checks lie at the heart of the system.  Any time a character attempts an action with a risk and a chance of failure, a **D20 Check** is made.  There are four basic types of **D20 Check**.
 
