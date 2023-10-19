@@ -160,6 +160,7 @@ This mage may spend a **Fortune Point** to regain a number of lost spells equal 
 This mage no longer requires their spellcasting focus and does not gain **Disadvantage** when casting without one.  They still require a hand to be free to make the appropriate gestures.
 
 ## Supernatural Traits
+
 ### [Beast] Speech
 Whether because of heritage, a mystical pact, or an unknown gift, this character has a great affinity with the named type of animal. She may speak with them, has a rough sense of when they are nearby, and gains a +2 on any rolls involving them.  This trait may be taken multiple times, applying to a different animal type each time.
 
@@ -185,7 +186,7 @@ You may infuse part of your soul into your weapon attacks (including unarmed).  
 When this character witnesses an oath or makes one herself, fate binds the oath taker to see it done. Anyone who makes an oath in the character’s presence, including the character herself, must keep their word or find themselves halving all healing received and unable to regain **Fortune Points** unless they are working towards fulfilling their oath.
 
 ### Second Sight
-This character gains the **Sense Magic** ability as if they were a [Mage](Mage.md#Sense%20Magic).
+This character gains the **Sense Magic** ability as if they were a [Mage](Mage.md#sense-magic).
 
 ### Shapechanger
 As given in the core rules with the following exceptions:  This change lasts for 1 hour per **Character Level**. Changing back earlier requires a **Wisdom Check** vs DT 13 per hour of transformation or the expenditure of a **Fortune Point**.
