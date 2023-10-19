@@ -128,7 +128,7 @@ The character is dangerous even without a weapon in her hand. This character’s
 
 ## Spellcasting Traits
 
-Most of these **Traits** are only available to characters who possess the ability to utilize **Magical Arts**.  The exception is the [Touched by Magic](#Touched%20by%20Magic) trait, which will then qualify the character of other traits of this type.
+Most of these **Traits** are only available to characters who possess the ability to utilize **Magical Arts**.  The exception is the [Touched by Magic](#touched-by-magic) trait, which will then qualify the character of other traits of this type.
 
 ### Flexible Ritualist
 This character casts **Rituals** in ways different from other mages. The player may pick two Rituals and change which **Ability Score** is associated with **Checks** for casting those Rituals. The player may choose **Intelligence**, **Wisdom**, or **Charisma** for their **Invocation Checks**, and need not necessarily choose the same Ability Score for each ritual. The player is not required to pick both Rituals when this trait is gained, and may instead “hold” some of his picks for later Rituals.  This trait may be taken multiple times, applying to different Rituals each time.
