@@ -2,9 +2,9 @@
 - [Core Rules](CoreRules.md)
 - [Character Creation](CharacterCreation.md)
 - Classes
-	- [[Warrior]]
-	- [[Rogue]]
-	- [[Mage]]
-	- [[Warrior-Rogue]]
-	- [[Warrior-Mage]]
-	- [[Rogue-Mage]]
+	- [Warrior](Warrior.md)
+	- [Rogue](Rogue.md)
+	- [Mage](Mage.md)
+	- [Warrior-Rogue](Warrior-Rogue.md)
+	- [Warrior-Mage](Warrior-Mage.md)
+	- [Rogue-Mage](Rogue-Mage.md)
