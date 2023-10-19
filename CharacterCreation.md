@@ -205,7 +205,7 @@ Orcs are a physically powerful race slightly taller than humans but much stockie
 Orcs do not tire easily and have a +2 on any **Constitution** or **Wisdom Check** to resist gaining a level of **Exhaustion**.  They also increase their **Strength** by +2 for determining **Encumbrance** limits..
 
 ## Pick a Class
-There are six character classes: [Warrior](Warrior), [Rogue](Rogue), [Mage](Mage), [Warrior-Rogue](Warrior-Rogue), [Warrior-Mage](Warrior-Mage) and [Rogue-Mage](Rogue-Mage).
+There are six character classes: [Warrior](Warrior.md), [Rogue](Rogue.md), [Mage](Mage.md), [Warrior-Rogue](Warrior-Rogue.md), [Warrior-Mage](Warrior-Mage.md) and [Rogue-Mage](Rogue-Mage.md).
 
 ## Pick Skills
 Give your character 2 skills from the Skill List (or more if a rogue / partial-rogue).
