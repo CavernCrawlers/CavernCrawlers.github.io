@@ -27,6 +27,7 @@ After the group determines the power level of the game, each player selects a co
 |  10 |   9 |  10 |  10 |   9 |   9 |   9 |   8 |   8 |   7 |
 |   9 |   8 |   9 |   9 |   8 |   9 |   8 |   8 |   8 |   7 |
 |   8 |   8 |   8 |   8 |   8 |   8 |   6 |   8 |   8 |   7 |
+
 Each column on this table adds up to 63 points (10.5 per ability).
 
 #### Heroic Arrays
@@ -38,6 +39,7 @@ Each column on this table adds up to 63 points (10.5 per ability).
 | 12 | 10 | 12 |  12 | 12 | 12 | 12 | 10 |  8 |  8 |
 | 10 | 10 | 10 |  10 | 10 | 10 | 10 | 10 |  8 |  8 |
 |  8 | 10 | 10 |   8 |  8 |  8 |  6 |  8 |  8 |  8 |
+
 Each column on this table adds up to 72 points (12 per ability).
 
 #### Epic Arrays
@@ -49,6 +51,7 @@ Each column on this table adds up to 72 points (12 per ability).
 |  13 |  13 |  13 |  13 |  13 |  13 |  10 |   8 |  10 |  13 |
 |  10 |   9 |   9 |  10 |  13 |   9 |   8 |   8 |   9 |   8 |
 |  10 |   8 |   9 |   9 |   9 |   9 |   8 |   9 |   9 |   8 |
+
 Each column on this table adds up to 78 points (13 per ability).
 
 ### The Attributes
@@ -82,6 +85,7 @@ Each attribute also has an **Attribute Modifier** that is used as a bonus (or pe
 | 13-15 | +1 |
 | 16-17 | +2 |
 |  18<sup>%</sup>  | +3 |
+
 <sub>
 * Scores below 3 are only possible through supernatural effects or physical trauma.<br/>
 % Scores above 18 are only possible through supernatural effects.
