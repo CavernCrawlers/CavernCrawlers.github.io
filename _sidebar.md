@@ -9,3 +9,4 @@
 	- [Warrior-Mage](Warrior-Mage.md)
 	- [Rogue-Mage](Rogue-Mage.md)
 - [Skills](Skills.md)
+- [Traits](Traits.md)
