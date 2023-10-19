@@ -1,8 +1,11 @@
-**Minimum Starting HP**: Constitution
-**Hit Dice**: 1d6 + 2 per level
-**Initiative Bonus**: +1
-**Armor Training**: All
-**Weapon Training**: Any 6 groups
+# Warrior
+
+- **Minimum Starting HP**: Constitution
+- **Hit Dice**: 1d6 + 2 per level
+- **Initiative Bonus**: +1
+- **Armor Training**: All
+- **Weapon Training**: Any 6 groups
+
 ## Class Abilities
 ### Hauler
 You add your **Constitution Modifier** (if positive) to your **Strength Score** for determining your **Encumbrance** limits.
