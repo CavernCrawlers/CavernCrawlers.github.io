@@ -103,6 +103,7 @@ Dwarves are a stocky species averaging around 4 to 5 feet in height, yet weighin
 - Size: Medium
 - Speed: 30 ft
 - Tags: Humanoid, Elemental (earth)
+  
 #### Features
 ##### Dust of Ages
 The age of the dwarf is long since past. A Dwarf’s Base and Max **Fortune Points** are reduced by 1 (to a minimum 1 **Max Fortune**).
@@ -123,6 +124,7 @@ Elves are as much of the Fey world as they are of the mortal realm.  While this 
 - Size: Medium
 - Speed: 35 ft
 - Tags: Humanoid, Fae
+  
 #### Features
 ##### Autumn Folk
 The age of the elves is long since past. A Elf’s Base and Max **Fortune Points** are reduced by 1 (to a minimum 1 **Max Fortune**).
@@ -141,6 +143,7 @@ Goblins are a species of naturally nocturnal humanoids most commonly found in th
 - Size: Small
 - Speed: 30 ft
 - Tags: Humanoid, Fae
+  
 #### Features
 ##### Fey Blooded
 Due to their inherently magical nature, goblins gain a +2 bonus on all **Special Defenses** vs magic.
@@ -163,6 +166,7 @@ Hobs mature at the same rate as humans but live slightly longer, some reaching a
 - Size: Small
 - Speed: 30 ft
 - Tags: Humanoid
+  
 #### Features
 ##### Hob Spirit
 Hobs raise the spirits of even the most downtrodden and are valued by all their companions. The Hob himself receives +2 to all **Special Defenses**. Furthermore, all allies receive +1 to their **Special Defenses** so long as they can see and hear him.
@@ -179,6 +183,7 @@ Humans are the most common species in all the world, and can be found in most an
 - Size: Medium
 - Speed: 30 ft
 - Tags: Humanoid
+  
 #### Features
 ##### Intrepid
 A Human’s Base and Max **Fortune Points** are each increased by 1.
