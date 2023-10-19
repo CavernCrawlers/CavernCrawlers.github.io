@@ -208,7 +208,7 @@ Orcs do not tire easily and have a +2 on any **Constitution** or **Wisdom Check*
 There are six character classes: [Warrior](Warrior), [Rogue](Rogue), [Mage](Mage), [Warrior-Rogue](Warrior-Rogue), [Warrior-Mage](Warrior-Mage) and [Rogue-Mage](Rogue-Mage).
 
 ## Pick Skills
-Give your character 2 skills from the Skill List (or more if a rogue / partial-rogue).
+Give your character 2 skills from the [Skill List](Skills.md) (or more if a rogue / partial-rogue).
 
 Having a skill gives your character a +4 to their **Ability Checks**.  Taking the same skill a second time, increases this bonus to +6.
 

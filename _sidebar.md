@@ -8,3 +8,4 @@
 	- [Warrior-Rogue](Warrior-Rogue.md)
 	- [Warrior-Mage](Warrior-Mage.md)
 	- [Rogue-Mage](Rogue-Mage.md)
+- [Skills](Skills.md)
