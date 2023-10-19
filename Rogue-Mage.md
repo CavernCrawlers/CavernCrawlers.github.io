@@ -1,8 +1,10 @@
-**Minimum Starting HP**: Constitution * 0.7
-**Hit Dice**: 1d5 per level
-**Initiative Bonus**: +1
-**Armor Training**: Light armor
-**Weapon Training**: Light and Medium weapons from any 3 groups
+# Rogue-Mage
+
+- **Minimum Starting HP**: Constitution * 0.7
+- **Hit Dice**: 1d5 per level
+- **Initiative Bonus**: +1
+- **Armor Training**: Light armor
+- **Weapon Training**: Light and Medium weapons from any 3 groups
 
 ## Class Abilities
 

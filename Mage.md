@@ -1,8 +1,10 @@
-**Minimum Starting HP**: Constitution * 0.6
-**Hit Dice**: 1d4 per level
-**Initiative Bonus**: +0
-**Armor Training**: None
-**Weapon Training**: Light and Medium weapons from any 2 groups.
+# Mage
+
+- **Minimum Starting HP**: Constitution * 0.6
+- **Hit Dice**: 1d4 per level
+- **Initiative Bonus**: +0
+- **Armor Training**: None
+- **Weapon Training**: Light and Medium weapons from any 2 groups.
 
 ## Class Abilities
 ### Exhausting Magic

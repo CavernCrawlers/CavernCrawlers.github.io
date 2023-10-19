@@ -1,8 +1,11 @@
-**Minimum Starting HP**: Constitution * 0.8
-**Hit Dice**: 1d6 per level
-**Initiative Bonus**: +0
-**Armor Training**: Light and Medium Armor, Buckler and Shield
-**Weapon Training**: Any 4 groups
+# Warrior-Mage
+
+- **Minimum Starting HP**: Constitution * 0.8
+- **Hit Dice**: 1d6 per level
+- **Initiative Bonus**: +0
+- **Armor Training**: Light and Medium Armor, Buckler and Shield
+- **Weapon Training**: Any 4 groups
+
 ## Class Abilities
 ### Exhausting Magic
 If you fail an **Invocation** check, you may increase the check total by +3 per level of **Exhaustion** gained.

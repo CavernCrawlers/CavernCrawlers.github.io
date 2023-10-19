@@ -1,8 +1,10 @@
-**Minimum Starting HP**: Constitution * 0.9
-**Hit Dice**: 1d6+1 per level
-**Initiative Bonus**: +1
-**Armor Training**: Light and Medium Armor, Buckler and Shield
-**Weapon Training**: Any 4 groups
+# Warrior-Rogue
+
+- **Minimum Starting HP**: Constitution * 0.9
+- **Hit Dice**: 1d6+1 per level
+- **Initiative Bonus**: +1
+- **Armor Training**: Light and Medium Armor, Buckler and Shield
+- **Weapon Training**: Any 4 groups
 
 ## Class Abilities
 ### Fortune's Favor

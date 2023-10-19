@@ -1,8 +1,11 @@
-**Minimum Starting HP**: Constitution * 0.8
-**Hit Dice**: 1d6 per level
-**Initiative Bonus**: +2
-**Armor Training**: Light Armor and Bucklers
-**Weapon Training**: Light and Medium weapons from any 3 groups.
+# Rogue
+
+- **Minimum Starting HP**: Constitution * 0.8
+- **Hit Dice**: 1d6 per level
+- **Initiative Bonus**: +2
+- **Armor Training**: Light Armor and Bucklers
+- **Weapon Training**: Light and Medium weapons from any 3 groups.
+
 ## Class Abilities
 ### Fleet Footed
 You are extremely quick and light on your feet.  So long as you are not wearing medium or heavy armor, gain the following benefits:  +10ft movement speed, move at full speed with no penalty to stealth, and it only takes you 5’ of movement to stand up from a prone position.
