@@ -245,6 +245,7 @@ Some examples of inappropriate Passions:
 - Blind in one eye. [Physical trait, not a personality trait.]
 - Crazy [Too broad.]
 - Lawful Good [Not well defined and covers two aspects of personality instead of one.]
+
 ## Pick a Name, Goal and Ties
 The final step is to give your character a thematically appropriate name, at least one short and one long-term goals and a reason why it is they're willing to risk their life along side these other adventurers.
 
