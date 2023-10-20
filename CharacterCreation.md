@@ -214,5 +214,40 @@ Having a skill gives your character a +4 to their **Ability Checks**.  Taking th
 
 In addition to your starting skills, your character will gain an additional skill at various levels as indicated in your class’s description.
 
+## Pick a Trait
+All characters start with 1 [Trait](Traits.md) at level 1.  They will gain additional Traits at levels 5 and 9.
+
 ## Pick Languages
-Most characters begin the game speaking two languages (their native language and a "common" tongue).  To this, add a number of additional languages equal to your character’s **Intelligence Bonus** (if it is positive).  Additionally, most characters are illiterate.  One language pick may be spent for a character to become literate.  Once literate, a character is considered literate in all languages they know.
+Most characters begin the game speaking two languages (their native language and a "common" tongue).  To this, add a number of additional languages equal to your character’s **Intelligence Modifier** (though this cannot take you down to less than 1 starting language).  Additionally, most characters are illiterate by default.  One language pick may be spent for a character to become literate.  Once literate, a character is considered literate in all languages they know.
+
+## Calculate Starting Hit Points
+Each character's starting **HP** is a fraction of their **Constitution Score**.  The size of the fraction is determined by the chosen **Class**.
+
+## Choose Starting Equipment
+Each Character Class grants a starting equipment package and a few extra Silver Pieces.  You may use this starting silver to purchase additional equipment if so desired.
+
+## Calculate Defenses
+Calculate your character's **Armor Class** (based on armor worn and **Dexterity Modifier**), **Evasion Defense** (based on **Class** and the higher of your character's **Dexterity** and **Intelligence Modifiers**), **Hardiness Defense** (based on Class and the higher of your character's **Strength** and **Constitution Modifiers**) and **Spirit Defense** (based on Class and the higher of your character's **Wisdom** and **Charisma Modifiers**).
+
+## Describe Your Character's Passions
+Passions describe the things that are important to your character and can be both positive and negative.  Each character should have between 3 and 5 **Passions**, as determined by the player and approved by the GM.  A Passion should be describable in a single sentence or short phrase; if it takes more than a single line to describe a Passion, it is too complex and should be broken down into multiple Passions.  Additionally, a Passion should have both positive and negative connotations.
+
+Some examples of appropriate Passions are:
+- Devoted to family
+- Chivalric Code
+- Brutally honest
+- Philanthropic
+- Pius
+
+Some examples of inappropriate Passions:
+- Has an honest face.  [Not really a personality trait and doesn’t have a negative connotation.]
+- Kleptomaniac [Doesn’t have a positive connotation.]
+- Blind in one eye. [Physical trait, not a personality trait.]
+- Crazy [Too broad.]
+- Lawful Good [Not well defined and covers two aspects of personality instead of one.]
+## Pick a Name, Goal and Ties
+The final step is to give your character a thematically appropriate name, at least one short and one long-term goals and a reason why it is they're willing to risk their life along side these other adventurers.
+
+Goals should be something that the character is potentially willing to die for rather than stay at home living a comfy life.  Also, make sure it isn't something that will interfere with the fun of the rest of the group.
+
+Your character's ties to the rest of the group doesn't mean that everyone has to like each other and always get along.  However, it does mean that, when the chips are down, you know they'll have your back and you'll have theirs.
