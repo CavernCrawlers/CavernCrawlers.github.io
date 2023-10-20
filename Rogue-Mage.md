@@ -6,6 +6,10 @@
 - **Armor Training**: Light armor
 - **Weapon Training**: Light and Medium weapons from any 3 groups
 
+## Equipment
+- a Rogue's Pack, a Mage's Pack or an Explorer's Pack
+- 4d6sp
+
 ## Class Abilities
 
 ### Exhausting Magic
@@ -80,10 +84,13 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 - **Shadow** 
 	- Skills – Athletics, Skullduggery, Stealth
 	- Knack – Skulker
+	- Trait - [Unassuming](Traits.md#unassuming)
 - **Spellsinger** 
 	- Skills – Insight, Profession (singer), Lore (magic)
 	- Knack – Distracting Defense
+	- Trait - [Practiced Ritual](Traits.md#practiced-ritual)
 - **Trickster** 
 	- Skills – Deception, Skullduggery, Stealth
 	- Knack – Master of Disguise
+	- Trait - [Actor](Traits.md#actor)
 

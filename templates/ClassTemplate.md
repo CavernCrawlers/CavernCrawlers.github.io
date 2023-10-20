@@ -3,6 +3,10 @@
 **Initiative Bonus**: 
 **Armor Training**: 
 **Weapon Training**: 
+
+## Equipment
+- <item 1>
+
 ## Class Abilities
 ### <Ability>
 <description>
@@ -43,4 +47,5 @@
 - **<Build Name>** 
 	- Skills – <Skills>
 	- Knack – <Knacks>
+	- Trait - <Trait>
 

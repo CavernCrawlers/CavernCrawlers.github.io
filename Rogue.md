@@ -6,6 +6,10 @@
 - **Armor Training**: Light Armor and Bucklers
 - **Weapon Training**: Light and Medium weapons from any 3 groups.
 
+## Equipment
+- a Rogue's Pack or Explorer's Pack
+- 4d6sp
+
 ## Class Abilities
 ### Fleet Footed
 You are extremely quick and light on your feet.  So long as you are not wearing medium or heavy armor, gain the following benefits:  +10ft movement speed, move at full speed with no penalty to stealth, and it only takes you 5’ of movement to stand up from a prone position.
@@ -77,16 +81,21 @@ When you have **Advantage** on an attack, add the listed damage to the attack.
 - **Assassin** 
 	- Skills – Intimidation, Profession (trapsmith), Skullduggery, Stealth
 	- Knack – Poisoner
+	- Trait - [Unassuming](Traits.md#unassuming)
 - **Bard** 
 	- Skills – Insight, Profession (singer), Lore (history), Persuasion
 	- Knack – Distracting Defense
+	- Trait - [Linguist](Traits.md#linguist)
 - **Burglar** 
 	- Skills – Athletics, Perception, Skullduggery, Stealth
 	- Knack – Skulker
+	- Trait - [Gifted Climber](Traits.md#gifted-climber)
 - **Mountebank** 
 	- Skills – Deception, Insight, Persuasion, Sleight of Hand
 	- Knack – Silver Tongue
+	- Trait - [Friendly Face](Traits.md#friendly-face)
 - **Scout** 
 	- Skills – Athletics, Perception, Stealth, Survival (environment)
 	- Knack – Watchful
+	- Trait - [Child of the (Terrain)](Traits.md#child-of-the-terrain)
 

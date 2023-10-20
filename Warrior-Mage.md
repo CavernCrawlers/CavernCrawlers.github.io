@@ -6,6 +6,10 @@
 - **Armor Training**: Light and Medium Armor, Buckler and Shield
 - **Weapon Training**: Any 4 groups
 
+## Equipment
+- a Warrior's Pack, a Mage's Pack or an Explorer's Pack
+- 4d6sp
+
 ## Class Abilities
 ### Exhausting Magic
 If you fail an **Invocation** check, you may increase the check total by +3 per level of **Exhaustion** gained.
@@ -25,7 +29,7 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 ### Warrior-Mage Table
 | Level | Attack<br/>Bonus | Caster<br/>Level | Skills | Knacks | Traits | Abilities |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---|
-|  1 | +1 | 1 |  2 |  1 |  0 | Exhausting Magic, Magical Focus, Rituals (rank 1), Sense Magic, Spellcasting, True Name |
+|  1 | +1 | 1 |  2 |  1 |  1 | Exhausting Magic, Magical Focus, Rituals (rank 1), Sense Magic, Spellcasting, True Name |
 |  2 | +2 | 1 | -- | -- | -- |  |
 |  3 | +3 | 2 | -- | +1 | -- |  |
 |  4 | +3 | 3 | +1 | -- | -- | Ritual (rank 2) |
@@ -82,9 +86,12 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 - **Spellblade** 
 	- Skills – Lore (magic), Perception
 	- Knack – Skirmisher
-- **<Build Name>** 
+	- Trait - [With But a Wave](Traits.md#with-but-a-wave)
+- **Warlock** 
 	- Skills – Lore (magic), Skullduggery
 	- Knack – Indomitable
+	- Trait - [War Wizard](Traits.md#war-wizard)
 - **Warrior-Priest** 
 	- Skills – Lore (religion), Riding
 	- Knack – Armored
+	- Trait - [Healing Touch](Traits.md#healing-touch)

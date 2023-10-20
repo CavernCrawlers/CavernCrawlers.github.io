@@ -6,6 +6,10 @@
 - **Armor Training**: All
 - **Weapon Training**: Any 6 groups
 
+## Equipment
+- a Warrior's Pack or an Explorer's Pack
+- 4d6sp
+
 ## Class Abilities
 ### Hauler
 You add your **Constitution Modifier** (if positive) to your **Strength Score** for determining your **Encumbrance** limits.
@@ -22,7 +26,7 @@ All warriors have weapons they favor and with which they are particularly skille
 ### Warrior Table
 | Level | Attack<br/>Bonus | Damage<br/>Bonus | Skills | Knacks | Traits | Abilities |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---|
-|  1 | +1 | +1 / 10AC | 2  |  1 |  0 | Hauler, Mighty Deed 14+, Weapon Specialization |
+|  1 | +1 | +1 / 10AC | 2  |  1 |  1 | Hauler, Mighty Deed 14+, Weapon Specialization |
 |  2 | +2 | +1 / 10AC | -- | -- | -- | Mighty Deed 12+ |
 |  3 | +3 | +2 / 11AC | -- | +1 | -- |  |
 |  4 | +4 | +2 / 12AC | +1 | -- | -- | Mighty Deed 11+ |
@@ -80,7 +84,7 @@ All warriors have weapons they favor and with which they are particularly skille
 
 **Shield Master**: While wielding a shield, you may add your shield bonus to your **Evasion Defense** and you increase your AC bonus from shields by +1.
 
-**Skirmisher**: Gain +1 **Initiative**, +5 ft movement and +1 AC vs **Attacks of Opportunity**.
+**Skirmisher**: Gain +1 **Initiative**, +5 feet movement and +1 AC vs **Attacks of Opportunity**.
 
 **Weapon Specialization**:  Pick 1 additional weapon to specialize in.  This Knack may be taken more than once.
 
@@ -88,21 +92,28 @@ All warriors have weapons they favor and with which they are particularly skille
 - **All-Rounder** 
 	- Skills – Athletics, Intimidation
 	- Knack – Combat Mastery
+	- Trait - [Die Hard](Traits.md#die-hard)
 - **Archer**
 	- Skills – Perception, Survival
 	- Knack – Archer
+	- Trait - [Superior Training](Traits.md#superior-training) (to gain Mighty Shot)
 - **Berserker** 
 	- Skills – Athletics, Intimidation
 	- Knack – Berserk
+	- Trait - [Catch Your Breath](Traits.md#catch-your-breath)
 - **Cavalier**
 	- Skills – Athletics, Riding
 	- Knack – Cavalry
+	- Trait - [Great Bravery](Traits.md#great-bravery) or [Horse Speech](Traits.md#beast-speech)
 - **Damage Dealer** 
 	- Skills – Athletics, Intimidation
 	- Knack – Deadly Blow
+	- Trait - [Combat Mastery](Traits.md#combat-mastery)
 - **Tank** 
 	- Skills – Healing, Survival
 	- Knack – Armored
+	- Trait - [Fast Healer](Traits.md#fast-healer) or [Tenacity](Traits.md#tenacity)
 - **Weapon Master**
 	- Skills – Athletics, Profession (Smith)
 	- Knack – Weapon Specialization
+	- Trait - [Weapon Training](Traits.md#weapon-training)

@@ -6,6 +6,10 @@
 - **Armor Training**: None
 - **Weapon Training**: Light and Medium weapons from any 2 groups.
 
+## Equipment
+- a Mage's Pack or Explorer's Pack
+- 4d6sp
+
 ## Class Abilities
 ### Exhausting Magic
 If you fail an **Invocation** check, you may increase the check total by +3 per level of **Exhaustion** gained.
@@ -25,7 +29,7 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 ### Mage Table
 | Level | Attack<br/>Bonus | Inovcation<br/>Bonus | Skills | Knacks | Traits | Abilities |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---|
-|  1 | +1 | +3 |  2 |  0 |  0 | Exhausting Magic, Magical Focus, Rituals (rank 1), Sense Magic, Spellcasting, True Name |
+|  1 | +1 | +3 |  2 |  0 |  1 | Exhausting Magic, Magical Focus, Rituals (rank 1), Sense Magic, Spellcasting, True Name |
 |  2 | +1 | +4 | -- | -- | -- |  |
 |  3 | +2 | +4 | -- | -- | -- | Rituals (rank 2) |
 |  4 | +2 | +5 | +1 | -- | -- |  |
@@ -50,4 +54,16 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 |   9   |    14   |     16    |   17   |
 |  10   |    15   |     17    |   18   |
 
-
+### Sample Mage Builds
+- **Menacing Sorcerer** 
+	- Skills – Insight and Intimidation
+	- Trait - [Potent Magic](Traits.md#potent-magic)
+- **Village Witch**
+	- Skills - Healing, Lore (folklore)
+	- Trait - [Spirit Friend](Traits.md#spirit-friend)
+- **Druid**
+	- Skills - Lore (nature) and Survival (environment)
+	- Trait - [Child of the (Terrain)](Traits.md#child-of-the-terrain)
+- **Court Wizard**
+	- Skills - Insight and Persuasion
+	- Trait - [Skilled Caster](Traits.md#skilled-caster)

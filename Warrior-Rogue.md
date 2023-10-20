@@ -6,6 +6,10 @@
 - **Armor Training**: Light and Medium Armor, Buckler and Shield
 - **Weapon Training**: Any 4 groups
 
+## Equipment
+- a Rogue's Pack, a Warrior's Pack or an Explorer's Pack
+- 4d6sp
+
 ## Class Abilities
 ### Fortune's Favor
 You have greater luck than other characters.  Your Base and Max **Fortune Points** are each increased by 1.
@@ -84,10 +88,13 @@ The amount listed as your **Damage Bonus** is not just the damage you add on wea
 - **Ranger** 
 	- Skills – Survival (environment), Lore (nature) and Perception
 	- Knack – Skirmisher or Archer
+	- Trait - [Survivalist](Traits.md#survivalist)
 - **Swashbuckler** 
 	- Skills – Athletics, Persuasion, Skullduggery
 	- Knack – Weapon Specialization (rapier)
+	- Trait - [Duelist](Traits.md#duelist)
 - **Thug** 
 	- Skills – Athletics, Intimidation, Stealth
 	- Knack – Charger
+	- Trait - [Knife Fighting](Traits.md#knife-fighting)
 
