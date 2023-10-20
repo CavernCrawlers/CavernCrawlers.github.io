@@ -189,7 +189,7 @@ When this character witnesses an oath or makes one herself, fate binds the oath 
 This character gains the **Sense Magic** ability as if they were a [Mage](Mage.md#sense-magic).
 
 ### Shapechanger
-As given in the core rules with the following exceptions:  This change lasts for 1 hour per **Character Level**. Changing back earlier requires a **Wisdom Check** vs DT 13 per hour of transformation or the expenditure of a **Fortune Point**.
+As given in the core rules with the following exceptions:  This change lasts for 1 hour per **Character Level**. Changing back earlier requires a **Wisdom Check** vs DT 13 or the expenditure of a **Fortune Point**.
 
 ### Soul Gaze
 This character has the frightening ability to look into another’s soul. When this character first encounters any creature with a **True Name**, she may spend a **Fortune Point** to learn the creature’s **Allegiance** (if any) and **Type**.  Additionally, she may make a **Charisma Check** for a chance that the creature’s True Name will come to her that night in a dream.  The **DT** of the check is 10 + 1 per **Hit Die** of the target.
