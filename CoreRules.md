@@ -4,6 +4,10 @@ D20 checks lie at the heart of the system.  Any time a character attempts an act
 ### Ability Check
 This is the most basic form.  The player simply rolls 1d20 and adds the appropriate **Ability Modifier** and compares the total to the **Difficulty Target** set by the GM.
 
+Ability Checks involving Strength, Dexterity or Constitution are referred to as **Physical Checks**.
+
+Ability Checks involving Intelligence, Wisdom or Charisma are referred to as **Mental Checks**.
+
 &emsp;1d20 + Ability Modifier >= Difficulty Target
 
 ### Skilled Check
