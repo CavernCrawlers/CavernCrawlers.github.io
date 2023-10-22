@@ -1,19 +1,19 @@
 # Encumbrance
 
-Any given character can only carry so much.  Some tables may wish to handwave the tracking of encumbrance and that's completely understandable.  The rules here are meant to provide some degree of verisimilitude without having to track pounds and ounces of carried gear and treasure.
+Any given character can only carry so much.  Some groups may wish to handwave the tracking of encumbrance and that's completely understandable.  The rules here are meant to provide some degree of verisimilitude without having to track pounds and ounces of carried gear and treasure.
 
 Encumbrance is tracked in **Items** or **Slots** (the terms are used interchangeably in these rules).  A single Item is any object that can be carried in one hand reasonably comfortably (a sword, a torch, a lute, etc).  Larger objects requiring two hands (such as great swords), take up at least 2 Slots (or more for even larger objects; like a full treasure chest).  Worn clothing does not count as an Item, but carried clothing does.  Small items (such as coins) do not count as an Item unless they are carried in bulk (such as 100 coins counting as 1 Item). 
 
 Additionally, some equipment may be bundled to reduce the number of Slots it takes up (such as a bundle of 7 Rations only taking up 3 Slots).  These bundles require an Action to break apart for use after which the individual objects making up the bundle must be tracked separately.
 
-Each character may carry a number of **Readied Items** equal to half their **Strength Score**, rounded up.  Readied Items are those items on hand for immediate use and may be used without needing to take an **Action** to unsheathe or unpack them.  This includes things like worn armor, carried shields and weapons and any other item the character wishes to be able to access quickly an easily.
+Each character may carry a number of **Readied Items** equal to half their **Strength Score**, rounded up.  Readied Items are those items on hand for immediate use without needing to take an **Action** to unpack them.  This includes things like worn armor, carried shields and weapons and any other item the character wishes to be able to access quickly an easily.
 
 **Stowed Items** are those packed away and carefully organized to be as compact as possible.  To carry any Stowed Items, a character must have a backpack, sack or similar thing in which to carry these items.  If so equipped, a character can carry as many Stowed Items as their **Strength Score**.
 
-These limits represent the amount of gear a character can carry without penalty.  An extra 2 **Readied Items** or 4 **Stowed Items** (or fractions thereof), reduces a character's **Movement** by 5 feet and they take a -2 penalty on all **Strength** and **Dexterity Checks**.  Additionally, for every hour so encumbered, they must make a **Constitution Check** vs a **Difficulty** of 13 or gain a level of **Exhaustion**.  Going further beyond this limit; up to 4 Readied Items or 8 Stowed Items, reduces the character's movement to half, causes **Disadvantage** on Strength and Dexterity checks and increases the Exhaustion check difficulty to 15.
+These limits represent the amount of gear a character can carry without penalty.  An extra 2 **Readied Items** or 4 **Stowed Items** (or fractions thereof), reduces a character's **Movement** by 5 feet and they take a -2 penalty on all **Strength** and **Dexterity Checks**.  Additionally, for every hour so encumbered, they must make a **Constitution Check** vs a **Difficulty** of 13 or gain a level of **Exhaustion**.  Going further beyond this limit; up to 4 Readied Items or 8 Stowed Items, reduces the character's movement to half, increases the Strength and Dexterity check penalties to -4 and increases the Exhaustion check difficulty to 15.
 
 # Coinage
-Every petty king and warlord seems to issue their own form of currency.  Below is a table listing those coin types most commonly found (along with sample regional names for the coins).  Most peasants and commoners deal in barter, but whey they do have coin, it is typically copper or (occasionally) silver.  Silver is typically the coin of merchants and other 'middle-class' class. Higher value coins are rarely seen by the peasantry, but are in general circulation among wealthy merchants and nobles.
+Every petty king and warlord seems to issue their own form of currency.  Below is a table listing those coin types most commonly found with sample regional names.  Most peasants and commoners deal in barter, but whey they do have coin, it is typically copper or (occasionally) silver.  Silver is typically the coin of merchants and other 'middle-class' folk. Higher value coins are rarely seen by the peasantry; mostly being used by wealthy merchants and nobles.
 
 Even rarer still are ancient coins, gems, jewelry and the like.  Their value varies greatly by their rarity and quality.
 
@@ -34,7 +34,7 @@ The entries on the coinage table are far from the only materials used for money.
 # Equipment
 
 ## Quality
-Below are tables of various weapons, goods, services and the like, giving the typical price for each.  Price, however, often varies by quality.  The exact game effect of different quality items is often left up to the GM to determine on a case-by-case basis.  For example, a poor quality sword may be judged to have a -1 to hit chance, while a superior quality sword may increase it’s damage die by 1 step.  It is recommended that weapon quality modifiers be limited to no more than +/- 1 on to-hit or damage, or a 1 die step for damage.  Higher quality weapons might have multiple such properties (such as a master-crafted bow being +1 to hit, +1 die step damage and +10% range).
+The equipment table prices in the chapter assuming items of common quality.  Higher or lower quality work can dramatically affect these prices.  The exact game effect of different quality items is often left up to the GM to determine on a case-by-case basis.  For example, a poor quality sword may be judged to have a -1 to hit chance, while a superior quality sword may increase it’s damage die by 1 step.  It is recommended that weapon quality modifiers be limited to no more than +/- 1 on to-hit or damage, or a 1 die step for damage.  Higher quality weapons might have multiple such properties (such as a master-crafted bow being +1 to hit, +1 die step damage and +10% range).
 
 | Quality | Cost Multiplier |
 |:--------|:---------------:|
@@ -48,11 +48,11 @@ Below are tables of various weapons, goods, services and the like, giving the ty
 Not all items are equally available in all regions.  As a result, the GM is encouraged to multiply the cost of an item based on how common or rare it is.  The recommended range is the same as for Quality Modifiers above (x0.5 to x10).
 
 ## Haggling
-It is possible that your players may wish to haggle with local merchants over the cost of items (especially for those with quality or rarity modifiers).  This can be handled with a simple roll on the Reaction Table (see Rolling the Dice) modified by the bartering character’s CHA Modifier and Persuasion (or other appropriate) skill.  Below are some suggestions on how to interpret the results:
+It is possible that your players may wish to haggle with local merchants over the cost of items (especially for those with quality or rarity modifiers).  This can be handled with a simple roll on the Reaction Table (see Rolling the Dice) modified by the bartering character’s **Charisma Modifier** and **Persuasion** (or other appropriate) skill.  Below are some suggestions on how to interpret the results:
 
 | Reaction Check Result | Effect |
 |:---|:---|
-| Hostile | The merchant is insulted and throws the character out of the shop.  If they have any influence in the community, they may consider blacklisting the character with other merchants. |
+| Hostile | The merchant is insulted and throws the character out of their shop.  If they have any influence in the community, they may consider blacklisting the character with other merchants. |
 | Unfriendly | The merchant not only refuses to haggle, but increases the price by (1d4+1)x10%. |
 | Neutral | The merchant is potentially willing to make a compromise deal, changing their price by (2d4-5)x5% [-15% to +15%] |
 | Indifferent | The merchant agrees to reduce their price by up to 30%. |
@@ -61,21 +61,21 @@ It is possible that your players may wish to haggle with local merchants over th
 If the characters have no intent to haggle, simply forego any haggling rolls and use the price as listed (modified by quality and rarity as normal).
 
 ## Weapons
-The weapon tables below are not meant to be exhaustive, but represent those most commonly found in a typical western-style fantasy campaign.  For more exotic weaponry from far off lands, it’s often easiest to simply find an equivalent entry on one of the below tables and modify it’s stats based on quality and rarity.  For example, a katana could be interpreted as a rare good-quality long sword (+1 to hit, x4 cost).
+The weapon tables below are not meant to be exhaustive, but represent those most commonly found in a typical western-style fantasy campaign.  For more exotic weaponry from far off lands, it’s often easiest to simply find an equivalent entry on one of the below tables and modify it’s stats based on quality and rarity.  For example, a katana could be interpreted as a rare good-quality arming sword (+1 to hit, x4 cost).
 
 Some weapons will appear on multiple tables.  This is because the tables are arranged by **Proficiency Group**.  This means that the weapon in question may be used by a character proficient with any Proficiency Group under which the weapon appears (for example a Mace may be wielded by anyone with the Clubbing or Hafted weapon proficiency groups).  This does not change the weapon's stats or use in any way.  Proficiency Groups are simply groupings of weapons that are either similar enough in use that they may be used in broadly similar fashion or are commonly taught together.
 
 ### Weapon Properties
 - **2H**: This weapon requires 2 hands to wield.
-- **Defensive**: Wielding this weapon with proficiency in melee grants the user +1 AC.
+- **Defensive**: Wielding this weapon with proficiency grants the user +1 AC in melee.
 - **Finesse**: When used in melee, this weapon may use either **Dexterity** or **Strength** for attack and damage bonuses.
 - **Flexible**: This weapon ignores the target's AC bonus from shields and weapons with the **Defensive** property.
-- **Hurlant**: This weapon may be thrown to a range of Near using either **Strength** or **Dexterity** for attack and damage bonuses.
-- **Impact**: On a **Critical Hit**, the garget must make a **Strength Check** (DT = damage taken) or suffer the effects of a **Shove Maneuver**.
+- **Hurlant**: This weapon may be thrown to a range of [Near](#ranges) using either **Strength** or **Dexterity** for attack and damage bonuses.
+- **Impact**: On a **Critical Hit**, the garget must make a **Strength Check** (difficulty = damage taken) or suffer the effects of a **Shove Maneuver**.
 - **Mounted**: This weapon requires 2-hands when used on foot, but only 1 hand when mounted. Additionally, it does double damage on a mounted **Charge Maneuver**.
 - **Reach**: This weapon can be used for melee attacks against targets out to 10ft and can be used from the 2nd rank.
-- **Reload**: This weapon must be reloaded after each use, requiring an Action.
-- **Snare**: A large or smaller creature hit by this weapon is **Restrained**. A restrained creature may spend an **Action** to attempt a **Dexterity Check** vs a DT equal to the Attack Roll total to escape.  Alternatively, a DT 15 **Strength Check** may be attempted to break the ensnaring weapon.
+- **Reload**: This weapon must be reloaded after each use, requiring an **Action**.
+- **Snare**: A large or smaller creature hit by this weapon is **Restrained**. A restrained creature may spend an **Action** to attempt a **Dexterity Check** vs a **Difficulty** equal to the Attack Roll total to escape.  Alternatively, a Difficulty 15 **Strength Check** may be attempted to break the ensnaring weapon.
 - **Versatile**: This weapon may be wielded with either 1 or 2 hands.  If 2 hands are used, roll damage with **Advantage**.  Small creatures using this weapon one-handed have **Disadvantage** on their **Attack Rolls**.  If they use 2 hands they do not roll damage with Advantage.
 
 ### Damage Types
@@ -91,10 +91,10 @@ If a weapon lists 2 or more damage types, the wielder must specify the damage ty
 - **(H)eavy**: Small creatures have **Disadvantage** when wielding weapons with this tag.
 
 ### Ranges
-- **(C)lose**: 5 feet - Weapons with a range of Far have **Disadvantage** at this range.
+- **(C)lose**: 5 feet - Weapons with a range of **Far** have **Disadvantage** at this range.
 - **(N)ear**: 30 feet - Attacks made from beyond Near range have **Disadvantage**.
 - **(F)ar**: 150 feet
-- **(S)ight**: Within Line of Sight (LoS).
+- **(S)ight**: Within Line of Sight (**LoS**).
 - **(D)istant**: Beyond perception.
 
 ### Melee Weapons
@@ -285,18 +285,18 @@ This is a list of common adventuring gear, much of which can be found in various
 | -Blowgun Needles (50)    |   2sp |  1 | |
 | -Crossbow Bolts (20)     |   2sp |  1 | |
 | -Sling Bullets (20)      |   2cp |  1 | |
-| Antitoxin (2 doses)       | 100sp |  1 | **Adv** on **CON Checks** to recover from poison. |
+| Antitoxin (2 doses)       | 100sp |  1 | **Adv** on **CON Checks** to recover from poison and increases **Defense** vs poison by +2. |
 | Backpack                  |   4sp |  * | Allows wearer to have **Stashed Items** |
 | Bedroll & Blanket         |   2sp |  1 | |
 | Book                      |  50sp |  1 | Grants **Adv** on **Lore** checks for one specific subject. |
-| Caltrops (1 bag)          |   2sp |  1 | Covers a 10ft area creating **Difficult Terrain** and does 1d4 piercing dmg on a failed **DEX Check** vs DT 10. |
+| Caltrops (1 bag)          |   2sp |  1 | Covers a 10ft area creating **Difficult Terrain** and does 1d4 piercing dmg on a failed **DEX Check** vs difficulty 10. |
 | Candles (5)               |   2cp |  1 | 5ft dim light for 1 hour each. |
 | Chest, Small              |  10sp |  2 | |
 | Chest, Large              | 100sp |  5 | |
 | Climber's Kit             |  50sp |  2 | Grants +2 on all climbing checks. |
 | Clothing                  |   2cp |  * |  |
 | Coins (100)               |   var |  1 |  |
-| Crowbar                   |  10sp |  1 | Grants +2 on STR Checks if leverage applies; counts as 1d6 dmg club at -1 to hit. |
+| Crowbar                   |  10sp |  1 | Grants +2 on STR Checks if leverage applies; counts as a 1d6 dmg club at -1 to hit. |
 | Disguise Kit              |  20sp |  1 | |
 | Flask / Bottle            |   4sp |  1 | Holds 1 qt of liquid |
 | Firestarting Kit          |   5cp |  1 | |
@@ -315,45 +315,47 @@ This is a list of common adventuring gear, much of which can be found in various
 | Iron Spikes / Pitons (10) |   1sp |  1 | |
 | Ladder (10ft)             |   2cp |  2 | |
 | Lantern                   |  10sp |  1 | 30ft bright light plus 30ft dim light for 1 **Watch**. |
-| Lock                      |  20sp |  @ | DT 13 to pick or DT 18 to break. |
+| Lock                      |  20sp |  @ | diff 13 to pick or diff 18 to break. |
 | Lockpicks                 |  25sp |  1 |  |
 | Locksmith's Kit           |  50sp |  1 | In addition to counting as lockpicks, can also be used to repair and construct locks. |
-| Manacles                  |   4sp |  1 | DT 13 to pick or DT 18 to break. |
+| Manacles                  |   4sp |  1 | diff 13 to pick or diff 18 to break. |
 | Mirror, Steel             |  10sp |  1 | |
 | Musical Instrument        |  20sp |  1 | |
 | Oil (flask)               |   2cp |  1 | Burns for 1 **Watch** in lamp / lantern.  Hurlant; 5ft splash; 1d6 fire dmg for 2d4(pool) rnds.
 | Paper (10 sheets)         |   4sp |  1 | |
 | Parchment (5 sheets)      |   1sp |  1 | |
-| Poison, basic (2 doses)   | 200sp |  1 | **Potency** 3. Victim takes 1d6 poison dmg and is **Poisoned** for 3d6(pool) rnds. |
+| Poison, basic (2 doses)   | 200sp |  1 | **Potency** +3. Victim takes 1d6 poison dmg and is **Poisoned** for 3d6(pool) rnds. |
 | Pole, 10ft                |   2cp |  1 | |
 | Quill (10)                |   4cp |  1 | |
 | Rations (1 day)           |   1sp |  1 | 1 day's food & water |
-| Rations (1 wk)            |   5sp |  3 |  |
+| Rations (1 wk)            |   5sp |  3 | **Bundle** of 7 days' rations. |
 | Rope, 50ft                |   2sp |  1 | |
-| Shovel                    |   4sp |  1 | 1d6 blunt at -1 to hit |
+| Shovel                    |   4sp |  1 | Counts as a great club doing 1d6 blunt dmg at -1 to hit. |
 | Signet Ring               |  10sp |  @ | |
-| Signet Ring (counterfeit) |   5sp |  @ | DT 15 **Perception** to spot. |
+| Signet Ring (counterfeit) |   5sp |  @ | Difficulty 15 **Perception** to spot. |
 | Spellbook                 | 100sp |  1 | 100 pages |
 | Spyglass                  | 200gp |  1 | x2 magnification |
 | Tent, 2 person            |   4sp |  4 |  |
-| Torch                     |   1cp |  1 | 20ft bright and 20ft dim light for 1 hour; 1d6 fire damage at -1 to hit. |
+| Torch                     |   1cp |  1 | 20ft bright and 20ft dim light for 1 hour; can be used as a club doing 1d6 fire damage at -1 to hit. |
 | Torch, bundle             |   3cp |  1 | 3 torches |
-| Vial                      |   2sp |  @ | Holds up to 1 up of liquid |
+| Vial                      |   2sp |  @ | Holds up to 1 cup of liquid |
 | Wood Carving Kit          |  10sp |  1 | small woodworking tools |
 
 <sub>
 * When worn, takes up 0 slots; when carried, takes up 1.<br/>
 # Only takes up slots in groups of 100 or more.<br/>
-@ Only takes up slots in groups of 10 or more.
+@ Only takes up slots in groups of 10 or more.<br/>
+**Spash** - Affects everyone within the given radius.
+**Potency** - See the rules for **Poisons** and **Toxins**.
 </sub>
 
 ### Equipment Packs
-For convenience the following equipment packs exist as pre-bundled packages at a discount in cost for buying in ‘bulk’.
+For convenience the following equipment packs exist as pre-build packages at a discount in cost for buying in ‘bulk’.
 
 | Pack | Cost | Contents | 
 |:-----|-----:|:---------|
 | Explorer's Pack |  50sp | backpack, practical clothes, heavy cloak, bedroll, mess kit, tinderbox, 10 torches, 1 week’s rations, 50ft rope, leather armor, one light weapon and one medium weapon. |
-| Mage's Pack     | 100sp | backpack, common robes, spellbook, many pouches, the components for a single rank 1 ritual, and a light weapon. |
+| Mage's Pack     | 100sp | backpack, common robes, spellbook, many pouches, the components for a single **Rank** 1 **ritual**, and a light weapon. |
 | Rogue's Pack    |  80sp | backpack, dark clothing, sack, 10 candles, crowbar, hammer, 10 pitons, hooded lantern, 2 flasks of oil, tinderbox, lockpicks, 50ft rope, leather armor, 1 light weapon and 1 medium weapon. |
 | Warrior's Pack  |  90sp | backpack, common clothing, tinderbox, tools for arms and armor maintenance, a light weapon and scale mail; plus either 2 weapons or a weapon and shield. |
 
@@ -362,9 +364,9 @@ While on an adventure, your character will still need food to eat and a place to
 
 | Item | Cost | Notes |
 |:-----|-----:|:------|
-| Inn Stay  | 1sp | 1 day; common quality counts toward a modest **Lifestyle**. |
-| Meals     | 1sp | 1 day; common quality counts toward a modest **Lifestyle**. |
-| *Drink*   |  -- | costs are per serving |
+| Inn Stay | 1sp | 1 day; common quality counts toward a modest [Lifestyle](#lifestyle-expenses). |
+| Meals    | 1sp | 1 day; common quality counts toward a modest [Lifestyle](#lifestyle-expenses). |
+| *Drink*  |  -- | costs are per serving |
 | -Ale     | 2cp | |
 | -Beer    | 1cp | |
 | -Mead    | 2sp | |
@@ -374,20 +376,20 @@ While on an adventure, your character will still need food to eat and a place to
 ### Lifestyle Expenses
 Between adventures your character needs to be able to rest and heal.  Doing so in style costs money.  The table below lists the daily price to maintain a particular lifestyle.  Each lifestyle rank, aside from **Modest**, can impact your character’s social interactions and how well they can rest and heal.
 
-A **Squalid** lifestyle basically means the character is homeless and penniless.  Others, even others living in squalid conditions, will look down on your filthy hygiene and ragged appearance.  As a result you have **Disadvantage** on any checks for social interaction.  Additionally, you must pass at DT 15 **Constitution Check** to recover any levels of **Exhaustion**.
+A **Squalid** lifestyle basically means the character is homeless and penniless.  Others, even others living in squalid conditions, will look down on your filthy hygiene and ragged appearance.  As a result you have **Disadvantage** on any checks for social interaction.  Additionally, you must pass at difficulty 15 **Constitution Check** to recover any levels of **Exhaustion**.
 
-A **Poor** lifestyle is one of labor and hardship as you struggle to keep food on the table and a roof over your head.  The hard work of this lifestyle means you need to pass a DT 10 **Constitution Check** to recover any levels of **Exhaustion**.
+A **Poor** lifestyle is one of labor and hardship as you struggle to keep food on the table and a roof over your head.  The hard work of this lifestyle means you need to pass a difficulty 10 **Constitution Check** to recover any levels of **Exhaustion**.
 
 A **Modest** lifestyle is that of the average commoner.  You have plenty of food and shelter, plus even some free time to enjoy yourself.  This lifestyle has no particular benefits, but no downsides either.
 
-A **Wealthy** lifestyle affords the finer foods and lodging, as well as the opportunity to attend and throw the occasional party.  The extra rest and comfort allows you to roll one extra Hit Die whenever you heal.
+A **Wealthy** lifestyle affords the finer foods and lodging, as well as the opportunity to attend or throw the occasional party.  The extra rest and comfort allows you to roll one extra **Hit Die** whenever you heal.
 
 With an **Aristocratic** lifestyle, you’re practically one of the nobility (even if not, in fact, a noble).  You are able to afford the best of everything and not only do you enjoy the same healing benefits as the **Wealthy**, others also look up to you.  Your finery and status grant you **Advantage** on any social interaction checks.
 
 | Lifestyle | Cost | Notes |
 |:----------|-----:|:------|
-| Squalid   |  0sp | **Disadvantage** on social checks.  Must pass a DT 15 **CON Check** to recover **Exhaustion**. |
-| Poor      |  2cp | Must pass a DT 10 **CON Check** to recover **Exhaustion**. |
+| Squalid   |  0sp | **Disadvantage** on social checks.  Must pass a diff 15 **CON Check** to recover **Exhaustion**. |
+| Poor      |  2cp | Must pass a diff 10 **CON Check** to recover **Exhaustion**. |
 | Modest    |  2sp | -- |
 | Wealthy   |  8sp | Roll +1 HD when healing. |
 | Aristocratic | 20sp | Roll +1 HD when healing.  **Advantage** on social checks. |
@@ -401,42 +403,46 @@ See the Hirelings and Allies rules for additional notes on the hiring process.
 
 | Service | Cost | Notes |
 |:--------|-----:|:------|
-| *Bribes*         |          |  |
-| -minor           |     10sp |  |
-| -moderate        |    100sp |  |
-| -major           |  1,000sp |  |
-| *Coach / Cab*    |          | In addition to the normal quality modifiers, modifiers for route danger and providing protective services may also apply. |
-| -Between Towns   |      3cp | per mile |
-| -Within Town     |      1cp | for large cities, the price is per district. |
-| *Crimes*         |          |  |
-| -minor           |     50sp |  |
-| -major           |  1,000sp |  |
-| -capital         | 25,000sp |  |
-| *Hirelings*      |          | price is per day |
-| -Advocate        |     10sp | Can plead with the law on a client's behalf. |
-| -Animal Handler  |      5sp |  |
-| -Barber          |     10sp | Basic medical services. |
-| -Herbalist       |      5sp | Additional material costs may apply. |
-| -Interpreter     |     10sp |  |
-| -Mercenary       |      2sp | equipped with spear, dagger and leather armor |
-| -Mercenary Sgt   |     10sp | Required per 10 mercenaries.  Equipped with spear, short sword, shield and ringmail. |
-| -Mercenary Cpt   |     50sp | Required per 100 mercenaries.  Equipped with arming sword, shield and chainmail. |
-| -Minstrel        |     2sp |  |
-| -Navigator       |     5sp |  |
-| -Sage            |   100sp | per question |
-| -Sailor          |     1sp |  |
-| -Scout / Guide   |    10sp |  |
-| -Scribe          |    10sp |  |
-| -Smith / Crafter |     5sp | Additional material costs may apply. |
-| -Unskilled Labor |     1sp |  |
-| Spellcasting     |     var |  50sp per cantrip, 100sp per spell, 100 * (ritual rank ^ 2)sp per ritual; plus material costs. |
+| *Bribes*           |          |  |
+| -minor             |     10sp |  |
+| -moderate          |    100sp |  |
+| -major             |  1,000sp |  |
+| *Coach / Cab*      |          | In addition to the normal quality modifiers, modifiers for route danger and providing protective services may also apply. |
+| -Between Towns     |      3cp | per mile |
+| -Within Town       |      1cp | for large cities, the price is per district. |
+| *Crimes*           |          |  |
+| -minor             |     50sp |  |
+| -major             |  1,000sp |  |
+| -capital           | 25,000sp |  |
+| *Hirelings*        |          | price is per day |
+| -Advocate          |     10sp | Can plead with the law on a client's behalf. |
+| -Animal Handler    |      5sp |  |
+| -Barber            |     10sp | Basic medical services. |
+| -Cook              |      2sp |  |
+| -Herbalist         |      5sp | Additional material costs may apply. |
+| -Interpreter       |     10sp |  |
+| -Mercenary         |      2sp | equipped with spear, dagger and leather armor |
+| -Mercenary Sgt     |     10sp | Required per 10 mercenaries.  Equipped with spear, short sword, shield and ringmail. |
+| -Mercenary Cpt     |     50sp | Required per 100 mercenaries.  Equipped with arming sword, shield and chainmail. |
+| -Minstrel          |     2sp |  |
+| -Navigator         |     5sp |  |
+| -Sage              |   100sp | per question |
+| -Sailor            |     1sp |  |
+| -Sailor, Navigator |     5sp |  |
+| -Sailor, 1st Mate  |     5sp | Required per 10 sailors. |
+| -Sailor, Cpt       |    25sp | Required per 100 sailors. |
+| -Scout / Guide     |    10sp |  |
+| -Scribe            |    10sp |  |
+| -Smith / Crafter   |     5sp | Additional material costs may apply. |
+| -Unskilled Labor   |     1sp |  |
+| Spellcasting       |     var |  50sp per cantrip, 100sp per spell, 100 * (ritual rank ^ 2)sp per ritual; plus material costs. |
 
 <sub>
 Costs may double for hazardous / wartime duty.  Even then, most hirelings are unwilling to venture into obviously suicidal situations (like venturing into dungeons or dragon lairs.)
 </sub>
 
 ### Mounts, Livestock and Transport
-Be it as a beast of burden, means of transportation or just some extra protection and companionship, a well-trained animal can be a valuable asset.  The speed given in the table below is the animal’s combat speed.  The carry value is the encumbrance value worth of gear an animal can carry.  A rider typically counts as 3 encumbrance for small creatures, 6 for medium and large creatures count as 10 encumbrance or more.  Also take into account the gear the rider is wearing and carrying.
+Be it as a beast of burden, means of transportation or just some extra protection and companionship, a well-trained animal can be a valuable asset.  The speed given in the table below is the animal’s combat speed.  The carry value is the encumbrance value worth of gear an animal can carry.  A rider typically counts as 3 encumbrance for small creatures, 6 for medium and 10 or more for large creatures.  Also take into account the gear the rider is wearing and carrying.
 
 Animals can typically drag/pull five times their carry if otherwise unburdened.
 
@@ -463,7 +469,7 @@ Once you have an animal companion, you way want to outfit it for your adventurin
 | -Large           |  x4.0 | x2.0 |  |
 | -Huge            |  x8.0 | x4.0 |  |
 | Bit & Bridle     |   4sp |    @ | **Disadvantage** on mount control checks without this. |
-| Feed (weekly)    |   3cp |   18 |  |
+| Feed (dialy)     |   1cp |    2 |  |
 | *Saddle*         |       |      | **Disadvantage** on riding checks without this. |
 | -Exotic          | 120sp |    8 | Required for aquatic or flying mounts. |
 | -Military        |  40sp |    6 | Grants **Advantage** on checks to remain mounted. |
@@ -477,7 +483,7 @@ Once you have an animal companion, you way want to outfit it for your adventurin
 </sub>
 
 ### Drawn Vehicles
-Sometimes you want to travel in style.  The prices below are to outright own a given vehicle.  The temporary loan of a vehicle is typically 10% of the cost per day, with ¼ to ½ the purchase cost as a down payment.
+Sometimes you want to travel in style.  The prices below are to outright own a given vehicle.  The temporary loan of a vehicle is typically 10% of the cost per day, with 1/4 to 1/2 the purchase cost as a down payment.
 
 Encumbrance is in **Slots** when the vehicle is being pulled and does not account for items in the vehicle.  A drawn vehicle's max capacity is equal to its own Encumbrance.
 
