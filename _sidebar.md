@@ -10,3 +10,4 @@
 	- [Rogue-Mage](Rogue-Mage.md)
 - [Skills](Skills.md)
 - [Traits](Traits.md)
+- [Encumbrance and Equipment](Encumbrance_and_Equipment.md)
