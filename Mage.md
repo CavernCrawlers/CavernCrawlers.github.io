@@ -28,31 +28,31 @@ Being sensitive to the world of magic, you may determine if a person, place or t
 As a magic-user possessing supernatural power, you have a **True Name**.  Those who know your True Name can use it against you.  By calling out your True Name, a creature gains **Advantage** on all actions taken against you, including attacks and you have **Disadvantage** on your **Invocation** checks to cast spells against them.
 
 ### Mage Table
-| Level | Attack<br/>Bonus | Magic<br/>Attack<br/>Bonus | Invocation<br/>Dice | Skills | Knacks | Traits |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  1 | +1 | +1 |  3d6 |  2 |  0 |  1 |
-|  2 | +1 | +2 |  4d6 | -- | -- | -- |
-|  4 | +2 | +4 |  6d6 | +1 | -- | -- |
-|  5 | +2 | +4 |  7d6 | -- | -- | +1 |
-|  6 | +3 | +5 |  8d6 | -- | -- | -- |
-|  7 | +3 | +6 |  9d6 | -- | -- | -- |
-|  8 | +4 | +7 | 10d6 | +1 | -- | -- |
-|  9 | +4 | +8 | 11d6 | -- | -- | +1 |
-| 10 | +4 | +8 | 12d6 | -- | -- | -- |
+| Level | Attack<br/>Bonus | Magic<br/>Attack<br/>Bonus | Invocation<br/>Dice | Skills | Knacks | Traits | Abilities |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+|  1 | +1 | +1 |  3d6 |  2 |  0 |  1 | Exhausting Magic, Magical Focus, Magic User, Sense Magic, True Name |
+|  2 | +1 | +2 |  4d6 | -- | -- | -- |  |
+|  4 | +2 | +4 |  6d6 | +1 | -- | -- |  |
+|  5 | +2 | +4 |  7d6 | -- | -- | +1 |  |
+|  6 | +3 | +5 |  8d6 | -- | -- | -- |  |
+|  7 | +3 | +6 |  9d6 | -- | -- | -- |  |
+|  8 | +4 | +7 | 10d6 | +1 | -- | -- |  |
+|  9 | +4 | +8 | 11d6 | -- | -- | +1 |  |
+| 10 | +4 | +8 | 12d6 | -- | -- | -- |  |
 
-### Mage Defenses & Abilities
-| Level | Evasion | Hardiness | Spirit | Abilities |
-|:-----:|:-------:|:---------:|:------:|:---|
-|   1   |    10   |     12    |   13   | Exhausting Magic, Magical Focus, Magic User, Sense Magic, True Name |
-|   2   |    11   |     13    |   14   |  |
-|   3   |    11   |     13    |   14   |  |
-|   4   |    12   |     14    |   15   |  |
-|   5   |    12   |     14    |   15   |  |
-|   6   |    13   |     15    |   16   |  |
-|   7   |    13   |     15    |   16   |  |
-|   8   |    14   |     16    |   17   |  |
-|   9   |    14   |     16    |   17   |  |
-|  10   |    15   |     17    |   18   |  |
+### Mage Defenses
+| Level | Evasion | Hardiness | Spirit |
+|:-----:|:-------:|:---------:|:------:|
+|   1   |    10   |     12    |   13   |
+|   2   |    11   |     13    |   14   |
+|   3   |    11   |     13    |   14   |
+|   4   |    12   |     14    |   15   |
+|   5   |    12   |     14    |   15   |
+|   6   |    13   |     15    |   16   |
+|   7   |    13   |     15    |   16   |
+|   8   |    14   |     16    |   17   |
+|   9   |    14   |     16    |   17   |
+|  10   |    15   |     17    |   18   |
 
 ### Sample Mage Builds
 - **Menacing Sorcerer** 

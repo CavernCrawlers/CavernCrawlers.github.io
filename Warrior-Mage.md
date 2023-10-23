@@ -33,32 +33,32 @@ Being naturally sensitive to the world of magic, you may determine if a person, 
 As a magic-user possessing supernatural power, you have a **True Name**.  Those who know your True Name can use it against you.  By calling out your True Name, a creature gains **Advantage** on all actions taken against you, including attacks and you have **Disadvantage** on your **Invocation** checks to cast spells against them.
 
 ### Warrior-Mage Table
-| Level | Caster<br/>Level | Attack<br/>Bonus | Magic<br/>Attack<br/>Bonus | Invocation<br/>Dice | Skills | Knacks | Traits |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  1 | 1 | +1 | +1 | 3d6 |  2 |  1 |  1 |
-|  2 | 1 | +2 | +1 | 3d6 | -- | -- | -- |
-|  3 | 2 | +3 | +2 | 4d6 | -- | +1 | -- |
-|  4 | 3 | +4 | +3 | 5d6 | +1 | -- | -- |
-|  5 | 4 | +4 | +4 | 6d6 | -- | -- | +1 |
-|  6 | 4 | +5 | +4 | 6d6 | -- | -- | -- |
-|  7 | 5 | +6 | +4 | 7d6 | -- | -- | -- |
-|  8 | 6 | +7 | +5 | 8d6 | +1 | +1 | -- |
-|  9 | 6 | +8 | +5 | 8d6 | -- | -- | +1 |
-| 10 | 7 | +8 | +6 | 9d6 | -- | -- | -- |
+| Level | Caster<br/>Level | Attack<br/>Bonus | Magic<br/>Attack<br/>Bonus | Invocation<br/>Dice | Skills | Knacks | Traits | Abilities |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+|  1 | 1 | +1 | +1 | 3d6 |  2 |  1 |  1 | Exhausting Magic, Magical Focus, Magic User, Sense Magic, True Name |
+|  2 | 1 | +2 | +1 | 3d6 | -- | -- | -- |  |
+|  3 | 2 | +3 | +2 | 4d6 | -- | +1 | -- |  |
+|  4 | 3 | +4 | +3 | 5d6 | +1 | -- | -- |  |
+|  5 | 4 | +4 | +4 | 6d6 | -- | -- | +1 |  |
+|  6 | 4 | +5 | +4 | 6d6 | -- | -- | -- |  |
+|  7 | 5 | +6 | +4 | 7d6 | -- | -- | -- |  |
+|  8 | 6 | +7 | +5 | 8d6 | +1 | +1 | -- |  |
+|  9 | 6 | +8 | +5 | 8d6 | -- | -- | +1 |  |
+| 10 | 7 | +8 | +6 | 9d6 | -- | -- | -- |  |
 
 ### Warrior-Mage Defenses & Abilities
-| Level | Evasion | Hardiness | Spirit | Abilities |
-|:-----:|:-------:|:---------:|:------:|:---|
-|   1   |    11   |     12    |   11   | Exhausting Magic, Magical Focus, Magic User, Sense Magic, True Name |
-|   2   |    12   |     13    |   12   |  |
-|   3   |    12   |     13    |   12   |  |
-|   4   |    13   |     14    |   13   |  |
-|   5   |    13   |     14    |   13   |  |
-|   6   |    14   |     15    |   14   |  |
-|   7   |    14   |     15    |   14   |  |
-|   8   |    15   |     16    |   15   |  |
-|   9   |    15   |     16    |   15   |  |
-|  10   |    16   |     17    |   16   |  |
+| Level | Evasion | Hardiness | Spirit |
+|:-----:|:-------:|:---------:|:------:|
+|   1   |    11   |     12    |   11   |
+|   2   |    12   |     13    |   12   |
+|   3   |    12   |     13    |   12   |
+|   4   |    13   |     14    |   13   |
+|   5   |    13   |     14    |   13   |
+|   6   |    14   |     15    |   14   |
+|   7   |    14   |     15    |   14   |
+|   8   |    15   |     16    |   15   |
+|   9   |    15   |     16    |   15   |
+|  10   |    16   |     17    |   16   |
 
 ## Warrior-Mage Knacks
 

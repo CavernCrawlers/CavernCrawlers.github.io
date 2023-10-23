@@ -34,32 +34,32 @@ Being naturally sensitive to the world of magic, you may determine if a person, 
 As a magic-user possessing supernatural power, you have a **True Name**.  Those who know your True Name can use it against you.  By calling out your True Name, a creature gains **Advantage** on all actions taken against you, including attacks and you have **Disadvantage** on your **Invocation** checks to cast spells against them.
 
 ### Rogue-Mage Table
-| Level | Caster<br/>Level | Attack<br/>Bonus | Magic<br/>Attack<br/>Bonus<br/> | Invocation<br/>Dice | Skills | Knacks | Traits |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|  1 | 1 | +1 | +1 | 3d6 |  3 |  1 |  0 |
-|  2 | 1 | +2 | +1 | 3d6 | -- | -- | -- |
-|  3 | 2 | +2 | +2 | 4d6 | +1 | +1 | -- |
-|  4 | 3 | +3 | +3 | 5d6 | -- | -- | -- |
-|  5 | 4 | +3 | +4 | 6d6 | -- | -- | +1 |
-|  6 | 4 | +4 | +4 | 6d6 | +1 | -- | -- |
-|  7 | 5 | +5 | +4 | 7d6 | -- | -- | -- |
-|  8 | 6 | +5 | +5 | 8d6 | -- | +1 | -- |
-|  9 | 6 | +6 | +5 | 8d6 | +1 | -- | +1 |
-| 10 | 7 | +6 | +6 | 9d6 | -- | -- | -- |
+| Level | Caster<br/>Level | Attack<br/>Bonus | Magic<br/>Attack<br/>Bonus<br/> | Invocation<br/>Dice | Skills | Knacks | Traits | Abilities |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
+|  1 | 1 | +1 | +1 | 3d6 |  3 |  1 |  0 |Exhausting Magic, Highly Skilled, Magical Focus, Sense Magic, Spellcasting, True Name |
+|  2 | 1 | +2 | +1 | 3d6 | -- | -- | -- |  |
+|  3 | 2 | +2 | +2 | 4d6 | +1 | +1 | -- |  |
+|  4 | 3 | +3 | +3 | 5d6 | -- | -- | -- |  |
+|  5 | 4 | +3 | +4 | 6d6 | -- | -- | +1 |  |
+|  6 | 4 | +4 | +4 | 6d6 | +1 | -- | -- |  |
+|  7 | 5 | +5 | +4 | 7d6 | -- | -- | -- |  |
+|  8 | 6 | +5 | +5 | 8d6 | -- | +1 | -- |  |
+|  9 | 6 | +6 | +5 | 8d6 | +1 | -- | +1 |  |
+| 10 | 7 | +6 | +6 | 9d6 | -- | -- | -- |  |
 
 ### Rogue-Mage Defenses & Abilities
-| Level | Evasion | Hardiness | Spirit | Abilities |
-|:-----:|:-------:|:---------:|:------:|:---|
-|   1   |    11   |     11    |   12   |Exhausting Magic, Highly Skilled, Magical Focus, Sense Magic, Spellcasting, True Name |
-|   2   |    12   |     12    |   13   |  |
-|   3   |    12   |     12    |   13   |  |
-|   4   |    13   |     13    |   14   |  |
-|   5   |    13   |     13    |   14   |  |
-|   6   |    14   |     14    |   15   |  |
-|   7   |    14   |     14    |   15   |  |
-|   8   |    15   |     15    |   16   |  |
-|   9   |    15   |     15    |   16   |  |
-|  10   |    16   |     16    |   17   |  |
+| Level | Evasion | Hardiness | Spirit |
+|:-----:|:-------:|:---------:|:------:|
+|   1   |    11   |     11    |   12   |
+|   2   |    12   |     12    |   13   |
+|   3   |    12   |     12    |   13   |
+|   4   |    13   |     13    |   14   |
+|   5   |    13   |     13    |   14   |
+|   6   |    14   |     14    |   15   |
+|   7   |    14   |     14    |   15   |
+|   8   |    15   |     15    |   16   |
+|   9   |    15   |     15    |   16   |
+|  10   |    16   |     16    |   17   |
 
 ## Rogue-Mage Knacks
 
