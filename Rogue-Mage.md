@@ -47,7 +47,7 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 |  9 | 6 | +6 | +5 | 8d6 | +1 | -- | +1 |  |
 | 10 | 7 | +6 | +6 | 9d6 | -- | -- | -- |  |
 
-### Rogue-Mage Defenses & Abilities
+### Rogue-Mage Defenses
 | Level | Evasion | Hardiness | Spirit |
 |:-----:|:-------:|:---------:|:------:|
 |   1   |    11   |     11    |   12   |
