@@ -1,5 +1,5 @@
 - [Home](/)
-- [Core Rules](CoreRules.md)
+- [Rules Synopsis](RulesSynopsis.md)
 - [Character Creation](CharacterCreation.md)
 - Classes
 	- [Warrior](Warrior.md)
