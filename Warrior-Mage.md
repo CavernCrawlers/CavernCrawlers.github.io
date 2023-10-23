@@ -46,7 +46,7 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 |  9 | 6 | +8 | +5 | 8d6 | -- | -- | +1 |  |
 | 10 | 7 | +8 | +6 | 9d6 | -- | -- | -- |  |
 
-### Warrior-Mage Defenses & Abilities
+### Warrior-Mage Defenses
 | Level | Evasion | Hardiness | Spirit |
 |:-----:|:-------:|:---------:|:------:|
 |   1   |    11   |     12    |   11   |
