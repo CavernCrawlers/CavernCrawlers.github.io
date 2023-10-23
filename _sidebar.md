@@ -11,3 +11,4 @@
 - [Skills](Skills.md)
 - [Traits](Traits.md)
 - [Encumbrance and Equipment](Encumbrance_and_Equipment.md)
+- [Hirelings and Allies](Hirelings_and_Allies.md)
