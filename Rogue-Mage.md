@@ -12,14 +12,17 @@
 
 ## Class Abilities
 
+### Caster Level
+This value is used to determine your character’s number of **Invocation Dice**, the maximum rank of ritual they may cast and the limits on how much they may increase a Spell's difficulty.
+
 ### Exhausting Magic
-If you fail an **Invocation** check, you may increase the check total by +3 per level of **Exhaustion** gained.
+You may recover expended **Invocation Dice** gaining 1 level of **Exhaustion** per die after completing 10 minutes of meditation.
 
 ### Highly Skilled
 Rogue-Mages receive 3 skills at first level instead of 2.  They gain an additional skill at level 3 and every 3 levels thereafter.  Instead of gaining a new skill, they may get better at one which they already have, increasing the bonus for that skill to +6.
 
 ### Magical Focus
-As part of your apprenticeship, you created a unique magical focus to aid in your spellcasting.  This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held.  If you attempt to cast a spell without your focus in hand, you do so with **Disadvantage** on the **Invocation** roll.  A focus may be replaced by constructing a new one which takes 1 week in a **Safe Haven** and 50sp worth of materials.
+As part of your apprenticeship, you created a unique magical focus to aid in your spellcasting.  This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held.  So long as you have your Magical Focus, your **Invocation Dice** are only removed on rolls of 1, rather than 1 or 2.  A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 50sp worth of materials.
 
 ### Magic User
 You can harness the power of magic with **Cantrips**, **Spells** or **Rituals** (collectively known as **Magical Arts**).  As a partial caster, you can cast cantrips and one other of magical art (spells or rituals).  A rogue-mage begins their career knowing two cantrips and either two spells or a single ritual.  You will need to select a **Magical Tradition** from which your magical arts will be drawn.
@@ -31,32 +34,32 @@ Being naturally sensitive to the world of magic, you may determine if a person, 
 As a magic-user possessing supernatural power, you have a **True Name**.  Those who know your True Name can use it against you.  By calling out your True Name, a creature gains **Advantage** on all actions taken against you, including attacks and you have **Disadvantage** on your **Invocation** checks to cast spells against them.
 
 ### Rogue-Mage Table
-| Level | Attack<br/>Bonus | Caster<br/>Level | Skills | Knacks | Traits | Abilities |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---|
-|  1 | +1 | 1 |  3 |  1 |  0 | Exhausting Magic, Highly Skilled, Magical Focus, Rituals (rank 1) Sense Magic, Spellcasting, True Name |
-|  2 | +2 | 1 | -- | -- | -- |  |
-|  3 | +2 | 2 | +1 | +1 | -- |  |
-|  4 | +3 | 3 | -- | -- | -- | Rituals (rank 2) |
-|  5 | +3 | 4 | -- | -- | +1 |  |
-|  6 | +4 | 4 | +1 | -- | -- |  |
-|  7 | +4 | 5 | -- | -- | -- | Rituals (rank 3) |
-|  8 | +5 | 6 | -- | +1 | -- |  |
-|  9 | +5 | 5 | +1 | -- | +1 |  |
-| 10 | +5 | 7 | -- | -- | -- | Rituals (rank 4) |
+| Level | Caster<br/>Level | Attack<br/>Bonus | Magic<br/>Attack<br/>Bonus<br/> | Invocation<br/>Dice | Skills | Knacks | Traits |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  1 | 1 | +1 | +1 | 3d6 |  3 |  1 |  0 |
+|  2 | 1 | +2 | +1 | 3d6 | -- | -- | -- |
+|  3 | 2 | +2 | +2 | 4d6 | +1 | +1 | -- |
+|  4 | 3 | +3 | +3 | 5d6 | -- | -- | -- |
+|  5 | 4 | +3 | +4 | 6d6 | -- | -- | +1 |
+|  6 | 4 | +4 | +4 | 6d6 | +1 | -- | -- |
+|  7 | 5 | +5 | +4 | 7d6 | -- | -- | -- |
+|  8 | 6 | +5 | +5 | 8d6 | -- | +1 | -- |
+|  9 | 6 | +6 | +5 | 8d6 | +1 | -- | +1 |
+| 10 | 7 | +6 | +6 | 9d6 | -- | -- | -- |
 
-### Rogue-Mage Defenses
-| Level | Evasion | Hardiness | Spirit |
-|:-----:|:-------:|:---------:|:------:|
-|   1   |    11   |     11    |   12   |
-|   2   |    12   |     12    |   13   |
-|   3   |    12   |     12    |   13   |
-|   4   |    13   |     13    |   14   |
-|   5   |    13   |     13    |   14   |
-|   6   |    14   |     14    |   15   |
-|   7   |    14   |     14    |   15   |
-|   8   |    15   |     15    |   16   |
-|   9   |    15   |     15    |   16   |
-|  10   |    16   |     16    |   17   |
+### Rogue-Mage Defenses & Abilities
+| Level | Evasion | Hardiness | Spirit | Abilities |
+|:-----:|:-------:|:---------:|:------:|:---|
+|   1   |    11   |     11    |   12   |Exhausting Magic, Highly Skilled, Magical Focus, Sense Magic, Spellcasting, True Name |
+|   2   |    12   |     12    |   13   |  |
+|   3   |    12   |     12    |   13   |  |
+|   4   |    13   |     13    |   14   |  |
+|   5   |    13   |     13    |   14   |  |
+|   6   |    14   |     14    |   15   |  |
+|   7   |    14   |     14    |   15   |  |
+|   8   |    15   |     15    |   16   |  |
+|   9   |    15   |     15    |   16   |  |
+|  10   |    16   |     16    |   17   |  |
 
 ## Rogue-Mage Knacks
 

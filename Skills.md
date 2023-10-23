@@ -13,8 +13,6 @@ The following list contains skills that are deliberately broad to reflect the ki
 
 **Intimidation** – This skill is used in influencing people through threats and violence.
 
-**Invocation** – This is a skill that is unique to spellcasters and follows its own rules.  See [The Sorcerous Arts](TheSorcerousArts.md) for further information.
-
 **Lore (subject)** – There is no single Lore skill.  Instead, when learning this skill, a broad category of learning is selected (such as magic, history, religion, alchemy, etc).
 
 **Perception** – This skill represents training in searching, observing and other forms of detection.

@@ -12,14 +12,19 @@
 
 ## Class Abilities
 
+### Caster Level
+This value is used to determine your character’s number of **Invocation Dice**, the maximum rank of ritual they may cast and the limits on how much they may increase a Spell's difficulty.
+
 ### Exhausting Magic
-If you fail an **Invocation** check, you may increase the check total by +3 per level of **Exhaustion** gained.
+You may recover expended **Invocation Dice** gaining 1 level of **Exhaustion** per die after completing 10 minutes of meditation.
 
 ### Magical Focus
-As part of your apprenticeship, you created a unique magical focus to aid in your spellcasting.  This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held.  If you attempt to cast a spell without your focus in hand, you do so with **Disadvantage** on the **Invocation** roll.  A focus may be replaced by constructing a new one which takes 1 week in a **Safe Haven** and 50sp worth of materials.
+As part of your apprenticeship, you created a unique magical focus to aid in your spellcasting.  This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held.  So long as you have your Magical Focus, your **Invocation Dice** are only removed on rolls of 1, rather than 1 or 2.  A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 50sp worth of materials.
 
 ### Magic User
 You can harness the power of magic with **Cantrips**, **Spells** or **Rituals** (collectively known as **Magical Arts**).  As a partial caster, you can cast cantrips and one other of magical art (spells or rituals).  A warrior-mage begins their career knowing two cantrips and either two spells or a single ritual.  You will need to select a **Magical Tradition** from which your magical arts will be drawn.
+
+The **Attack Bonus** column of the **Mage Table** shows 2 values.  The value before the slash is for normal attacks.  The value after the slash is used when making Magical attacks.
 
 ### Sense Magic
 Being naturally sensitive to the world of magic, you may determine if a person, place or thing is magical with a **Perception** check.  Doing so requires concentration and a few minutes; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a mage is staring at them.  You can also attempt to decipher magical writing with an **Intelligence** check.
@@ -28,32 +33,32 @@ Being naturally sensitive to the world of magic, you may determine if a person, 
 As a magic-user possessing supernatural power, you have a **True Name**.  Those who know your True Name can use it against you.  By calling out your True Name, a creature gains **Advantage** on all actions taken against you, including attacks and you have **Disadvantage** on your **Invocation** checks to cast spells against them.
 
 ### Warrior-Mage Table
-| Level | Attack<br/>Bonus | Caster<br/>Level | Skills | Knacks | Traits | Abilities |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---|
-|  1 | +1 | 1 |  2 |  1 |  1 | Exhausting Magic, Magical Focus, Rituals (rank 1), Sense Magic, Spellcasting, True Name |
-|  2 | +2 | 1 | -- | -- | -- |  |
-|  3 | +3 | 2 | -- | +1 | -- |  |
-|  4 | +3 | 3 | +1 | -- | -- | Ritual (rank 2) |
-|  5 | +3 | 4 | -- | -- | +1 |  |
-|  6 | +4 | 4 | -- | -- | -- |  |
-|  7 | +5 | 5 | -- | -- | -- | Ritual (rank 3) |
-|  8 | +6 | 6 | +1 | +1 | -- |  |
-|  9 | +6 | 6 | -- | -- | +1 |  |
-| 10 | +6 | 7 | -- | -- | -- | Ritual (rank 4) |
+| Level | Caster<br/>Level | Attack<br/>Bonus | Magic<br/>Attack<br/>Bonus | Invocation<br/>Dice | Skills | Knacks | Traits |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|  1 | 1 | +1 | +1 | 3d6 |  2 |  1 |  1 |
+|  2 | 1 | +2 | +1 | 3d6 | -- | -- | -- |
+|  3 | 2 | +3 | +2 | 4d6 | -- | +1 | -- |
+|  4 | 3 | +4 | +3 | 5d6 | +1 | -- | -- |
+|  5 | 4 | +4 | +4 | 6d6 | -- | -- | +1 |
+|  6 | 4 | +5 | +4 | 6d6 | -- | -- | -- |
+|  7 | 5 | +6 | +4 | 7d6 | -- | -- | -- |
+|  8 | 6 | +7 | +5 | 8d6 | +1 | +1 | -- |
+|  9 | 6 | +8 | +5 | 8d6 | -- | -- | +1 |
+| 10 | 7 | +8 | +6 | 9d6 | -- | -- | -- |
 
-### Warrior-Mage Defenses
-| Level | Evasion | Hardiness | Spirit |
-|:-----:|:-------:|:---------:|:------:|
-|   1   |    11   |     12    |   11   |
-|   2   |    12   |     13    |   12   |
-|   3   |    12   |     13    |   12   |
-|   4   |    13   |     14    |   13   |
-|   5   |    13   |     14    |   13   |
-|   6   |    14   |     15    |   14   |
-|   7   |    14   |     15    |   14   |
-|   8   |    15   |     16    |   15   |
-|   9   |    15   |     16    |   15   |
-|  10   |    16   |     17    |   16   |
+### Warrior-Mage Defenses & Abilities
+| Level | Evasion | Hardiness | Spirit | Abilities |
+|:-----:|:-------:|:---------:|:------:|:---|
+|   1   |    11   |     12    |   11   | Exhausting Magic, Magical Focus, Magic User, Sense Magic, True Name |
+|   2   |    12   |     13    |   12   |  |
+|   3   |    12   |     13    |   12   |  |
+|   4   |    13   |     14    |   13   |  |
+|   5   |    13   |     14    |   13   |  |
+|   6   |    14   |     15    |   14   |  |
+|   7   |    14   |     15    |   14   |  |
+|   8   |    15   |     16    |   15   |  |
+|   9   |    15   |     16    |   15   |  |
+|  10   |    16   |     17    |   16   |  |
 
 ## Warrior-Mage Knacks
 

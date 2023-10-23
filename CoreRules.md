@@ -1,5 +1,5 @@
 ## D20 Checks
-D20 checks lie at the heart of the system.  Any time a character attempts an action with a risk and a chance of failure, a **D20 Check** is made.  There are four basic types of **D20 Check**.
+D20 checks lie at the heart of the system.  Any time a character attempts an action with a risk and a chance of failure, a **D20 Check** is made.  There are three basic types of **D20 Check**.
 
 ### Ability Check
 This is the most basic form.  The player simply rolls 1d20 and adds the appropriate **Ability Modifier** and compares the total to the **Difficulty Target** set by the GM.
@@ -19,11 +19,6 @@ This is the same as an Ability Check except that the most appropriate **Skill Mo
 Whether swinging a sword, firing an arrow or simply punching someone in the face, an attack roll is required for the attacker to do damage to the target.  An **Attack Roll** consists of the player rolling 1d20 plus the character's **Base Attack Bonus** plus either the character's **Strength** or **Dexterity** modifier (depending on the type of attack).  This must equal or exceed the target's **Armor Class** to be successful.
 
 &emsp;1d20 + Base Attack Bonus + [Strength or Dexterity] Modifier >= Armor Class
-
-### Invocation Roll
-Anytime a character attempts to cast a spell, they must make an Invocation roll.  Each individual spell will have an ability associated with it (**Intelligence**, **Wisdom** or **Charisma**).  This is the **Ability Modifier** that will be used in conjunction with the caster's **Invocation Bonus**.  The invocation roll then gets compared toboth the spell's **Difficulty Target** and the target creatures appropriate defense.
-
-&emsp;1d20 + Invocation Bonus + [Intelligence, Wisdom or Charisma] Modifier >= Spell Difficulty &amp; Target Defense.
 
 ### Difficulty Targets
 Any given **D20 Check** will be compared to a Difficulty Target.  For attacks, this is typically the target's **Armor Class**.  For spell's, it may be the target's **Armor Class**, or one of the other **Defensive Scores** (**Evasion**, **Hardiness** and **Spirit**).  For other **D20 Checks** (**Ability Checks** and **Skilled Checks**), this will be a value determined by the GM based on how difficult the task is.
@@ -47,9 +42,9 @@ Occasionally, the rules will reference a “Natural Roll”.  This is the die fa
 It is not uncommon in d20 based systems to apply an 'automatic success' and 'automatic failure' rule for **Natural Rolls** of 20 and 1 (respectively).  This system does not do that.
 
 ### Critical Results
-Only **Invocation Rolls** have a chance of **Critical Failure**, which is defined as both failing your invocation roll while rolling a natural 1.
+There is no Critical Failure rule in this system.
 
-Only **Attack Rolls** and **Invocation Rolls** have a chance of **Critical Success**, which is defined as rolling a natural 20 and exceeding (not meeting) the target **Armor Class** or **Spell Difficulty**.
+Only **Attack Rolls** and **Magical Attack Rolls** have a chance of **Critical Success**, which is defined as rolling a natural 20 and exceeding (not meeting) the targets **Defense**.
 
 ### Advantage and Disadvantage.
 **Advantage**: When performing a check, roll 2d20 and take the highest.
@@ -60,8 +55,6 @@ If a check has both **Advantage** and **Disadvantage** count up the number of ea
 
 ### Sacrificing for Success
 If a roll is failed, a player may choose to have their character make a sacrifice to succeed.  The severity of the sacrifice will determine the bonus to the check.
-
-**Mages** have a special case of this for their **Invocation Rolls** described under the Mage class.
 
 ### Repeated Attempts
 Under normal circumstances, a **D20 Check** may only be attempted a single time, unless  the circumstances are somehow changed enough to grant the character a bonus on the check, or a character has a special ability (such as **Fortune Points**) allowing a retry.

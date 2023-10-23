@@ -134,30 +134,30 @@ Most of these **Traits** are only available to characters who possess the abilit
 This character casts **Rituals** in ways different from other mages. The player may pick two Rituals and change which **Ability Score** is associated with **Checks** for casting those Rituals. The player may choose **Intelligence**, **Wisdom**, or **Charisma** for their **Invocation Checks**, and need not necessarily choose the same Ability Score for each ritual. The player is not required to pick both Rituals when this trait is gained, and may instead “hold” some of his picks for later Rituals.  This trait may be taken multiple times, applying to different Rituals each time.
 
 ### Potent Magic
-The character’s magic is particularly potent. Increase the **Invocation Check** result of any magic they cast by 2 for the purposes of overcoming the target's **Defenses**.
+The caster picks two **Magical Arts** that she already knows.  When making a **Magical Attack Roll** with one of these Magical Arts, she adds +2 to the roll.  This trait may be taken multiple times, applying to different Magical Arts each time.
 
 ### Practiced Ritual
-The mage has practiced and memorized a single ritual so many times, they may cast it without need of their spellbook or a scroll.  They still require all other ritual ingredients.  This trait may be taken multiple times, each time applying to a different ritual.
+The mage has practiced and memorized a single ritual so many times, he may cast it without need of his spellbook or a scroll.  He still requires all other ritual ingredients.  This trait may be taken multiple times, each time applying to a different ritual.
 
 ### Skilled Caster
-After a great deal of practice, this character has mastered a particular type of magic. Choose two cantrips, rituals or spells known by the character; this mage gains +2 on all **Invocation Checks** for the magic in question.  This trait may be taken multiple times, applying to different cantrips, rituals or spells each time.
+After a great deal of practice, this character has mastered a particular type of magic. Choose two **Magical Arts** known by the character; she gains +2 on all **Invocation Checks** for the Arts in question.  This trait may be taken multiple times, applying to different Magical Arts each time.
 
 ### Supreme Concentration
-You may **Concentrate** on 2 **Magical Arts** at the same time.  If an event will potentially break your Concentration, you must make a Concentration Check for each art.
+This mage may **Concentrate** on 2 **Magical Arts** at the same time.  If an event will potentially break his Concentration, he must make a Concentration Check for each art.
 
 ### Touched by Magic
-Some have a wild, untrained gift for the **Magic Arts**; others learn just a bit and then do not continue their studies. This character can cast a single **Cantrip**, **Spell**, or rank one **Ritual**.  Any Magical Art gained this way may be cast once per day. Any Magical Art cast using this trait is always cast at its base level.  
+Some have a wild, untrained gift for the **Magic Arts**; others learn just a bit and then do not continue their studies. This character can cast a single **Cantrip**, **Spell**, or rank one **Ritual**.  She has 2 **Invocation Dice** with which to invoke this one Magical Art. Any Magical Art cast using this trait is always cast at its base level.  
 
-This **Trait** does nothing for a mage, though it may be helpful to a multiclass mage.  This trait may be taken multiple times to learn additional magic.
+This **Trait** does nothing for a mage, though it may be helpful to a multiclass mage.  This trait may be taken multiple times to learn additional magic but no additional Invocation Dice are gained.
 
 ### War Wizard
-Through martial training and practice, this mage has learned how best to harness the destructive powers of magic. The character may add their Ability Modifier to the damage of any **Magical Art** they cast.  The Ability Modifier used is the one named by the Magical Art itself.
+Through martial training and practice, this mage has learned how best to harness the destructive powers of magic. He may add his Ability Modifier to the damage of any **Magical Art** he casts.  The Ability Modifier used is the one named by the Magical Art itself.
 
 ### Well of Power
-This mage may spend a **Fortune Point** to regain a number of lost spells equal to her **Caster Level** upon completing a **Short Rest**.
+This mage may spend a **Fortune Point** to regain a number of lost Invocation Dice equal to the highest of her **Intelligence**, **Wisdom** or **Charisma** modifiers upon completing a **Short Rest**.
 
 ### With But a Wave
-This mage no longer requires their spellcasting focus and does not gain **Disadvantage** when casting without one.  They still require a hand to be free to make the appropriate gestures.
+Even without a **Magical Focus**, this mage only loses **Invocation Dice** that come up a '1'.
 
 ## Supernatural Traits
 
