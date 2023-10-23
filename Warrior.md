@@ -11,14 +11,15 @@
 - 4d6sp
 
 ## Class Abilities
+
+### Damage Bonus
+Warriors are experts at dealing damage.  This bonus is added to the damage of all attacks they make.
+
 ### Hauler
 You add your **Constitution Modifier** (if positive) to your **Strength Score** for determining your **Encumbrance** limits.
 
 ### Mighty Deed
 Once per turn, when you make a melee attack, you may declare a Mighty Deed.  Describe the special effect you wish to add to your attack (such as disarming an opponent, tripping them, pushing them back, etc).  If the attack hits, and the die face is equal to or greater than your Mighty Deed target number, the Mighty Deed succeeds.  Note that the Mighty Deed cannot add to the damage of the attack and the target's **Defenses** may apply.
-
-### Minimum Damage 
-The amount listed as your **Damage Bonus** is not just the damage you add on weapon attacks.  This value is also the minimum amount of damage you will do on a missed attack, assuming the target’s AC is not higher than the listed AC.  *For example, a 6th level warrior will do 3 damage on a missed attack so long as the target’s AC is 13 or less.  Your normal damage modifiers also apply to this damage.*
 
 ### Weapon Specialization
 All warriors have weapons they favor and with which they are particularly skilled.  Pick a weapon at first level.  Your character receives a +1 to hit and +2 damage bonus while wielding this weapon.  You begin play with this weapon for free.
@@ -26,16 +27,16 @@ All warriors have weapons they favor and with which they are particularly skille
 ### Warrior Table
 | Level | Attack<br/>Bonus | Damage<br/>Bonus | Skills | Knacks | Traits | Abilities |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---|
-|  1 | +1 | +1 / 10AC | 2  |  1 |  1 | Hauler, Mighty Deed 14+, Weapon Specialization |
-|  2 | +2 | +1 / 10AC | -- | -- | -- | Mighty Deed 12+ |
-|  3 | +3 | +2 / 11AC | -- | +1 | -- |  |
-|  4 | +4 | +2 / 12AC | +1 | -- | -- | Mighty Deed 11+ |
-|  5 | +4 | +3 / 12AC | -- | -- | +1 |  |
-|  6 | +5 | +3 / 13AC | -- | -- | -- | Mighty Deed 10+ |
-|  7 | +6 | +4 / 14AC | -- | +1 | -- |  |
-|  8 | +7 | +4 / 15AC | +1 | -- | -- | Mighty Deed 9+ |
-|  9 | +8 | +5 / 16AC | -- | -- | +1 |  |
-| 10 | +8 | +5 / 16AC | -- | -- | -- | Mighty Deed 8+ |
+|  1  |  +1 | +1  |  2  |   1 |   1 | Hauler, Mighty Deed 14+, Weapon Specialization |
+|  2  |  +2 | +2  | --  |  -- |  -- | Mighty Deed 12+ |
+|  3  |  +3 | +3  | --  |  +1 |  -- |  |
+|  4  |  +4 | +4  | +1  |  -- |  -- | Mighty Deed 11+ |
+|  5  |  +4 | +4  | --  |  -- |  +1 |  |
+|  6  |  +5 | +5  | --  |  -- |  -- | Mighty Deed 10+ |
+|  7  |  +6 | +6  | --  |  +1 |  -- |  |
+|  8  |  +7 | +7  | +1  |  -- |  -- | Mighty Deed 9+ |
+|  9  |  +8 | +8  | --  |  -- |  +1 |  |
+| 10  |  +8 | +8  | --  |  -- |  -- | Mighty Deed 8+ |
 
 ### Warrior Defenses
 | Level | Evasion | Hardiness | Spirit |
@@ -52,6 +53,7 @@ All warriors have weapons they favor and with which they are particularly skille
 |  10   |    17   |    18     |   15   |
 
 ## Warrior Knacks
+
 **Archer**: You do not have **Disadvantage** when making attacks at Far range.
 
 **Armored**: Gain +1 AC while wearing armor.
@@ -86,7 +88,7 @@ All warriors have weapons they favor and with which they are particularly skille
 
 **Skirmisher**: Gain +1 **Initiative**, +5 feet movement and +1 AC vs **Attacks of Opportunity**.
 
-**Weapon Specialization**:  Pick 1 additional weapon to specialize in.  This Knack may be taken more than once.
+**Weapon Specialization**:  Pick 1 additional weapon to specialize in.  Alternatively, increase the bonus of one of your existing specializations by +1 To Hit and +1 Damage.  This Knack may be taken more than once.
 
 ### Sample Warrior Builds
 - **All-Rounder** 

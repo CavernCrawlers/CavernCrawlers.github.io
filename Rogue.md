@@ -26,16 +26,16 @@ When you have **Advantage** on an attack, add the listed damage to the attack.
 ### Rogue Table
 | Level | Attack<br/>Bonus | Sneak<br/>Attack | Skills | Knacks | Traits | Abilities |
 |:---:|:---:|:-----:|:---:|:---:|:---:|:---|
-|  1  |  +1 | 1d3   |  4 |  1 |  0 | Fleet Footed, Fortune's Favor, Highly Skilled, Sneak Attack |
-|  2  |  +2 | 1d3   | +1 | -- | -- |  |
-|  3  |  +2 | 1d3   | -- | +1 | -- |  |
-|  4  |  +3 | 1d3   | +1 | -- | -- |  |
-|  5  |  +3 | 1d6   | -- | -- | +1 |  |
-|  6  |  +4 | 1d6   | +1 | -- | -- |  |
-|  7  |  +5 | 1d6   | -- | +1 | -- |  |
-|  8  |  +5 | 1d6   | +1 | -- | -- |  |
-|  9  |  +6 | 1d6+1 | -- | -- | +1 |  |
-| 10  |  +6 | 1d6+1 | +1 | -- | -- |  |
+|  1  |  +1 |  +1d3 |  4 |  1 |  0 | Fleet Footed, Fortune's Favor, Highly Skilled, Sneak Attack |
+|  2  |  +2 |  +1d3 | +1 | -- | -- |  |
+|  3  |  +2 |  +1d4 | -- | +1 | -- |  |
+|  4  |  +3 |  +1d4 | +1 | -- | -- |  |
+|  5  |  +3 |  +1d6 | -- | -- | +1 |  |
+|  6  |  +4 |  +1d6 | +1 | -- | -- |  |
+|  7  |  +5 |  +1d8 | -- | +1 | -- |  |
+|  8  |  +5 |  +1d8 | +1 | -- | -- |  |
+|  9  |  +6 | +1d10 | -- | -- | +1 |  |
+| 10  |  +6 | +1d10 | +1 | -- | -- |  |
 
 ### Rogue Defenses
 | Level | Evasion | Hardiness | Spirit |

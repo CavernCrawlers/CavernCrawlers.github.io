@@ -11,6 +11,7 @@
 - 4d6sp
 
 ## Class Abilities
+
 ### Exhausting Magic
 If you fail an **Invocation** check, you may increase the check total by +3 per level of **Exhaustion** gained.
 
@@ -78,9 +79,9 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 
 **Shield Master**: While wielding a shield, you may add your shield bonus to your **Evasion Defense** and you increase your AC bonus from shields by +1.
 
-**Skirmisher**: Gain +1 **Initiative**, +5 ft movement and +1 AC vs **Attacks of Opportunity**.
+**Skirmisher**: Gain +1 **Initiative**, +5ft movement and +1 AC vs **Attacks of Opportunity**.
 
-**Weapon Specialization**: Pick a weapon to specialize in.  Your character receives a +1 to hit and +2 damage bonus while wielding this weapon.  This Knack may be taken more than once, applying to a different weapon each time.
+**Weapon Specialization**: Pick a weapon to specialize in.  Your character receives a +1 to hit and +2 damage bonus while wielding this weapon.  Alternatively, increase the bonuses of one of your existing specializations by +1 To Hit and +1 Damage.  This Knack may be taken more than once.
 
 ### Sample Warrior-Mage Builds
 - **Spellblade** 

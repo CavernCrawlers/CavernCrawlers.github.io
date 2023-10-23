@@ -11,6 +11,10 @@
 - 4d6sp
 
 ## Class Abilities
+
+### Damage Bonus
+Warriors are experts at dealing damage. This bonus is added to the damage of all attacks they make.
+
 ### Fortune's Favor
 You have greater luck than other characters.  Your Base and Max **Fortune Points** are each increased by 1.
 
@@ -23,22 +27,19 @@ Warrior-Rogues receive 3 skills at first level instead of 2.  They gain an addit
 ### Mighty Deed
 Once per turn, when you make a melee attack, you may declare a Mighty Deed.  Describe the special effect you wish to add to your attack (such as disarming an opponent, tripping them, pushing them back, etc).  If the attack hits, and the die face is equal to or greater than your Mighty Deed target number, the Mighty Deed succeeds.  Note that the Mighty Deed cannot add to the damage of the attack and the target's **Defenses** may apply.
 
-### Minimum Damage
-The amount listed as your **Damage Bonus** is not just the damage you add on weapon attacks.  This value is also the minimum amount of damage you will do on a missed attack, assuming the target’s AC is not higher than the listed AC.  *For example, a 6th level warrior-rogue will do 3 damage on a missed attack so long as the target’s AC is 13 or less.  Your normal damage modifiers also apply to this damage.*
-
 ### Warrior-Rogue Table
 | Level | Attack<br/>Bonus | Damage<br/>Bonus | Skills | Knacks | Traits | Abilities |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---|
-|  1 | +1 | +1/10AC |  3 |  1 |  0 | Fortune's Favor, Hauler, Highly Skilled, Mighty Deed 14+ |
-|  2 | +2 | +1/10AC | -- | -- | -- | Mighty Deed 12+ |
-|  3 | +3 | +2/11AC | +1 | +1 | -- |  |
-|  4 | +4 | +2/12AC | -- | -- | -- |  |
-|  5 | +4 | +3/12AC | -- | -- | +1 | Mighty Deed 11+ |
-|  6 | +5 | +3/13AC | +1 | -- | -- |  |
-|  7 | +6 | +4/14AC | -- | +1 | -- |  |
-|  8 | +6 | +4/14AC | -- | -- | -- | Mighty Deed 10+ |
-|  9 | +7 | +5/15AC | +1 | -- | +1 |  |
-| 10 | +7 | +5/15AC | -- | -- | -- |  |
+|  1 | +1 | +1 |  3 |  1 |  0 | Fortune's Favor, Hauler, Highly Skilled, Mighty Deed 14+ |
+|  2 | +2 | +2 | -- | -- | -- | Mighty Deed 12+ |
+|  3 | +2 | +2 | +1 | +1 | -- |  |
+|  4 | +3 | +3 | -- | -- | -- |  |
+|  5 | +3 | +3 | -- | -- | +1 | Mighty Deed 11+ |
+|  6 | +4 | +4 | +1 | -- | -- |  |
+|  7 | +4 | +4 | -- | +1 | -- |  |
+|  8 | +5 | +5 | -- | -- | -- | Mighty Deed 10+ |
+|  9 | +5 | +5 | +1 | -- | +1 |  |
+| 10 | +6 | +6 | -- | -- | -- |  |
 
 ### Warrior-Rogue Defenses
 | Level | Evasion | Hardiness | Spirit |
@@ -78,11 +79,11 @@ The amount listed as your **Damage Bonus** is not just the damage you add on wea
 
 **Resilient**: Reduce blunt, slashing and piercing damage you take by an amount based on the weight class of the armor you are wearing (Light = 1, Medium = 2, Heavy = 3).
 
-**Skirmisher**: Gain +1 **Initiative**, +5 ft movement and +1 AC vs **Attacks of Opportunity**.
+**Skirmisher**: Gain +1 **Initiative**, +5ft movement and +1 AC vs **Attacks of Opportunity**.
 
 **Watchful**: So long as you are conscious, you cannot be surprised and you are never considered “unaware” of attacks.
 
-**Weapon Specialization**: Pick a weapon to specialize in.  Your character receives a +1 to hit and +2 damage bonus while wielding this weapon.  This Knack may be taken more than once, applying to a different weapon each time.
+**Weapon Specialization**: Pick a weapon to specialize in.  Your character receives a +1 to hit and +2 damage bonus while wielding this weapon.  Alternatively, increase the bonus of one of your existing specializations by +1 To Hit and +1 Damage.  This Knack may be taken more than once.
 
 ### Sample Warrior-Rogue Builds
 - **Ranger** 
