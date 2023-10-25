@@ -171,7 +171,7 @@ Pick a terrain type (such as forest, desert, ocean, mountain, etc).  This charac
 Due to bloodline or oath, all manifested or aware elementals of the named type in Near range of the character must present themselves; socially if they are capable of speech, or wordlessly if they are not. The character can perceive them even if they are invisible or inaudible.  This character gains the appropriate elemental language as a bonus language.  This trait may be taken multiple times, applying to a different elemental type each time.
 
 ### Fae Touched
-This character has been exposed to the magic of Faerie or has fae blood running in their veins.  They gain a +2 bonus to any **Defense** vs magic.  Characters that are already Fae Blooded (such as Elves and Goblins) cannot take this trait.
+This character has been exposed to the magic of Faerie or has fae blood running in their veins.  They gain a +2 bonus to any **Defense** vs magic.  Additionally, at around mid-puberty, their aging tends to slow to half the normal rate for their species.  Characters that are already Fae Blooded (such as Dwarves, Elves and Goblins) cannot take this trait.
 
 ### Ghost-Touched
 This character is marked in some way by the dead. After the sun has set, the character may see any ghosts in his presence. Note that this trait does not allow the character to see other types of invisible spirits.

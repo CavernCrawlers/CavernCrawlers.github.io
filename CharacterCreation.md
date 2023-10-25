@@ -1,3 +1,5 @@
+# Character Creation
+
 ## Generating Ability Scores
 Multiple methods of generating ability scores are offered here.  It is suggested that all players use the same method.
 
@@ -94,13 +96,13 @@ In fantasy gaming there are a practically limitless number of possible species t
 
 ### Dwarf
 **AKA**: Dweorg, Dyerven, Gnome, Svartal
-Dwarves are a stocky species averaging around 4 to 5 feet in height, yet weighing as much as a full grown human.  Both men and women are capable of growing beards, though some choose to shave.  They typically mature at the same rate as humans, but are considered young until around the age of 50, as they typically live for 350 years.
+Dwarves are a stocky fae species averaging around 4 to 5 feet in height, yet weighing as much as a full grown human.  Both men and women are capable of growing beards, though some choose to shave.  They typically mature at the same rate as humans, but are considered young until around the age of 50, as they typically live for 350 years.
 - Starting Age: 30 + 2d10 years
-- Height: 47 + 2d6 inches (4' 1" to 4' 11")
-- Weight: 80 + (height roll * 2d8) lbs (134 to 322 lbs)
+- Height: 47 + 2d6 inches [4' 1" to 4' 11"]
+- Weight: 80 + (height roll * 2d8) lbs [134 to 322 lbs]
 - Size: Medium
 - Speed: 30 ft
-- Tags: Humanoid, Elemental (earth)
+- Tags: Humanoid, Fae (earth)
 
 #### Features
 ##### Dust of Ages
@@ -118,8 +120,8 @@ As creatures of rock and stone, old as the earth, dwarves have **True Names**, a
 **AKA**: Alfar, Aelph, Erle, Olve, Shee
 Elves are as much of the Fey world as they are of the mortal realm.  While this has granted them many advantages, such as a long life (typically living to be 750 years or more and not considered adults until after their first century has passed) and a greater capacity for resisting baleful magics, it also makes them seem among the most alien of all the common species.  They are slender in build and typically range between 5 and 6 feet in height.
 - Starting Age: 80 + 2d10 years
-- Height: 52 + 2d10 inches (4' 6" to 6')
-- Weight: 80 + (height roll * 2d4) lbs (84 to 240 lbs)
+- Height: 52 + 2d10 inches [4' 6" to 6']
+- Weight: 80 + (height roll * 2d4) lbs [84 to 240 lbs]
 - Size: Medium
 - Speed: 35 ft
 - Tags: Humanoid, Fae
@@ -138,8 +140,8 @@ As fae creatures, elves have **True Names**, and those with the knowledge may us
 **AKA**: Kobold, Koballus, Luton, Skreetok
 Goblins are a species of naturally nocturnal humanoids most commonly found in the woods and mountains.  They stand 4 to 5 feet in height, have pointed ears, cat-like eyes, sharp teeth, long arms and spare or patchy body hair.  Their skin tones are some shade of gray, red, yellow or green.  They typically stand between 4 and 5 feet in height and have a lifespan rarely exceeding 50 years.
 - Starting Age: 10 + 1d4 years
-- Height: 46 + 2d8 inches (4' to 5' 2")
-- Weight: 55 + (height roll * 2d4) lbs (59 to 183 lbs)
+- Height: 46 + 2d8 inches [4' to 5' 2"]
+- Weight: 55 + (height roll * 2d4) lbs [59 to 183 lbs]
 - Size: Small
 - Speed: 30 ft
 - Tags: Humanoid, Fae
@@ -162,8 +164,8 @@ Aside from their height, slightly pointed ears and thick-soled hairy feet, hobs 
 
 Hobs mature at the same rate as humans but live slightly longer, some reaching as much as 120 years.  However, they are among the smallest of species, typically averaging between 3 and 4 feet in height and 30 to 60 pounds.
 - Starting Age: 20 + 3d6 years
-- Height: 25 + 2d6 inches (3' 1" to 3' 11")
-- Weight: 29 + (height roll * 1d3) lbs (30 to 65 lbs)
+- Height: 25 + 2d6 inches [3' 1" to 3' 11"]
+- Weight: 29 + (height roll * 1d3) lbs [30 to 65 lbs]
 - Size: Small
 - Speed: 30 ft
 - Tags: Humanoid
@@ -180,8 +182,8 @@ On the other hand, you gain a +2 bonus on all Stealth checks.
 **AKA**: Cholvek, Homin, Insan, Menneskelig
 Humans are the most common species in all the world, and can be found in most any climate or region, no matter how hostile or remote.  They typically reach physical maturity around age 18 and have a typical lifespan of around 75 years.  They are normally between 5 and 6 ½ feet tall and weigh between 120 and 250 pounds.
 - Starting Age: 16 + 1d8 years
-- Height: 56 + 2d12 inches (4' 10" to 6' 8")
-- Weight: 100 + (height roll * 2d4) lbs (104 to 292 lbs)
+- Height: 56 + 2d12 inches [4' 10" to 6' 8"]
+- Weight: 100 + (height roll * 2d4) [lbs 104 to 292 lbs]
 - Size: Medium
 - Speed: 30 ft
 - Tags: Humanoid
@@ -192,10 +194,10 @@ A Human’s Base and Max **Fortune Points** are each increased by 1.
 
 ### Orc
 **AKA**: Bugbear, Euroz, Krork, Orteh
-Orcs are a physically powerful race slightly taller than humans but much stockier and more muscled.  Their features are superficially similar to those of Goblins, causing some to believe that the species are related but neither Orcs nor Goblins consider this to be true.  Additionally, while both have similar skin tones, lack of hair and pointed ears, Orc teeth are less sharp with a pair of tusks protruding from their lower jaws.  The orcish lifespan is slightly less than that of a human, typically maturing around age 15 and living around 65 years.
+Orcs are a physically powerful race slightly taller than humans but much stockier and more muscled.  However, their naturally stooped posture makes them seem not much taller than the average human.  Their features are superficially similar to those of Goblins, causing some to believe that the species are related but neither Orcs nor Goblins consider this to be true.  Additionally, while both have similar skin tones, lack of hair and pointed ears, Orc teeth are less sharp with a pair of tusks protruding from their lower jaws.  The orcish lifespan is slightly less than that of a human, typically maturing around age 15 and living around 65 years.
 - Starting Age: 14 + 1d6 years
-- Height: 68 + 2d8 inches (5' 10" to 7')
-- Weight: 175 + (height roll * 2d6) lbs (179 to 367 lbs)
+- Height: 68 + 2d8 inches [5' 10" to 7']
+- Weight: 175 + (height roll * 2d6) lbs [179 to 367 lbs]
 - Size: Medium
 - Speed: 30 ft
 - Tags: Humanoid
