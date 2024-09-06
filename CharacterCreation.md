@@ -102,7 +102,7 @@ Each attribute also has an **Attribute Modifier** that is used as a bonus (or pe
 In fantasy gaming there are a practically limitless number of possible species to choose from.  The list presented in these pages is just a small sample of possible species and your GM may have their own list specific to their campaign world.
 
 ### Dwarf
-**AKA**: Dweorg, Dyerven, Gnome, Svartal
+**AKA**: Dweorg, Dyerven, Gnome, Svartal<br/>
 Dwarves are a stocky fae species averaging around 4 to 5 feet in height, yet weighing as much as a full grown human.  Both men and women are capable of growing beards, though some choose to shave.  They typically mature at the same rate as humans, but are considered young until around the age of 50, as they typically live for 350 years.
 - Starting Age: 30 + 2d10 years
 - Height: 47 + 2d6 inches [4' 1" to 4' 11"]
@@ -124,7 +124,7 @@ Dwarves see in dim light nearly as well as full daylight; however, this vision i
 As creatures of rock and stone, old as the earth, dwarves have **True Names**, and those with that knowledge may use a dwarf’s name against him. By calling out the name, a character gains **Advantage** on all actions taken against the dwarf, including attacking him.
 
 ### Elf
-**AKA**: Alfar, Aelph, Erle, Olve, Shee
+**AKA**: Alfar, Aelph, Erle, Olve, Shee<br/>
 Elves are as much of the Fey world as they are of the mortal realm.  While this has granted them many advantages, such as a long life (typically living to be 750 years or more and not considered adults until after their first century has passed) and a greater capacity for resisting baleful magics, it also makes them seem among the most alien of all the common species.  They are slender in build and typically range between 5 and 6 feet in height.
 - Starting Age: 80 + 2d10 years
 - Height: 52 + 2d10 inches [4' 6" to 6']
@@ -144,7 +144,7 @@ Due to their inherently magical nature, elves gain a +2 bonus on all **Special D
 As fae creatures, elves have **True Names**, and those with the knowledge may use an elf’s true name against her. By calling out the true name, a character gains **Advantage** on all actions taken against the elf, including attacking her.
 
 ### Goblin
-**AKA**: Kobold, Koballus, Luton, Skreetok
+**AKA**: Kobold, Koballus, Luton, Skreetok<br/>
 Goblins are a species of naturally nocturnal humanoids most commonly found in the woods and mountains.  They stand 4 to 5 feet in height, have pointed ears, cat-like eyes, sharp teeth, long arms and spare or patchy body hair.  Their skin tones are some shade of gray, red, yellow or green.  They typically stand between 4 and 5 feet in height and have a lifespan rarely exceeding 50 years.
 - Starting Age: 10 + 1d4 years
 - Height: 46 + 2d8 inches [4' to 5' 2"]
@@ -166,7 +166,7 @@ On the other hand, you gain a +2 bonus on all Stealth checks.
 As fae creatures, goblins have **True Names**, and those with the knowledge may use an goblin’s true name against her. By calling out the true name, a character gains **Advantage** on all actions taken against the goblin, including attacking her.
 
 ### Hob
-**AKA**: Hin, Hobniz, Pech, Puck, Smallfolk, Halfling
+**AKA**: Hin, Hobniz, Pech, Puck, Smallfolk, Halfling<br/>
 Aside from their height, slightly pointed ears and thick-soled hairy feet, hobs seem to be the most similar to humans among the great variety of species.  Even their own ethnicities seem to follow the same patterns as those of humans.  They are most frequently found living among humans, though also occasionally among elves, dwarves and other cultures.  There do exist, however, a handful of hob-centric towns, villages and nomadic troupes scattered around the many kingdoms.
 
 Hobs mature at the same rate as humans but live slightly longer, some reaching as much as 120 years.  However, they are among the smallest of species, typically averaging between 3 and 4 feet in height and 30 to 60 pounds.
@@ -186,7 +186,7 @@ Being small hurts in a fight. You are a small creature and have **Disadvantage**
 On the other hand, you gain a +2 bonus on all Stealth checks.
 
 ### Human
-**AKA**: Cholvek, Homin, Insan, Menneskelig
+**AKA**: Cholvek, Homin, Insan, Menneskelig<br/>
 Humans are the most common species in all the world, and can be found in most any climate or region, no matter how hostile or remote.  They typically reach physical maturity around age 18 and have a typical lifespan of around 75 years.  They are normally between 5 and 6 ½ feet tall and weigh between 120 and 250 pounds.
 - Starting Age: 16 + 1d8 years
 - Height: 56 + 2d12 inches [4' 10" to 6' 8"]
@@ -200,7 +200,7 @@ Humans are the most common species in all the world, and can be found in most an
 A Human’s Base and Max **Fortune Points** are each increased by 1.
 
 ### Orc
-**AKA**: Bugbear, Euroz, Krork, Orteh
+**AKA**: Bugbear, Euroz, Krork, Orteh<br/>
 Orcs are a physically powerful race slightly taller than humans but much stockier and more muscled.  However, their naturally stooped posture makes them seem not much taller than the average human.  Their features are superficially similar to those of Goblins, causing some to believe that the species are related but neither Orcs nor Goblins consider this to be true.  Additionally, while both have similar skin tones, lack of hair and pointed ears, Orc teeth are less sharp with a pair of tusks protruding from their lower jaws.  The orcish lifespan is slightly less than that of a human, typically maturing around age 15 and living around 65 years.
 - Starting Age: 14 + 1d6 years
 - Height: 68 + 2d8 inches [5' 10" to 7']
