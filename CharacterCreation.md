@@ -12,6 +12,13 @@ For **Heroic** character creation, use the same method as described under Gritty
 
 For **Epic** character creation, build the deck from 1 two, 2 threes, 4 fives, 3 sixes and 4 sevens.  This will give a total of 78 character points; or an average of 13 per attribute.
 
+### Random Rolls
+Roll 3d6 three times and record the results.  Next take those three rolls and subtract them from 21.  This will give you an array of 6 rolls totalling 63 points (averaging out to 10.5 each).  Arrange the scores as desired.
+
+For **Heroic** character creation, divide 9 points among your abilities, increasing no ability by more than 3 and no higher than 18.
+
+For **Epic** character creation, divde 15 points among your abilities, increasing no ability higher than 18.
+
 ### BARFLIP
 The BARFLIP method is described [here](https://planarian.itch.io/barflip-gridflip).  It is recommended for groups that prefer to use dice over cards but still want all characters to be relatively balanced.  Note that this method will generate characters with a total of 78 ability points; or an average of 13 per attribute.
 
@@ -62,7 +69,7 @@ The measure of a character’s raw physical power.  This is used in feats of mig
 This is a character’s overall agility, coordination and reflexes.  It is used in feats of acrobatics, hand-eye coordination and to avoid effects that could be dodged.  The raw score is used for. . .
 
 #### Constitution
-This is measures a character’s toughness, endurance and overall health.  It is used to resist the negative effects of poisons, diseases and other physical ailments.  The raw score is also used for determining your starting hit points and in recovering from injuries after a **Long Rest**.
+This is measures a character’s toughness, endurance and overall health.  It is used to resist the negative effects of poisons, diseases and other physical ailments.  The raw score is also used for recovering from injuries after a **Long Rest**.
 
 #### Intelligence
 Intelligence is a character’s quickness of mind and understanding.  Those with high intelligence scores are quickly able to work out puzzles, recognize patterns and recall past information.  The raw score is used to . . .
