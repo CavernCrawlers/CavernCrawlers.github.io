@@ -1,7 +1,7 @@
 # Spellcaster
 
-- **Starting HP**: 4
-- **Hit Dice**: 1d4 per level from 2 to 10
+- **Starting HP**: 4 + CON Modifier
+- **Hit Dice**: 1d4 + CON Modifier per level from 2 to 10
 - **HP after level 10:** +1 per level.
 - **Initiative Bonus**: +0
 - **Armor Training**: None
