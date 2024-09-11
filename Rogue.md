@@ -1,7 +1,7 @@
 # Rogue
 
-- **Starting HP**: 6
-- **Hit Dice**: 1d6 per level from 2 to 10
+- **Starting HP**: 6 + CON Modifier
+- **Hit Dice**: 1d6 + CON Modifier per level from 2 to 10
 - **HP after Level 10:** +1 per level
 - **Initiative Bonus**: +2
 - **Armor Training**: Light Armor and Bucklers
