@@ -33,7 +33,7 @@ While any class may perform these feats of skill, the Rogue gains this additiona
 ### Rogue Table
 | Level | Hit<br/>Dice | Attack<br/>Bonus | Knacks | Traits | Abilities |
 |:-----:|:------------:|:----------------:|:------:|:------:|:----------|
-|  1    |  1d6         |  +1              |  2     |  0     | Fortune's Favor, Rogue Abilities (below) |
+|  1    |  1d6         |  +1              |  2     |  0     | Fortune's Favor, Rogue Skills (see below) |
 |  2    |  2d6         |  +1              | --     | +1     |  |
 |  3    |  3d6         |  +2              | +1     | --     |  |
 |  4    |  4d6         |  +2              | --     | --     |  |
@@ -68,7 +68,7 @@ While any class may perform these feats of skill, the Rogue gains this additiona
 |  14   |    21   |     18    |   20   |
 |  15   |    22   |     18    |   21   |
 
-### Rogue Abilities
+### Rogue Skills
 | Level | Climb | Locks & Traps | Search | Stealth | Skullduggery | Sneak Attack |
 |:-----:|:-----:|:-------------:|:------:|:-------:|:------------:|:------------:|
 |   1   |  +3   |  +1           |   +0   |   +1    |      +1      |      --      |
