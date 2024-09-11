@@ -28,7 +28,7 @@ Being sensitive to the world of magic, you may determine if a person, place or t
 ### True Name
 As a magic-user possessing supernatural power, you have a **True Name**.  Those who know your True Name can use it against you.  By calling out your True Name, a creature gains **Advantage** on all actions taken against you, including attacks and you have **Disadvantage** on your **Invocation** checks to cast spells against them.
 
-### Mage Table
+### Spellcaster Table
 | Level | Hit Dice | Attack Bonus | Invocation Dice | Traits | Abilities |
 |:-----:|:--------:|:------------:|:---------------:|:------:|:----------|
 |  1    |    1d4   | +0           |  3d6            |   0    | Exhausting Magic, Magical Focus, Magic User (rank 1), Sense Magic, True Name |
@@ -47,7 +47,7 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 | 14    |   10d4+4 | +5           | 16d6            |  --    |  |
 | 15    |   10d4+5 | +5           | 17d6            |  +1    |  |
 
-### Mage Defenses
+### Spellcaster Defenses
 | Level | Evasion | Hardiness | Spirit |
 |:-----:|:-------:|:---------:|:------:|
 |   1   |    11   |     10    |   11   |
@@ -66,16 +66,12 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 |  14   |    19   |     18    |   20   |
 |  15   |    20   |     18    |   21   |
 
-### Sample Mage Builds
+### Sample Spellcaster Builds
 - **Menacing Sorcerer** 
-	- Trait - [Potent Magic](Traits.md#potent-magic)
  	- Tradition - Sorcery
 - **Village Witch**
-	- Trait - [Spirit Friend](Traits.md#spirit-friend)
  	- Tradition - Witchcraft
 - **Druid**
-	- Trait - [Child of the (Terrain)](Traits.md#child-of-the-terrain)
         -  Tradition - Druidism
 - **Court Wizard**
-	- Trait - [Skilled Caster](Traits.md#skilled-caster)
         - Tradition - Wizardry
