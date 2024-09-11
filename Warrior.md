@@ -1,7 +1,8 @@
 # Warrior
 
 - **Starting HP**: 8
-- **Hit Dice**: 1d6 + 2 per level
+- **Hit Dice**: 1d6 + 2 per level up to level 10.
+- **HP after level 10**: +2 per level.
 - **Initiative Bonus**: +1
 - **Armor Training**: All
 - **Weapon Training**: All
@@ -22,23 +23,23 @@ Once per turn, when you make a melee attack, you may declare a Mighty Deed.  Des
 Warriors are experts at dealing damage.  If your attack misses the target's AC by less than your level, you still deal your attack's minimum damage to the target.
 
 ### Warrior Table
-| Level | Attack<br/>Bonus | Knacks | Traits | Abilities |
-|:---:|:---:|:---:|:---:|:---|
-|  1  |  +1 |  2 | -- | Hauler, Mighty Deed 14+, Minimum Damage |
-|  2  |  +1 | -- | +1 | Mighty Deed 12+ |
-|  3  |  +2 | +1 | -- |  |
-|  4  |  +3 | -- | -- | Mighty Deed 11+ |
-|  5  |  +3 | +1 | -- |  |
-|  6  |  +4 | -- | +1 | Mighty Deed 10+ |
-|  7  |  +5 | +1 | -- |  |
-|  8  |  +5 | -- | -- | Mighty Deed 9+ |
-|  9  |  +6 | +1 | -- |  |
-| 10  |  +6 | -- | +1 | Mighty Deed 8+ |
-| 11  |  +7 | +1 | -- |  |
-| 12  |  +8 | -- | -- | Mighty Deed 7+ |
-| 13  |  +8 | +1 | -- |  |
-| 14  |  +9 | -- | +1 | Mighty Deed 6+ |
-| 15  | +10 | +1 | -- |  |
+| Level | Hit<br/>Dice | Attack<br/>Bonus | Knacks | Traits | Abilities |
+|:---:|:---:|:---:|:---:|:---:|:---|
+|  1  |   1d6+2 |  +1 |  2 | -- | Hauler, Mighty Deed 14+, Minimum Damage |
+|  2  |   2d6+4 |  +1 | -- | +1 | Mighty Deed 12+ |
+|  3  |   3d6+6 |  +2 | +1 | -- |  |
+|  4  |   4d6+8 |  +3 | -- | -- | Mighty Deed 11+ |
+|  5  |  5d6+10 |  +3 | +1 | -- |  |
+|  6  |  6d6+12 |  +4 | -- | +1 | Mighty Deed 10+ |
+|  7  |  7d6+14 |  +5 | +1 | -- |  |
+|  8  |  8d6+16 |  +5 | -- | -- | Mighty Deed 9+ |
+|  9  |  9d6+18 |  +6 | +1 | -- |  |
+| 10  | 10d6+20 |  +6 | -- | +1 | Mighty Deed 8+ |
+| 11  | 10d6+22 |  +7 | +1 | -- |  |
+| 12  | 10d6+24 |  +8 | -- | -- | Mighty Deed 7+ |
+| 13  | 10d6+26 |  +8 | +1 | -- |  |
+| 14  | 10d6+28 |  +9 | -- | +1 | Mighty Deed 6+ |
+| 15  | 10d6+30 | +10 | +1 | -- |  |
 
 ### Warrior Defenses
 | Level | Evasion | Hardiness | Spirit |
