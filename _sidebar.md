@@ -4,7 +4,7 @@
 - Classes
 	- [Warrior](Warrior.md)
 	- [Rogue](Rogue.md)
-	- [Mage](Mage.md)
+	- [Spellcaster](Spellcaster.md)
 	- [Warrior-Rogue](Warrior-Rogue.md)
 	- [Warrior-Mage](Warrior-Mage.md)
 	- [Rogue-Mage](Rogue-Mage.md)
