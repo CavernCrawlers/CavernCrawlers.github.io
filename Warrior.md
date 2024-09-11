@@ -25,7 +25,7 @@ Warriors are experts at dealing damage.  If your attack misses the target's AC b
 ### Warrior Table
 | Level | Hit<br/>Dice | Attack<br/>Bonus | Knacks | Traits | Abilities |
 |:---:|:---:|:---:|:---:|:---:|:---|
-|  1  |   1d6+2 |  +1 |  2 | -- | Hauler, Mighty Deed 14+, Minimum Damage |
+|  1  |   1d6+2 |  +1 |  2 |  0 | Hauler, Mighty Deed 14+, Minimum Damage |
 |  2  |   2d6+4 |  +1 | -- | +1 | Mighty Deed 12+ |
 |  3  |   3d6+6 |  +2 | +1 | -- |  |
 |  4  |   4d6+8 |  +3 | -- | -- | Mighty Deed 11+ |
