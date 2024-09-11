@@ -28,7 +28,7 @@ Being naturally sensitive to the world of magic, you may determine if a person, 
 ### True Name
 As a magic-user possessing supernatural power, you have a **True Name**.  Those who know your True Name can use it against you.  By calling out your True Name, a creature gains **Advantage** on all actions taken against you, including attacks and you have **Disadvantage** on your **Invocation** checks to cast spells against them.
 
-### Warrior-Mage Table
+### Warrior-Spellcaster Table
 | Level | Hit Dice | Attack Bonus |  Invocation Dice |  Traits | Abilities |
 |:-----:|:--------:|:------------:|:----------------:|:-------:|:---|
 |   1   |    1d6   |      +1      |        1d6       |     0   | Exhausting Magic, Magical Focus, Magic User (cantrip), Sense Magic, True Name |
@@ -47,7 +47,7 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 |  14   |   10d6+4 |      +7      |       14d6       |    +1   |  |
 |  15   |   10d6+5 |      +8      |       15d6       |    --   | Magic User (rank 5) |
 
-### Warrior-Mage Defenses
+### Warrior-Spellcaster Defenses
 | Level | Evasion | Hardiness | Spirit |
 |:-----:|:-------:|:---------:|:------:|
 |   1   |    11   |     11    |   11   |
@@ -66,7 +66,7 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 |  14   |    20   |     20    |   19   |
 |  15   |    21   |     20    |   20   |
 
-## Warrior-Mage Knacks
+## Warrior-Spellcaster Knacks
 
 **Archer**: You do not have **Disadvantage** when making attacks at Far range.
 
@@ -90,7 +90,7 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 
 **Weapon Specialization**:  Pick a weapon. Your character receives a +1 to hit and +2 damage bonus while wielding this weapon. If this talent is taken at 1st level, your character begins the game with this weapon for free.  This knack may be taken more than once, applying to a different weapon each time.
 
-### Sample Warrior-Mage Builds
+### Sample Warrior-Spellcaster Builds
 - **Spellblade**
 	- Tradition: Wizardry
 - **Warlock**
