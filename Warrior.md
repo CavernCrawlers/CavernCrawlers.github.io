@@ -1,7 +1,7 @@
 # Warrior
 
-- **Starting HP**: 8
-- **Hit Dice**: 1d6 + 2 per level from 2 to 10.
+- **Starting HP**: 8 + CON Modifier
+- **Hit Dice**: 1d6 + 2 + CON Modifier per level from 2 to 10.
 - **HP after level 10**: +2 per level.
 - **Initiative Bonus**: +1
 - **Armor Training**: All
