@@ -2,7 +2,7 @@
 
 - **Starting HP**: 6
 - **Hit Dice**: 1d6 per level from 2 to 10
-- **HP after Level 10:** +2 per level
+- **HP after Level 10:** +1 per level
 - **Initiative Bonus**: +2
 - **Armor Training**: Light Armor and Bucklers
 - **Weapon Training**: Light and Medium weapons.
@@ -109,7 +109,7 @@ While any class may perform these feats of skill, the Rogue gains this additiona
 
 **Trap Sense**: You take half damage from traps.
 
-**Watchful**: So long as you are conscious, you have advantage on perception rolls to spot an ambush and you are never considered “unaware” of attacks.
+**Watchful**: So long as you are conscious, you have **Advantage** on perception rolls to spot an ambush and you are never considered “unaware” of attacks.
 
 ### Sample Rogue Builds
 - **Assassin** 
