@@ -2,7 +2,7 @@
 
 - **Starting HP**: 6 + CON Modifier
 - **Hit Dice**: 1d6 + CON Modifier per level
-- **HP after level 10:** +1 per level.
+- **HP after level 10:** +2 per level.
 - **Initiative Bonus**: +0
 - **Armor Training**: Light and Medium Armor, Buckler and Shield
 - **Weapon Training**: Light and Medium weapons
@@ -31,21 +31,21 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 ### Warrior-Spellcaster Table
 | Level | Hit Dice | Attack Bonus |  Invocation Dice | Spell DT |  Traits | Abilities |
 |:-----:|:--------:|:------------:|:----------------:|:--------:|:-------:|:---|
-|   1   |    1d6   |      +1      |        1d6       |    10+   |     1   | Exhausting Magic, Spellcasting, Magic User (cantrip), Sense Magic, True Name |
-|   2   |    2d6   |      +1      |        2d6       |    11+   |    +1   |  |
-|   3   |    3d6   |      +2      |        3d6       |    11+   |    --   | Spellcasting (rank 1) |
-|   4   |    4d6   |      +2      |        4d6       |    12+   |    +1   |  |
-|   5   |    5d6   |      +3      |        5d6       |    12+   |    --   |  |
-|   6   |    6d6   |      +3      |        6d6       |    13+   |    --   | Spellcasting (rank 2) |
+|   1   |    1d6   |      +1      |        2d6       |    10+   |     1   | Exhausting Magic, Spellcasting, Magic User (cantrip), Sense Magic, True Name |
+|   2   |    2d6   |      +1      |        3d6       |    11+   |    +1   |  |
+|   3   |    3d6   |      +2      |        4d6       |    11+   |    --   | Spellcasting (rank 1) |
+|   4   |    4d6   |      +2      |        5d6       |    12+   |    +1   |  |
+|   5   |    5d6   |      +3      |        6d6       |    12+   |    --   |  |
+|   6   |    6d6   |      +3      |        6d6       |    12+   |    --   | Spellcasting (rank 2) |
 |   7   |    7d6   |      +4      |        7d6       |    13+   |    +1   |  |
 |   8   |    8d6   |      +4      |        8d6       |    13+   |    --   |  |
 |   9   |    9d6   |      +5      |        9d6       |    14+   |    --   | Spellcasting (rank 3) |
-|  10   |   10d6   |      +5      |       10d6       |    14+   |    +1   |  |
-|  11   |   10d6+1 |      +6      |       11d6       |    15+   |    --   |  |
-|  12   |   10d6+2 |      +6      |       12d6       |    15+   |    --   | Spellcasting (rank 4) |
-|  13   |   10d6+3 |      +7      |       13d6       |    16+   |    +1   |  |
-|  14   |   10d6+4 |      +7      |       14d6       |    16+   |    +1   |  |
-|  15   |   10d6+5 |      +8      |       15d6       |    16+   |    --   | Spellcasting (rank 5) |
+|  10   |   10d6   |      +5      |       10d6       |    15+   |    +1   |  |
+|  11   |   10d6+2 |      +6      |       10d6       |    15+   |    --   |  |
+|  12   |   10d6+4 |      +6      |       11d6       |    15+   |    --   | Spellcasting (rank 4) |
+|  13   |   10d6+6 |      +7      |       12d6       |    16+   |    +1   |  |
+|  14   |   10d6+8 |      +7      |       13d6       |    16+   |    +1   |  |
+|  15   |  10d6+10 |      +8      |       14d6       |    17+   |    --   | Spellcasting (rank 5) |
 
 ### Warrior-Spellcaster Defenses
 | Level | Evasion | Hardiness | Spirit |
@@ -59,7 +59,7 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 |   7   |    +5   |     +5    |   +5   |
 |   8   |    +6   |     +6    |   +5   |
 |   9   |    +6   |     +7    |   +6   |
-|  10   |    +7   |     +7    |   +7   |
+|  10   |    +7   |     +7    |   +6   |
 |  11   |    +8   |     +8    |   +7   |
 |  12   |    +9   |     +8    |   +8   |
 |  13   |    +9   |     +9    |   +8   |
