@@ -95,24 +95,94 @@ Warriors are experts at dealing damage.  If your attack misses the target's AC b
 **Weapon Specialization**:  Pick a weapon. Your character receives a +1 to hit and +2 damage bonus while wielding this weapon. If this talent is taken at 1st level, your character begins the game with this weapon for free.  This knack may be taken more than once, applying to a different weapon each time.
 
 ### Sample Warrior Builds
-- **All-Rounder** 
-	- Knack – Exploit Weakness
-	- Trait - [Die Hard](Traits.md#die-hard)
+- **All-Rounder**
+	- 1st Level: Deadly Blow, Armored
+	- 2nd Level: [Die Hard](Traits.md#Die-Hard)
+ 	- 3rd Level: Weapon Specialization
+ 	- 5th Level: Deadly Blow
+ 	- 6th Level: [Fast Healer](Traits.md#Fast-Healer)
+ 	- 7th Level: Indomitable
+ 	- 9th Level: Exploit Weakness
+ 	- 10th Level: [Great Bravery](Traits.md#Great-Bravery)
+ 	- 11th Level: Shield Master
+ 	- 13th Level: Cleave
+ 	- 14th Level: [Great Leader](Traits.md#Great-Leader)
+  	- 15th Level: Weapon Specialization
 - **Archer**
-	- Knack – Archer
-	- Trait - [Superior Training](Traits.md#superior-training) (to gain Mighty Shot)
+	- 1st Level: Archer, Weapon Specialization
+	- 2nd Level: [Alert](Traits.md#Alert)
+ 	- 3rd Level: Mighty Shot
+ 	- 5th Level: Precise Shot
+ 	- 6th Level: [Die Hard](Traits.md#Die-Hard)
+ 	- 7th Level: Deadly Blow
+ 	- 9th Level: Exploit Weakness
+ 	- 10th Level: [Fast Healer](Traits.md#Fast-Healer)
+ 	- 11th Level: Indomitable
+ 	- 13th Level: Skirmisher
+ 	- 14th Level: [Survivalist](Traits.md#Survivalist)
+  	- 15th Level: Weapon Specialization
 - **Berserker** 
-	- Knack – Berserk
-	- Trait - [Catch Your Breath](Traits.md#catch-your-breath)
+	- 1st Level: Berserk, Reckless
+	- 2nd Level: [Catch Your Breath](Traits.md#Catch-Your-Breath)
+ 	- 3rd Level: Deadly Blow
+ 	- 5th Level: Cleave
+ 	- 6th Level: [Die Hard](Traits.md#Die-Hard)
+ 	- 7th Level: Skirmisher
+ 	- 9th Level: Great Weapon Fighter
+ 	- 10th Level: [Fast Healer](Traits.md#Fast-Healer)
+ 	- 11th Level: Indomitable
+ 	- 13th Level: Charger
+ 	- 14th Level: [Second Wind](Traits.md#Second-Wind)
+  	- 15th Level: Weapon Specialization
 - **Cavalier**
-	- Knack – Cavalry
-	- Trait - [Great Bravery](Traits.md#great-bravery) or [Horse Speech](Traits.md#beast-speech)
+	- 1st Level: Cavalry, Charger
+	- 2nd Level: [Catch Your Breath](Traits.md#Catch-Your-Breath)
+ 	- 3rd Level: Weapon Specializatin (lance)
+ 	- 5th Level: Armored
+ 	- 6th Level: [Great Bravery](Traits.md#Great-Bravery)
+ 	- 7th Level: Deadly Blow
+ 	- 9th Level: Indomitable
+ 	- 10th Level: [Great Leader](Traits.md#Great-Leader)
+ 	- 11th Level: Shield Master
+ 	- 13th Level: Weapon Specialization
+ 	- 14th Level: [Tenacity](Traits.md#Tenacity)
+  	- 15th Level: Exploit Weakness
 - **Damage Dealer** 
-	- Knack – Deadly Blow
-	- Trait - [Combat Mastery](Traits.md#combat-mastery)
+	- 1st Level: Deadly Blow, Exploit Weakness
+	- 2nd Level: [Great Bravery](Traits.md#Great-Bravery)
+ 	- 3rd Level: Weapon Specialziation
+ 	- 5th Level: Great Weapon Fighter
+ 	- 6th Level: [Self Improvement](Traits.md#Self-Improvement)
+ 	- 7th Level: Reckless
+ 	- 9th Level: Charger
+ 	- 10th Level: [Tenacity](Traits.md#Tenacity)
+ 	- 11th Level: Cleave
+ 	- 13th Level: Indomitable
+ 	- 14th Level: [Infuse Weapon](Traits.md#Infuse-Weapon)
+  	- 15th Level: Exploit Weakness
 - **Tank** 
-	- Knack – Armored
-	- Trait - [Fast Healer](Traits.md#fast-healer) or [Tenacity](Traits.md#tenacity)
+	- 1st Level: Armored, Shield Master
+	- 2nd Level: [Die Hard](Traits.md#Die-Hard)
+ 	- 3rd Level: Indomitable
+ 	- 5th Level: Cavalry
+ 	- 6th Level: [Fast Healer](Traits.md#Fast-Healer)
+ 	- 7th Level: Deadly Blow
+ 	- 9th Level: Exploit Weakness
+ 	- 10th Level: [Second Wind](Traits.md#Second-Wind)
+ 	- 11th Level: Charger
+ 	- 13th Level: Exploit Weakness
+ 	- 14th Level: [Tenacity](Traits.md#Tenacity)
+  	- 15th Level: Weapon Specialization
 - **Weapon Master**
-	- Knack – Weapon Specialization
-	- Trait - [Weapon Training](Traits.md#weapon-training)
+	- 1st Level: Deadly Blow, Weapon Specialization
+	- 2nd Level: [Tenacity](Traits.md#Tenacity)
+ 	- 3rd Level: Exploit Weakness
+ 	- 5th Level: Weapon Specializtion
+ 	- 6th Level: [Die Hard](Traits.md#Die-Hard)
+ 	- 7th Level: Archer or Great Weapon Fighter
+ 	- 9th Level: Cleave
+ 	- 10th Level: [Great Fortune](Traits.md#Great-Fortune)
+ 	- 11th Level: Weapon Specializtion
+ 	- 13th Level: Exploit Weakness 
+ 	- 14th Level: [Self Improvement](Traits.md#Self-Improvement)
+  	- 15th Level: Reckless
