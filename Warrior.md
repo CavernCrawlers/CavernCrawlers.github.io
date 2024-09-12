@@ -41,24 +41,24 @@ Warriors are experts at dealing damage.  If your attack misses the target's AC b
 | 14  | 10d6+28 |  +9 | -- | +1 | Mighty Deed 6+ |
 | 15  | 10d6+30 | +10 | +1 | -- |  |
 
-### Warrior Defenses
+### Warrior Saving Throws
 | Level | Evasion | Hardiness | Spirit |
 |:-----:|:-------:|:---------:|:------:|
-|   1   |    11   |    11     |   10   |
-|   2   |    11   |    12     |   11   |
-|   3   |    12   |    13     |   11   |
-|   4   |    13   |    14     |   12   |
-|   5   |    14   |    14     |   12   |
-|   6   |    14   |    15     |   13   |
-|   7   |    15   |    16     |   14   |
-|   8   |    16   |    17     |   14   |
-|   9   |    16   |    18     |   15   |
-|  10   |    17   |    18     |   15   |
-|  11   |    18   |    19     |   16   |
-|  12   |    19   |    20     |   16   |
-|  13   |    19   |    21     |   17   |
-|  14   |    20   |    21     |   18   |
-|  15   |    21   |    22     |   18   |
+|   1   |    +1   |    +1     |   +0   |
+|   2   |    +1   |    +2     |   +1   |
+|   3   |    +2   |    +3     |   +1   |
+|   4   |    +3   |    +4     |   +2   |
+|   5   |    +4   |    +4     |   +2   |
+|   6   |    +4   |    +5     |   +3   |
+|   7   |    +5   |    +6     |   +4   |
+|   8   |    +6   |    +7     |   +4   |
+|   9   |    +6   |    +8     |   +5   |
+|  10   |    +7   |    +8     |   +5   |
+|  11   |    +8   |    +9     |   +6   |
+|  12   |    +9   |   +10     |   +6   |
+|  13   |    +9   |   +11     |   +7   |
+|  14   |   +10   |   +11     |   +8   |
+|  15   |   +11   |   +12     |   +8   |
 
 ## Warrior Knacks
 
@@ -80,7 +80,7 @@ Warriors are experts at dealing damage.  If your attack misses the target's AC b
 
 **Great Weapon Fighter:** When wielding a Heavy 2-handed weapon, any damage dice that show a 1 or 2 may be re-rolled.  Take the higher result.						
 
-**Indomitable**: +1 to all **Defenses** except AC.
+**Indomitable**: +1 to all **Saving Throws**.
 
 **Mighty Shot**: You may use your Mighty Deed ability with ranged attacks.
 
