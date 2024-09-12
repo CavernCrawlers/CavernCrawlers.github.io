@@ -17,7 +17,7 @@
 You add your **Constitution Modifier** (if positive) to your **Strength Score** for determining your **Encumbrance** limits.
 
 ### Mighty Deed
-Once per turn, when you make a melee attack, you may declare a Mighty Deed.  Describe the special effect you wish to add to your attack (such as disarming an opponent, tripping them, pushing them back, etc).  If the attack hits, and the die face is equal to or greater than your Mighty Deed target number, the Mighty Deed succeeds.  Note that the Mighty Deed cannot add to the damage of the attack and the target's **Defenses** may apply.
+Once per turn, when you make a melee attack, you may declare a Mighty Deed.  Describe the special effect you wish to add to your attack (such as disarming an opponent, tripping them, pushing them back, etc).  If the attack hits, and the die face is equal to or greater than your Mighty Deed target number, the Mighty Deed succeeds.  Note that the Mighty Deed cannot add to the damage of the attack and the target's **Saving Throws** may apply.
 
 ### Minimum Damage
 Warriors are experts at dealing damage.  If your attack misses the target's AC by less than your level, you still deal your attack's minimum damage to the target.
