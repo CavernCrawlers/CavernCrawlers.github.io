@@ -2,7 +2,7 @@
 - [Rules Synopsis](RulesSynopsis.md)
 - [Character Creation](CharacterCreation.md)
 - Classes
-	- [Warrior](Warrior.md)
+	- [Fighter](Fighter.md)
 	- [Rogue](Rogue.md)
 	- [Spellcaster](Spellcaster.md)
 	- [Warrior-Rogue](Warrior-Rogue.md)
