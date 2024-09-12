@@ -1,4 +1,4 @@
-# Warrior
+# Fighter
 
 - **Starting HP**: 8 + CON Modifier
 - **Hit Dice**: 1d6 + 2 + CON Modifier per level from 2 to 10.
@@ -20,9 +20,9 @@ You add your **Constitution Modifier** (if positive) to your **Strength Score** 
 Once per turn, when you make a melee attack, you may declare a Mighty Deed.  Describe the special effect you wish to add to your attack (such as disarming an opponent, tripping them, pushing them back, etc).  If the attack hits, and the die face is equal to or greater than your Mighty Deed target number, the Mighty Deed succeeds.  Note that the Mighty Deed cannot add to the damage of the attack and the target's **Saving Throws** may apply.
 
 ### Minimum Damage
-Warriors are experts at dealing damage.  If your attack misses the target's AC by less than your level, you still deal your attack's minimum damage to the target.
+Fighters are experts at dealing damage.  If your attack misses the target's AC by less than your level, you still deal your attack's minimum damage to the target.
 
-### Warrior Table
+### Fighter Table
 | Level | Hit<br/>Dice | Attack<br/>Bonus | Knacks | Traits | Abilities |
 |:---:|:---:|:---:|:---:|:---:|:---|
 |  1  |   1d6+2 |  +1 |  2 |  0 | Hauler, Mighty Deed 14+, Minimum Damage |
@@ -41,7 +41,7 @@ Warriors are experts at dealing damage.  If your attack misses the target's AC b
 | 14  | 10d6+28 |  +9 | -- | +1 | Mighty Deed 6+ |
 | 15  | 10d6+30 | +10 | +1 | -- |  |
 
-### Warrior Saving Throws
+### Fighter Saving Throws
 | Level | Evasion | Hardiness | Spirit |
 |:-----:|:-------:|:---------:|:------:|
 |   1   |    +1   |    +1     |   +0   |
@@ -60,7 +60,7 @@ Warriors are experts at dealing damage.  If your attack misses the target's AC b
 |  14   |   +10   |   +11     |   +8   |
 |  15   |   +11   |   +12     |   +8   |
 
-## Warrior Knacks
+## Fighter Knacks
 
 **Archer**: You do not have **Disadvantage** when making attacks at Far range.
 
@@ -94,7 +94,7 @@ Warriors are experts at dealing damage.  If your attack misses the target's AC b
 
 **Weapon Specialization**:  Pick a weapon. Your character receives a +1 to hit and +2 damage bonus while wielding this weapon. If this talent is taken at 1st level, your character begins the game with this weapon for free.  This knack may be taken more than once, applying to a different weapon each time.
 
-### Sample Warrior Builds
+### Sample Fighter Builds
 - **All-Rounder**
 	- 1st Level: Deadly Blow, Armored
 	- 2nd Level: [Die Hard](Traits.md#Die-Hard)
