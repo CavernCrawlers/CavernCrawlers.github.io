@@ -34,7 +34,7 @@ The entries on the coinage table are far from the only materials used for money.
 # Equipment
 
 ## Quality
-The equipment table prices in the chapter assuming items of common quality.  Higher or lower quality work can dramatically affect these prices.  The exact game effect of different quality items is often left up to the GM to determine on a case-by-case basis.  For example, a poor quality sword may be judged to have a -1 to hit chance, while a superior quality sword may increase it’s damage die by 1 step.  It is recommended that weapon quality modifiers be limited to no more than +/- 1 on to-hit or damage, or a 1 die step for damage.  Higher quality weapons might have multiple such properties (such as a master-crafted bow being +1 to hit, +1 die step damage and +10% range).
+The equipment table prices in this chapter assume items of common quality.  Higher or lower quality work can dramatically affect these prices.  The exact game effect of different quality items is often left up to the GM to determine on a case-by-case basis.  For example, a poor quality sword may be judged to have a -1 to hit chance, while a superior quality sword may increase it’s damage die by 1 step.  It is recommended that weapon quality modifiers be limited to no more than +/- 1 on to-hit or damage, or a 1 die step for damage.  Higher quality weapons might have multiple such properties (such as a master-crafted bow being +1 to hit, +1 die step damage and +10% range).
 
 | Quality | Cost Multiplier |
 |:--------|:---------------:|
@@ -48,7 +48,7 @@ The equipment table prices in the chapter assuming items of common quality.  Hig
 Not all items are equally available in all regions.  As a result, the GM is encouraged to multiply the cost of an item based on how common or rare it is.  The recommended range is the same as for Quality Modifiers above (x0.5 to x10).
 
 ## Haggling
-It is possible that your players may wish to haggle with local merchants over the cost of items (especially for those with quality or rarity modifiers).  This can be handled with a simple roll on the Reaction Table (see Rolling the Dice) modified by the bartering character’s **Charisma Modifier** and **Persuasion** (or other appropriate) skill.  Below are some suggestions on how to interpret the results:
+It is possible that your players may wish to haggle with local merchants over the cost of items (especially for those with quality or rarity modifiers).  This can be handled with a simple roll on the Reaction Table (see Rolling the Dice) modified by the bartering character’s **Charisma Modifier**.  Below are some suggestions on how to interpret the results:
 
 | Reaction Check Result | Effect |
 |:---|:---|
@@ -61,9 +61,7 @@ It is possible that your players may wish to haggle with local merchants over th
 If the characters have no intent to haggle, simply forego any haggling rolls and use the price as listed (modified by quality and rarity as normal).
 
 ## Weapons
-The weapon tables below are not meant to be exhaustive, but represent those most commonly found in a typical western-style fantasy campaign.  For more exotic weaponry from far off lands, it’s often easiest to simply find an equivalent entry on one of the below tables and modify it’s stats based on quality and rarity.  For example, a katana could be interpreted as a rare good-quality arming sword (+1 to hit, x4 cost).
-
-Some weapons will appear on multiple tables.  This is because the tables are arranged by **Proficiency Group**.  This means that the weapon in question may be used by a character proficient with any Proficiency Group under which the weapon appears (for example a Mace may be wielded by anyone with the Clubbing or Hafted weapon proficiency groups).  This does not change the weapon's stats or use in any way.  Proficiency Groups are simply groupings of weapons that are either similar enough in use that they may be used in broadly similar fashion or are commonly taught together.
+The weapon tables below are not meant to be exhaustive, but represent those most commonly found in a typical western-style fantasy campaign.  For more exotic weaponry from far off lands, it’s often easiest to simply find an equivalent entry on one of the below tables and modify it’s stats based on quality and rarity.  For example, a katana could be interpreted as a _rare_ _excellent_-quality arming sword (+1 to hit, x4 cost).
 
 ### Weapon Properties
 - **2H**: This weapon requires 2 hands to wield.
@@ -98,135 +96,74 @@ If a weapon lists 2 or more damage types, the wielder must specify the damage ty
 - **(D)istant**: Beyond perception.
 
 ### Melee Weapons
-
-#### Clubbing
-| Weapon | Weight | Damage | Type | Cost | Slots | Properties |
-|:-------|:------:|:------:|:----:|-----:|:-----:|:-----------|
-| Club          | L | 1d4  | B   |  1cp | 1  | --         |
-| Club, Great   | H | 1d8  | B   |  1sp | 2  | 2H, Impact |
-| Hammer, Light | M | 1d6  | B   | 10sp | 1  | Hurlant    |
-| Hammer, Maul  | H | 1d10 | B   | 50sp | 2  | 2H, Impact |
-| Hammer, War   | M | 1d8  | B/P | 30sp | 1  | Versatile, Impact |
-| Mace          | M | 1d8  | B   | 15sp | 1  | Impact |
-| Mace, Great   | H | 1d10 | B   | 25sp | 2  | 2H, Impact |
-| Morning Star  | M | 1d8  | B   | 30sp | 1  | Versatile, Impact |
-| Quarterstaff  | M | 1d6  | B   |  5cp | 1  | Defensive, Versatile |
-
-#### Hafted
-| Weapon | Weight | Damage | Type | Cost | Slots | Properties |
-|:-------|:------:|:------:|:----:|-----:|:-----:|:-----------|
-| Axe, Battle         | M | 1d8  | S/B or S/P | 20sp | 1 | Versatile, Impact |
-| Axe, Great          | H | 1d10 | S/B        | 60sp | 2 | 2H, Impact |
-| Axe, Hand / Hatchet | L | 1d6  | S/B        | 10sp | 1 | Hurlant |
-| Hammer, Light       | M | 1d6  | B          | 10sp | 1 | Hurlant    |
-| Hammer, Maul        | H | 1d10 | B          | 50sp | 2 | 2H, Impact |
-| Hammer, War         | M | 1d8  | B/P        | 30sp | 1 | Versatile, Impact |
-| Mace                | M | 1d8  | B          | 15sp | 1 | Impact |
-| Mace, Great         | H | 1d10 | B          | 25sp | 2 | 2H, Impact |
-| Morning Star        | M | 1d8  | B          | 30sp | 1 | Versatile, Impact |
-| War Pick            | M | 1d8  | P          | 10sp | 1 | Versatile
-
-#### Fencing
-| Weapon | Weight | Damage | Type | Cost | Slots | Properties |
-|:-------|:------:|:------:|:----:|-----:|:-----:|:-----------|
-| Buckler                 | L | 1d4 | B   | 10sp | 1 | Finesse, Defensive |
-| Dagger                  | L | 1d6 | P/S |  4sp | 1 | Finesse, Hurlant |
-| Sword, Rapier           | M | 1d8 | P   | 50sp | 1 | Finesse |
-| Sword, Saber / Scimitar | M | 1d8 | S   | 50sp | 1 | Finesse |
-| Sword, Short            | L | 1d6 | S/P | 20sp | 1 | Finesse |
-| Sword, Small            | L | 1d6 | P/S | 24sp | 1 | Finesse |
-
-#### Flails
-| Weapon | Weight | Damage | Type | Cost | Slots | Properties |
-|:-------|:------:|:------:|:----:|-----:|:-----:|:-----------|
-| Flail        | M | 1d8  | B | 20sp | 1 | Impact, Flexible |
-| Flail, Heavy | H | 1d10 | B | 25sp | 2 | 2H, Impact, Flexible |
-
-#### Long Blades
-| Weapon | Weight | Damage | Type | Cost | Slots | Properties |
-|:-------|:------:|:------:|:----:|-----:|:-----:|:-----------|
-| Sword, Arming           | M | 1d8  | S/P |  30sp | 1 | Versatile |
-| Sword, Long / Great     | H | 1d10 | S   | 100sp | 2 | 2H, Impact |
-| Sword, Rapier           | M | 1d8  | P   |  50sp | 1 | Finesse |
-| Sword, Saber / Scimitar | M | 1d8  | S   |  50sp | 1 | Finesse |
-
-#### Pole Arms
-| Weapon | Weight | Damage | Type | Cost | Slots | Properties |
-|:-------|:------:|:------:|:----:|-----:|:-----:|:-----------|
-| Bardiche                          | H | 1d10  | S/B | 40sp | 2 | Reach, 2H, Impact |
-| Bec de Corbyn / Pole Hammer       | H | 1d10  | B/P | 40sp | 2 | Reach, 2H, Impact |
-| Halberd / Poleaxe / Bill / Glaive | H | 1d10  | S/P | 40sp | 2 | Reach, 2H, Impact |
-| Pike                              | H | 1d10  | P   |  4sp | 2 | Reach, 2H |
-| Spear                             | M |  1d8  | P   |  2sp | 1 | Versatile, Hurlant |
-| Trident                           | M | 1d8+1 | P   | 10sp | 1 | Versatile, Hurlant |
-
-#### Short Blades
-| Weapon | Weight | Damage | Type | Cost | Slots | Properties |
-|:-------|:------:|:------:|:----:|-----:|:-----:|:-----------|
-| Dagger       | L | 1d6 | P/S |  4sp | 1 | Finesse, Hurlant |
-| Sword, Short | L | 1d6 | S/P | 20sp | 1 | Finesse |
-| Sword, Small | L | 1d6 | P/S | 24sp | 1 | Finesse |
-
-#### Spears
-| Weapon | Weight | Damage | Type | Cost | Slots | Properties |
-|:-------|:------:|:------:|:----:|-----:|:-----:|:-----------|
-| Javelin | M |  1d6  | P |  1sp | 1 | Versatile, Hurlant |
-| Lance   | H | 1d10  | P | 20sp | 2 | Reach, Mounted, Impact |
-| Pike    | H | 1d10  | P |  4sp | 2 | Reach, 2H |
-| Spear   | M |  1d8  | P |  2sp | 1 | Versatile, Hurlant |
-| Trident | M | 1d8+1 | P | 10sp | 1 | Versatile, Hurlant |
-
-#### Other
-| Weapon | Weight | Damage | Type | Cost | Slots | Properties |
-|:-------|:------:|:------:|:----:|-----:|:-----:|:-----------|
-| Improvised | ?      |   ? |  ? |  -- | ? |  |
-| Net        | M |  -- | -- | 2sp | 1 | Hurlant, Snare, 2H |
-| Unarmed*   | L |   1 |  B |  -- | 0 | Finesse |
-| Whip       | L | 1d6 |  S | 4sp | 1 | Finesse, Reach, Snare, Flexible |
+| Weapon                            | Weight | Damage | Type       |  Cost | Slots | Properties |
+|:----------------------------------|:------:|:------:|:----------:|------:|:-----:|:-----------|
+| Axe, Battle                       | M      | 1d8    | S/B or S/P |  20sp | 1     | Versatile, Impact |
+| Axe, Great                        | H      | 1d10   | S/B        |  60sp | 2     | 2H, Impact |
+| Axe, Hand / Hatchet               | L      | 1d6    | S/B        |  10sp | 1     | Hurlant |
+| Bardiche                          | H      | 1d10   | S/B        |  40sp | 2     | Reach, 2H, Impact |
+| Bec de Corbyn / Pole Hammer       | H      | 1d10   | B/P        |  40sp | 2     | Reach, 2H, Impact |
+| Buckler                           | L      | 1d4    | B          |  10sp | 1     | Finesse, Defensive |
+| Club                              | L      | 1d4    | B          |   1cp | 1     | --         |
+| Club, Great                       | H      | 1d8    | B          |   1sp | 2     | 2H, Impact |
+| Dagger                            | L      | 1d6    | P/S        |   4sp | 1     | Finesse, Hurlant |
+| Flail                             | M      | 1d8    | B          |  20sp | 1     | Impact, Flexible |
+| Flail, Heavy                      | H      | 1d10   | B          | 25sp | 2     | 2H, Impact, Flexible |
+| Halberd / Poleaxe / Bill / Glaive | H      | 1d10   | S/P        |  40sp | 2     | Reach, 2H, Impact |
+| Hammer, Light                     | M      | 1d6    | B          |  10sp | 1     | Hurlant    |
+| Hammer, Maul                      | H      | 1d10   | B          |  50sp | 2     | 2H, Impact |
+| Hammer, War                       | M      | 1d8    | B/P        |  30sp | 1     | Versatile, Impact |
+| Improvised                        | ?      |   ?    |  ?         |   --  | ?     |  |
+| Javelin                           | M      | 1d6    | P          |   1sp | 1     | Versatile, Hurlant |
+| Lance                             | H      | 1d10   | P          |  20sp | 2     | Reach, Mounted, Impact |
+| Mace                              | M      | 1d8    | B          |  15sp | 1     | Impact |
+| Mace, Great                       | H      | 1d10   | B          |  25sp | 2     | 2H, Impact |
+| Morning Star                      | M      | 1d8    | B          |  30sp | 1     | Versatile, Impact |
+| Net                               | M      |  --    | --         |  2sp  | 1     | Flexible, Hurlant, Snare, 2H |
+| Pike                              | H      | 1d10   | P          |   4sp | 2     | Reach, 2H |
+| Quarterstaff                      | L      | 1d6    | B          |   5cp | 1     | Defensive, Versatile |
+| Spear                             | M      | 1d8    | P          |   2sp | 1     | Versatile, Hurlant |
+| Sword, Arming                     | M      | 1d8    | S/P        |  30sp | 1     | Versatile |
+| Sword, Long / Great               | H      | 1d10   | S          | 100sp | 2     | 2H, Impact |
+| Sword, Rapier                     | M      | 1d8    | P          |  50sp | 1     | Finesse |
+| Sword, Saber / Scimitar           | M      | 1d8    | S          |  50sp | 1     | Finesse |
+| Sword, Short                      | L      | 1d6    | S/P        |  20sp | 1     | Finesse |
+| Sword, Small                      | L      | 1d6    | P/S        | 24sp  | 1     | Finesse |
+| Trident                           | M      | 1d8+1  | P          | 10sp  | 1     | Versatile, Hurlant |
+| Unarmed*                          | L      | 1d2    | B          |  --   | 0     | Finesse |
+| War Pick                          | M      | 1d8    | P          | 10sp  | 1     | Versatile |
+| Whip                              | L      | 1d6    |  S         | 4sp   | 1     | Finesse, Reach, Snare, Flexible |
 
 <sub>
-'Other' is not a proper category.   Rather, weapons in this group defy classification under this system and proficiency in each weapon must be taken individually.<br/>
 ? -- These properties must be decided upon by the GM when the improvised weapon is acquired.<br/>
 * -- All characters are always proficient with unarmed combat.
 </sub>
 
 ### Ranged Weapons
-#### Bows
-| Weapon | Weight | Damage | Type | Range | Cost | Slots | Properties |
-|:-------|:------:|:------:|:----:|:-----:|-----:|:-----:|:-----------|
-| Bow, Long  | H | 1d8 | P | F | 100sp | 2 | 2H |
-| Bow, Short | M | 1d6 | P | F |  50sp | 1 | 2H |
+| Weapon               | Weight | Damage | Type  | Range | Cost  | Slots | Properties |
+|:---------------------|:------:|:------:|:-----:|:-----:|------:|:-----:|:-----------|
+| Axe, Hand / Hatchet  | L      |  1d6   | S/B   | N     |  10sp | 1     | Hurlant |
+| Blowgun              | L      |  1d4   |  P    | N     |  20sp | 1     | Reload |
+| Bola                 | L      |  1d4   |  B    | N     |   1sp | 1     | Snare, Hurlant |
+| Bow, Long            | H      |  1d8   |  P    | F     | 100sp | 2     | 2H |
+| Bow, Short           | M      |  1d6   |  P    | F     |  50sp | 1     | 2H |
+| Crossbow             | M      |  1d8   |  P    | F     |  75sp | 1     | Reload, 2H |
+| Crossbow, Heavy      | H      | 1d10   |  P    | F     | 150sp | 2     | Reload, 2H |
+| Crossbow, Pistol     | L      |  1d6   |  P    | N     | 200sp | 1     | Reload |
+| Dagger               | L      |  1d6   | P/S   | N     |   4sp | 1     | Finesse, Hurlant |
+| Darts (10)           | L      |  1d4   |  P    | N     |   1sp | 1     | Finesse, Hurlant |
+| Hammer, Light        | M      |  1d6   |  B    | N     |  10sp | 1     | Hurlant    |
+| Improvised           | ?      | ?      |  ?    | N     |  --   | ?     |  |
+| Javelin              | M      |  1d6   |  P    | N     |   1sp | 1     | Versatile, Hurlant |
+| Lasso                | L      |  --    |  --   | N     |   4cp | 1     | Snare, Flexible |
+| Net                  | M      |  --    |  --   | N     |   2sp | 1     | Hurlant, Snare, 2H, Flexible |
+| Sling                | L      |  1d6   |  B    | F     |   2cp | 1     |  |
+| Spear                | M      |  1d8   |  P    | N     |   2sp | 1     | Versatile, Hurlant |
+| Trident              | M      | 1d8+1  |  P    | N     | 1 0sp | 1     | Versatile, Hurlant |
 
-#### Crossbows
-| Weapon | Weight | Damage | Type | Range | Cost | Slots | Properties |
-|:-------|:------:|:------:|:----:|:-----:|-----:|:-----:|:-----------|
-| Crossbow         | M |  1d8 | P | F |  75sp | 1 | Reload, 2H |
-| Crossbow, Pistol | L |  1d6 | P | N | 200sp | 1 | Reload |
-| Crossbow, Heavy  | H | 1d10 | P | F | 150sp | 2 | Reload, 2H |
-
-#### Hurlants
-| Weapon | Weight | Damage | Type | Range | Cost | Slots | Properties |
-|:-------|:------:|:------:|:----:|:-----:|-----:|:-----:|:-----------|
-| Axe, Hand / Hatchet | L |  1d6  | S/B | N | 10sp | 1 | Hurlant |
-| Bola                | L |  1d4  | B   | N |  1sp | 1 | Snare, Hurlant |
-| Dagger              | L |  1d6  | P/S | N |  4sp | 1 | Finesse, Hurlant |
-| Darts (10)          | L |  1d4  | P   | N |  1sp | 1 | Finesse, Hurlant |
-| Hammer, Light       | M |  1d6  | B   | N | 10sp | 1 | Hurlant    |
-| Javelin             | M |  1d6  | P   | N |  1sp | 1 | Versatile, Hurlant |
-| Spear               | M |  1d8  | P   | N |  2sp | 1 | Versatile, Hurlant |
-| Trident             | M | 1d8+1 | P   | N | 10sp | 1 | Versatile, Hurlant |
-
-#### Other
-| Weapon | Weight | Damage | Type | Range | Cost | Slots | Properties |
-|:-------|:------:|:------:|:----:|:-----:|-----:|:-----:|:-----------|
-| Blowgun    | L | 1d4 |  P | N | 20sp | 1 | Reload |
-| Improvised | ? | ? | ? | N |  --  | ? |  |
-| Lasso      | L |  -- | -- | N |  4cp | 1 | Snare |
-| Net        | M |  -- | -- | N |  2sp | 1 | Hurlant, Snare, 2H |
-| Sling      | L | 1d6 |  B | F |  2cp | 1 |  |
 
 <sub>
-'Other' is not a proper category.   Rather, weapons in this group defy classification under this system and proficiency in each weapon must be taken individually.<br/>
+? -- These properties must be decided upon by the GM when the improvised weapon is acquired.<br/>
 </sub>
 
 ## Armor
@@ -280,30 +217,30 @@ This is a list of common adventuring gear, much of which can be found in various
 |:-----|-----:|:-----:|:---|
 | Acid (flask)              |  50sp |  1 | Hurlant; 5ft splash; 1d6 acid dmg per rd; 2d4(pool) rds |
 | Alchemist's Fire (flask)  | 100sp |  1 | Hurlant; 5ft splash; 1d8 fire dmg per rd; 2d6(pool) rds |
-| *Ammunition*              |    -- | -- | -- |
-| -Arrows (20)             |   2sp |  1 | |
-| -Blowgun Needles (50)    |   2sp |  1 | |
-| -Crossbow Bolts (20)     |   2sp |  1 | |
-| -Sling Bullets (20)      |   2cp |  1 | |
-| Antitoxin (2 doses)       | 100sp |  1 | **Adv** on **CON Checks** to recover from poison and increases **Defense** vs poison by +2. |
+| *Ammunition*              |    -- | -- | |
+| -Arrows (20)              |   2sp |  1 | |
+| -Blowgun Needles (50)     |   2sp |  1 | |
+| -Crossbow Bolts (20)      |   2sp |  1 | |
+| -Sling Bullets (20)       |   2cp |  1 | |
+| Antitoxin (2 doses)       | 100sp |  1 | **Adv** on **Hardiness Saves** and **CON Checks** vs poison. |
 | Backpack                  |   4sp |  * | Allows wearer to have **Stashed Items** |
 | Bedroll & Blanket         |   2sp |  1 | |
-| Book                      |  50sp |  1 | Grants **Adv** on **Lore** checks for one specific subject. |
-| Caltrops (1 bag)          |   2sp |  1 | Covers a 10ft area creating **Difficult Terrain** and does 1d4 piercing dmg on a failed **DEX Check** vs difficulty 10. |
+| Book                      |  50sp |  1 | Grants **Adv** on **INT** checks for one specific subject. |
+| Caltrops (1 bag)          |   2sp |  1 | Covers a 10ft area creating **Difficult Terrain** and does 1d4 piercing dmg on a failed **Evasion Save** vs difficulty 10. |
 | Candles (5)               |   2cp |  1 | 5ft dim light for 1 hour each. |
-| Chest, Small              |  10sp |  2 | |
-| Chest, Large              | 100sp |  5 | |
+| Chest, Small              |  10sp |  2 | Can hold up to 10 **items**. |
+| Chest, Large              | 100sp |  5 | Can hold up to 30 **items**. |
 | Climber's Kit             |  50sp |  2 | Grants +2 on all climbing checks. |
 | Clothing                  |   2cp |  * |  |
 | Coins (100)               |   var |  1 |  |
-| Crowbar                   |  10sp |  1 | Grants +2 on STR Checks if leverage applies; counts as a 1d6 dmg club at -1 to hit. |
+| Crowbar                   |  10sp |  1 | Grants **Adv** on STR Checks if leverage applies; counts as a 1d6 dmg club at -1 to hit. |
 | Disguise Kit              |  20sp |  1 | |
 | Flask / Bottle            |   4sp |  1 | Holds 1 qt of liquid |
 | Firestarting Kit          |   5cp |  1 | |
-| *Games*                   |    -- | -- |  |
-| -Cards (deck)            |   2cp |  @ | |
-| -Dice                    |   2cp |  # | |
-| -Board                   |   1sp |  1 | chess, backgammon or the like |
+| *Games*                   |    -- | -- | |
+| -Cards (deck)             |   2cp |  @ | |
+| -Dice                     |   2cp |  # | |
+| -Board                    |   1sp |  1 | chess, backgammon or the like |
 | Gems                      |   var |  @ | |
 | Grappling Hook            |   4sp |  1 | |
 | Hammer                    |   2sp |  1 | 1d4 blunt dmg at -1 to hit |
@@ -330,7 +267,7 @@ This is a list of common adventuring gear, much of which can be found in various
 | Rations (1 day)           |   1sp |  1 | 1 day's food & water |
 | Rations (1 wk)            |   5sp |  3 | **Bundle** of 7 days' rations. |
 | Rope, 50ft                |   2sp |  1 | |
-| Shovel                    |   4sp |  1 | Counts as a great club doing 1d6 blunt dmg at -1 to hit. |
+| Shovel                    |   4sp |  1 | Counts as a club doing 1d6 blunt dmg at -1 to hit. |
 | Signet Ring               |  10sp |  @ | |
 | Signet Ring (counterfeit) |   5sp |  @ | Difficulty 15 **Perception** to spot. |
 | Spellbook                 | 100sp |  1 | 100 pages |
@@ -352,8 +289,8 @@ This is a list of common adventuring gear, much of which can be found in various
 ### Equipment Packs
 For convenience the following equipment packs exist as pre-build packages at a discount in cost for buying in ‘bulk’.
 
-| Pack | Cost | Contents | 
-|:-----|-----:|:---------|
+| Pack            |  Cost | Contents | 
+|:----------------|------:|:---------|
 | Explorer's Pack |  50sp | backpack, practical clothes, heavy cloak, bedroll, mess kit, tinderbox, 10 torches, 1 week’s rations, 50ft rope, leather armor, one light weapon and one medium weapon. |
 | Mage's Pack     | 100sp | backpack, common robes, spellbook, many pouches, the components for a single **Rank** 1 **ritual**, and a light weapon. |
 | Rogue's Pack    |  80sp | backpack, dark clothing, sack, 10 candles, crowbar, hammer, 10 pitons, hooded lantern, 2 flasks of oil, tinderbox, lockpicks, 50ft rope, leather armor, 1 light weapon and 1 medium weapon. |
@@ -362,16 +299,16 @@ For convenience the following equipment packs exist as pre-build packages at a d
 ### Food and Shelter
 While on an adventure, your character will still need food to eat and a place to sleep.  Travel rations and a thin bedroll on hard cold ground may be sustaining, but they’re hardly comfortable.  When in need of proper accommodations, the table below gives the cost for average examples of the normal food and service obtainable.
 
-| Item | Cost | Notes |
-|:-----|-----:|:------|
-| Inn Stay | 1sp | 1 day; common quality counts toward a modest [Lifestyle](#lifestyle-expenses). |
-| Meals    | 1sp | 1 day; common quality counts toward a modest [Lifestyle](#lifestyle-expenses). |
-| *Drink*  |  -- | costs are per serving |
-| -Ale     | 2cp | |
-| -Beer    | 1cp | |
-| -Mead    | 2sp | |
-| -Spirits | 4sp | |
-| -Wine    | 4cp | |
+| Item     | Cost | Notes |
+|:---------|-----:|:------|
+| Inn Stay |  1sp | 1 day; common quality counts toward a modest [Lifestyle](#lifestyle-expenses). |
+| Meals    |  1sp | 1 day; common quality counts toward a modest [Lifestyle](#lifestyle-expenses). |
+| *Drink*  |   -- | costs are per serving |
+| -Ale     |  2cp | |
+| -Beer    |  1cp | |
+| -Mead    |  2sp | |
+| -Spirits |  4sp | |
+| -Wine    |  4cp | |
 
 ### Lifestyle Expenses
 Between adventures your character needs to be able to rest and heal.  Doing so in style costs money.  The table below lists the daily price to maintain a particular lifestyle.  Each lifestyle rank, aside from **Modest**, can impact your character’s social interactions and how well they can rest and heal.
@@ -386,23 +323,23 @@ A **Wealthy** lifestyle affords the finer foods and lodging, as well as the oppo
 
 With an **Aristocratic** lifestyle, you’re practically one of the nobility (even if not, in fact, a noble).  You are able to afford the best of everything and not only do you enjoy the same healing benefits as the **Wealthy**, others also look up to you.  Your finery and status grant you **Advantage** on any social interaction checks.
 
-| Lifestyle | Cost | Notes |
-|:----------|-----:|:------|
-| Squalid   |  0sp | **Disadvantage** on social checks.  Must pass a diff 15 **CON Check** to recover **Exhaustion**. |
-| Poor      |  2cp | Must pass a diff 10 **CON Check** to recover **Exhaustion**. |
-| Modest    |  2sp | -- |
-| Wealthy   |  8sp | Roll +1 HD when healing. |
+| Lifestyle    | Cost | Notes |
+|:-------------|-----:|:------|
+| Squalid      |  0sp | **Disadvantage** on social checks.  Must pass a diff 15 **CON Check** to recover **Exhaustion**. |
+| Poor         |  2cp | Must pass a diff 10 **CON Check** to recover **Exhaustion**. |
+| Modest       |  2sp | -- |
+| Wealthy      |  8sp | Roll +1 HD when healing. |
 | Aristocratic | 20sp | Roll +1 HD when healing.  **Advantage** on social checks. |
 
 <sub>Costs on the above table are per day.</sub>
 
 ### Services
-Below is a list of common services that an adventurer might need.  Not all services are available in every town or village.  An artisan may service multiple villages while a single city might have enough to form a guild for that profession.
+Below is a list of common services that an adventurer might need.  Not all services are available in every town or village.  An artisan may service multiple villages while a single city might have enough artisans to form a guild for that profession.
 
 See the Hirelings and Allies rules for additional notes on the hiring process.
 
-| Service | Cost | Notes |
-|:--------|-----:|:------|
+| Service            | Cost     | Notes |
+|:-------------------|---------:|:------|
 | *Bribes*           |          |  |
 | -minor             |     10sp |  |
 | -moderate          |    100sp |  |
@@ -446,37 +383,37 @@ Be it as a beast of burden, means of transportation or just some extra protectio
 
 Animals can typically drag/pull five times their carry if otherwise unburdened.
 
-| Animal | Cost | Speed | Notes |
-|:-------|-----:|:-----:|:------|
-| Camel             |   100sp | 50ft | Carry 22 items |
-| Donkey / Mule     |    50sp | 40ft | Carry 20 items |
-| Elephant          | 3,000sp | 40ft | Carry 30 items |
-| Horse, draft / Ox |   100sp | 40ft | Carry 25 items |
-| Horse, riding     |   150sp | 60ft | Carry 22 items |
-| Horse, war        | 2,000sp | 60ft | Carry 25 items |
-| Dog, guard        |    25sp | 40ft | Carry 8 items |
-| Dog, war          |    50sp | 40ft | Carry 11 items |
-| Pony              |    60sp | 40ft | Carry 17 items |
+| Animal            |    Cost | Speed | Notes |
+|:------------------|--------:|:-----:|:------|
+| Camel             |   100sp | 50ft  | Carry 22 items |
+| Donkey / Mule     |    50sp | 40ft  | Carry 20 items |
+| Elephant          | 3,000sp | 40ft  | Carry 30 items |
+| Horse, draft / Ox |   100sp | 40ft  | Carry 25 items |
+| Horse, riding     |   150sp | 60ft  | Carry 22 items |
+| Horse, war        | 2,000sp | 60ft  | Carry 25 items |
+| Dog, guard        |    25sp | 40ft  | Carry 8 items |
+| Dog, war          |    50sp | 40ft  | Carry 11 items |
+| Pony              |    60sp | 40ft  | Carry 17 items |
 
 ### Tack and Harness
 Once you have an animal companion, you way want to outfit it for your adventuring lifestyle.  The Barding entry of the table gives the cost and encumbrance multipliers for barding equivalent to any of the armor types listed above.
 
-| Item | Cost | Slots | Notes |
-|:-----|-----:|:-----:|:------|
-| *Barding*        |       |      |  |
-| -Small           |  x0.5 | x0.5 |  |
-| -Medium          |  x1.0 | x1.0 |  |
-| -Large           |  x4.0 | x2.0 |  |
-| -Huge            |  x8.0 | x4.0 |  |
-| Bit & Bridle     |   4sp |    @ | **Disadvantage** on mount control checks without this. |
-| Feed (dialy)     |   1cp |    2 |  |
-| *Saddle*         |       |      | **Disadvantage** on riding checks without this. |
-| -Exotic          | 120sp |    8 | Required for aquatic or flying mounts. |
-| -Military        |  40sp |    6 | Grants **Advantage** on checks to remain mounted. |
-| -Pack            |  10sp |    3 | Increases carry capacity by 20%. |
-| -Riding          |  20sp |    5 |  |
-| Saddlebags       |   8sp |    2 | Increase carry capacity by 10%. |
-| Stabling (daily) |   1sp |   -- | Includes straw to eat, access to the water trough and a brush down by a stable hand. |
+| Item             |  Cost | Slots | Notes |
+|:-----------------|------:|:-----:|:------|
+| *Barding*        |       |       |  |
+| -Small           |  x0.5 | x0.5  |  |
+| -Medium          |  x1.0 | x1.0  |  |
+| -Large           |  x4.0 | x2.0  |  |
+| -Huge            |  x8.0 | x4.0  |  |
+| Bit & Bridle     |   4sp |    @  | **Disadvantage** on mount control checks without this. |
+| Feed (dialy)     |   1cp |    2  |  |
+| *Saddle*         |       |       | **Disadvantage** on riding checks without this. |
+| -Exotic          | 120sp |    8  | Required for aquatic or flying mounts. |
+| -Military        |  40sp |    6  | Grants **Advantage** on checks to remain mounted. |
+| -Pack            |  10sp |    3  | Increases carry capacity by 20%. |
+| -Riding          |  20sp |    5  |  |
+| Saddlebags       |   8sp |    2  | Increase carry capacity by 10%. |
+| Stabling (daily) |   1sp |   --  | Includes straw to eat, access to the water trough and a brush down by a stable hand. |
 
 <sub>
 @ No encumbrance when worn.  Encumbrance 1 otherwise.
@@ -487,10 +424,10 @@ Sometimes you want to travel in style.  The prices below are to outright own a g
 
 Encumbrance is in **Slots** when the vehicle is being pulled and does not account for items in the vehicle.  A drawn vehicle's max capacity is equal to its own Encumbrance.
 
-| Vehicle | Cost | Encumbrance | Notes |
-|:--------|-----:|:-----------:|:------|
-| Carriage | 500sp | 120 |  |
-| Cart     |  16sp |  40 |  |
-| Chariot  | 200sp |  20 |  |
-| Sled     |  20sp |  40 |  |
-| Wagon    |  50sp |  80 |  |
+| Vehicle  |  Cost | Encumbrance | Notes |
+|:---------|------:|:-----------:|:------|
+| Carriage | 500sp | 120         |  |
+| Cart     |  16sp |  40         |  |
+| Chariot  | 200sp |  20         |  |
+| Sled     |  20sp |  40         |  |
+| Wagon    |  50sp |  80         |  |
