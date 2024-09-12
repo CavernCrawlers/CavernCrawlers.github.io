@@ -1,6 +1,13 @@
 - [Home](/)
 - [Rules Synopsis](RulesSynopsis.md)
 - [Character Creation](CharacterCreation.md)
+- Species
+	- [Dwarf](Dwarf.md)
+ 	- [Elf](Elf.md)
+	- [Goblin](Goblin.md)
+ 	- [Hob](Hob.md)
+  	- [Human](Human.md)
+  	- [Orc](Orc.md)
 - Classes
 	- [Fighter](Fighter.md)
 	- [Rogue](Rogue.md)
