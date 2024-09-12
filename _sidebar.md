@@ -5,7 +5,7 @@
 	- [Fighter](Fighter.md)
 	- [Rogue](Rogue.md)
 	- [Spellcaster](Spellcaster.md)
-	- [Warrior-Rogue](Warrior-Rogue.md)
+	- [Fighter-Rogue](Fighter-Rogue.md)
 	- [Warrior-Spellcaster](Warrior-Spellcaster.md)
 	- [Rogue-Spellcaster](Rogue-Spellcaster.md)
 - [Skills](Skills.md)
