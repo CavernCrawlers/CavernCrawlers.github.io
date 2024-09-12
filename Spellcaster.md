@@ -19,7 +19,7 @@ You may recover expended **Invocation Dice** by gaining 1 level of **Exhaustion*
 ### Magical Focus
 As part of your apprenticeship, you created a unique magical focus to aid in your spellcasting.  This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held.  So long as you have your Magical Focus, your **Invocation Dice** are only removed on rolls of 1, rather than 1 or 2.  A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 50sp worth of materials.
 
-### Magic User
+### Spellcasting
 You can harness the power of magic.  A mage begins their career knowing two cantrips and two spells.  You will need to select a **Magical Tradition** from which your spells will be drawn.  You may not cast a spell of a Tier higher than half your level (rounded up).  Your spells have a DT equal to the DT shown on the table below plus the spell's listed **Ability Score Modifier**.
 
 ### Sense Magic
@@ -31,17 +31,17 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 ### Spellcaster Table
 | Level | Hit Dice | Attack Bonus | Invocation Dice | Spell DT | Traits | Abilities |
 |:-----:|:--------:|:------------:|:---------------:|:------:|:--------:|:----------|
-|  1    |    1d4   | +0           |  3d6            |  11+   |   0    | Exhausting Magic, Magical Focus, Magic User (rank 1), Sense Magic, True Name |
+|  1    |    1d4   | +0           |  3d6            |  11+   |   0    | Exhausting Magic, Magical Focus, Spellcasting (rank 1), Sense Magic, True Name |
 |  2    |    2d4   | +0           |  4d6            |  11+   |  +1    |  |
-|  3    |    3d4   | +1           |  5d6            |  12+   |  --    | Magic User (rank 2) |
+|  3    |    3d4   | +1           |  5d6            |  12+   |  --    | Spellcasting (rank 2) |
 |  4    |    4d4   | +1           |  6d6            |  12+   |  --    |  |
-|  5    |    5d4   | +1           |  7d6            |  13+   |  --    | Magic User (rank 3) |
+|  5    |    5d4   | +1           |  7d6            |  13+   |  --    | Spellcasting (rank 3) |
 |  6    |    6d4   | +2           |  8d6            |  13+   |  +1    |  |
-|  7    |    7d4   | +2           |  9d6            |  14+   |  --    | Magic User (rank 4) |
+|  7    |    7d4   | +2           |  9d6            |  14+   |  --    | Spellcasting (rank 4) |
 |  8    |    8d4   | +2           | 10d6            |  15+   |  --    |  |
-|  9    |    9d4   | +3           | 11d6            |  15+   |  --    | Magic User (rank 5) |
+|  9    |    9d4   | +3           | 11d6            |  15+   |  --    | Spellcasting (rank 5) |
 | 10    |   10d4   | +3           | 12d6            |  16+   |  +1    |  |
-| 11    |   10d4+1 | +3           | 13d6            |  16+   |  --    | Magic User (rank 6) |
+| 11    |   10d4+1 | +3           | 13d6            |  16+   |  --    | Spellcasting (rank 6) |
 | 12    |   10d4+2 | +4           | 14d6            |  17+   |  --    |  |
 | 13    |   10d4+3 | +4           | 15d6            |  17+   |  +1    |  |
 | 14    |   10d4+4 | +5           | 16d6            |  18+   |  --    |  |
