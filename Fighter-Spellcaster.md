@@ -1,4 +1,4 @@
-# Warrior-Spellcaster
+# Fighter-Spellcaster
 
 - **Starting HP**: 6 + CON Modifier
 - **Hit Dice**: 1d6 + CON Modifier per level
@@ -28,7 +28,7 @@ Being naturally sensitive to the world of magic, you may determine if a person, 
 ### True Name
 As a magic-user possessing supernatural power, you have a **True Name**.  Those who know your True Name can use it against you.  By calling out your True Name, a creature gains **Advantage** on all actions taken against you, including attacks and you have **Disadvantage** on your **Invocation** checks to cast spells against them.
 
-### Warrior-Spellcaster Table
+### Fighter-Spellcaster Table
 | Level | Hit Dice | Attack Bonus |  Invocation Dice | Spell DT |  Traits | Abilities |
 |:-----:|:--------:|:------------:|:----------------:|:--------:|:-------:|:---|
 |   1   |    1d6   |      +1      |        2d6       |    10+   |     1   | Exhausting Magic, Spellcasting, Magic User (cantrip), Sense Magic, True Name |
@@ -47,7 +47,7 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 |  14   |   10d6+8 |      +7      |       13d6       |    16+   |    +1   |  |
 |  15   |  10d6+10 |      +8      |       14d6       |    17+   |    --   | Spellcasting (rank 5) |
 
-### Warrior-Spellcaster Defenses
+### Fighter-Spellcaster Defenses
 | Level | Evasion | Hardiness | Spirit |
 |:-----:|:-------:|:---------:|:------:|
 |   1   |    +1   |     +1    |   +1   |
@@ -66,7 +66,7 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 |  14   |   +10   |    +10    |   +9   |
 |  15   |   +11   |    +10    |  +10   |
 
-## Warrior-Spellcaster Knacks
+## Fighter-Spellcaster Knacks
 
 **Archer**: You do not have **Disadvantage** when making attacks at Far range.
 
@@ -90,7 +90,7 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 
 **Weapon Specialization**:  Pick a weapon. Your character receives a +1 to hit and +2 damage bonus while wielding this weapon. If this talent is taken at 1st level, your character begins the game with this weapon for free.  This knack may be taken more than once, applying to a different weapon each time.
 
-### Sample Warrior-Spellcaster Builds
+### Sample Fighter-Spellcaster Builds
 - **Spellblade**
 	- Tradition: Wizardry
 - **Warlock**
