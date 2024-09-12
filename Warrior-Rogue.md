@@ -20,7 +20,7 @@ While anyone may attempt to climb a vertical surface with reasonable handholds (
 You have greater luck than other characters.  Your Base and Max **Fortune Points** are each increased by 1.
 
 ### Mighty Deed
-Once per turn, when you make a melee attack, you may declare a Mighty Deed.  Describe the special effect you wish to add to your attack (such as disarming an opponent, tripping them, pushing them back, etc).  If the attack hits, and the die face is equal to or greater than your Mighty Deed target number, the Mighty Deed succeeds.  Note that the Mighty Deed cannot add to the damage of the attack and the target's **Defenses** may apply.
+Once per turn, when you make a melee attack, you may declare a Mighty Deed.  Describe the special effect you wish to add to your attack (such as disarming an opponent, tripping them, pushing them back, etc).  If the attack hits, and the die face is equal to or greater than your Mighty Deed target number, the Mighty Deed succeeds.  Note that the Mighty Deed cannot add to the damage of the attack and the target's **Saving Throws** may apply.
 
 ### Search
 Add this bonus on any attempt to find hidden things.  This bonus also applies when attempting to read lips.
