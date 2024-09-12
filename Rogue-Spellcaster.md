@@ -31,21 +31,21 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 ### Rogue-Spellcaster Table
 | Level | Hit Dice | Attack Bonus | Invocation Dice | Spell DT |  Traits | Abilities |
 |:-----:|:--------:|:------------:|:---------------:|:--------:|:------:|:---|
-|   1   | 1d5      | +1           |  1d6            | 10+      |  1     |Exhausting Magic, Highly Skilled, Magical Focus, Sense Magic, Spellcasting (cantrips), True Name |
-|   2   | 2d5      | +2           |  2d6            | 11+      | +1     |  |
-|   3   | 3d5      | +2           |  3d6            | 11+      | --     | Spellcasting (rank 1) |
-|   4   | 4d5      | +2           |  4d6            | 12+      | +1     |  |
-|   5   | 5d5      | +2           |  5d6            | 12+      | --     |  |
-|   6   | 6d5      | +3           |  6d6            | 13+      | --     | Spellcasting (rank 2) |
+|   1   | 1d5      | +1           |  2d6            | 10+      |  1     |Exhausting Magic, Highly Skilled, Magical Focus, Sense Magic, Spellcasting (cantrips), True Name |
+|   2   | 2d5      | +1           |  3d6            | 11+      | +1     |  |
+|   3   | 3d5      | +2           |  4d6            | 11+      | --     | Spellcasting (rank 1) |
+|   4   | 4d5      | +2           |  5d6            | 12+      | +1     |  |
+|   5   | 5d5      | +2           |  6d6            | 12+      | --     |  |
+|   6   | 6d5      | +3           |  6d6            | 12+      | --     | Spellcasting (rank 2) |
 |   7   | 7d5      | +3           |  7d6            | 13+      | +1     |  |
 |   8   | 8d5      | +3           |  8d6            | 13+      | --     |  |
 |   9   | 9d5      | +4           |  9d6            | 14+      | --     | Spellcasting (rank 3) |
-|  10   | 10d5     | +4           | 10d6            | 14+      | +1     |  |
-|  11   | 10d5+1   | +5           | 11d6            | 15+      | --     |  |
-|  12   | 10d5+2   | +5           | 12d6            | 15+      | --     | Spellcasting (rank 4) |
-|  13   | 10d5+3   | +6           | 13d6            | 16+      | +1     |  |
-|  14   | 10d5+4   | +6           | 14d6            | 16+      | +1     |  |
-|  15   | 10d5+5   | +7           | 15d6            | 16+      | --     | Spellcasting (rank 5) |
+|  10   | 10d5     | +4           | 10d6            | 15+      | +1     |  |
+|  11   | 10d5+1   | +5           | 10d6            | 15+      | --     |  |
+|  12   | 10d5+2   | +5           | 11d6            | 15+      | --     | Spellcasting (rank 4) |
+|  13   | 10d5+3   | +6           | 12d6            | 16+      | +1     |  |
+|  14   | 10d5+4   | +6           | 13d6            | 16+      | +1     |  |
+|  15   | 10d5+5   | +7           | 14d6            | 17+      | --     | Spellcasting (rank 5) |
 
 ### Rogue-Spellcaster Saving Throws
 | Level | Evasion | Hardiness | Spirit |
@@ -69,21 +69,21 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 ### Rogue Skills
 | Level | Climb | Locks & Traps | Search | Stealth | Skullduggery | Sneak Attack |
 |:-----:|:-----:|:-------------:|:------:|:-------:|:------------:|:------------:|
-|   1   |  +1   |  +0           |   +0   |   +0    |      +0      |      --      |
-|   2   |  +2   |  +0           |   +0   |   +0    |      +0      |      --      |
-|   3   |  +3   |  +1           |   +0   |   +1    |      +1      |    +1d3      |
-|   4   |  +3   |  +1           |   +0   |   +1    |      +1      |    +1d4      |
-|   5   |  +4   |  +2           |   +1   |   +2    |      +2      |    +1d4      |
+|   1   |  +2   |  +0           |   +0   |   +0    |      +0      |      --      |
+|   2   |  +3   |  +1           |   +0   |   +1    |      +1      |      --      |
+|   3   |  +3   |  +1           |   +0   |   +1    |      +1      |    +1d4      |
+|   4   |  +4   |  +2           |   +1   |   +2    |      +2      |    +1d4      |
+|   5   |  +4   |  +2           |   +1   |   +2    |      +3      |    +1d4      |
 |   6   |  +4   |  +2           |   +1   |   +2    |      +3      |    +1d4      |
 |   7   |  +5   |  +3           |   +1   |   +3    |      +4      |    +1d4      |
 |   8   |  +5   |  +3           |   +1   |   +3    |      +4      |    +2d4      |
 |   9   |  +6   |  +4           |   +2   |   +4    |      +5      |    +2d4      |
 |  10   |  +6   |  +4           |   +2   |   +4    |      +6      |    +2d4      |
-|  11   |  +7   |  +5           |   +2   |   +5    |      +6      |    +2d4      |
-|  12   |  +7   |  +5           |   +2   |   +5    |      +7      |    +3d4      |
-|  13   |  +8   |  +6           |   +2   |   +6    |      +8      |    +3d4      |
-|  14   |  +8   |  +6           |   +3   |   +6    |      +9      |    +3d4      |
-|  15   |  +9   |  +7           |   +3   |   +7    |      +9      |    +3d4      |
+|  11   |  +6   |  +4           |   +2   |   +4    |      +6      |    +2d4      |
+|  12   |  +7   |  +5           |   +2   |   +5    |      +6      |    +2d4      |
+|  13   |  +7   |  +5           |   +2   |   +5    |      +7      |    +3d4      |
+|  14   |  +8   |  +6           |   +2   |   +6    |      +8      |    +3d4      |
+|  15   |  +8   |  +6           |   +3   |   +6    |      +9      |    +3d4      |
 
 ## Rogue-Spellcaster Knacks
 
