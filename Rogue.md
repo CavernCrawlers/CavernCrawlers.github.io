@@ -49,24 +49,24 @@ While any class may perform these feats of skill, the Rogue gains this additiona
 | 14    | 10d6+4       |  +7              | --     | +1     |  | 
 | 15    | 10d6+5       |  +8              | +1     | --     |  |
 
-### Rogue Defenses
+### Rogue Saving Throws
 | Level | Evasion | Hardiness | Spirit |
 |:-----:|:-------:|:---------:|:------:|
-|   1   |    11   |     10    |   11   |
-|   2   |    12   |     11    |   11   |
-|   3   |    13   |     11    |   12   |
-|   4   |    14   |     12    |   13   |
-|   5   |    14   |     12    |   14   |
-|   6   |    15   |     13    |   14   |
-|   7   |    16   |     14    |   15   |
-|   8   |    17   |     14    |   16   |
-|   9   |    18   |     15    |   16   |
-|  10   |    18   |     15    |   17   |
-|  11   |    19   |     16    |   18   |
-|  12   |    20   |     16    |   19   |
-|  13   |    21   |     17    |   19   |
-|  14   |    21   |     18    |   20   |
-|  15   |    22   |     18    |   21   |
+|   1   |    +1   |     +0    |   +1   |
+|   2   |    +2   |     +1    |   +1   |
+|   3   |    +3   |     +1    |   +2   |
+|   4   |    +4   |     +2    |   +3   |
+|   5   |    +4   |     +2    |   +4   |
+|   6   |    +5   |     +3    |   +4   |
+|   7   |    +6   |     +4    |   +5   |
+|   8   |    +7   |     +4    |   +6   |
+|   9   |    +8   |     +5    |   +6   |
+|  10   |    +8   |     +5    |   +7   |
+|  11   |    +9   |     +6    |   +8   |
+|  12   |   +10   |     +6    |   +9   |
+|  13   |   +11   |     +7    |   +9   |
+|  14   |   +11   |     +8    |  +10   |
+|  15   |   +12   |     +8    |  +11   |
 
 ### Rogue Skills
 | Level | Climb | Locks & Traps | Search | Stealth | Skullduggery | Sneak Attack |
@@ -99,11 +99,11 @@ While any class may perform these feats of skill, the Rogue gains this additiona
 
 **Master of Disguise**: Other characters have **Disadvantage** on checks to see through your disguise and you have **Advantage** on checks to see through someone else’s disguise.
 
-**Poisoner**: If you poison a target, your poison has **Advantage** on overcoming that target's **Defenses**.  Additionally, poisons have **Disadvantage** on overcoming your **Defenses**.
+**Poisoner**: If you poison a target, that target has **Disadvantage** on their **Saving Throw** to resist the poison's effects.  Additionally, you have **Advantage** on your own **Saving Throws** to resist poison.
 
 **Quick Reflexes**: So long as you are not wearing medium or heavy armor, you may use your **Reaction** to take half damage from a single attack that hits you.  You may choose to use this ability after seeing the amount of damage done.
 
-**Second Story Work**: So long as you are not wearing medium or heavy armor, your movement is not slowed when climbing or walking along narrow surfaces.  Additionally, you take half damage from falls if you pass a **Climb** check DT of (10 + 1 per 5 feet fallen).
+**Second Story Work**: So long as you are not wearing medium or heavy armor, your movement is not slowed when climbing or walking along narrow surfaces.  Additionally, you take half damage from falls if you pass an **Evasion** Saving Throw with a DT of (10 + 1 per 5 feet fallen).
 
 **Skulker**: While in dim lighting conditions, you have **Advantage** on stealth checks.   Additionally, dim lighting does not impose **Disadvantage** on your own perception checks.
 
