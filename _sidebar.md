@@ -7,7 +7,7 @@
 	- [Spellcaster](Spellcaster.md)
 	- [Warrior-Rogue](Warrior-Rogue.md)
 	- [Warrior-Spellcaster](Warrior-Spellcaster.md)
-	- [Rogue-Mage](Rogue-Mage.md)
+	- [Rogue-Spellcaster](Rogue-Spellcaster.md)
 - [Skills](Skills.md)
 - [Traits](Traits.md)
 - [Encumbrance and Equipment](Encumbrance_and_Equipment.md)
