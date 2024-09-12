@@ -2,7 +2,7 @@
 
 - **Starting HP**: 7 + CON Modifier
 - **Hit Dice**: 1d6 + 1 + CON Modifier per level
-- **HP after Level 10:** +1 per level
+- **HP after Level 10:** +2 per level
 - **Initiative Bonus**: +1
 - **Armor Training**: Light and Medium Armor, Buckler and Shield
 - **Weapon Training**: All
@@ -47,11 +47,11 @@ While any class may perform these feats of skill, the Rogue gains this additiona
 |    8  |   8d6+8  |      +5      |   --   |   --   | Mighty Deed 10+ |
 |    9  |   9d6+9  |      +6      |   +1   |   --   |  |
 |   10  |  10d6+10 |      +6      |   --   |   +1   |  |
-|   11  |  10d6+11 |      +7      |   +1   |   --   | Mighty Deed 9+  |
-|   12  |  10d6+12 |      +7      |   --   |   --   |  |
-|   13  |  10d6+13 |      +8      |   +1   |   --   |  |
-|   14  |  10d6+14 |      +8      |   --   |   +1   | Mighty Deed 8+  |
-|   15  |  10d6+15 |      +9      |   +1   |   --   |  |
+|   11  |  10d6+12 |      +7      |   +1   |   --   | Mighty Deed 9+  |
+|   12  |  10d6+14 |      +7      |   --   |   --   |  |
+|   13  |  10d6+16 |      +8      |   +1   |   --   |  |
+|   14  |  10d6+18 |      +8      |   --   |   +1   | Mighty Deed 8+  |
+|   15  |  10d6+20 |      +9      |   +1   |   --   |  |
 
 ### Warrior-Rogue Saving Throws
 | Level | Evasion | Hardiness | Spirit |
@@ -75,21 +75,21 @@ While any class may perform these feats of skill, the Rogue gains this additiona
 ### Rogue Skills
 | Level | Climb | Locks & Traps | Search | Stealth | Skullduggery | Sneak Attack |
 |:-----:|:-----:|:-------------:|:------:|:-------:|:------------:|:------------:|
-|   1   |  +1   |  +0           |   +0   |   +0    |      +0      |      --      |
-|   2   |  +2   |  +0           |   +0   |   +0    |      +0      |      --      |
-|   3   |  +3   |  +1           |   +0   |   +1    |      +1      |    +1d3      |
-|   4   |  +3   |  +1           |   +0   |   +1    |      +1      |    +1d4      |
-|   5   |  +4   |  +2           |   +1   |   +2    |      +2      |    +1d4      |
+|   1   |  +2   |  +0           |   +0   |   +0    |      +0      |      --      |
+|   2   |  +3   |  +1           |   +0   |   +1    |      +1      |      --      |
+|   3   |  +3   |  +1           |   +0   |   +1    |      +1      |    +1d4      |
+|   4   |  +4   |  +2           |   +1   |   +2    |      +2      |    +1d4      |
+|   5   |  +4   |  +2           |   +1   |   +2    |      +3      |    +1d4      |
 |   6   |  +4   |  +2           |   +1   |   +2    |      +3      |    +1d4      |
 |   7   |  +5   |  +3           |   +1   |   +3    |      +4      |    +1d4      |
 |   8   |  +5   |  +3           |   +1   |   +3    |      +4      |    +2d4      |
 |   9   |  +6   |  +4           |   +2   |   +4    |      +5      |    +2d4      |
 |  10   |  +6   |  +4           |   +2   |   +4    |      +6      |    +2d4      |
-|  11   |  +7   |  +5           |   +2   |   +5    |      +6      |    +2d4      |
-|  12   |  +7   |  +5           |   +2   |   +5    |      +7      |    +3d4      |
-|  13   |  +8   |  +6           |   +2   |   +6    |      +8      |    +3d4      |
-|  14   |  +8   |  +6           |   +3   |   +6    |      +9      |    +3d4      |
-|  15   |  +9   |  +7           |   +3   |   +7    |      +9      |    +3d4      |
+|  11   |  +6   |  +4           |   +2   |   +4    |      +6      |    +2d4      |
+|  12   |  +7   |  +5           |   +2   |   +5    |      +6      |    +2d4      |
+|  13   |  +7   |  +5           |   +2   |   +5    |      +7      |    +3d4      |
+|  14   |  +8   |  +6           |   +2   |   +6    |      +8      |    +3d4      |
+|  15   |  +8   |  +6           |   +3   |   +6    |      +9      |    +3d4      |
 
 ## Warrior-Rogue Knacks
 
