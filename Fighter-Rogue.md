@@ -1,4 +1,4 @@
-# Warrior-Rogue
+# Fighter-Rogue
 
 - **Starting HP**: 7 + CON Modifier
 - **Hit Dice**: 1d6 + 1 + CON Modifier per level
@@ -34,7 +34,7 @@ When you have **Advantage** on an attack, add the listed damage to the attack.
 ### Other Rogue Skills
 While any class may perform these feats of skill, the Rogue gains this additional class-based bonus based on level.
 
-### Warrior-Rogue Table
+### Fighter-Rogue Table
 | Level | Hit Dice | Attack Bonus | Knacks | Traits | Abilities |
 |:-----:|:--------:|:------------:|:------:|:------:|:----------|
 |    1  |   1d6+1  |      +1      |    2   |    0   | Fortune's Favor, Mighty Deed 14+, Rogue Skills (see below) |
@@ -53,7 +53,7 @@ While any class may perform these feats of skill, the Rogue gains this additiona
 |   14  |  10d6+18 |      +8      |   --   |   +1   | Mighty Deed 8+  |
 |   15  |  10d6+20 |      +9      |   +1   |   --   |  |
 
-### Warrior-Rogue Saving Throws
+### Fighter-Rogue Saving Throws
 | Level | Evasion | Hardiness | Spirit |
 |:-----:|:-------:|:---------:|:------:|
 |   1   |    +1   |     +1    |   +1   |
@@ -91,7 +91,7 @@ While any class may perform these feats of skill, the Rogue gains this additiona
 |  14   |  +8   |  +6           |   +2   |   +6    |      +8      |    +3d4      |
 |  15   |  +8   |  +6           |   +3   |   +6    |      +9      |    +3d4      |
 
-## Warrior-Rogue Knacks
+## Fighter-Rogue Knacks
 
 **Archer**: You do not have **Disadvantage** when making attacks at Far range.
 
@@ -115,7 +115,7 @@ While any class may perform these feats of skill, the Rogue gains this additiona
 
 **Weapon Specialization**:  Pick a weapon. Your character receives a +1 to hit and +2 damage bonus while wielding this weapon. If this talent is taken at 1st level, your character begins the game with this weapon for free. This knack may be taken more than once, applying to a different weapon each time.
 
-### Sample Warrior-Rogue Builds
+### Sample Fighter-Rogue Builds
 - **Ranger** 
 	- Knack – Skirmisher or Archer
 	- Trait - [Survivalist](Traits.md#survivalist)
