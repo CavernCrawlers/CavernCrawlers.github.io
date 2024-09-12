@@ -19,7 +19,7 @@ You may recover expended **Invocation Dice** by gaining 1 level of **Exhaustion*
 ### Magical Focus
 As part of your apprenticeship, you created a unique magical focus to aid in your spellcasting.  This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held.  So long as you have your Magical Focus, your **Invocation Dice** are only removed on rolls of 1, rather than 1 or 2.  A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 50sp worth of materials.
 
-### Magic User
+### Spellcasting
 You can harness the power of magic.  A mage begins their career knowing two cantrips.  You will need to select a **Magical Tradition** from which your spells will be drawn.  You may not cast a spell of a Tier higher than that shown on the table below.
 
 ### Sense Magic
@@ -31,21 +31,21 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 ### Warrior-Spellcaster Table
 | Level | Hit Dice | Attack Bonus |  Invocation Dice | Spell DT |  Traits | Abilities |
 |:-----:|:--------:|:------------:|:----------------:|:--------:|:-------:|:---|
-|   1   |    1d6   |      +1      |        1d6       |    10+   |     0   | Exhausting Magic, Magical Focus, Magic User (cantrip), Sense Magic, True Name |
+|   1   |    1d6   |      +1      |        1d6       |    10+   |     1   | Exhausting Magic, Spellcasting, Magic User (cantrip), Sense Magic, True Name |
 |   2   |    2d6   |      +1      |        2d6       |    11+   |    +1   |  |
-|   3   |    3d6   |      +2      |        3d6       |    11+   |    --   | Magic User (rank 1) |
+|   3   |    3d6   |      +2      |        3d6       |    11+   |    --   | Spellcasting (rank 1) |
 |   4   |    4d6   |      +2      |        4d6       |    12+   |    +1   |  |
 |   5   |    5d6   |      +3      |        5d6       |    12+   |    --   |  |
-|   6   |    6d6   |      +3      |        6d6       |    13+   |    --   | Magic User (rank 2) |
+|   6   |    6d6   |      +3      |        6d6       |    13+   |    --   | Spellcasting (rank 2) |
 |   7   |    7d6   |      +4      |        7d6       |    13+   |    +1   |  |
 |   8   |    8d6   |      +4      |        8d6       |    13+   |    --   |  |
-|   9   |    9d6   |      +5      |        9d6       |    14+   |    --   | Magic User (rank 3) |
+|   9   |    9d6   |      +5      |        9d6       |    14+   |    --   | Spellcasting (rank 3) |
 |  10   |   10d6   |      +5      |       10d6       |    14+   |    +1   |  |
 |  11   |   10d6+1 |      +6      |       11d6       |    15+   |    --   |  |
-|  12   |   10d6+2 |      +6      |       12d6       |    15+   |    --   | Magic User (rank 4) |
+|  12   |   10d6+2 |      +6      |       12d6       |    15+   |    --   | Spellcasting (rank 4) |
 |  13   |   10d6+3 |      +7      |       13d6       |    16+   |    +1   |  |
 |  14   |   10d6+4 |      +7      |       14d6       |    16+   |    +1   |  |
-|  15   |   10d6+5 |      +8      |       15d6       |    16+   |    --   | Magic User (rank 5) |
+|  15   |   10d6+5 |      +8      |       15d6       |    16+   |    --   | Spellcasting (rank 5) |
 
 ### Warrior-Spellcaster Defenses
 | Level | Evasion | Hardiness | Spirit |
