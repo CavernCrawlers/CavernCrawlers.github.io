@@ -13,9 +13,11 @@ Ability Checks involving Intelligence, Wisdom or Charisma are referred to as **M
 &emsp;1d20 + Ability Modifier >= Difficulty Target
 
 ### Skilled Check
-This is the same as an Ability Check except that the most appropriate **Skill Modifier** is added to the die roll total as well. If the character lacks an appropriate skill, this is treated as a raw **Ability Check**, assuming the task is even possible for someone who is unskilled.
+In some cases, a character may attempt a task that is directly related to their **Class** or background **Apprenticeship**.  In these cases, a normal **Ability Check** is made with a modifier based on the character's level (see the **Levelling and Bonuses** table).  If the character's class or apprenticeship don't apply, , this is treated as a raw Ability Check, assuming the task is even possible for someone who is unskilled.
 
-&emsp;1d20 + Ability Modifier + Skill Modifier >= Difficulty Target
+[Rogues](Rogue.md) and hybrid rogues are a special case as they have a variety of [Rogue Skills](Rogue.md#Rogue-Skills) that supplant the usual level modifier on skilled checks to which they apply.
+
+&emsp;1d20 + Ability Modifier + Level Modifier (if appropriate) >= Difficulty Target
 
 ### Attack Roll
 Whether swinging a sword, firing an arrow or simply punching someone in the face, an attack roll is required for the attacker to do damage to the target.  An **Attack Roll** consists of the player rolling 1d20 plus the character's **Base Attack Bonus** plus either the character's **Strength** or **Dexterity** modifier (depending on the type of attack).  This must equal or exceed the target's **Armor Class** to be successful.
