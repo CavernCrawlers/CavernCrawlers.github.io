@@ -1,5 +1,5 @@
 # Hirelings and Allies
-There may come times when an adventuring group find themselves in need of specialized help or just additional assistance.  This is when player characters must dig in to their coin pouches and try to persuade other people to work for them.  **Hirelings** are skilled or unskilled individuals who will hire on with a character for a predetermined length of time for a specified amount of pay (usually on a per-day basis).  **Allies** are those individuals who have a personal connection to a character and work with them for a share of the loot and glory rather than simple pay.
+There may come times when an adventuring group finds themselves in need of specialized help or just additional assistance.  This is when player characters must dig in to their coin pouches and try to persuade other people to work for them.  **Hirelings** are skilled or unskilled individuals who will hire on with a character for a predetermined length of time for a specified amount of pay (usually on a per-day basis).  **Allies** are those individuals who have a personal connection to a character and work with them for a share of the loot and glory rather than simple pay.
 
 ## Loyalty
 Long-term **Hirelings** and all **Allies** have a **Loyalty Rating** describing how reliable the NPC is to the PC leading them.  Loyalty typically starts at +0 (Average) and will change over time depending on the hireling’s relationship with their employer.
@@ -24,7 +24,7 @@ A **Hireling** who attains a **Loyalty** of Elite or higher is a potential candi
 ## Retaining Hirelings
 See the [Services](Encumbrance_and_Equipment.md#services) table for information on typical **Hireling** costs.
 
-To employ a **Hireling**, the potential employer must first find a suitable Hireling and negotiate the terms of their employment.  Standard length of employment is usually a number of days, weeks, months, seasons or years and generally decided upon up front.  Once the terms have been offered, the prospective employer must make a **Charisma/Persuasion Check**.  The **Difficulty** of this hiring check starts at 10 + the potential hireling’s **Skill Rank Modifier** (for the skill in question) due to demand for highly skilled workers.  This Difficulty may be further modified by circumstances as seen fit by the GM (high or low pay being offered, potential danger, etc).  Compare the result to the table below.
+To employ a **Hireling**, the potential employer must first find a suitable Hireling and negotiate the terms of their employment.  Standard length of employment is usually a number of days, weeks, months, seasons or years and generally decided upon up front.  Once the terms have been offered, the prospective employer must make a **Charisma Check**.  The **Difficulty** of this hiring check starts at 10 + the potential hireling’s **Skill Rank Modifier** (for the skill in question) due to demand for highly skilled workers.  This Difficulty may be further modified by circumstances as seen fit by the GM (high or low pay being offered, potential danger, etc).  Compare the result to the table below.
 
 ### Hiring Check Result
 | Outcome           | Result |
