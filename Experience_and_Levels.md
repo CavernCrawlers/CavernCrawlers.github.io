@@ -7,6 +7,7 @@
 
 
 ## Leveling Table
+
 | Level |     Exp   | Single-Class | Hybrid-Class | Apprentice | Traits |
 |+-----+|----------+|+------------+|+------------+|+----------+|+------+|
 |   1   |         0 | +1           | +1           | +0         |  0     |
