@@ -21,14 +21,14 @@ You have greater luck than other characters.  You gain +2 to both your Base and 
 ### Search
 Add this bonus on any attempt to find hidden things.  This bonus also applies when attempting to read lips.
 
-### Skullduggery
-This is a catch-all category for various underhanded/rogueish abilities (such as slieght-of-hand, deception, etc).
+### Slieght of Hand
+This skill is used for activities requiring significant manual dexterity (such as picking a pocket, concealing a coin or cheating at cards).
 
 ### Sneak Attack
 When you have **Advantage** on an attack, add the listed damage to the attack.
 
 ### Other Rogue Skills
-While any class may perform these feats of skill, the Rogue gains this additional class-based bonus based on level.
+While any class may perform these feats, the Rogue gains this additional class-based bonus based on level.
 
 ### Rogue Table
 | Level | Hit<br/>Dice | Attack<br/>Bonus | Knacks | Traits | Abilities |
@@ -69,23 +69,23 @@ While any class may perform these feats of skill, the Rogue gains this additiona
 |  15   |   +12   |     +8    |  +11   |
 
 ### Rogue Skills
-| Level | Climb | Locks & Traps | Search | Stealth | Skullduggery | Sneak Attack |
-|:-----:|:-----:|:-------------:|:------:|:-------:|:------------:|:------------:|
-|   1   |  +3   |  +1           |   +0   |   +1    |      +1      |      --      |
-|   2   |  +3   |  +1           |   +0   |   +2    |      +1      |    +1d4      |
-|   3   |  +4   |  +2           |   +1   |   +2    |      +2      |    +1d4      |
-|   4   |  +4   |  +2           |   +1   |   +3    |      +3      |    +1d4      |
-|   5   |  +5   |  +3           |   +1   |   +3    |      +4      |    +1d4      |
-|   6   |  +5   |  +3           |   +1   |   +4    |      +4      |    +2d4      |
-|   7   |  +6   |  +4           |   +2   |   +4    |      +5      |    +2d4      |
-|   8   |  +6   |  +4           |   +2   |   +5    |      +6      |    +2d4      |
-|   9   |  +7   |  +5           |   +2   |   +5    |      +6      |    +2d4      |
-|  10   |  +7   |  +5           |   +2   |   +6    |      +7      |    +3d4      |
-|  11   |  +8   |  +6           |   +2   |   +6    |      +8      |    +3d4      |
-|  12   |  +8   |  +6           |   +3   |   +7    |      +9      |    +3d4      |
-|  13   |  +9   |  +7           |   +3   |   +7    |      +9      |    +3d4      |
-|  14   |  +9   |  +7           |   +3   |   +8    |     +10      |    +4d4      |
-|  15   | +10   |  +8           |   +3   |   +8    |     +11      |    +4d4      |
+| Level | Climb | Locks & Traps | Search | Stealth | Slight of Hand | Sneak Attack |
+|:-----:|:-----:|:-------------:|:------:|:-------:|:--------------:|:------------:|
+|   1   |  +3   |  +1           |   +0   |   +1    |      +1        |      --      |
+|   2   |  +3   |  +1           |   +1   |   +2    |      +1        |    +1d4      |
+|   3   |  +4   |  +2           |   +1   |   +2    |      +2        |    +1d4      |
+|   4   |  +4   |  +2           |   +2   |   +3    |      +3        |    +1d4      |
+|   5   |  +5   |  +3           |   +2   |   +3    |      +4        |    +1d4      |
+|   6   |  +5   |  +3           |   +2   |   +4    |      +4        |    +2d4      |
+|   7   |  +6   |  +4           |   +2   |   +4    |      +5        |    +2d4      |
+|   8   |  +6   |  +4           |   +3   |   +5    |      +6        |    +2d4      |
+|   9   |  +7   |  +5           |   +3   |   +5    |      +6        |    +2d4      |
+|  10   |  +7   |  +5           |   +3   |   +6    |      +7        |    +3d4      |
+|  11   |  +8   |  +6           |   +3   |   +6    |      +8        |    +3d4      |
+|  12   |  +8   |  +6           |   +4   |   +7    |      +9        |    +3d4      |
+|  13   |  +9   |  +7           |   +4   |   +7    |      +9        |    +3d4      |
+|  14   |  +9   |  +7           |   +4   |   +8    |     +10        |    +4d4      |
+|  15   | +10   |  +8           |   +4   |   +8    |     +11        |    +4d4      |
 
 ## Rogue Knacks
 
