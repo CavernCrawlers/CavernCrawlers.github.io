@@ -13,7 +13,7 @@ Ability Checks involving Intelligence, Wisdom or Charisma are referred to as **M
 &emsp;1d20 + Ability Modifier >= Difficulty Target
 
 ### Skilled Check
-In some cases, a character may attempt a task that is directly related to their **Class** or background **Apprenticeship**.  In these cases, a normal **Ability Check** is made with a modifier based on the character's level (see the **Levelling and Bonuses** table).  If the character's class or apprenticeship don't apply, , this is treated as a raw Ability Check, assuming the task is even possible for someone who is unskilled.
+In some cases, a character may attempt a task that is directly related to their **Class** or background **Apprenticeship**.  In these cases, a normal **Ability Check** is made with a modifier based on the character's level (see the **Levelling and Bonuses** table).  If both class an apprenticeship apply, the character uses thier class bonus + 1.  If the character's class or apprenticeship don't apply, this is treated as a raw Ability Check, assuming the task is even possible for someone who is unskilled.
 
 [Rogues](Rogue.md) and hybrid rogues are a special case as they have a variety of [Rogue Skills](Rogue.md#Rogue-Skills) that supplant the usual level modifier on skilled checks to which they apply.
 
