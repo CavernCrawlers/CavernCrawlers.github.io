@@ -20,7 +20,7 @@ You may recover expended **Invocation Dice** by gaining 1 level of **Exhaustion*
 As part of your apprenticeship, you created a unique magical focus to aid in your spellcasting.  This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held.  So long as you have your Magical Focus in hand when casting a spell, you may add your **Skill Bonus** to your **Invocation Dice** total.  A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 50sp worth of materials.
 
 ### Spellcasting
-You can harness the power of magic.  A mage begins their career knowing two cantrips and two spells.  You will need to select a **Magical Tradition** from which your spells will be drawn.  You may not cast a spell of a Tier higher than half your level (rounded up).  Your spells have a DT equal to the DT shown on the table below plus the spell's listed **Ability Score Modifier**.
+You can harness the power of magic.  A mage begins their career knowing two cantrips and two spells.  You will need to select a **Magical Tradition** from which your spells will be drawn.  You may not cast a spell of a Rank higher than shown in the table below.  Your spells have a **Saving Throw DT** equal to the DT shown on the table below plus the spell's listed **Ability Score Modifier**.
 
 ### Sense Magic
 Being sensitive to the world of magic, you may determine if a person, place or thing is magical with a **Skilled** **Intelligence** check.  Doing so requires concentration and a few minutes; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a mage is staring at them.  You can also attempt to decipher magical writing in the same way.
