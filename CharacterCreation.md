@@ -13,9 +13,9 @@ For **Heroic** character creation, use the same method as described under Gritty
 For **Epic** character creation, build the deck from 1 two, 2 threes, 4 fives, 3 sixes and 4 sevens.  This will give a total of 78 character points; or an average of 13 per attribute.
 
 ### Random Rolls
-Roll 3d6 three times and record the results.  Next take those three rolls and subtract them from 21.  This will give you an array of 6 rolls totalling 63 points (averaging out to 10.5 each).  Arrange the scores as desired.
+Roll 3d6 three times and record the results.  Next take those three rolls and subtract each from 21.  This will give you an array of 6 rolls totalling 63 points (averaging out to 10.5 each).  Arrange the scores as desired.
 
-For **Heroic** character creation, divide 9 points among your abilities, increasing no ability by more than 3 and no higher than 18.
+For **Heroic** character creation, proceed as above then divide 9 points among your abilities, increasing no ability by more than 3 and no higher than 18.
 
 For **Epic** character creation, divde 15 points among your abilities, increasing no ability higher than 18.
 
@@ -106,27 +106,24 @@ There are several species to choose from: [Dwarf](Dwarf.md), [Elf](Elf.md), [Gob
 ## Pick a Class
 There are six character classes: [Warrior](Warrior.md), [Rogue](Rogue.md), [Mage](Mage.md), [Warrior-Rogue](Warrior-Rogue.md), [Warrior-Mage](Warrior-Mage.md) and [Rogue-Mage](Rogue-Mage.md).
 
-## Pick Skills
-Give your character 2 skills from the [Skill List](Skills.md) (or more if a rogue / partial-rogue).
-
-Having a skill gives your character a +4 to their **Ability Checks**.  Taking the same skill a second time, increases this bonus to +6.
-
-In addition to your starting skills, your character will gain an additional skill at various levels as indicated in your class’s description.
-
 ## Pick a Trait
-All characters start with 1 [Trait](Traits.md) at level 1.  They will gain additional Traits at levels 5 and 9.
+All characters start with 1 [Trait](Traits.md) at level 1.  They will gain additional Traits at various levels.
 
 ## Pick Languages
 Most characters begin the game speaking two languages (their native language and a "common" tongue).  To this, add a number of additional languages equal to your character’s **Intelligence Modifier** (though this cannot take you down to less than 1 starting language).  Additionally, most characters are illiterate by default.  One language pick may be spent for a character to become literate.  Once literate, a character is considered literate in all languages they know.
 
 ## Calculate Starting Hit Points
-Each character's starting **HP** is a fraction of their **Constitution Score**.  The size of the fraction is determined by the chosen **Class**.
+Each character's starting **HP** is the maximum rolled on their class **Hit Die** plus their **Constitution Modifier**.
 
 ## Choose Starting Equipment
-Each Character Class grants a starting equipment package and a few extra Silver Pieces.  You may use this starting silver to purchase additional equipment if so desired.
+Each kCGtt.ZKHIT-,6Xmi4Z( grants a starting equipment package and a few extra Silver Pieces.  You may use this starting silver to purchase additional equipment if so desired.  Additionally, your character's **Apprenticeship** will grant them a few extra pieces of equiment and possibly some extra silver.
 
-## Calculate Defenses
-Calculate your character's **Armor Class** (based on armor worn and **Dexterity Modifier**), **Evasion Defense** (based on **Class** and the higher of your character's **Dexterity** and **Intelligence Modifiers**), **Hardiness Defense** (based on Class and the higher of your character's **Strength** and **Constitution Modifiers**) and **Spirit Defense** (based on Class and the higher of your character's **Wisdom** and **Charisma Modifiers**).
+## Calculate Armor Class and Saving Throws
+Calculate your character's **Armor Class** (based on armor worn and **Dexterity Modifier**), **Evasion Saving Throw** (based on **Class** and the higher of your character's **Dexterity** and **Intelligence Modifiers**), **Hardiness Saving Throw** (based on Class and the higher of your character's **Strength** and **Constitution Modifiers**) and **Spirit Saving Throw** (based on Class and the higher of your character's **Wisdom** and **Charisma Modifiers**).
+
+Additionally, each of your **Saving Throws** will have a **Passive Save** value equal to 8 plus your Saving Throw (with appropriate **Ability Modifier**).
+
+_For example:  Bron the Brave is a 3rd level Fighter with 14 STR, 12 CON, 10 DEX, 8 INT, 9 WIS and 10 CHA, who wears Ringmail armor and carries a shield.  His Armor Class is 10 + 3 (Ringmail) + 2 (Shield) = 15.  His Evasion Save is +2 (class) + 0 (DEX is higher than INT) = +2.  His Hardiness Save is +3 (class) + 1 (STR is higher than CON) = +4.  His Spirit Save is +1 (class) +0 (CHA is higher than WIS) = +1.  His Passive Saves are 10, 12 and 9 respectively._
 
 ## Describe Your Character's Passions
 Passions describe the things that are important to your character and can be both positive and negative.  Each character should have between 3 and 5 **Passions**, as determined by the player and approved by the GM.  A Passion should be describable in a single sentence or short phrase; if it takes more than a single line to describe a Passion, it is too complex and should be broken down into multiple Passions.  Additionally, a Passion should have both positive and negative connotations.
@@ -146,7 +143,7 @@ Some examples of inappropriate Passions:
 - Lawful Good [Not well defined and covers two aspects of personality instead of one.]
 
 ## Pick a Name, Goal and Ties
-The final step is to give your character a thematically appropriate name, at least one short and one long-term goals and a reason why it is they're willing to risk their life along side these other adventurers.
+The final steps are to give your character a thematically appropriate name, at least one short and one long-term goal and a reason why it is they're willing to risk their life along side these other adventurers.
 
 Goals should be something that the character is potentially willing to die for rather than stay at home living a comfy life.  Also, make sure it isn't something that will interfere with the fun of the rest of the group.
 
