@@ -19,6 +19,8 @@ You have greater luck than other characters.  Your Base and Max **Fortune Points
 ### Mighty Deed
 Once per turn, when you make a melee attack, you may declare a Mighty Deed.  Describe the special effect you wish to add to your attack (such as disarming an opponent, tripping them, pushing them back, etc).  If the attack hits, and the die face is equal to or greater than your Mighty Deed target number, the Mighty Deed succeeds.  Note that the Mighty Deed cannot add to the damage of the attack and the target's **Saving Throws** may apply.
 
+If you take this as a class ability, you may not also take the Sneak Attack ability.
+
 ### Rogue Skills
 For specific skill checks, Rogues gain an additional bonus beyond the normal Skill Bonus.
 - Climb & Slight of Hand: +2
@@ -27,23 +29,25 @@ For specific skill checks, Rogues gain an additional bonus beyond the normal Ski
 ### Sneak Attack
 When you have **Advantage** on an attack, add the listed damage to the attack.
 
+If you take this as a class ability, you may not also take Mighty Deed.
+
 ### Fighter-Rogue Table
 | Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Abilities |
 |:-----:|:------------:|:----------------:|:---------------:|:------:|:------:|:----------|
 |    1  |   1d6+1      |      +1          |      +1         |    2   |    0   | Fortune's Favor, Mighty Deed 14+, Rogue Skills |
-|    2  |   2d6+2      |      +2          |      +1         |   --   |   +1   | Mighty Deed 12+ |
-|    3  |   3d6+3      |      +2          |      +2         |   +1   |   --   | Sneak Attack (+1d4) |
+|    2  |   2d6+2      |      +2          |      +1         |   --   |   +1   | Mighty Deed 12+ or Sneak Attack (+1d4) |
+|    3  |   3d6+3      |      +2          |      +2         |   +1   |   --   |  |
 |    4  |   4d6+4      |      +3          |      +2         |   --   |   --   |  |
 |    5  |   5d6+5      |      +3          |      +3         |   +1   |   --   | Mighty Deed 11+ |
 |    6  |   6d6+6      |      +4          |      +3         |   --   |   +1   |  |
 |    7  |   7d6+7      |      +5          |      +4         |   +1   |   --   |  |
-|    8  |   8d6+8      |      +5          |      +4         |   --   |   --   | Mighty Deed 10+, Sneak Attack (+2d4) |
+|    8  |   8d6+8      |      +5          |      +4         |   --   |   --   | Mighty Deed 10+ or Sneak Attack (+2d4) |
 |    9  |   9d6+9      |      +6          |      +5         |   +1   |   --   |  |
 |   10  |  10d6+10     |      +6          |      +5         |   --   |   +1   |  |
 |   11  |  10d6+12     |      +7          |      +6         |   +1   |   --   | Mighty Deed 9+  |
 |   12  |  10d6+14     |      +7          |      +6         |   --   |   --   |  |
-|   13  |  10d6+16     |      +8          |      +7         |   +1   |   --   | Sneak Attack (+3d4) |
-|   14  |  10d6+18     |      +8          |      +7         |   --   |   +1   | Mighty Deed 8+  |
+|   13  |  10d6+16     |      +8          |      +7         |   +1   |   --   |  |
+|   14  |  10d6+18     |      +8          |      +7         |   --   |   +1   | Mighty Deed 8+ or Sneak Attack (+3d4)  |
 |   15  |  10d6+20     |      +9          |      +8         |   +1   |   --   |  |
 
 ### Fighter-Rogue Saving Throws
@@ -69,13 +73,17 @@ When you have **Advantage** on an attack, add the listed damage to the attack.
 
 **Archer**: You do not have **Disadvantage** when making attacks at Far range.
 
+**Assassin**:  If you already have the **Sneak Attack** ability, your Sneak Attack dice increase to d6s. If you do not already have the Sneak Attack ability, you gain the Sneak Attack ability.
+
 **Cavalry**: While mounted, you gain +2 to hit and +1 AC. Additionally, whatever creature you are mounted on gains +1 AC and +1 Evasion.
 
 **Charger**: If you perform the charge maneuver, add +2 to your damage rolls.
 
 **Intelligent Defense**: Your good at recognizing danger and know how best to avoid it. Add your **Intelligence Bonus** to your AC so long as you are not wearing medium or heavy armor. Cannot be combined with **Distracting Defense**.
 
-**Mighty Shot**: You may use your Mighty Deed ability with ranged attacks.
+**Mighty Warrior**: If you already have the **Mighty Deed** ability, this knack has no effect.  If you do not have the Mighty Deed ability, you gain the Mighty Deed ability.
+
+**Mighty Shot**: If you already have the **Mighty Deed** ability, you may use the Mighty Deed ability with ranged attacks.
 
 **Poisoner**: If you poison a target, your poison has **Advantage** on overcoming that target's **Defenses**.  Additionally, poisons have **Disadvantage** on overcoming your **Defenses**.
 
