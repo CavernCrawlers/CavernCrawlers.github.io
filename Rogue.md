@@ -27,7 +27,7 @@ When you have **Advantage** on an attack, add the listed damage to the attack.
 ### Rogue Table
 | Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Abilities |
 |:-----:|:------------:|:----------------:|:---------------:|:------:|:------:|:----------|
-|  1    |  1d6         |  +1              |  +1             |  2     |  0     | Fortune's Favor, Rogue Skills (see below) |
+|  1    |  1d6         |  +1              |  +1             |  1     |  1     | Fortune's Favor, Rogue Skills (see below) |
 |  2    |  2d6         |  +1              |  +2             | --     | +1     |  |
 |  3    |  3d6         |  +2              |  +2             | +1     | --     | Sneak Attack (+1d4) |
 |  4    |  4d6         |  +2              |  +3             | --     | --     |  |
