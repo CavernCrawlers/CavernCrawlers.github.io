@@ -23,29 +23,29 @@ As part of your apprenticeship, you created a unique magical focus to aid in you
 You can harness the power of magic.  A mage begins their career knowing two cantrips and two spells.  You will need to select a **Magical Tradition** from which your spells will be drawn.  You may not cast a spell of a Tier higher than half your level (rounded up).  Your spells have a DT equal to the DT shown on the table below plus the spell's listed **Ability Score Modifier**.
 
 ### Sense Magic
-Being sensitive to the world of magic, you may determine if a person, place or thing is magical with a **Perception** check.  Doing so requires concentration and a few minutes; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a mage is staring at them.  You can also attempt to decipher magical writing with an **Intelligence** check.
+Being sensitive to the world of magic, you may determine if a person, place or thing is magical with a **Skilled** **Intelligence** check.  Doing so requires concentration and a few minutes; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a mage is staring at them.  You can also attempt to decipher magical writing in the same way.
 
 ### True Name
 As a magic-user possessing supernatural power, you have a **True Name**.  Those who know your True Name can use it against you.  By calling out your True Name, a creature gains **Advantage** on all actions taken against you, including attacks and you have **Disadvantage** on your **Invocation** checks to cast spells against them.
 
 ### Spellcaster Table
-| Level | Hit Dice | Attack Bonus | Invocation Dice | Spell DT | Traits | Abilities |
-|:-----:|:--------:|:------------:|:---------------:|:------:|:--------:|:----------|
-|  1    |    1d4   | +0           |  3d6            |  11+   |   0    | Exhausting Magic, Magical Focus, Spellcasting (rank 1), Sense Magic, True Name |
-|  2    |    2d4   | +0           |  4d6            |  11+   |  +1    |  |
-|  3    |    3d4   | +1           |  5d6            |  12+   |  --    | Spellcasting (rank 2) |
-|  4    |    4d4   | +1           |  6d6            |  12+   |  --    |  |
-|  5    |    5d4   | +1           |  7d6            |  13+   |  --    | Spellcasting (rank 3) |
-|  6    |    6d4   | +2           |  8d6            |  13+   |  +1    |  |
-|  7    |    7d4   | +2           |  9d6            |  14+   |  --    | Spellcasting (rank 4) |
-|  8    |    8d4   | +2           | 10d6            |  15+   |  --    |  |
-|  9    |    9d4   | +3           | 11d6            |  15+   |  --    | Spellcasting (rank 5) |
-| 10    |   10d4   | +3           | 12d6            |  16+   |  +1    |  |
-| 11    |   10d4+1 | +3           | 13d6            |  16+   |  --    | Spellcasting (rank 6) |
-| 12    |   10d4+2 | +4           | 14d6            |  17+   |  --    |  |
-| 13    |   10d4+3 | +4           | 15d6            |  17+   |  +1    |  |
-| 14    |   10d4+4 | +5           | 16d6            |  18+   |  --    |  |
-| 15    |   10d4+5 | +5           | 17d6            |  19+   |  +1    |  |
+| Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Invocation<br/>Dice | Spell<br/>DT | Traits | Abilities |
+|:-----:|:------------:|:----------------:|:---------------:|:-------------------:|:------------:|:------:|:----------|
+|  1    |    1d4       | +0               |  +1             |  3d6                |  11+         |   0    | Exhausting Magic, Magical Focus, Spellcasting (rank 1), Sense Magic, True Name |
+|  2    |    2d4       | +0               |  +2             |  4d6                |  12+         |  +1    |  |
+|  3    |    3d4       | +1               |  +2             |  5d6                |  12+         |  --    | Spellcasting (rank 2) |
+|  4    |    4d4       | +1               |  +3             |  6d6                |  13+         |  --    |  |
+|  5    |    5d4       | +1               |  +4             |  7d6                |  14+         |  --    | Spellcasting (rank 3) |
+|  6    |    6d4       | +2               |  +4             |  8d6                |  14+         |  +1    |  |
+|  7    |    7d4       | +2               |  +5             |  9d6                |  15+         |  --    | Spellcasting (rank 4) |
+|  8    |    8d4       | +2               |  +6             | 10d6                |  16+         |  --    |  |
+|  9    |    9d4       | +3               |  +6             | 11d6                |  16+         |  --    | Spellcasting (rank 5) |
+| 10    |   10d4       | +3               |  +7             | 12d6                |  17+         |  +1    |  |
+| 11    |   10d4+1     | +3               |  +8             | 13d6                |  18+         |  --    | Spellcasting (rank 6) |
+| 12    |   10d4+2     | +4               |  +8             | 14d6                |  18+         |  --    |  |
+| 13    |   10d4+3     | +4               |  +9             | 15d6                |  17+         |  +1    |  |
+| 14    |   10d4+4     | +5               | +10             | 16d6                |  20+         |  --    |  |
+| 15    |   10d4+5     | +5               | +10             | 17d6                |  20+         |  +1    |  |
 
 ### Spellcaster Saving Throws
 | Level | Evasion | Hardiness | Spirit |
