@@ -8,6 +8,7 @@
  	- [Hob](Hob.md)
   	- [Human](Human.md)
   	- [Orc](Orc.md)
+- [Apprenticeships](Apprenticeship.md)
 - Classes
 	- [Fighter](Fighter.md)
 	- [Rogue](Rogue.md)
