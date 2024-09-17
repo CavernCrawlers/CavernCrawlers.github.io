@@ -13,45 +13,38 @@
 
 ## Class Abilities
 
-### Climb Sheer Surfaces
-While anyone may attempt to climb a vertical surface with reasonable handholds (such as a rocky cliff face, tree or rope), a rogue may attempt to climb any surface even if only finger-tip holds are possible (such as a brick wall) without requiring specialized climbing gear.
-
 ### Fortune's Favor
 You have greater luck than other characters.  Your Base and Max **Fortune Points** are each increased by 1.
 
 ### Mighty Deed
 Once per turn, when you make a melee attack, you may declare a Mighty Deed.  Describe the special effect you wish to add to your attack (such as disarming an opponent, tripping them, pushing them back, etc).  If the attack hits, and the die face is equal to or greater than your Mighty Deed target number, the Mighty Deed succeeds.  Note that the Mighty Deed cannot add to the damage of the attack and the target's **Saving Throws** may apply.
 
-### Search
-Add this bonus on any attempt to find hidden things.  This bonus also applies when attempting to read lips.
-
-### Skullduggery
-This is a catch-all category for various underhanded/rogueish abilities (such as slieght-of-hand, deception, etc).
+### Rogue Skills
+For specific skill checks, Rogues gain an additional bonus beyond the normal Skill Bonus.
+- Climb & Slight of Hand: +2
+- Lock-Picking, Search, Stealth & Trap Handling: +1
 
 ### Sneak Attack
 When you have **Advantage** on an attack, add the listed damage to the attack.
 
-### Other Rogue Skills
-While any class may perform these feats of skill, the Rogue gains this additional class-based bonus based on level.
-
 ### Fighter-Rogue Table
-| Level | Hit Dice | Attack Bonus | Knacks | Traits | Abilities |
-|:-----:|:--------:|:------------:|:------:|:------:|:----------|
-|    1  |   1d6+1  |      +1      |    2   |    0   | Fortune's Favor, Mighty Deed 14+, Rogue Skills (see below) |
-|    2  |   2d6+2  |      +2      |   --   |   +1   | Mighty Deed 12+ |
-|    3  |   3d6+3  |      +2      |   +1   |   --   |  |
-|    4  |   4d6+4  |      +3      |   --   |   --   |  |
-|    5  |   5d6+5  |      +4      |   +1   |   --   | Mighty Deed 11+ |
-|    6  |   6d6+6  |      +4      |   --   |   +1   |  |
-|    7  |   7d6+7  |      +5      |   +1   |   --   |  |
-|    8  |   8d6+8  |      +5      |   --   |   --   | Mighty Deed 10+ |
-|    9  |   9d6+9  |      +6      |   +1   |   --   |  |
-|   10  |  10d6+10 |      +6      |   --   |   +1   |  |
-|   11  |  10d6+12 |      +7      |   +1   |   --   | Mighty Deed 9+  |
-|   12  |  10d6+14 |      +7      |   --   |   --   |  |
-|   13  |  10d6+16 |      +8      |   +1   |   --   |  |
-|   14  |  10d6+18 |      +8      |   --   |   +1   | Mighty Deed 8+  |
-|   15  |  10d6+20 |      +9      |   +1   |   --   |  |
+| Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Abilities |
+|:-----:|:------------:|:----------------:|:---------------:|:------:|:------:|:----------|
+|    1  |   1d6+1      |      +1          |      +1         |    2   |    0   | Fortune's Favor, Mighty Deed 14+, Rogue Skills |
+|    2  |   2d6+2      |      +2          |      +1         |   --   |   +1   | Mighty Deed 12+ |
+|    3  |   3d6+3      |      +2          |      +2         |   +1   |   --   |  |
+|    4  |   4d6+4      |      +3          |      +2         |   --   |   --   |  |
+|    5  |   5d6+5      |      +3          |      +3         |   +1   |   --   | Mighty Deed 11+ |
+|    6  |   6d6+6      |      +4          |      +3         |   --   |   +1   |  |
+|    7  |   7d6+7      |      +5          |      +4         |   +1   |   --   |  |
+|    8  |   8d6+8      |      +5          |      +4         |   --   |   --   | Mighty Deed 10+ |
+|    9  |   9d6+9      |      +6          |      +5         |   +1   |   --   |  |
+|   10  |  10d6+10     |      +6          |      +5         |   --   |   +1   |  |
+|   11  |  10d6+12     |      +7          |      +6         |   +1   |   --   | Mighty Deed 9+  |
+|   12  |  10d6+14     |      +7          |      +6         |   --   |   --   |  |
+|   13  |  10d6+16     |      +8          |      +7         |   +1   |   --   |  |
+|   14  |  10d6+18     |      +8          |      +7         |   --   |   +1   | Mighty Deed 8+  |
+|   15  |  10d6+20     |      +9          |      +8         |   +1   |   --   |  |
 
 ### Fighter-Rogue Saving Throws
 | Level | Evasion | Hardiness | Spirit |
@@ -71,25 +64,6 @@ While any class may perform these feats of skill, the Rogue gains this additiona
 |  13   |   +10   |     +9    |   +8   |
 |  14   |   +11   |    +10    |   +9   |
 |  15   |   +12   |    +10    |  +10   |
-
-### Rogue Skills
-| Level | Climb | Locks & Traps | Search | Stealth | Skullduggery | Sneak Attack |
-|:-----:|:-----:|:-------------:|:------:|:-------:|:------------:|:------------:|
-|   1   |  +3   |  +1           |   +1   |   +2    |      +1      |      --      |
-|   2   |  +3   |  +1           |   +1   |   +2    |      +1      |      --      |
-|   3   |  +3   |  +1           |   +1   |   +2    |      +1      |    +1d4      |
-|   4   |  +4   |  +2           |   +2   |   +3    |      +2      |    +1d4      |
-|   5   |  +4   |  +2           |   +2   |   +3    |      +2      |    +1d4      |
-|   6   |  +5   |  +3           |   +3   |   +4    |      +3      |    +1d4      |
-|   7   |  +5   |  +3           |   +3   |   +4    |      +3      |    +1d4      |
-|   8   |  +5   |  +3           |   +3   |   +4    |      +3      |    +2d4      |
-|   9   |  +6   |  +4           |   +4   |   +5    |      +4      |    +2d4      |
-|  10   |  +6   |  +4           |   +4   |   +5    |      +4      |    +2d4      |
-|  11   |  +6   |  +4           |   +4   |   +5    |      +4      |    +2d4      |
-|  12   |  +7   |  +5           |   +5   |   +6    |      +5      |    +2d4      |
-|  13   |  +7   |  +5           |   +5   |   +6    |      +5      |    +3d4      |
-|  14   |  +8   |  +6           |   +6   |   +7    |      +6      |    +3d4      |
-|  15   |  +8   |  +6           |   +6   |   +7    |      +6      |    +3d4      |
 
 ## Fighter-Rogue Knacks
 
