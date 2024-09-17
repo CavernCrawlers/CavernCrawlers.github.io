@@ -34,19 +34,19 @@ If you take this as a class ability, you may not also take Mighty Deed.
 ### Fighter-Rogue Table
 | Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Abilities |
 |:-----:|:------------:|:----------------:|:---------------:|:------:|:------:|:----------|
-|    1  |   1d6+1      |      +1          |      +1         |    2   |    0   | Fortune's Favor, Mighty Deed 14+, Rogue Skills |
-|    2  |   2d6+2      |      +2          |      +1         |   --   |   +1   | Mighty Deed 12+ or Sneak Attack (+1d4) |
-|    3  |   3d6+3      |      +2          |      +2         |   +1   |   --   |  |
-|    4  |   4d6+4      |      +3          |      +2         |   --   |   --   |  |
-|    5  |   5d6+5      |      +3          |      +3         |   +1   |   --   | Mighty Deed 11+ |
+|    1  |   1d6+1      |      +1          |      +1         |    1   |    1   | Fortune's Favor, Mighty Deed 14+, Rogue Skills |
+|    2  |   2d6+2      |      +2          |      +1         |   --   |   --   | Mighty Deed 12+ or Sneak Attack (+1d4) |
+|    3  |   3d6+3      |      +2          |      +2         |   --   |   --   |  |
+|    4  |   4d6+4      |      +3          |      +2         |   +1   |   --   |  |
+|    5  |   5d6+5      |      +3          |      +3         |   --   |   --   | Mighty Deed 11+ |
 |    6  |   6d6+6      |      +4          |      +3         |   --   |   +1   |  |
-|    7  |   7d6+7      |      +5          |      +4         |   +1   |   --   |  |
-|    8  |   8d6+8      |      +5          |      +4         |   --   |   --   | Mighty Deed 10+ or Sneak Attack (+2d4) |
-|    9  |   9d6+9      |      +6          |      +5         |   +1   |   --   |  |
+|    7  |   7d6+7      |      +5          |      +4         |   --   |   --   |  |
+|    8  |   8d6+8      |      +5          |      +4         |   +1   |   --   | Mighty Deed 10+ or Sneak Attack (+2d4) |
+|    9  |   9d6+9      |      +6          |      +5         |   --   |   --   |  |
 |   10  |  10d6+10     |      +6          |      +5         |   --   |   +1   |  |
-|   11  |  10d6+12     |      +7          |      +6         |   +1   |   --   | Mighty Deed 9+  |
-|   12  |  10d6+14     |      +7          |      +6         |   --   |   --   |  |
-|   13  |  10d6+16     |      +8          |      +7         |   +1   |   --   |  |
+|   11  |  10d6+12     |      +7          |      +6         |   --   |   --   | Mighty Deed 9+  |
+|   12  |  10d6+14     |      +7          |      +6         |   +1   |   --   |  |
+|   13  |  10d6+16     |      +8          |      +7         |   --   |   --   |  |
 |   14  |  10d6+18     |      +8          |      +7         |   --   |   +1   | Mighty Deed 8+ or Sneak Attack (+3d4)  |
 |   15  |  10d6+20     |      +9          |      +8         |   +1   |   --   |  |
 
