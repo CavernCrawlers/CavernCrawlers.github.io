@@ -23,23 +23,23 @@ Once per turn, when you make a melee attack, you may declare a Mighty Deed.  Des
 Fighters are experts at dealing damage.  If your attack misses the target's AC by less than your level, you still deal your attack's minimum damage to the target.
 
 ### Fighter Table
-| Level | Hit<br/>Dice | Attack<br/>Bonus | Knacks | Traits | Abilities |
-|:---:|:---:|:---:|:---:|:---:|:---|
-|  1  |   1d6+2 |  +1 |  2 |  0 | Hauler, Mighty Deed 14+, Minimum Damage |
-|  2  |   2d6+4 |  +1 | -- | +1 | Mighty Deed 12+ |
-|  3  |   3d6+6 |  +2 | +1 | -- |  |
-|  4  |   4d6+8 |  +3 | -- | -- | Mighty Deed 11+ |
-|  5  |  5d6+10 |  +3 | +1 | -- |  |
-|  6  |  6d6+12 |  +4 | -- | +1 | Mighty Deed 10+ |
-|  7  |  7d6+14 |  +5 | +1 | -- |  |
-|  8  |  8d6+16 |  +5 | -- | -- | Mighty Deed 9+ |
-|  9  |  9d6+18 |  +6 | +1 | -- |  |
-| 10  | 10d6+20 |  +6 | -- | +1 | Mighty Deed 8+ |
-| 11  | 10d6+22 |  +7 | +1 | -- |  |
-| 12  | 10d6+24 |  +8 | -- | -- | Mighty Deed 7+ |
-| 13  | 10d6+26 |  +8 | +1 | -- |  |
-| 14  | 10d6+28 |  +9 | -- | +1 | Mighty Deed 6+ |
-| 15  | 10d6+30 | +10 | +1 | -- |  |
+| Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Abilities |
+|:-----:|:------------:|:----------------:|:---------------:|:------:|:------:|:----------|
+|  1    |   1d6+2      |  +1              |  +1             |  2     |  0     | Hauler, Mighty Deed 14+, Minimum Damage |
+|  2    |   2d6+4      |  +1              |  +2             | --     | +1     | Mighty Deed 12+ |
+|  3    |   3d6+6      |  +2              |  +2             | +1     | --     |  |
+|  4    |   4d6+8      |  +3              |  +3             | --     | --     | Mighty Deed 11+ |
+|  5    |  5d6+10      |  +3              |  +4             | +1     | --     |  |
+|  6    |  6d6+12      |  +4              |  +4             | --     | +1     | Mighty Deed 10+ |
+|  7    |  7d6+14      |  +5              |  +5             | +1     | --     |  |
+|  8    |  8d6+16      |  +5              |  +6             | --     | --     | Mighty Deed 9+ |
+|  9    |  9d6+18      |  +6              |  +6             | +1     | --     |  |
+| 10    | 10d6+20      |  +6              |  +7             | --     | +1     | Mighty Deed 8+ |
+| 11    | 10d6+22      |  +7              |  +8             | +1     | --     |  |
+| 12    | 10d6+24      |  +8              |  +8             | --     | --     | Mighty Deed 7+ |
+| 13    | 10d6+26      |  +8              |  +9             | +1     | --     |  |
+| 14    | 10d6+28      |  +9              | +10             | --     | +1     | Mighty Deed 6+ |
+| 15    | 10d6+30      | +10              | +10             | +1     | --     |  |
 
 ### Fighter Saving Throws
 | Level | Evasion | Hardiness | Spirit |
