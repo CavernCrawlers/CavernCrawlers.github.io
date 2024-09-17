@@ -32,7 +32,7 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 | Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Invocation<br/>Dice | Spell<br/>DT | Traits | Abilities |
 |:-----:|:------------:|:----------------:|:---------------:|:-------------------:|:------------:|:------:|:----------|
 |  1    |    1d4       | +0               |  +1             |  3d6                |  11+         |   1    | Exhausting Magic, Magical Focus, Spellcasting (rank 1), Sense Magic, True Name |
-|  2    |    2d4       | +0               |  +2             |  4d6                |  12+         |  +1    |  |
+|  2    |    2d4       | +0               |  +2             |  4d6                |  12+         |  --    |  |
 |  3    |    3d4       | +1               |  +2             |  5d6                |  12+         |  --    | Spellcasting (rank 2) |
 |  4    |    4d4       | +1               |  +3             |  6d6                |  13+         |  --    |  |
 |  5    |    5d4       | +1               |  +4             |  7d6                |  14+         |  --    | Spellcasting (rank 3) |
