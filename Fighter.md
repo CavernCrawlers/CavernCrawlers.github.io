@@ -25,7 +25,7 @@ Fighters are experts at dealing damage.  If your attack misses the target's AC b
 ### Fighter Table
 | Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Abilities |
 |:-----:|:------------:|:----------------:|:---------------:|:------:|:------:|:----------|
-|  1    |   1d6+2      |  +1              |  +1             |  2     |  0     | Hauler, Mighty Deed 14+, Minimum Damage |
+|  1    |   1d6+2      |  +1              |  +1             |  1     |  1     | Hauler, Mighty Deed 14+, Minimum Damage |
 |  2    |   2d6+4      |  +1              |  +2             | --     | +1     | Mighty Deed 12+ |
 |  3    |   3d6+6      |  +2              |  +2             | +1     | --     |  |
 |  4    |   4d6+8      |  +3              |  +3             | --     | --     | Mighty Deed 11+ |
@@ -96,7 +96,7 @@ Fighters are experts at dealing damage.  If your attack misses the target's AC b
 
 ### Sample Fighter Builds
 - **All-Rounder**
-	- 1st Level: Deadly Blow, Armored
+	- 1st Level: Deadly Blow, [Superior Training](Traits.md#Superior-Training) -> Armored
 	- 2nd Level: [Die Hard](Traits.md#Die-Hard)
  	- 3rd Level: Weapon Specialization
  	- 5th Level: Deadly Blow
@@ -109,7 +109,7 @@ Fighters are experts at dealing damage.  If your attack misses the target's AC b
  	- 14th Level: [Great Leader](Traits.md#Great-Leader)
   	- 15th Level: Weapon Specialization
 - **Archer**
-	- 1st Level: Archer, Weapon Specialization
+	- 1st Level: Archer, [Superior Training](Traits.md#Superior-Training) -> Weapon Specialization
 	- 2nd Level: [Alert](Traits.md#Alert)
  	- 3rd Level: Mighty Shot
  	- 5th Level: Precise Shot
@@ -122,7 +122,7 @@ Fighters are experts at dealing damage.  If your attack misses the target's AC b
  	- 14th Level: [Survivalist](Traits.md#Survivalist)
   	- 15th Level: Weapon Specialization
 - **Berserker** 
-	- 1st Level: Berserk, Reckless
+	- 1st Level: Berserk, [Superior Training](Traits.md#Superior-Training) -> Reckless
 	- 2nd Level: [Catch Your Breath](Traits.md#Catch-Your-Breath)
  	- 3rd Level: Deadly Blow
  	- 5th Level: Cleave
@@ -135,7 +135,7 @@ Fighters are experts at dealing damage.  If your attack misses the target's AC b
  	- 14th Level: [Second Wind](Traits.md#Second-Wind)
   	- 15th Level: Weapon Specialization
 - **Cavalier**
-	- 1st Level: Cavalry, Charger
+	- 1st Level: Cavalry, [Superior Training](Traits.md#Superior-Training) -> Charger
 	- 2nd Level: [Catch Your Breath](Traits.md#Catch-Your-Breath)
  	- 3rd Level: Weapon Specializatin (lance)
  	- 5th Level: Armored
@@ -148,7 +148,7 @@ Fighters are experts at dealing damage.  If your attack misses the target's AC b
  	- 14th Level: [Tenacity](Traits.md#Tenacity)
   	- 15th Level: Exploit Weakness
 - **Damage Dealer** 
-	- 1st Level: Deadly Blow, Exploit Weakness
+	- 1st Level: Deadly Blow, [Superior Training](Traits.md#Superior-Training) -> Exploit Weakness
 	- 2nd Level: [Great Bravery](Traits.md#Great-Bravery)
  	- 3rd Level: Weapon Specialziation
  	- 5th Level: Great Weapon Fighter
@@ -161,7 +161,7 @@ Fighters are experts at dealing damage.  If your attack misses the target's AC b
  	- 14th Level: [Infuse Weapon](Traits.md#Infuse-Weapon)
   	- 15th Level: Exploit Weakness
 - **Tank** 
-	- 1st Level: Armored, Shield Master
+	- 1st Level: Armored, [Superior Training](Traits.md#Superior-Training) -> Shield Master
 	- 2nd Level: [Die Hard](Traits.md#Die-Hard)
  	- 3rd Level: Indomitable
  	- 5th Level: Cavalry
@@ -174,7 +174,7 @@ Fighters are experts at dealing damage.  If your attack misses the target's AC b
  	- 14th Level: [Tenacity](Traits.md#Tenacity)
   	- 15th Level: Weapon Specialization
 - **Weapon Master**
-	- 1st Level: Deadly Blow, Weapon Specialization
+	- 1st Level: Deadly Blow, [Superior Training](Traits.md#Superior-Training) -> Weapon Specialization
 	- 2nd Level: [Tenacity](Traits.md#Tenacity)
  	- 3rd Level: Exploit Weakness
  	- 5th Level: Weapon Specializtion
