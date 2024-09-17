@@ -23,7 +23,7 @@ Whether swinging a sword, firing an arrow or simply punching someone in the face
 &emsp;1d20 + Base Attack Bonus + [Strength or Dexterity] Modifier >= Armor Class
 
 ### Difficulty Targets
-Any given **D20 Check** will be compared to a Difficulty Target.  For attacks, this is typically the target's **Armor Class**.  For spell's, it may be the target's **Armor Class**, or one of the other **Defensive Scores** (**Evasion**, **Hardiness** and **Spirit**).  For other **D20 Checks** (**Ability Checks** and **Skilled Checks**), this will be a value determined by the GM based on how difficult the task is.
+Any given **D20 Check** will be compared to a Difficulty Target.  For attacks, this is typically the target's **Armor Class**.  For other **D20 Checks** (**Ability Checks** and **Skilled Checks**), this will be a value determined by the GM based on how difficult the task is.
 
 |   Difficulty    | Target # |
 |:---------------:|:--------:|
@@ -46,7 +46,7 @@ It is not uncommon in d20 based systems to apply an 'automatic success' and 'aut
 ### Critical Results
 There is no Critical Failure rule in this system.
 
-Only **Attack Rolls** and **Magical Attack Rolls** have a chance of **Critical Success**, which is defined as rolling a natural 20 and exceeding (not meeting) the targets **Defense**.
+Only **Attack Rolls** have a chance of **Critical Success**, which is defined as rolling a natural 20 and exceeding (not meeting) the targets **AC**.
 
 ### Advantage and Disadvantage.
 **Advantage**: When performing a check, roll 2d20 and take the highest.
@@ -62,7 +62,7 @@ If a roll is failed, a player may choose to have their character make a sacrific
 Under normal circumstances, a **D20 Check** may only be attempted a single time, unless  the circumstances are somehow changed enough to grant the character a bonus on the check, or a character has a special ability (such as **Fortune Points**) allowing a retry.
 
 ### Group Tests
-In a circumstance where an entire group must make a check (such as trying to sneak past an enemy patrol), the character with the lowest total check bonus must make the roll (count **Disadvantage** as a -4 modifier), but the rest of the group is considered to be **Helping** (if they are able).  The group’s success or failure is determined by this one roll.
+In a circumstance where an entire group must make a check (such as trying to sneak past an enemy patrol), the entire party makes the check against the same **DT**.  If half or more of the party succeeds, the check is counted as a success for everyone in the party; otherwise it's a failure for everyone in the party.
 
 ## Fortune
 A measure of a character’s luck, determination or the hand of fate, **Fortune Points** may be spent in various ways to aid a character and are earned when a character’s **Passions** affect the character in a negative way.
@@ -73,7 +73,7 @@ A character has a **Base Fortune Point** (**BFP**) score equal to their level di
 
 | Use | Effect |
 |:---|:---|
-| Help a Friend | If a friend is performing a **D20 Check** that is related to one of your **Passions**, you may spend a **Fortune Point** to take the **Help** action, even if you don’t have the relevant skill. By spending a FP, the skill requirement for helping is waived and the recipient receives a +2 bonus on their check.|
+| Help a Friend | If a friend is performing a **D20 Check** that is related to one of your **Passions**, you may spend a **Fortune Point** to take the **Help** action. |
 | Second Chance | A FP may be spent to re-roll a failed **D20 Check** so long as that check is in service to one of your **Passions**. Only one die may be re-rolled (thus a roll with **Advantage** or **Disadvantage** only re-rolls 1 of the two dice, not both). |
 | Lucky Situation | A FP may be spent to use something in the environment to your advantage, or introduce a reasonable element that can be used. For example, a nearby hay stack may be used to cushion a fall off the roof of a building. This must be in service to one of your **Passions**. |
 | Cheat Death | A character who has reached 0 HP, may spend a FP to automatically stabilize and not need to continue rolling their **Death Pool**. However, they are still at 0 HP and unconscious. This may always be done, even if not directly related to a **Passion**. |
@@ -83,9 +83,9 @@ A character has a **Base Fortune Point** (**BFP**) score equal to their level di
 All creatures have a common name, which they will use freely.  Supernatural creatures (including spellcasters) also have a **True Name**, which they keep secret.  Knowing a supernatural creature’s true name, gives one power over it and makes one more resistant to its supernatural abilities.  Typically this is expressed via the **Advantage** and **Disadvantage** mechanics.
 
 ## Countdown Pools
-Occasionally, the rules will call for the formation of a **Countdown Pool**.  Typically this is expressed as a die type followed by "(pool)" and a time unit (such as 2d6(pool) minutes)  This is a pool of dice that are rolled at every specified time increment.  Each die that comes up a ‘1’ is removed from the pool.  When all dice have been removed from the pool, whatever effect is indicated by the countdown pool completes.
+Occasionally, the rules will call for the formation of a **Countdown Pool**.  Typically this is expressed as a die type followed by "(pool)" and a time unit (such as 2d6(pool) minutes).  This is a pool of dice that are rolled at every specified time increment.  Each die that comes up a ‘1’ is removed from the pool.  When all dice have been removed from the pool, whatever effect is indicated by the countdown pool completes.
 
-The most common type of **Countdown Pool** is a **Death Pool**.  A death pool is a number of d4 dice equal to the creature's **Constitution Modifier** plus its **Wisdom Modifier**; with a minimum pool size of 1.  This is rolled at the end of each of the creature's **Turns** and when the pool is empty, the creature expires.
+One special **Countdown Pool** is the **Death Pool**.  A death pool is a number of d4 dice equal to the creature's **Constitution Modifier** plus its **Wisdom Modifier**; with a minimum pool size of 1.  This is rolled at the end of each of the creature's **Turns** and when the pool is empty, the creature expires.
 
 ### Countdown Pool Average Number of Rolls
 
@@ -121,9 +121,15 @@ Here is a list of common damage types:
 - **Thunder** – Sonic damage that both shocks the senses and rattles the bones.
 
 ## Time
-Time is broken up into three broad categories: **Combat Time**, **Exploration Time** and **Narrative Time**.  Combat Time is measured in **Turns** (one creature’s chance to move and act), **Rounds** (the combined Turns of all participants; approximately 6 seconds) and **Minutes** (1 minute / 10 Rounds).  **Exploration Time** is measured in **Segments** (approximately 10 minutes), **Hours** and **Watches** (4 Hours).  Narrative Time is not strictly tracked and, instead, the GM determines how much time has passed once the narration is concluded.  
+Time is broken up into three broad categories: **Combat Time**, **Exploration Time** and **Narrative Time**.  
 
-*For example, a group traveling a well-known safe road from one town to the next may take a full day’s travel.  The GM should declare this as narrative time and simply inform the group that 1 day of travel has passed.  On the other hand, if the group is traveling through a dangerous wilderness where they may be ambushed by monsters or other enemies, it’s recommended that this be treated as Exploration Time tracked in either Hours or Watches as the GM deems appropriate.  Similarly, if the group is exploring a dungeon, 10 minute Segments would be called for.*
+**Combat Time** is measured in **Combat Turns** (one creature’s chance to move and act), **Rounds** (the combined Turns of all participants; approximately 6 seconds) and **Minutes** (1 minute = 10 Rounds).  
+
+**Exploration Time** is measured in **Exploration Turns** (approximately 10 minutes), **Hours** and **Watches** (4 Hours).  
+
+**Narrative Time** is not strictly tracked and, instead, the GM determines how much time has passed once the narration is concluded.  
+
+*For example, a group traveling a well-known safe road from one town to the next may take a full day’s travel.  The GM should declare this as narrative time and simply inform the group that 1 day of travel has passed.  On the other hand, if the group is traveling through a dangerous wilderness where they may be ambushed by monsters or other enemies, it’s recommended that this be treated as Exploration Time tracked in either Hours or Watches as the GM deems appropriate.  Similarly, if the group is exploring a dungeon, 10 minute Exploration Turns would be called for.*
 
 ## Rounding
 Unless stated otherwise, the common convention is to round decimal values of 0.5 or greater up to the nearest whole number.  Values less than 0.5 are rounded down to the nearest whole number.
