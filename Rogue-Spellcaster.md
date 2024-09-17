@@ -25,7 +25,7 @@ For specific skill checks, Rogues gain an additional bonus beyond the normal Ski
 - Lock-Picking, Search, Stealth & Trap Handling: +1
 
 ### Spellcasting
-You can harness the power of magic.  A mage begins their career knowing two cantrips and two spells.  You will need to select a **Magical Tradition** from which your spells will be drawn.  You may not cast a spell of a Tier higher than half your level (rounded up).  Your spells have a DT equal to the DT shown on the table below plus the spell's listed **Ability Score Modifier**.
+You can harness the power of magic.  A mage begins their career knowing two cantrips and two spells.  You will need to select a **Magical Tradition** from which your spells will be drawn.  You may not cast a spell of a Rank higher than shown in the table below.  Your spells have a **Saving Throw DT** equal to the DT shown on the table below plus the spell's listed **Ability Score Modifier**.
 
 ### Sense Magic
 Being sensitive to the world of magic, you may determine if a person, place or thing is magical with a **Skilled** **Intelligence** check.  Doing so requires concentration and a few minutes; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a mage is staring at them.  You can also attempt to decipher magical writing in the same way.
@@ -36,19 +36,19 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 ### Rogue-Spellcaster Table
 | Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Invocation<br/>Dice | Spell<br/>DT |  Traits | Abilities |
 |:-----:|:------------:|:----------------:|:---------------:|:-------------------:|:------------:|:-------:|:---|
-|   1   | 1d5          | +1               | +1              |  2d6                | 11+          |  1      |Exhausting Magic, Magical Focus, Rogue Skills, Sense Magic, Spellcasting (cantrips), True Name |
+|   1   | 1d5          | +1               | +1              |  2d6                | 11+          |  1      | Exhausting Magic, Magical Focus, Rogue Skills, Sense Magic, Spellcasting (cantrips), True Name |
 |   2   | 2d5          | +1               | +1              |  3d6                | 11+          | +1      |  |
-|   3   | 3d5          | +2               | +2              |  4d6                | 12+          | --      | Spellcasting (rank 1), Sneak Attack (+1d4) |
+|   3   | 3d5          | +2               | +2              |  4d6                | 12+          | --      | Spellcasting (rank 1) |
 |   4   | 4d5          | +2               | +2              |  5d6                | 12+          | +1      |  |
 |   5   | 5d5          | +2               | +3              |  6d6                | 13+          | --      |  |
 |   6   | 6d5          | +3               | +3              |  6d6                | 13+          | --      | Spellcasting (rank 2) |
 |   7   | 7d5          | +3               | +4              |  7d6                | 14+          | +1      |  |
-|   8   | 8d5          | +3               | +4              |  8d6                | 14+          | --      | Sneak Attack (+2d4) |
+|   8   | 8d5          | +3               | +4              |  8d6                | 14+          | --      |  |
 |   9   | 9d5          | +4               | +5              |  9d6                | 15+          | --      | Spellcasting (rank 3) |
 |  10   | 10d5         | +4               | +5              | 10d6                | 15+          | +1      |  |
 |  11   | 10d5+1       | +5               | +6              | 10d6                | 16+          | --      |  |
 |  12   | 10d5+2       | +5               | +6              | 11d6                | 16+          | --      | Spellcasting (rank 4) |
-|  13   | 10d5+3       | +6               | +7              | 12d6                | 17+          | +1      | Sneak Attack (+3d4) |
+|  13   | 10d5+3       | +6               | +7              | 12d6                | 17+          | +1      |  |
 |  14   | 10d5+4       | +6               | +7              | 13d6                | 17+          | +1      |  |
 |  15   | 10d5+5       | +7               | +8              | 14d6                | 18+          | --      | Spellcasting (rank 5) |
 
