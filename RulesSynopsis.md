@@ -98,6 +98,18 @@ One special **Countdown Pool** is the **Death Pool**.  A death pool is a number 
 | 5 | 12-13 | 8-9 | 5-6 | 3-4 |
 | 6 | 13-14 | 8-9 | 6-7 | 3-4 |
 
+## Die Adjustments
+Occationally the rules will call for a die type to be stepped up or stepped down.  Use the table below to find the current die type and move left if the die type is being reduced or right if it's being increased.
+
+| Dice Progression |
+|:----------------:|
+| d2 => d3 => d4 => d5 => d6 => d8 => d10 => d12 => d16 => d20 |
+
+- For a d2, roll 1d4 and divide the result in half, rounding up.
+- For a d3, roll 1d6 and divide the result in half, rounding up.
+- For a d5, roll 1d10 and divide the result in half, rounding up.
+- For a d16, roll 1d4 and 1d8.  If the d4 is 3-4, add 8 to the d8 roll.  Otherwise add 0.
+
 ## Tags
 Most everything in the game world has one or more tags.  These are a game-mechanic concept and have no representation within the game world.  By themselves, tags do not have any mechanics tied to them.  However, other rules (special abilities, supernatural powers, etc.) may have effects specific to particular tags.
 
