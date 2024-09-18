@@ -1,4 +1,4 @@
-# The Clash of Arms
+# Shining Swords and Singing Spears
 ## Time
 Time in combat (and other action scenes) is tracked in relatively strict and discrete game units called **Combat Turns**, **Rounds** and **Minutes**.
 
