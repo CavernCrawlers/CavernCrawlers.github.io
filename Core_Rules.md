@@ -28,9 +28,9 @@ It is helpful to have the following passive checks written down ahead of time:  
 
 ### Saving Throws
 Saving throws are a specialized type of **D20 Check**.  The saving throw modifier is applied to the d20 roll along with an appropriate ability modifier.  
-- Evasion saving throws add the highest of the character’s Dexterity or Intelligence modifiers
-- Hardiness uses Strength or Constitution
-- Spirit uses either Wisdom or Charisma
+- **Evasion** saving throws add the highest of the character’s **Dexterity** or **Intelligence** modifiers
+- **Hardiness** uses **Strength** or **Constitution**
+- **Spirit** uses either **Wisdom** or **Charisma**
 
 Unlike other D20 Checks, a **natural 1** always results in a failure on a Saving Throw and a **natural 20** is always a success.
 
