@@ -48,7 +48,7 @@ There is no Critical Failure rule in this system.
 
 Only **Attack Rolls** have a chance of **Critical Success**, which is defined as rolling a natural 20 and exceeding (not meeting) the targets **AC**.
 
-### Advantage and Disadvantage.
+### Advantage and Disadvantage
 **Advantage**: When performing a check, roll 2d20 and take the highest.
 
 **Disadvantage**: When performing a check, roll 2d20 and take the lowest.
