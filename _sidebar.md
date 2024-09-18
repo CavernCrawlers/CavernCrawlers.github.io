@@ -18,6 +18,7 @@
 	- [Rogue-Spellcaster](Rogue-Spellcaster.md)
 - [Traits](Traits.md)
 - [Encumbrance and Equipment](Encumbrance_and_Equipment.md)
+- [Core Rules](Core_Rules.md)
 - [Combat](Combat.md)
 - [Hirelings and Allies](Hirelings_and_Allies.md)
 - [Allegiances and Morality](Allegiances_and_Morality.md)
