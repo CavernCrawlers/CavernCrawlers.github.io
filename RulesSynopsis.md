@@ -41,7 +41,7 @@ Any given **D20 Check** will be compared to a Difficulty Target.  For attacks, t
 Occasionally, the rules will reference a “Natural Roll”.  This is the die face that is showing after the roll, without applying any modifiers.  _For example, if a warrior with a +3 bonus to hit rolls a 12 on the die, their total result is 12+3 = 15.  Their natural result is just 12._
 
 ### Automatic Success and Failure
-It is not uncommon in d20 based systems to apply an 'automatic success' and 'automatic failure' rule for **Natural Rolls** of 20 and 1 (respectively).  This system does not do that.
+It is not uncommon in d20 based systems to apply an 'automatic success' and 'automatic failure' rule for **Natural Rolls** of 20 and 1 (respectively).  This system does not do that with the exception of [Saving Throws](Core_Rules.md#Saving-Throws).
 
 ### Critical Results
 There is no Critical Failure rule in this system.
