@@ -7,6 +7,8 @@ The primary means of gaining experience points is through the completion of **qu
 Once a character has accumulated enough experience points to reach the next level, the character will level up the next time they complete at least a [Long Rest](Combat.md#Long-Rest) in a [Safe Haven](Combat.md#Extended-Rest).  Upon completion of the rest, the character gains all the benefits of their new level.
 
 ## Leveling Table
+The table below shows how many **experience points** are needed to achieve each level.  Addtionally, the **skill bonus** for both single-class and hybrid-class characters is provided.
+
 | Level |     Exp   | Single-Class | Hybrid-Class |
 |:-----:|----------:|:------------:|:------------:|
 |   0   |      -500 |  +0          | +0           |
