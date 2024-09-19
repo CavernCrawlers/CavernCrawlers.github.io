@@ -24,3 +24,4 @@
 - [Hirelings and Allies](Hirelings_and_Allies.md)
 - [Allegiances and Morality](Allegiances_and_Morality.md)
 - [True Names](TrueNames.md)
+- [Downtime](Downtime.md)
