@@ -17,6 +17,7 @@
 	- [Fighter-Spellcaster](Fighter-Spellcaster.md)
 	- [Rogue-Spellcaster](Rogue-Spellcaster.md)
 - [Traits](Traits.md)
+- [Experience and Levels](Experience_and_Levels.md)
 - [Encumbrance and Equipment](Encumbrance_and_Equipment.md)
 - [Core Rules](Core_Rules.md)
 - [Combat](Combat.md)
