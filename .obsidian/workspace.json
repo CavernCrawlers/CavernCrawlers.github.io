@@ -27,19 +27,6 @@
               "type": "markdown",
               "state": {
                 "file": "TheMagicalArts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7eed155f8c107917",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cantrips.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -47,12 +34,51 @@
             }
           },
           {
-            "id": "d05f8dafcc488458",
+            "id": "43a75f3a8090247e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TheMagicalArts.md",
+                "file": "Spells.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1b80da6602fee307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cantrips.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6e4f74e36de7388d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RankOneSpells.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "bd83908eafe7fd01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Combat.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -72,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sidebar.md",
+                "file": "RankOneSpells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_sidebar.md",
+                "file": "RankOneSpells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_sidebar.md"
+                "file": "RankOneSpells.md"
               }
             }
           },
@@ -213,18 +240,21 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "288cad40f2800edb",
+  "active": "6e4f74e36de7388d",
   "lastOpenFiles": [
+    "Combat.md",
+    "RankOneSpells.md",
+    "Spells.md",
     "Cantrips.md",
     "TheMagicalArts.md",
-    "_sidebar.md",
-    "Core_Rules.md",
-    "Rogue-Spellcaster.md",
     "Spellcaster.md",
+    "RulesSynopsis.md",
+    "Core_Rules.md",
+    "_sidebar.md",
+    "Rogue-Spellcaster.md",
     "Fighter-Spellcaster.md",
     "Downtime.md",
     "CharacterCreation.md",
-    "Combat.md",
     "Encumbrance_and_Equipment.md",
     "Background.md",
     "Allegiances_and_Morality.md",
@@ -234,13 +264,10 @@
     "Traits.md",
     "_footer.md",
     "README.md",
-    "RulesSynopsis.md",
     "Warrior-Mage.md",
     "Rogue-Mage.md",
     "Mage.md",
     "Hirelings_and_Allies.md",
-    "Skills.md",
-    "Warrior.md",
     "templates",
     "package-lock.json",
     "node_modules/deploy/bootstrap",

@@ -1,5 +1,25 @@
 # The Magical Arts
 
+## Spellbooks
+Spellcasters record their spells and cantrips in "spellbooks".  These do not have to be literal books, but rather may be collections of scrolls, arcane runes carved on stones or most any other device the player and GM can agree on.  The primary limitation is that the spellbook be separate from the character (arcane tattoos are more of a magical item than a spellbook).  The language in which spells are written are typically a magical cypher learned from the caster's teacher and modified in their own way.  As such, deciphering someone else's spellbook can be a long and arduous process.
+
+A typical spellbook can hold up to 100 pages worth of spells.
+
+### Learning New Spells
+New spells take hours, days, weeks or sometimes months to properly learn.  While learning a new spell, the mage may take part in no other form of [downtime activity](Downtime.md); all their working hours being consumed with study and preparation.
+
+When learning a new spell, it must be recorded in the mage’s spellbook.  Each cantrip takes up a ½ page, while each spell takes up a number of pages equal to its base **Rank**.  For each page a spell takes up, it also takes 10 hours and 100sp worth of study and materials to properly learn and record the spell (cantrips take 5 hours and 50sp).
+
+Once the calculated learning time has passed, the mage makes an **Intelligence** roll with a DT equal to 10 plus the spell's base rank.  Failure results in the loss of all time and materials used in the attempt and the mage may not attempt to learn this spell again until they’ve gained a new level.
+
+Whenever a mage gains access to a new **Spell Rank**, they may pick any one spell that they are qualified to cast and learn it automatically (without going through the normal learning process).
+
+#### Learning From a Mentor
+Spellcasters may also learn spells from other casters (if they can find one willing to teach their jealously guarded secrets).  The teacher is assumed to be taking the [Help](Combat.md#Main-Actions) action in regards to the student learning the spell.  This also halves the amount of time required to learn the spell (though the material cost remains the same).
+
+#### Replacing a Spellbook
+If a spellbook is lost or destroyed, it may be recreated using the spells that the spellcaster has already prepared.  Doing so takes the same cost in time and materials as learning each spell anew.
+
 ## The Invocation Roll
 
 [comment]: # (This was inspired by the [Spell Dice](https://www.necropraxis.com/2013/11/01/spell-dice/) system by Necropraxis.)
@@ -61,15 +81,6 @@ Alternatively, a spell may require the target to make a [Saving Throw](Core_Rule
 
 ## Concentration
 Several spells require **concentration** to maintain their effects after casting.  A caster may normally only concentrate on one thing at a time.  New actions requiring concentration supersede anything the caster is already concentrating on.  If a concentrating caster takes damage, they must pass a **Concentration Check** (a **Spirit saving throw**) vs DT 10 or ½ the damage done (whichever is higher).  Other things may also require a concentration check, such as being thrown into a river, suddenly startled, being grappled and so on.  The GM will set the DT of the check accordingly.  Additionally, spells that take more than 1 action to cast require concentration while they are being cast.  Losing concentration causes the magical art to fail.
-
-## Learning New Spells
-New spells take hours, days, weeks or sometimes months to properly learn.  While learning a new spell, the mage may take part in no other form of [downtime activity](Downtime.md); all their working hours being consumed with study and preparation.
-
-When learning a new art, it must be recorded in the mage’s spellbook.  Each cantrip takes up a ½ page, while each spell takes up a number of pages equal to its base **Rank**.  For each page a spell takes up, it also takes 10 hours and 100sp worth of study and materials to properly learn and record the spell (cantrips take 5 hours and 50sp).
-
-Once the calculated learning time has passed, the mage makes an **Intelligence** roll with a DT equal to 10 plus the spell's base rank.  Failure results in the loss of all time and materials used in the attempt and the mage may not attempt to learn this art again until they’ve gained a new level.
-
-Whenever a mage gains access to a new **Spell Rank**, they may pick any one spell that they are qualified to cast and learn it automatically (without going through the normal learning process).
 
 ## Minor Magical Mishap
 | d30 | Mishap                                                                                                                                                                                                                                                                                                |
