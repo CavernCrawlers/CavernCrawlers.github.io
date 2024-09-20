@@ -32,9 +32,47 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7eed155f8c107917",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cantrips.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d05f8dafcc488458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TheMagicalArts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5d68de3ed43938a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core_Rules.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheMagicalArts.md",
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TheMagicalArts.md",
+                "file": "_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TheMagicalArts.md"
+                "file": "_sidebar.md"
               }
             }
           },
@@ -175,14 +213,15 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "b8ad307e33841bac",
+  "active": "288cad40f2800edb",
   "lastOpenFiles": [
-    "_sidebar.md",
+    "Cantrips.md",
     "TheMagicalArts.md",
+    "_sidebar.md",
+    "Core_Rules.md",
     "Rogue-Spellcaster.md",
     "Spellcaster.md",
     "Fighter-Spellcaster.md",
-    "Core_Rules.md",
     "Downtime.md",
     "CharacterCreation.md",
     "Combat.md",
@@ -202,7 +241,6 @@
     "Hirelings_and_Allies.md",
     "Skills.md",
     "Warrior.md",
-    "Rogue.md",
     "templates",
     "package-lock.json",
     "node_modules/deploy/bootstrap",

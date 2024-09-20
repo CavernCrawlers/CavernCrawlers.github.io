@@ -36,3 +36,5 @@
 	- [Magical Attacks and Saving Throws](TheMagicalArts.md#Magical-Attacks-and-Saving-Throws)
 	- [Concentration](TheMagicalArts.md#Concentration)
 	- [Learning New Spells](TheMagicalArts.md#Learning-New-Spells)
+- Spells
+	- [Cantrips](Cantrips.md)
