@@ -1,2 +1,0 @@
-# The Sorcerous Arts
-stub

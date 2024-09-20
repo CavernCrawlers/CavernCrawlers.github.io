@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "interfaceFontFamily": "",
-  "textFontFamily": "Courier"
+  "textFontFamily": "Courier",
+  "theme": "obsidian"
 }

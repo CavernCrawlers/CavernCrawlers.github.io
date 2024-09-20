@@ -103,8 +103,8 @@ In fantasy gaming there are a practically limitless number of possible species t
 
 There are several species to choose from: [Dwarf](Dwarf.md), [Elf](Elf.md), [Goblin](Goblin.md), [Hob](Hob.md), [Human](Human.md) and [Orc](Orc.md).  Other's may exist depending on the campaign the GM is running.
 
-## Roll for Apprenticeship
-Roll on the [Apprenticeships](Apprenticeship.md#Apprenticeship-Table) table to determine what your character did before becoming an adventurer.
+## Roll for Background Occupation
+Roll on the [Background Occupation](Background.md#Apprenticeship-Table) table to determine what your character did before becoming an adventurer.
 
 ## Pick a Class
 There are six character classes: [Warrior](Warrior.md), [Rogue](Rogue.md), [Mage](Mage.md), [Warrior-Rogue](Warrior-Rogue.md), [Warrior-Mage](Warrior-Mage.md) and [Rogue-Mage](Rogue-Mage.md).

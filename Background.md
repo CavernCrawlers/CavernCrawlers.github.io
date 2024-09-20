@@ -1,6 +1,6 @@
-# Apprenticeships
-## Background Apprenticeship
-Everyone did something before they became an adventurer. Roll (1d100) or select from the following table to determine what it was your character was going to do before being thrust into a life of adventure. This will determine some of your character's starting equipment.  Your character is automatically proficient with any weapon provided by their apprentice occupation, but not the entire weapon group.
+# Background Skills
+## Pre-Adventuring Carrier
+Everyone did something before they became an adventurer. Roll (1d100) or select from the following table to determine what it was your character did before being thrust into a life of adventure. This will determine some of your character's starting equipment.  Your character is automatically proficient with any weapon provided by their background occupation, but not the entire weapon group.
 
 The column used for the roll should be chosen based on the culture in which your character was raised.
 
@@ -44,7 +44,7 @@ The column used for the roll should be chosen based on the culture in which your
 | Vagrant/Wanderer    | 97-99       | 97-99 |  96-98 | 96-99        |
 | Wizard's Apprentice | 100         | 100   | 99-100 | 100          |
 
-## Apprentice Descriptions
+## Background Occupation Descriptions
 
 ### Acolyte
 Feeling the call of the gods, you sought to join the clergy.  Pick either the [Great Church](Allegiances_and_Morality.md#Empyreans) or the [Old Faith](Allegiances_and_Morality.md#Old-Gods).  You may add your Skill Bonus to checks involving that panetheon.  You may make knowledge checks regarding other panetheons as a regular **Ability Check**.

@@ -109,6 +109,11 @@ When a character receives a **Critical Hit** or is reduced to 0 Hit Points, ther
 ### Charmed
 - Cannot attack or attempt to harm the charmer.
 - Charmer has **Advantage** on any social checks vs this creature.
+### Concentrating
+- Cannot perform any other action requiring **Concentration**.
+- If another act requiring Concentration is performed, concentration is lost.
+- Any time a Concentrating character takes damage, they must perform a **Constitution Roll** vs a DT of 10 or 1/2 the damage taken, whichever is higher.  This is referred to as a **Concentration Check**.  If the check fails, concentration is lost.
+- Other circumstances may also require a Concentration Check with a DT set by the **Game Master** (such as a heavy storm, clinging to a cliff face, being grappled and so forth).
 ### Deafened
 - Auto-fail any check that requires hearing.
 ### Exhausted
@@ -125,6 +130,8 @@ When a character receives a **Critical Hit** or is reduced to 0 Hit Points, ther
 - Grappled creature has **Disadvantage** on attacks against anyone other than the grappler.
 ### Incapacitated
 - Cannot take **Actions** or **Reactions**.
+### Intoxicated
+- Same as [Poisoned](#Poisoned).
 ### Invisible
 - Cannot be detected by normal sight.
 - Has **Advantage** when hiding.

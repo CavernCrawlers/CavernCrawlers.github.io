@@ -16,6 +16,9 @@
 ### Exhausting Magic
 You may recover expended **Invocation Dice** gaining 1 level of **Exhaustion** per die after completing 10 minutes of meditation.
 
+### Invocation Dice
+As a spellcaster, you have a number of invocation dice as indicated on the [Rogue-Spellcaster Table](#Rogue-Spellcaster-Table) plus additional dice equal to your **Wisdom Modifier**.
+
 ### Magical Focus
 As part of your apprenticeship, you created a unique magical focus to aid in your spellcasting.  This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held.  So long as you have your Magical Focus in hand when casting a spell, you may add your **Skill Bonus** to your **Invocation Dice** total.  A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 50sp worth of materials.
 
@@ -36,21 +39,21 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 ### Rogue-Spellcaster Table
 | Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Invocation<br/>Dice | Spell<br/>DT | Knacks | Traits | Abilities |
 |:-----:|:------------:|:----------------:|:---------------:|:-------------------:|:------------:|:------:|:------:|:---|
-|   1   | 1d5          | +1               | +1              |  2d6                | 11+          |  1     |  1     | Exhausting Magic, Magical Focus, Rogue Skills, Sense Magic, Spellcasting (cantrips), True Name |
-|   2   | 2d5          | +1               | +1              |  3d6                | 11+          | --     | --      |  |
-|   3   | 3d5          | +2               | +2              |  4d6                | 12+          | --     | --      | Spellcasting (rank 1) |
-|   4   | 4d5          | +2               | +2              |  5d6                | 12+          | +1     | --      |  |
-|   5   | 5d5          | +2               | +3              |  6d6                | 13+          | --     | +1      |  |
-|   6   | 6d5          | +3               | +3              |  6d6                | 13+          | --     | --      | Spellcasting (rank 2) |
-|   7   | 7d5          | +3               | +4              |  7d6                | 14+          | --     | --      |  |
-|   8   | 8d5          | +3               | +4              |  8d6                | 14+          | +1     | --      |  |
-|   9   | 9d5          | +4               | +5              |  9d6                | 15+          | --     | --      | Spellcasting (rank 3) |
-|  10   | 10d5         | +4               | +5              | 10d6                | 15+          | --     | +1      |  |
-|  11   | 10d5+1       | +5               | +6              | 10d6                | 16+          | --     | --      |  |
-|  12   | 10d5+2       | +5               | +6              | 11d6                | 16+          | --     | --      | Spellcasting (rank 4) |
-|  13   | 10d5+3       | +6               | +7              | 12d6                | 17+          | +1     | --      |  |
-|  14   | 10d5+4       | +6               | +7              | 13d6                | 17+          | --     | +1      |  |
-|  15   | 10d5+5       | +7               | +8              | 14d6                | 18+          | --     | --      | Spellcasting (rank 5) |
+|   1   | 1d5          | +1               | +1              |  1d6                | 11+          |  1     |  1     | Exhausting Magic, Magical Focus, Rogue Skills, Sense Magic, Spellcasting (cantrips), True Name |
+|   2   | 2d5          | +1               | +1              |  1d6                | 11+          | --     | --      |  |
+|   3   | 3d5          | +2               | +2              |  2d6                | 12+          | --     | --      | Spellcasting (rank 1) |
+|   4   | 4d5          | +2               | +2              |  3d6                | 12+          | +1     | --      |  |
+|   5   | 5d5          | +2               | +3              |  4d6                | 13+          | --     | +1      |  |
+|   6   | 6d5          | +3               | +3              |  4d6                | 13+          | --     | --      | Spellcasting (rank 2) |
+|   7   | 7d5          | +3               | +4              |  5d6                | 14+          | --     | --      |  |
+|   8   | 8d5          | +3               | +4              |  6d6                | 14+          | +1     | --      |  |
+|   9   | 9d5          | +4               | +5              |  7d6                | 15+          | --     | --      | Spellcasting (rank 3) |
+|  10   | 10d5         | +4               | +5              |  8d6                | 15+          | --     | +1      |  |
+|  11   | 10d5+1       | +5               | +6              |  8d6                | 16+          | --     | --      |  |
+|  12   | 10d5+2       | +5               | +6              |  9d6                | 16+          | --     | --      | Spellcasting (rank 4) |
+|  13   | 10d5+3       | +6               | +7              | 10d6                | 17+          | +1     | --      |  |
+|  14   | 10d5+4       | +6               | +7              | 11d6                | 17+          | --     | +1      |  |
+|  15   | 10d5+5       | +7               | +8              | 12d6                | 18+          | --     | --      | Spellcasting (rank 5) |
 
 ### Rogue-Spellcaster Saving Throws
 | Level | Evasion | Hardiness | Spirit |
