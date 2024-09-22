@@ -108,7 +108,7 @@ If a weapon lists 2 or more damage types, the wielder must specify the damage ty
 | Club, Great                       | H      | 1d8    | B          |   1sp | 2     | 2H, Impact |
 | Dagger                            | L      | 1d6    | P/S        |   4sp | 1     | Finesse, Hurlant |
 | Flail                             | M      | 1d8    | B          |  20sp | 1     | Impact, Flexible |
-| Flail, Heavy                      | H      | 1d10   | B          | 25sp | 2     | 2H, Impact, Flexible |
+| Flail, Heavy                      | H      | 1d10   | B          | 25sp  | 2     | 2H, Impact, Flexible |
 | Halberd / Poleaxe / Bill / Glaive | H      | 1d10   | S/P        |  40sp | 2     | Reach, 2H, Impact |
 | Hammer, Light                     | M      | 1d6    | B          |  10sp | 1     | Hurlant    |
 | Hammer, Maul                      | H      | 1d10   | B          |  50sp | 2     | 2H, Impact |

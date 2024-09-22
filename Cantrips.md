@@ -22,15 +22,6 @@ A mage may attempt to converse with more than one type of beast at the same time
 **Save:** Spirit<br/>
 A mage uses this spell to influence the emotions and attitudes of the target creature.  If the target succeeds on their **saving throw**, they are unaffected but know that the caster was attempting to influence their mind with magic.  If the target fails, their emotional state moves toward the emotion selected by the caster.  This can grant a plus or minus 1 modifier on social checks, including rolls on the [Reaction Table](Core_Rules#Charisma-and-Reactions).
 
-## Blessing
-**Casting Ability:** Wisdom<br/>
-**Casting Time:** 1 action<br/>
-**Range:** Touch<br/>
-**Area:** 1 Creature<br/>
-**Duration:** 1 task (up to 1 hour)<br/>
-**Save:** none<br/>
-With a touch, words of encouragement and a small investment of magic, a mage can grant one creature **Advantage** on a single roll to perform a specific task.  When this cantrip is invoked, the mage must name the task to which the bonus applies (e.g. “pick this lock” or “smite these bandits”).  As soon as the task is attempted, or if the duration expires without an attempt, the blessing fades.
-
 ## Conjure Sound
 **Casting Ability:** Intelligence<br/>
 **Casting Time:** 1 action<br/>
@@ -57,6 +48,15 @@ This allows the mage to conjure a simple, silent and static illusion of roughly 
 **Duration:** 1 task (up to 1 hour)<br/>
 **Save:** Spirit<br/>
 By uttering this minor curse, the mage causes the targeted creature to have **Disadvantage** on the next roll they take for a particular action.  The action must be specified at the time of casting and must be specific (such as climb a tree, strike with a sword, haggle for a price).  As soon as the task is attempted, or if the duration expires without an attempt, the hexing fades.
+
+## Inspire
+**Casting Ability:** Wisdom<br/>
+**Casting Time:** 1 minute<br/>
+**Range:** Touch<br/>
+**Area:** 1 Creature<br/>
+**Duration:** 1 task (up to 1 hour)<br/>
+**Save:** none<br/>
+With a touch, words of encouragement and a small investment of magic, a mage can grant one creature +2 on a single roll to perform a specific task.  When this cantrip is invoked, the mage must name the task to which the bonus applies (e.g. “pick this lock” or “smite these bandits”).  As soon as the task is attempted, or if the duration expires without an attempt, the blessing fades.
 
 ## Mage Hand
 **Casting Ability:** Intelligence<br/>

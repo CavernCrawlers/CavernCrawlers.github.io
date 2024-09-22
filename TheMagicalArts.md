@@ -1,5 +1,10 @@
 # The Magical Arts
 
+Energy
+Entropy
+Matter
+Spirit
+
 ## Spellbooks
 Spellcasters record their spells and cantrips in "spellbooks".  These do not have to be literal books, but rather may be collections of scrolls, arcane runes carved on stones or most any other device the player and GM can agree on.  The primary limitation is that the spellbook be separate from the character (arcane tattoos are more of a magical item than a spellbook).  The language in which spells are written are typically a magical cypher learned from the caster's teacher and modified in their own way.  As such, deciphering someone else's spellbook can be a long and arduous process.
 

@@ -83,14 +83,14 @@ This spell afflicts the targeted creature with the [Frightened](Combat.md#Fright
 
 The number of creatures affected may be increased by +1 creature per +1 Rank.
 
-## Gather Shadows
+## Gather Mist/Shadows
 **Casting Ability:** Wisdom<br/>
 **Casting Time:** 1 action<br/>
 **Range:** Near<br/>
 **Area:** Medium<br/>
 **Duration:** 10 minutes<br/>
 **Save:** none<br/>
-This spell fills a 5 ft cube with impenetrable shadows, blocking normal sight and low-light vision.  Darkvision will still penetrate the area of effect.  Any creatures within the affected area gain the [blinded](Combat.md#Blinded) condition so long as they remain in that area.
+This spell fills a 5 ft cube with impenetrable mist or shadows, blocking normal sight and low-light vision.  Darkvision will still penetrate the area of effect.  Any creatures within the affected area gain the [blinded](Combat.md#Blinded) condition so long as they remain in that area.
 
 Increasing this spell's rank by 1 allows it to also block Darkvision.
 
@@ -117,6 +117,17 @@ By casting this spell at higher Ranks, additional effects may be added:
 
 Casting this spell at higher Ranks allows the caster to affect additional creatures at +1 Creature per +1 Rank.
 
+## Leaping
+**Casting Ability:** Intelligence<br/>
+**Casting Time:** 1 action<br/>
+**Range:** Touch<br/>
+**Area:** 1 Creature<br/>
+**Duration:** 1 minute (c)<br/>
+**Save:** none<br/>
+This spell increases the target's leaping ability by +20 feet vertically and +10 feet horizontally.  They also have **Advantage** on any Strength checks related to leaping.
+
+The number of affected creatures may be increased by 1 per +1 Rank.
+
 ## Mage Lock
 **Casting Ability:** Intelligence<br/>
 **Casting Time:** 1 action<br/>
@@ -135,11 +146,11 @@ Casting this spell at a higher rank doubles the duration per +1 rank.
 **Area:** 1 creature<br/>
 **Duration:** 10 minutes<br/>
 **Save:** none<br/>
-The caster conjures a bolt of elemental energy (acid, cold, fire, lightning, necrotic, spirit, radiant or thunder), whose type is determined when the spell is learned.  This spell may be learned multiple times to add additional elemental types; each counting as a separate spell.  When the spell is cast, the mage must specify the type of energy being used for the attack.  Once cast, the spellcaster makes a **Magical Attack** roll vs the target's **AC**.  On a successful hit, the spell does 1d6 damage of the given energy type.
+The caster conjures a dart of elemental energy (acid, cold, fire, lightning, necrotic, spirit, radiant or thunder), whose type is determined when the spell is learned.  This spell may be learned multiple times to add additional elemental types; each counting as a separate spell.  When the spell is cast, the mage must specify the type of energy being used for the attack.  Once cast, the spellcaster makes a **Magical Attack** roll vs the target's **AC**.  On a successful hit, the spell does 1d6 damage of the given energy type.
 
 The spell's range may be increased to Far by increasing the spell's Rank by +1.
 
-Additional bolts may be conjured at a rate of +1 bolt per +1 Rank. Each bolt may be targeted at a different creature and may be of any elemental type the mage knows.  The bolts do not need to be loosed all at the same time, though any bolts not loosed by the end of the spell's duration are lost.  Once all bolts are loosed, or the spell's duration expires, the spell ends.
+Additional darts may be conjured at a rate of +1 dart per +1 Rank. Each dart may be targeted at a different creature and may be of any elemental type the mage knows.  The darts do not need to be loosed all at the same time, though any darts not loosed by the end of the spell's duration are lost.  Once all darts are loosed, or the spell's duration expires, the spell ends.
 
 ## Magic Pouch
 **Casting Ability:** Intelligence<br/>
@@ -227,26 +238,3 @@ The duration of this spell may be increased by +10 minutes per +1 Rank.
 By means of this spell, the caster makes it seem as if their voice were coming from a point designated by the caster.  So long as the spell lasts, the source of the caster's voice may be moved to any point within the spell's range.  Any creatures hearing the voice may attempt a Spirit save in order to realize where the voice is truly coming from (the caster's location).
 
 The duration of this spell may be increased by +10 minutes per +1 Rank.
-
-## Wizard's Wings
-**Casting Ability:** Intelligence<br/>
-**Casting Time:** 1 action<br/>
-**Range:** Touch<br/>
-**Area:** 1 Creature<br/>
-**Duration:** 1 minute<br/>
-**Save:** none<br/>
-By burning a bird feather and tracing the sign of the wind in the air, a spellcaster may cause the touched creature sprout feathered wings for the duration of the spell.  These wings do not grant true flight but instead grant the recipient **Advantage** on any rolls related to jumping and climbing.  Additionally, any falls that occur during the spell's duration will cause the recipient to descend at a harmless 10 ft per second.
-
-Casting this spell at a higher rank can produce one of the following effects:
-- Increase the number of creatures affected by +1 per Rank.
-- Double the duration of the spell per +1 Rank.
-- For +3 Ranks, the recipient(s) of the spell gain true flight with a speed equal to 1/2 their normal ground move.
-
-## {name}
-**Casting Ability:** {ability}<br/>
-**Casting Time:** {time}<br/>
-**Range:** {range}<br/>
-**Area:** {area}<br/>
-**Duration:** {duration}<br/>
-**Save:** {save}<br/>
-{description}
