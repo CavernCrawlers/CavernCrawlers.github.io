@@ -1,6 +1,26 @@
 # Rank 1 Spells
 
 Rank 1 spells have a **Casting Difficulty** of 4.
+- [Abjuration](#abjuration)
+- [Alarm](#alarm)
+- [Beauty's Bane](#beautys-bane)
+- [Calm](#calm)
+- [Charm Person](#charm-person)
+- [Enchant Weapon](#enchant-weapon)
+- [Frighten](#frighten)
+- [Gather Mist/Shadows](#gather-mistshadows)
+- [Heal Wounds](#heal-wounds)
+- [Leaping](#leaping)
+- [Mage Lock](#mage-lock)
+- [Magical Missile](#magical-missile)
+- [Magic Pouch](#magic-pouch)
+- [Purify Food and Drink](#purify-food-and-drink)
+- [Read Language](#read-language)
+- [Resist Element](#resist-element)
+- [Shield](#shield)
+- [Sleep](#sleep)
+- [Turn Undead](#turn-undead)
+- [Ventriloquism](#ventriloquism)
 
 ## Abjuration
 **Casting Ability:** Wisdom<br/>

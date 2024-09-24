@@ -1,5 +1,8 @@
 # True Names
 Any character with a connection to the supernatural must have a true name.  This includes, fae creatures (elves, dwarves, goblins, etc), demons, gods, and any character capable of using magical arts.  Characters without supernatural connections may have a true name but it is not required.
+- [The Power in the Name](#the-power-in-the-name)
+- [Who is Listening](#who-is-listening)
+- [Learning True Names](#learning-true-names)
 
 ## The Power in the Name
 Calling out a being’s true name grants the speaker **Advantage** on any supernatural ability used against the named being as well as in any social interactions or contests of will against it.  It also negates any resistances the named creature may have against the speaker’s attacks and reduces immunities to resistances.  Finally, the speaker gains Advantage on any **saving throws** to resist the supernatural powers of the named creature.

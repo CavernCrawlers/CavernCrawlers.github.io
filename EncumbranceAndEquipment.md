@@ -1,4 +1,29 @@
-# Encumbrance
+- [Encumbrance](#encumbrance)
+- [Coinage](#coinage)
+- [Equipment](#equipment)
+	- [Quality](#quality)
+	- [Rarity](#rarity)
+	- [Haggling](#haggling)
+	- [Weapons](#weapons)
+		- [Weapon Properties](#weapon-properties)
+		- [Damage Types](#damage-types)
+		- [Weight](#weight)
+		- [Ranges](#ranges)
+		- [Melee Weapons](#melee-weapons)
+		- [Ranged Weapons](#ranged-weapons)
+	- [Armor](#armor)
+		- [Armor Properties](#armor-properties)
+		- [Donning and Doffing Armor](#donning-and-doffing-armor)
+	- [Gear](#gear)
+		- [Equipment Packs](#equipment-packs)
+		- [Food and Shelter](#food-and-shelter)
+		- [Lifestyle Expenses](#lifestyle-expenses)
+		- [Services](#services)
+		- [Mounts, Livestock and Transport](#mounts-livestock-and-transport)
+		- [Tack and Harness](#tack-and-harness)
+		- [Drawn Vehicles](#drawn-vehicles)
+
+## Encumbrance
 
 Any given character can only carry so much.  Some groups may wish to handwave the tracking of encumbrance and that's completely understandable.  The rules here are meant to provide some degree of verisimilitude without having to track pounds and ounces of carried gear and treasure.
 
@@ -12,7 +37,7 @@ Each character may carry a number of **Readied Items** equal to half their **Str
 
 These limits represent the amount of gear a character can carry without penalty.  An extra 2 **Readied Items** or 4 **Stowed Items** (or fractions thereof), reduces a character's **Movement** by 5 feet and they take a -2 penalty on all **Strength** and **Dexterity Checks**.  Additionally, for every hour so encumbered, they must make a **Constitution Check** vs a **Difficulty** of 13 or gain a level of **Exhaustion**.  Going further beyond this limit; up to 4 Readied Items or 8 Stowed Items, reduces the character's movement to half, increases the Strength and Dexterity check penalties to -4 and increases the Exhaustion check difficulty to 15.
 
-# Coinage
+## Coinage
 Every petty king and warlord seems to issue their own form of currency.  Below is a table listing those coin types most commonly found with sample regional names.  Most peasants and commoners deal in barter, but whey they do have coin, it is typically copper or (occasionally) silver.  Silver is typically the coin of merchants and other 'middle-class' folk. Higher value coins are rarely seen by the peasantry; mostly being used by wealthy merchants and nobles.
 
 Even rarer still are ancient coins, gems, jewelry and the like.  Their value varies greatly by their rarity and quality.
@@ -31,9 +56,9 @@ The entries on the coinage table are far from the only materials used for money.
 * Other realms will have their own names for equivalent coins.
 </sub>
 
-# Equipment
+## Equipment
 
-## Quality
+### Quality
 The equipment table prices in this chapter assume items of common quality.  Higher or lower quality work can dramatically affect these prices.  The exact game effect of different quality items is often left up to the GM to determine on a case-by-case basis.  For example, a poor quality sword may be judged to have a -1 to hit chance, while a superior quality sword may increase it’s damage die by 1 step.  It is recommended that weapon quality modifiers be limited to no more than +/- 1 on to-hit or damage, or a 1 die step for damage.  Higher quality weapons might have multiple such properties (such as a master-crafted bow being +1 to hit, +1 die step damage and +10% range).
 
 | Quality | Cost Multiplier |
@@ -44,10 +69,10 @@ The equipment table prices in this chapter assume items of common quality.  High
 | Superior | 4 |
 | Master/Luxury | 10 |
 
-## Rarity
+### Rarity
 Not all items are equally available in all regions.  As a result, the GM is encouraged to multiply the cost of an item based on how common or rare it is.  The recommended range is the same as for Quality Modifiers above (x0.5 to x10).
 
-## Haggling
+### Haggling
 It is possible that your players may wish to haggle with local merchants over the cost of items (especially for those with quality or rarity modifiers).  This can be handled with a simple roll on the Reaction Table (see Rolling the Dice) modified by the bartering character’s **Charisma Modifier**.  Below are some suggestions on how to interpret the results:
 
 | Reaction Check Result | Effect |
@@ -60,10 +85,10 @@ It is possible that your players may wish to haggle with local merchants over th
 
 If the characters have no intent to haggle, simply forego any haggling rolls and use the price as listed (modified by quality and rarity as normal).
 
-## Weapons
+### Weapons
 The weapon tables below are not meant to be exhaustive, but represent those most commonly found in a typical western-style fantasy campaign.  For more exotic weaponry from far off lands, it’s often easiest to simply find an equivalent entry on one of the below tables and modify it’s stats based on quality and rarity.  For example, a katana could be interpreted as a _rare_ _excellent_-quality arming sword (+1 to hit, x4 cost).
 
-### Weapon Properties
+#### Weapon Properties
 - **2H**: This weapon requires 2 hands to wield.
 - **Defensive**: Wielding this weapon with proficiency grants the user +1 AC in melee.
 - **Finesse**: When used in melee, this weapon may use either **Dexterity** or **Strength** for attack and damage bonuses.
@@ -76,26 +101,26 @@ The weapon tables below are not meant to be exhaustive, but represent those most
 - **Snare**: A large or smaller creature hit by this weapon is **Restrained**. A restrained creature may spend an **Action** to attempt a **Dexterity Check** vs a **Difficulty** equal to the Attack Roll total to escape.  Alternatively, a Difficulty 15 **Strength Check** may be attempted to break the ensnaring weapon.
 - **Versatile**: This weapon may be wielded with either 1 or 2 hands.  If 2 hands are used, roll damage with **Advantage**.  Small creatures using this weapon one-handed have **Disadvantage** on their **Attack Rolls**.  If they use 2 hands they do not roll damage with Advantage.
 
-### Damage Types
+#### Damage Types
 - **(B)lunt**
 - **(P)iercing**
 - **(S)lashing**
 
 If a weapon lists 2 or more damage types, the wielder must specify the damage type they are using when they make the attack.  If not specified, the first listed type will be assumed.
 
-### Weight
+#### Weight
 - **(L)ight**: Anyone can use these weapons in their off-hand.
 - **(M)edium**: No special notes.
 - **(H)eavy**: Small creatures have **Disadvantage** when wielding weapons with this tag.
 
-### Ranges
+#### Ranges
 - **(C)lose**: 5 feet - Weapons with a range of **Far** have **Disadvantage** at this range.
 - **(N)ear**: 30 feet - Attacks made from beyond Near range have **Disadvantage**.
 - **(F)ar**: 150 feet
 - **(S)ight**: Within Line of Sight (**LoS**).
 - **(D)istant**: Beyond perception.
 
-### Melee Weapons
+#### Melee Weapons
 | Weapon                            | Weight | Damage | Type       |  Cost | Slots | Properties |
 |:----------------------------------|:------:|:------:|:----------:|------:|:-----:|:-----------|
 | Axe, Battle                       | M      | 1d8    | S/B or S/P |  20sp | 1     | Versatile, Impact |
@@ -139,7 +164,7 @@ If a weapon lists 2 or more damage types, the wielder must specify the damage ty
 * -- All characters are always proficient with unarmed combat.
 </sub>
 
-### Ranged Weapons
+#### Ranged Weapons
 | Weapon               | Weight | Damage | Type  | Range | Cost  | Slots | Properties |
 |:---------------------|:------:|:------:|:-----:|:-----:|------:|:-----:|:-----------|
 | Axe, Hand / Hatchet  | L      |  1d6   | S/B   | N     |  10sp | 1     | Hurlant |
@@ -166,12 +191,12 @@ If a weapon lists 2 or more damage types, the wielder must specify the damage ty
 ? -- These properties must be decided upon by the GM when the improvised weapon is acquired.<br/>
 </sub>
 
-## Armor
+### Armor
 The armor list below should be considered as general categories of armor rather than a definitive list.  There are too many types of armor in both history and fantasy to create a truly exhaustive list and, instead, armor should be associated with its nearest category to determine it’s game mechanics.
 
 Like other items, armor quality can vary.  It is generally recommended that any one characteristic not be modified by more than one step better or worse.  Qualities higher than Good should simply modify multiple characteristics.
 
-### Armor Properties
+#### Armor Properties
 - **1H**: Requires the use of 1 hand.
 - **Category**: This is the armor category noted for proficiency purposes 
 	- (L)ight, (M)edium, (H)eavy, (B)uckler and (S)hield.
@@ -199,7 +224,7 @@ Like other items, armor quality can vary.  It is generally recommended that any 
 
 For creatures that are not Medium in size, the cost of armor is modified: For small creatures, costs are halved.  For creatures of Large size or greater, the cost doubles per size category larger than Medium.  The Slot values are not adjusted.
 
-### Donning and Doffing Armor
+#### Donning and Doffing Armor
 It takes time to don (put on) or doff (take off) armor.  You only benefit from armor's AC bonus once it is fully on (after the full donning time).  These times are halved with a competent assistant (excepting shields).
 
 | Category | Don | Doff |
@@ -210,7 +235,7 @@ It takes time to don (put on) or doff (take off) armor.  You only benefit from a
 | Buckler / Shield | 1 action   | 1 action |
 
 
-## Gear
+### Gear
 This is a list of common adventuring gear, much of which can be found in various general stores throughout the land.  Some specialized items (such as acid, alchemist’s fire, poisons and the like) will only be available at specialty shops like alchemy shops, herbalists and so forth.
 
 | Item | Cost | Slots | Properties |
@@ -286,7 +311,7 @@ This is a list of common adventuring gear, much of which can be found in various
 **Potency** - See the rules for **Poisons** and **Toxins**.
 </sub>
 
-### Equipment Packs
+#### Equipment Packs
 For convenience the following equipment packs exist as pre-build packages at a discount in cost for buying in ‘bulk’.
 
 | Pack            |  Cost | Contents | 
@@ -296,7 +321,7 @@ For convenience the following equipment packs exist as pre-build packages at a d
 | Rogue's Pack    |  80sp | backpack, dark clothing, sack, 10 candles, crowbar, hammer, 10 pitons, hooded lantern, 2 flasks of oil, tinderbox, lockpicks, 50ft rope, leather armor, 1 light weapon and 1 medium weapon. |
 | Warrior's Pack  |  90sp | backpack, common clothing, tinderbox, tools for arms and armor maintenance, a light weapon and scale mail; plus either 2 weapons or a weapon and shield. |
 
-### Food and Shelter
+#### Food and Shelter
 While on an adventure, your character will still need food to eat and a place to sleep.  Travel rations and a thin bedroll on hard cold ground may be sustaining, but they’re hardly comfortable.  When in need of proper accommodations, the table below gives the cost for average examples of the normal food and service obtainable.
 
 | Item     | Cost | Notes |
@@ -310,7 +335,7 @@ While on an adventure, your character will still need food to eat and a place to
 | -Spirits |  4sp | |
 | -Wine    |  4cp | |
 
-### Lifestyle Expenses
+#### Lifestyle Expenses
 Between adventures your character needs to be able to rest and heal.  Doing so in style costs money.  The table below lists the daily price to maintain a particular lifestyle.  Each lifestyle rank, aside from **Modest**, can impact your character’s social interactions and how well they can rest and heal.
 
 A **Squalid** lifestyle basically means the character is homeless and penniless.  Others, even others living in squalid conditions, will look down on your filthy hygiene and ragged appearance.  As a result you have **Disadvantage** on any checks for social interaction.  Additionally, you must pass at difficulty 15 **Constitution Check** to recover any levels of **Exhaustion**.
@@ -333,7 +358,7 @@ With an **Aristocratic** lifestyle, you’re practically one of the nobility (ev
 
 <sub>Costs on the above table are per day.</sub>
 
-### Services
+#### Services
 Below is a list of common services that an adventurer might need.  Not all services are available in every town or village.  An artisan may service multiple villages while a single city might have enough artisans to form a guild for that profession.
 
 See the Hirelings and Allies rules for additional notes on the hiring process.
@@ -378,7 +403,7 @@ See the Hirelings and Allies rules for additional notes on the hiring process.
 Costs may double for hazardous / wartime duty.  Even then, most hirelings are unwilling to venture into obviously suicidal situations (like venturing into dungeons or dragon lairs.)
 </sub>
 
-### Mounts, Livestock and Transport
+#### Mounts, Livestock and Transport
 Be it as a beast of burden, means of transportation or just some extra protection and companionship, a well-trained animal can be a valuable asset.  The speed given in the table below is the animal’s combat speed.  The carry value is the encumbrance value worth of gear an animal can carry.  A rider typically counts as 3 encumbrance for small creatures, 6 for medium and 10 or more for large creatures.  Also take into account the gear the rider is wearing and carrying.
 
 Animals can typically drag/pull five times their carry if otherwise unburdened.
@@ -395,7 +420,7 @@ Animals can typically drag/pull five times their carry if otherwise unburdened.
 | Dog, war          |    50sp | 40ft  | Carry 11 items |
 | Pony              |    60sp | 40ft  | Carry 17 items |
 
-### Tack and Harness
+#### Tack and Harness
 Once you have an animal companion, you way want to outfit it for your adventuring lifestyle.  The Barding entry of the table gives the cost and encumbrance multipliers for barding equivalent to any of the armor types listed above.
 
 | Item             |  Cost | Slots | Notes |
@@ -419,7 +444,7 @@ Once you have an animal companion, you way want to outfit it for your adventurin
 @ No encumbrance when worn.  Encumbrance 1 otherwise.
 </sub>
 
-### Drawn Vehicles
+#### Drawn Vehicles
 Sometimes you want to travel in style.  The prices below are to outright own a given vehicle.  The temporary loan of a vehicle is typically 10% of the cost per day, with 1/4 to 1/2 the purchase cost as a down payment.
 
 Encumbrance is in **Slots** when the vehicle is being pulled and does not account for items in the vehicle.  A drawn vehicle's max capacity is equal to its own Encumbrance.

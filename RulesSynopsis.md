@@ -1,4 +1,25 @@
 # Rules Synopsis
+- [D20 Checks](#d20-checks)
+	- [Ability Check](#ability-check)
+	- [Skilled Check](#skilled-check)
+	- [Attack Roll](#attack-roll)
+	- [Difficulty Targets](#difficulty-targets)
+	- [Natural Results](#natural-results)
+	- [Automatic Success and Failure](#automatic-success-and-failure)
+	- [Critical Results](#critical-results)
+	- [Advantage and Disadvantage](#advantage-and-disadvantage)
+	- [Sacrificing for Success](#sacrificing-for-success)
+	- [Repeated Attempts](#repeated-attempts)
+	- [Group Tests](#group-tests)
+- [Fortune](#fortune)
+- [Names](#names)
+- [Countdown Pools](#countdown-pools)
+	- [Countdown Pool Average Number of Rolls](#countdown-pool-average-number-of-rolls)
+- [Die Adjustments](#die-adjustments)
+- [Tags](#tags)
+	- [Damage Types](#damage-types)
+- [Time](#time)
+- [Rounding](#rounding)
 
 ## D20 Checks
 D20 checks lie at the heart of the system.  Any time a character attempts an action with a risk and a chance of failure, a **D20 Check** is made.  There are three basic types of **D20 Check**.
@@ -41,7 +62,7 @@ Any given **D20 Check** will be compared to a Difficulty Target.  For attacks, t
 Occasionally, the rules will reference a “Natural Roll”.  This is the die face that is showing after the roll, without applying any modifiers.  _For example, if a warrior with a +3 bonus to hit rolls a 12 on the die, their total result is 12+3 = 15.  Their natural result is just 12._
 
 ### Automatic Success and Failure
-It is not uncommon in d20 based systems to apply an 'automatic success' and 'automatic failure' rule for **Natural Rolls** of 20 and 1 (respectively).  This system does not do that with the exception of [Saving Throws](Core_Rules.md#Saving-Throws).
+It is not uncommon in d20 based systems to apply an 'automatic success' and 'automatic failure' rule for **Natural Rolls** of 20 and 1 (respectively).  This system does not do that with the exception of [Saving Throws](CoreRules.md#Saving-Throws).
 
 ### Critical Results
 There is no Critical Failure rule in this system.

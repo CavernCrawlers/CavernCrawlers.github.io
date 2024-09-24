@@ -1,10 +1,51 @@
 # Background Skills
+- [Pre-Adventuring Carrier](#pre-adventuring-carrier)
+- [Background Occupation Table](#background-occupation-table)
+- [Background Occupation Descriptions](#background-occupation-descriptions)
+	- [Acolyte](#acolyte)
+	- [Alchemist](#alchemist)
+	- [Animal Handler](#animal-handler)
+	- [Apothecary/Healer](#apothecaryhealer)
+	- [Artisan](#artisan)
+	- [Barrister/Advocate](#barristeradvocate)
+	- [Butcher](#butcher)
+	- [Charcoal Burner/Woodcutter](#charcoal-burnerwoodcutter)
+	- [Clerk/Scribe](#clerkscribe)
+	- [Con Artist/Mountebank](#con-artistmountebank)
+	- [Courtier](#courtier)
+	- [Criminal/Spy](#criminalspy)
+	- [Cult Initiate](#cult-initiate)
+	- [Farmer/Gardener](#farmergardener)
+	- [Forester/Ranger](#foresterranger)
+	- [Fortune Teller](#fortune-teller)
+	- [Gambler](#gambler)
+	- [Guard/Mercenary/Soldier](#guardmercenarysoldier)
+	- [Herbalist](#herbalist)
+	- [Hermit/Rustic](#hermitrustic)
+	- [Hunter/Trapper](#huntertrapper)
+	- [Jeweler](#jeweler)
+	- [Laborer/Teamster](#laborerteamster)
+	- [Merchant](#merchant)
+	- [Miner](#miner)
+	- [Minstrel/Performer](#minstrelperformer)
+	- [Navigator/Scout](#navigatorscout)
+	- [Noble](#noble)
+	- [Politician](#politician)
+	- [Sailor/Fisher/Ferrier/Bargemaster](#sailorfisherferrierbargemaster)
+	- [Scholar/Sage](#scholarsage)
+	- [Smith](#smith)
+	- [Squire](#squire)
+	- [Stonemason](#stonemason)
+	- [Vagrant/Wanderer](#vagrantwanderer)
+	- [Wizard’s Apprentice](#wizards-apprentice)
+- [Why did you become an adventurer?](#why-did-you-become-an-adventurer)
+
 ## Pre-Adventuring Carrier
 Everyone did something before they became an adventurer. Roll (1d100) or select from the following table to determine what it was your character did before being thrust into a life of adventure. This will determine some of your character's starting equipment.  Your character is automatically proficient with any weapon provided by their background occupation, but not the entire weapon group.
 
 The column used for the roll should be chosen based on the culture in which your character was raised.
 
-## Apprenticeship Table
+## Background Occupation Table
 | Occupation          | Human / Hob | Dwarf | Elf    | Goblin / Orc |
 |:--------------------|:-----------:|:-----:|:------:|:------------:|
 | Acolyte             | 01-03       | 01-02 |  01-03 | 01-02        |
@@ -47,7 +88,7 @@ The column used for the roll should be chosen based on the culture in which your
 ## Background Occupation Descriptions
 
 ### Acolyte
-Feeling the call of the gods, you sought to join the clergy.  Pick either the [Great Church](Allegiances_and_Morality.md#Empyreans) or the [Old Faith](Allegiances_and_Morality.md#Old-Gods).  You may add your Skill Bonus to checks involving that panetheon.  You may make knowledge checks regarding other panetheons as a regular **Ability Check**.
+Feeling the call of the gods, you sought to join the clergy.  Pick either the [Great Church](AllegiancesAndMorality.md#Empyreans) or the [Old Faith](AllegiancesAndMorality.md#Old-Gods).  You may add your Skill Bonus to checks involving that panetheon.  You may make knowledge checks regarding other panetheons as a regular **Ability Check**.
 - **Starting Equipment:** Quarterstaff, Holy Symbol, Prayer Book/Wheel, 10sp
 
 ### Alchemist
@@ -95,7 +136,7 @@ You're well acquainted with the seedy underbelly of society.
 - **Starting Equipment:** Dagger, Crowbar or Disguise Kit, 10sp
 
 ### Cult Initiate
-You were once initiated into a forbidden cult of worship.  Pick one of the [Chthonian](Allegiances_and_Morality.md#Chthonians), [Elemental](Allegiances_and_Morality.md#Elemental-Monarchs), [Qliphotic](Allegiances_and_Morality.md#Qliphotic) or [Derlethian](Allegiances_and_Morality.md#Derlethians) cults.  You may add your Skill Bonus to checks involving that panetheon.  You may make knowledge checks regarding other panetheons as a regular **Ability Check**.
+You were once initiated into a forbidden cult of worship.  Pick one of the [Chthonian](AllegiancesAndMorality.md#Chthonians), [Elemental](AllegiancesAndMorality.md#Elemental-Monarchs), [Qliphotic](AllegiancesAndMorality.md#Qliphotic) or [Derlethian](AllegiancesAndMorality.md#Derlethians) cults.  You may add your Skill Bonus to checks involving that panetheon.  You may make knowledge checks regarding other panetheons as a regular **Ability Check**.
 - **Starting Equipment:** Athame (dagger), Book (cult lore), 10sp
 
 ### Farmer/Gardener
@@ -190,18 +231,18 @@ You wandered place-to-place, doing odd jobs or begging.
 You spent time learning the greater mysteries of magic.
 - **Starting Equipment:** Staff, Book of Magical Lore, 10sp
 
-## Why did you leave your apprenticeship?
+## Why did you become an adventurer?
 Roll on or choose from the table below to determine why your appentichip ended and what passion that has instilled in you.
 
 | 1d10 | Reason                                           | Passion |
 |:----:|:-------------------------------------------------|:--------|
-|   1  | Your teacher was cruel and abusive.              | You will never allow anyone to disrespect you again. |
-|   2  | A rival drove your teacher out of business.      | You will never be brought low like your teacher was. |
-|   3  | Your teacher was killed in a robbery gone wrong. | Criminals must face justice. |
+|   1  | Your teacher/boss was cruel and abusive.         | You will never allow anyone to disrespect you again. |
+|   2  | A rival drove you out of business.               | You will never be brought low like that again. |
+|   3  | Your someone was killed in a robbery gone wrong. | Criminals must face justice. |
 |   4  | You decided that this profession wasn't for you. | You will make your own way on your own terms. |
-|   5  | An injury left you unable to continue your<br/>apprenticeship. | You will not let your infirmities dictate your life. |
+|   5  | An injury left you unable to continue your<br/>occupation. | You will not let your infirmities dictate your life. |
 |   6  | You knew you wanted a life of adventure and<br/>excitement. | You will become a famous hero. |
 |   7  | It was too much hard work.                       | One day, you will live in the lap of luxury. |
-|   8  | Your teacher favored anothe apprentice over you<br/>and you didn't get the training you expected. | You will prove yourself the best at what you do. |
-|   9  | Your teacher had to leave town for mysterious<br/>reasons. | You will never abandon another the way you were abandoned. |
+|   8  | Your teacher/boss favored another apprentice over you<br/>and you didn't get the respect you expected. | You will prove yourself the best at what you do. |
+|   9  | Your teacher/boss had to leave town for mysterious<br/>reasons. | You will never abandon another the way you were abandoned. |
 |  10  | You knew you were meant for greater things.      | You will find and achieve your destiny. |

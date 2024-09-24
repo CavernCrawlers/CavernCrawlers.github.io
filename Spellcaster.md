@@ -1,5 +1,18 @@
 # Spellcaster
+- [Statistics](#statistics)
+- [Equipment](#equipment)
+- [Class Abilities](#class-abilities)
+	- [Exhausting Magic](#exhausting-magic)
+	- [Invocation Dice](#invocation-dice)
+	- [Magical Focus](#magical-focus)
+	- [Spellcasting](#spellcasting)
+	- [Sense Magic](#sense-magic)
+	- [True Name](#true-name)
+	- [Spellcaster Table](#spellcaster-table)
+	- [Spellcaster Saving Throws](#spellcaster-saving-throws)
+	- [Sample Spellcaster Builds](#sample-spellcaster-builds)
 
+## Statistics
 - **Starting HP**: 4 + CON Modifier
 - **Hit Dice**: 1d4 + CON Modifier per level from 2 to 10
 - **HP after level 10:** +1 per level.
@@ -14,7 +27,7 @@
 ## Class Abilities
 
 ### Exhausting Magic
-You may recover expended **Invocation Dice** by gaining 1 level of **Exhaustion** per die after completing 10 minutes of meditation.
+If you find yourself in need of a quick boost of magical energy, you may add a number of **invocation dice** equal to your **Wisdom Modifier** to your **Invocation Roll** by gaining 1 level of [Exhaustion](Combat.md#Exhaustion).  These dice do not Expend as normal and simply disappear after the spell is cast.
 
 ### Invocation Dice
 As a spellcaster, you have a number of invocation dice as indicated on the [Spellcaster Table](#Spellcaster-Table) plus additional dice equal to your **Wisdom Modifier**.

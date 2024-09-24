@@ -7,7 +7,7 @@ The following list contains skills that are deliberately broad to reflect the ki
 
 **Deduction** – The skill of searching for clues and piecing them together.  This skill is used for solving riddles and puzzles, deciphering codes and other feats of logic or intuition.
 
-**Healing** – The healing skill applies to checks to stabilize downed creatures, identify poisons, diagnose diseases as well as how to treat such afflictions.  For additional details, see [Healing and Recovery](Healing_and_Recovery.md).
+**Healing** – The healing skill applies to checks to stabilize downed creatures, identify poisons, diagnose diseases as well as how to treat such afflictions.  For additional details, see [Healing and Recovery](HealingAndRecovery.md).
 
 **Insight** – This is the skill of reading people.  The insight skill applies to checks to determine if someone is lying, judge a person’s mood or to find their motivation.
 

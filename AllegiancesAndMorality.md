@@ -4,6 +4,23 @@ There exists, beyond the knowledge of ordinary mortals, great powers who contest
 
 However, there do exist some mortals who are drawn into The Conflict.  Such people may choose to align themselves with one of its factions (also called Pantheons).  In so doing, they earn the opportunity to influence this battle and which faction gains dominance.  On the other hand, this allegiance comes with great responsibility and duty as the deities, demons and other powers leading these Pantheons will make demands upon their followers.  In return, they grant significant power, if not always the freedom to use it as their servants would wish.
 
+- [Pledging](#pledging)
+	- [Detect Allegiance](#detect-allegiance)
+	- [Animosity](#animosity)
+	- [A Life of Conflict](#a-life-of-conflict)
+	- [Empowered](#empowered)
+	- [Cosmic Champion](#cosmic-champion)
+	- [Summoned](#summoned)
+- [Changing Allegiance](#changing-allegiance)
+- [Cosmic Powers](#cosmic-powers)
+	- [List of Cosmic Powers](#list-of-cosmic-powers)
+		- [Chthonians](#chthonians)
+		- [Empyreans](#empyreans)
+		- [Elemental Monarchs](#elemental-monarchs)
+		- [Qliphotic](#qliphotic)
+		- [Old Gods](#old-gods)
+		- [Derlethians](#derlethians)
+
 ## Pledging
 Characters do not start play aligned with any of the Pantheons in The Conflict.  Likely, they are completely unaware of The Conflict’s existence.  However, they may become aware of The Conflict through the course of their adventures, and thus gain the opportunity to align themselves with one of the Pantheons.  
 

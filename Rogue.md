@@ -1,5 +1,16 @@
 # Rogue
+- [Statis](#statis)
+- [Equipment](#equipment)
+- [Class Abilities](#class-abilities)
+	- [Fortune's Favor](#fortunes-favor)
+	- [Rogue Skills](#rogue-skills)
+	- [Sneak Attack](#sneak-attack)
+	- [Rogue Table](#rogue-table)
+	- [Rogue Saving Throws](#rogue-saving-throws)
+- [Rogue Knacks](#rogue-knacks)
+	- [Sample Rogue Builds](#sample-rogue-builds)
 
+## Statistics
 - **Starting HP**: 6 + CON Modifier
 - **Hit Dice**: 1d6 + CON Modifier per level from 2 to 10
 - **HP after Level 10:** +1 per level

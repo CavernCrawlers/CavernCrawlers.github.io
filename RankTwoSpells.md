@@ -1,8 +1,28 @@
 # Rank 2 Spells
-Rank 1 spells have a **Casting Difficulty** of 8.
+Rank 2 spells have a **Casting Difficulty** of 8.
 
 Levitate
 Misty Step
+- [Alter Self](#alter-self)
+- [Augury](#augury)
+- [Blessing](#blessing)
+- [Blight](#blight)
+- [Blind/Deafen](#blinddeafen)
+- [Charm Animal](#charm-animal)
+- [Paralyse](#paralyse)
+- [Knowing](#knowing)
+- [Detect Invisible](#detect-invisible)
+- [Detect Thoughts](#detect-thoughts)
+- [Elemental Arrow](#elemental-arrow)
+- [Heat Metal](#heat-metal)
+- [Invisibility](#invisibility)
+- [Locate](#locate)
+- [Mirror Image](#mirror-image)
+- [Phantasm](#phantasm)
+- [Silence](#silence)
+- [Smite](#smite)
+- [Warp Wood](#warp-wood)
+- [Web](#web)
 
 ## Alter Self
 **Casting Ability:** Intelligence<br/>
@@ -219,12 +239,3 @@ This spell causes up to 2 encumbrance of wood to warp, bend and twist.  Any weap
 This spell conjures a gigantic web of thick, clinging strands of webbing as if woven by a gigantic spider.  Any creatures in or attempting to pass through the area of effect must pass an Evasion save or become stuck in the web and gains the [Grappled](Combat.md#Grappled) condition.  Escaping the web requires a STR check vs the spell's DT.  The webbing may also be burned away, taking 2d4(pool) rounds, but those caught in the web will take 1d6 fire damage for each round the web burns.
 
 The spell's range may be increased to Far for +1 Rank.  The area of effect may be doubled for each +1 Rank.
-
-## {name}
-**Casting Ability:** {ability}<br/>
-**Casting Time:** {time}<br/>
-**Range:** {range}<br/>
-**Area:** {area}<br/>
-**Duration:** {duration}<br/>
-**Save:** {save}<br/>
-{description}

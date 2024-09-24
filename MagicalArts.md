@@ -1,9 +1,31 @@
 # The Magical Arts
 
-Energy
-Entropy
-Matter
-Spirit
+Death - Necromancers
+Divination - Seers
+Elemental - Sorcerers
+Spirit - Conjurers
+Life - Thaumaturges
+
+Wizard - access to 2 spell lists
+Mage - access to 3 spell lists
+Archmage - access to 4 or more spell lists
+- [Spellbooks](#spellbooks)
+	- [Learning New Spells](#learning-new-spells)
+		- [Learning From a Mentor](#learning-from-a-mentor)
+		- [Replacing a Spellbook](#replacing-a-spellbook)
+- [The Invocation Roll](#the-invocation-roll)
+	- [Quick Summary](#quick-summary)
+	- [The Invocation Dice Pool](#the-invocation-dice-pool)
+	- [Spell Difficulty](#spell-difficulty)
+	- [Mishaps](#mishaps)
+	- [Invocation Dice Recovery](#invocation-dice-recovery)
+	- [Exhausting Magic](#exhausting-magic)
+	- [Magical Attacks and Saving Throws](#magical-attacks-and-saving-throws)
+- [Concentration](#concentration)
+- [Minor Magical Mishap](#minor-magical-mishap)
+- [Major Magical Mishap](#major-magical-mishap)
+- [Physical Corruption](#physical-corruption)
+- [Random Elements](#random-elements)
 
 ## Spellbooks
 Spellcasters record their spells and cantrips in "spellbooks".  These do not have to be literal books, but rather may be collections of scrolls, arcane runes carved on stones or most any other device the player and GM can agree on.  The primary limitation is that the spellbook be separate from the character (arcane tattoos are more of a magical item than a spellbook).  The language in which spells are written are typically a magical cypher learned from the caster's teacher and modified in their own way.  As such, deciphering someone else's spellbook can be a long and arduous process.
@@ -44,11 +66,11 @@ A spellcaster gets a pool of six-sided dice with which to cast their spells.  Th
 When casting a spell, the caster may choose to roll any number of **invocation dice** in order to try to meet or exceed the **spell difficulty**.  Any dice showing their ‘1’ or ‘2’ faces are **expended** from the pool (though still counted toward the casting result) and cannot be used again until **recovered**.
 
 ### Spell Difficulty
-A spell’s **difficulty** is equal to 4 times the rank at which it is cast (counting **Cantrips** as **1/2 Rank**).
+A spell’s **difficulty** is equal to 4 times the rank at which it is cast.  **Cantrips**, being Rank 0, are difficulty zero than thus do not need an invocation roll unless cast at a higher rank.
 
 | Rank | Difficulty |
 |:----:|:----------:|
-| 1/2  |  2         |
+| 0    |  0         |
 | 1    |  4         |
 | 2    |  8         |
 | 3    | 12         |
@@ -77,12 +99,12 @@ After a [Long Rest](Combat.md#Long-Rest), the same procedure is followed with th
 After an [Extended Rest](Combat.md#Extended-Rest), all **invocation dice** that have been **expended** are automatically recovered.
 
 ### Exhausting Magic
-If a spellcaster finds themselves in quick need of additional **invocation dice**, they may choose to spend 10 minutes in meditation in order to regain 1 **invocation die** per level of [Exhaustion](Combat.md#Exhaustion) gained.
+If a spellcaster finds themselves in need of a quick boost of magical energy, they may add a number of **invocation dice** equal to their **Wisdom Modifier** to their **Invocation Roll** by gaining 1 level of [Exhaustion](Combat.md#Exhaustion).  These dice do not Expend as normal and simply disappear after the spell is cast.
 
 ### Magical Attacks and Saving Throws
 Once a spell has successfully been invoked, the mage may then need to make a **Magical Attack Roll**.  This is similar to a normal **Attack Roll**, but uses the mage’s **Skill Bonus** and the **Ability Modifier** of the ability called out by the Art in question.  If the Magical Attack Roll is a critical hit, it allows the mage to double one numerical trait of the magical art; typically range, area, number of targets, duration or damage.  In the case of damage, treat this the same as a [critical hit](Combat.md#Critical-Hits) from a weapon; thus it’s not strictly a doubling.  Alternatively, the caster may elect to recover one **expended** **Invocation Die** instead.
 
-Alternatively, a spell may require the target to make a [Saving Throw](Core_Rules.md#Saving-Throws) instead of requiring a spellcaster to make an attack roll.  In this case, the Spellcaster's **Spell DT** is the target number.  If the target succeeds on their save, the effects of the spell may be reduced or even mitigated entirely (according to the spell's description).
+Alternatively, a spell may require the target to make a [Saving Throw](CoreRules.md#Saving-Throws) instead of requiring a spellcaster to make an attack roll.  In this case, the Spellcaster's **Spell DT** is the target number.  If the target succeeds on their save, the effects of the spell may be reduced or even mitigated entirely (according to the spell's description).
 
 ## Concentration
 Several spells require **concentration** to maintain their effects after casting.  A caster may normally only concentrate on one thing at a time.  New actions requiring concentration supersede anything the caster is already concentrating on.  If a concentrating caster takes damage, they must pass a **Concentration Check** (a **Spirit saving throw**) vs DT 10 or ½ the damage done (whichever is higher).  Other things may also require a concentration check, such as being thrown into a river, suddenly startled, being grappled and so on.  The GM will set the DT of the check accordingly.  Additionally, spells that take more than 1 action to cast require concentration while they are being cast.  Losing concentration causes the magical art to fail.
@@ -97,14 +119,14 @@ Several spells require **concentration** to maintain their effects after casting
 |  5  | **Witch Hives:** The caster is covered in an itchy red rash that lasts 4d4(pool) **Exploration Turns**. While this rash lasts, the caster has **Disadvantage** on all DEX and **Concentration** checks.                                                                                               |
 |  6  | **Tainted:** The caster’s skin turns an unnatural {color}. This can be cured by a Remove Curse ritual.                                                                                                                                                                                                |
 |  7  | **Witch Eye:** An eye appears in the middle of the caster’s {body part}. It does not allow them to see any better. The eye remains for 4d4(pool) Hours.                                                                                                                                               |
-|  8  | **Elemental Summoning:** An {elemental} creature chosen by the GM appears within 5 feet of the caster. Make a [Reaction Check](Core_Rules.md#Charisma-and-Reactions) to determine its attitude toward the caster. The creature will disappear after 3d4(pool) rounds.                                 |
+|  8  | **Elemental Summoning:** An {elemental} creature chosen by the GM appears within 5 feet of the caster. Make a [Reaction Check](CoreRules.md#Charisma-and-Reactions) to determine its attitude toward the caster. The creature will disappear after 3d4(pool) rounds.                                 |
 |  9  | **Fowl Beard:** The caster grows a long beard of {color} feathers that remains until the next time they sneeze.                                                                                                                                                                                       |
 | 10  | **Vanishing:** The caster is transported to a mysterious pocket dimension until the end of their next turn, at which time they return to the space they previously occupied or the nearest unoccupied space.                                                                                          |
 | 11  | **Time Skip:** The caster ages 1d4 years.                                                                                                                                                                                                                                                             |
 | 12  | **Reverse Time:** The caster’s ages -1d4 years.                                                                                                                                                                                                                                                       |
-| 13  | **Fae Summoning:** 1d6 {fae} creatures appear in unoccupied spaces within **Near** distance of the caster. Make a [Reaction Check](Core_Rules.md#Charisma-and-Reactions) to determine their attitude toward the caster. They vanish after 2d4(pool) minutes.                                          |
+| 13  | **Fae Summoning:** 1d6 {fae} creatures appear in unoccupied spaces within **Near** distance of the caster. Make a [Reaction Check](CoreRules.md#Charisma-and-Reactions) to determine their attitude toward the caster. They vanish after 2d4(pool) minutes.                                          |
 | 14  | **Levitation:** The caster levitates 1d10 feet up into the air. This effect lasts 4d4(pool) rounds. At the start of each of the caster’s turns, their elevation changes randomly by 2d6-7 feet.                                                                                                       |
-| 15  | **Beastly Presence:** A {beast} appears within 5 feet of the caster. Make a [Reaction Check](Core_Rules.md#Charisma-and-Reactions) to determine its attitude toward the caster. It disappears after 3d4(pool) rounds.                                                                                 |
+| 15  | **Beastly Presence:** A {beast} appears within 5 feet of the caster. Make a [Reaction Check](CoreRules.md#Charisma-and-Reactions) to determine its attitude toward the caster. It disappears after 3d4(pool) rounds.                                                                                 |
 | 16  | **Depilation:** The caster’s hair falls out but grows back within 1d4(pool) days.                                                                                                                                                                                                                     |
 | 17  | **Uncontrollable Shout:** The caster must shout whenever they speak. This condition lasts for 3d6(pool) minutes.                                                                                                                                                                                      |
 | 18  | **Obscuring Mist:** The effect of a rank 1 **Gather Mists** spell is centered on the caster.                                                                                                                                                                                                          |

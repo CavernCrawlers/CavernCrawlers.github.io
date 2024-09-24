@@ -1,5 +1,20 @@
 # Rogue-Spellcaster
+- [Statistics](#statistics)
+- [Equipment](#equipment)
+- [Class Abilities](#class-abilities)
+	- [Exhausting Magic](#exhausting-magic)
+	- [Invocation Dice](#invocation-dice)
+	- [Magical Focus](#magical-focus)
+	- [Rogue Skills](#rogue-skills)
+	- [Spellcasting](#spellcasting)
+	- [Sense Magic](#sense-magic)
+	- [True Name](#true-name)
+	- [Rogue-Spellcaster Table](#rogue-spellcaster-table)
+	- [Rogue-Spellcaster Saving Throws](#rogue-spellcaster-saving-throws)
+- [Rogue-Spellcaster Knacks](#rogue-spellcaster-knacks)
+	- [Sample Rogue-Spellcaster Builds](#sample-rogue-spellcaster-builds)
 
+## Statistics
 - **Starting HP**: 5
 - **Hit Dice**: 1d5 per level from 2 to 10
 - **HP after Level 10:** +1

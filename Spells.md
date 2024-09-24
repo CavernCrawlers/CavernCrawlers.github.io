@@ -1,5 +1,14 @@
 # Spells
 Within this section you will find a list of spells for use in the *Cavern Crawlers* game.  This list is by no means definitive and the GM and players should work together if they wish to bring spells from other sources into the game.
+- [Spell Descriptions](#spell-descriptions)
+	- [Casting Ability](#casting-ability)
+	- [Casting Time](#casting-time)
+	- [Rank](#rank)
+	- [Range](#range)
+	- [Area](#area)
+	- [Duration](#duration)
+	- [Save](#save)
+- [Upcasting](#upcasting)
 
 ## Spell Descriptions
 
@@ -34,19 +43,19 @@ Unless otherwise noted, any spell cast at a range of **Far** or greater, that re
 This is the area over which the magical art’s effects can be felt:<br/>
 **Self** – Affects the caster only.<br/>
 **Creature/Object** – Affects the targeted creature(s) or object(s) only.<br/>
-**Tiny** – Affects an area no larger than 6 cubic inches.<br/>
-**Small** – Affects an area no larger than 3 cubic feet.<br/>
-**Medium** – Affects an area no larger than 5 cubic feet.<br/>
-**Large** – Affects an area up to 10 cubic feet.<br/>
-**Huge** – Affects an area up to 20 cubic feet.<br/>
-**Gargantuan** – Affects an area up to 40 cubic feet.<br/>
+**Tiny** – Affects an area no larger than 216 cubic inches (a 6x6x6 inch cube).<br/>
+**Small** – Affects an area no larger than 27 cubic feet (3x3x3 feet).<br/>
+**Medium** – Affects an area no larger than 125 cubic feet (5x5x5 feet).<br/>
+**Large** – Affects an area up to 1,000 cubic feet (10x10x10 feet).<br/>
+**Huge** – Affects an area up to 8,000 cubic feet (20x20x20).<br/>
+**Gargantuan** – Affects an area up to 6,400 cubic feet (40x40x40).<br/>
 **Other** – Has a different area of effect outlined in the magical art’s description.<br/>
 
 ### Duration
-This indicates how long a spell will continue to affect the target(s).  Additionally, spells whose duration is marked with a (c) indicate that [Concentration](TheMagicalArts.md#Concentration) is required to maintain the magic.
+This indicates how long a spell will continue to affect the target(s).  Additionally, spells whose duration is marked with a (c) indicate that [Concentration](MagicalArts.md#Concentration) is required to maintain the magic.
 
 ### Save
-This indicates if a target is allowed to make a [Saving Throw](Core_Rules#Saving-Throws) to resist or diminish the effect.  This will be given as a saving throw type.
+This indicates if a target is allowed to make a [Saving Throw](CoreRules.md#Saving-Throws) to resist or diminish the effect.  This will be given as a saving throw type.
 
 ## Upcasting
 Several spells allow the caster to increase the **rank** at which the spell is cast in return for enhanced effects.  Doing so increases the **Spellcasting DT** of the spell to match the new rank.  No spell may be cast at a rank higher than that to which the spellcaster has access.  *For example, a 5th level spellcaster may not cast any spells at a rank higher than 3.*

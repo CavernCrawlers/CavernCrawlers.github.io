@@ -6,6 +6,73 @@ Each class abilties table shows when characters gain Traits.
 Traits are broken into multiple distinct types: General, Allegiance, Combat, Spellcasting and Supernatural.
 
 Unless otherwise noted, each trait may only be taken once.
+- [General Traits](#general-traits)
+	- [Actor](#actor)
+	- [Agile](#agile)
+	- [Alert](#alert)
+	- [Always Prepared](#always-prepared)
+	- [Armor Training (light, medium or heavy)](#armor-training-light-medium-or-heavy)
+	- [Brawny](#brawny)
+	- [Catch Your Breath](#catch-your-breath)
+	- [Charming](#charming)
+	- [Die Hard](#die-hard)
+	- [Fast Healer](#fast-healer)
+	- [Friendly Face](#friendly-face)
+	- [Great Bravery](#great-bravery)
+	- [Great Fortune](#great-fortune)
+	- [Great Leader](#great-leader)
+	- [Healer](#healer)
+	- [Learned](#learned)
+	- [Linguist](#linguist)
+	- [Merchant’s Eye](#merchants-eye)
+	- [Second Wind](#second-wind)
+	- [Self Improvement](#self-improvement)
+	- [Stout](#stout)
+	- [Superior Training](#superior-training)
+	- [Survivalist](#survivalist)
+	- [Tenacity](#tenacity)
+	- [Unassuming](#unassuming)
+	- [Very Helpful](#very-helpful)
+	- [Weapon Training](#weapon-training)
+	- [Wise](#wise)
+- [Allegiance Traits](#allegiance-traits)
+	- [Breaker of [Allegiance]](#breaker-of-allegiance)
+	- [Rebuke [Allegiance]](#rebuke-allegiance)
+	- [Summoner](#summoner)
+	- [Warded Against [Allegiance]](#warded-against-allegiance)
+- [Combat Traits](#combat-traits)
+	- [Combat Mastery](#combat-mastery)
+	- [Crossbow Expert](#crossbow-expert)
+	- [Duelist](#duelist)
+	- [Favored Enemy](#favored-enemy)
+	- [Knife Fighting](#knife-fighting)
+	- [Mage Slayer](#mage-slayer)
+	- [Off-Hand Proficiency](#off-hand-proficiency)
+	- [Panther’s Grace](#panthers-grace)
+	- [Unarmed Combat](#unarmed-combat)
+- [Spellcasting Traits](#spellcasting-traits)
+	- [Flexible Ritualist](#flexible-ritualist)
+	- [Potent Magic](#potent-magic)
+	- [Practiced Ritual](#practiced-ritual)
+	- [Skilled Caster](#skilled-caster)
+	- [Supreme Concentration](#supreme-concentration)
+	- [Touched by Magic](#touched-by-magic)
+	- [War Wizard](#war-wizard)
+	- [Well of Power](#well-of-power)
+	- [With But a Wave](#with-but-a-wave)
+- [Supernatural Traits](#supernatural-traits)
+	- [[Beast] Speech](#beast-speech)
+	- [Child of the [Terrain]](#child-of-the-terrain)
+	- [[Elemental] Caller](#elemental-caller)
+	- [Fae Touched](#fae-touched)
+	- [Ghost-Touched](#ghost-touched)
+	- [Healing Touch](#healing-touch)
+	- [Infuse Weapon](#infuse-weapon)
+	- [Oathkeeper](#oathkeeper)
+	- [Second Sight](#second-sight)
+	- [Shapechanger](#shapechanger)
+	- [Soul Gaze](#soul-gaze)
+	- [Spirit Friend](#spirit-friend)
 
 ## General Traits
 
@@ -98,7 +165,7 @@ Your character gains proficiency with an additional class of weapons.  This trai
 Your character gains a +2 bonus on non-combat checks involving Wisdom.
 
 ## Allegiance Traits
-Each of these traits requires a character to have sworn [Allegiance](Allegiances_and_Morality.md) to a [Cosmic Power](Allegiances_and_Morality.md#Cosmic-Powers) before they can be taken.
+Each of these traits requires a character to have sworn [Allegiance](AllegiancesAndMorality.md) to a [Cosmic Power](AllegiancesAndMorality.md#Cosmic-Powers) before they can be taken.
 
 ### Breaker of [Allegiance]
 A character cannot be of the named **Allegiance** when taking this trait.  Their blows are filled with the power of their cosmic patron and thus grant +2 to hit and damage against creatures of the named Allegiance and also count as magical for **resistance** and **immunity** purposes.  After scoring a hit against a creature of the named Allegiance, this character may spend a **Fortune Point** to have their attack automatically do maximum damage.  This trait may be taken multiple times, applying to a different Allegiance each time.

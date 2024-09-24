@@ -1,2 +1,0 @@
-# Healing and Recovery
-stub

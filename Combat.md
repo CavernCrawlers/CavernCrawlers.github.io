@@ -1,4 +1,4 @@
-# Shining Swords and Singing Spears
+# Combat
 ## Time
 Time in combat (and other action scenes) is tracked in relatively strict and discrete game units called **Combat Turns**, **Rounds** and **Minutes**.
 
@@ -187,7 +187,7 @@ There are three types of rest in this system: Short, Long and Extended.
 ### Short Rest
 A short rest is a 10-minute breather after which a character may regain a few hit points.  At the end of a Short rest, a character regains a number of hit points equal to the roll of 1 **hit die** plus their **Constitution Modifier**.  A character cannot benefit from more Short Rests in a 24 hour period than their Constitution modifier (minimum of 1).
 ### Long Rest
-A long rest is at least 8 hours of uninterrupted sleep or light activity.  At the end of a long rest, a character heals back a number of hit points equal to 1 **hit die** plus their **Constitution Score**.  If they are under medical care, add the caretaker’s skill bonus to the total if they are trained in healing.  Additionally, a character maintaining a **Wealthy** or higher [lifestyle](Encumbrance_and_Equipment.md#Lifestyle-Expenses) adds a second hit die to the amount of hit points regained.
+A long rest is at least 8 hours of uninterrupted sleep or light activity.  At the end of a long rest, a character heals back a number of hit points equal to 1 **hit die** plus their **Constitution Score**.  If they are under medical care, add the caretaker’s skill bonus to the total if they are trained in healing.  Additionally, a character maintaining a **Wealthy** or higher [lifestyle](EncumbranceAndEquipment.md#Lifestyle-Expenses) adds a second hit die to the amount of hit points regained.
 
 _For example, Merrick is a 5th level fighter with a 16 Constitution.  At the end of a short rest, he can regain 1d6 + 4 hit points (1d6+2 for his hit die plus another 2 for his constitution modifier).  At the end of a Long Rest with a superior quality meal while staying in a superior quality room at an inn, he’ll regain 2d6+4 (2 hit dice because of the wealthy lifestyle) + 16 (constitution score) hit points._
 

@@ -1,5 +1,16 @@
 # Fighter
+- [Statistics](#statistics)
+- [Equipment](#equipment)
+- [Class Abilities](#class-abilities)
+	- [Hauler](#hauler)
+	- [Mighty Deed](#mighty-deed)
+	- [Minimum Damage](#minimum-damage)
+	- [Fighter Table](#fighter-table)
+	- [Fighter Saving Throws](#fighter-saving-throws)
+- [Fighter Knacks](#fighter-knacks)
+	- [Sample Fighter Builds](#sample-fighter-builds)
 
+## Statistics
 - **Starting HP**: 8 + CON Modifier
 - **Hit Dice**: 1d6 + 2 + CON Modifier per level from 2 to 10.
 - **HP after level 10**: +2 per level.

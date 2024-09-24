@@ -1,6 +1,18 @@
 # Cantrips
 
-All Cantrips have a base Casting Difficulty of 2.
+All Cantrips have a base Casting Difficulty of 0.
+- [Beast Speech](#beast-speech)
+- [Beguilement](#beguilement)
+- [Conjure Sound](#conjure-sound)
+- [Glamour](#glamour)
+- [Hexing](#hexing)
+- [Inspire](#inspire)
+- [Mage Hand](#mage-hand)
+- [Mage Light](#mage-light)
+- [Nature’s Blessing](#natures-blessing)
+- [Plant Speech](#plant-speech)
+- [Spark](#spark)
+- [Spirit Sight](#spirit-sight)
 
 ## Beast Speech
 **Casting Ability:** Charisma<br/>
@@ -9,7 +21,7 @@ All Cantrips have a base Casting Difficulty of 2.
 **Area:** Self<br/>
 **Duration:** 1 hour<br/>
 **Save:** None<br/>
-Each time a mage learns this cantrip, they must pick a particular type of beast to which it will apply (such as canines, ursines, birds, felines, snakes, etc).  Once cast, the mage will gain the ability to converse with that type of beast for the cantrip's duration.  Interactions with these beasts follow the general rules for social interactions (regarding [reaction rolls](Core_Rules#Charisma-and-Reactions), diplomacy and so forth).  However, it should be kept in mind that most normal beasts don’t have the same concerns or social norms.  Communication does not necessarily convey understanding.
+Each time a mage learns this cantrip, they must pick a particular type of beast to which it will apply (such as canines, ursines, birds, felines, snakes, etc).  Once cast, the mage will gain the ability to converse with that type of beast for the cantrip's duration.  Interactions with these beasts follow the general rules for social interactions (regarding [reaction rolls](CoreRules.md#Charisma-and-Reactions), diplomacy and so forth).  However, it should be kept in mind that most normal beasts don’t have the same concerns or social norms.  Communication does not necessarily convey understanding.
 
 A mage may attempt to converse with more than one type of beast at the same time (assuming they know the versions of this cantrip for each beast being addressed).  Doing so increases the rank of the cantrip to Rank 1 plus 1 per additional beast type.
 
@@ -20,7 +32,7 @@ A mage may attempt to converse with more than one type of beast at the same time
 **Area:** 1 Creature<br/>
 **Duration:** 10 minutes<br/>
 **Save:** Spirit<br/>
-A mage uses this spell to influence the emotions and attitudes of the target creature.  If the target succeeds on their **saving throw**, they are unaffected but know that the caster was attempting to influence their mind with magic.  If the target fails, their emotional state moves toward the emotion selected by the caster.  This can grant a plus or minus 1 modifier on social checks, including rolls on the [Reaction Table](Core_Rules#Charisma-and-Reactions).
+A mage uses this spell to influence the emotions and attitudes of the target creature.  If the target succeeds on their **saving throw**, they are unaffected but know that the caster was attempting to influence their mind with magic.  If the target fails, their emotional state moves toward the emotion selected by the caster.  This can grant a plus or minus 1 modifier on social checks, including rolls on the [Reaction Table](CoreRules.md#Charisma-and-Reactions).
 
 ## Conjure Sound
 **Casting Ability:** Intelligence<br/>
@@ -105,7 +117,7 @@ This cantrip allows the caster to speak with plants of all varieties.  Unfortuna
 **Area:** 1 Creature/Object<br/>
 **Duration:** Instant<br/>
 **Save:** none<br/>
-With this cantrip, a mage learns to create a dangerous spark of a particular type of energy.  Each time this spell is learned, the mage learns one energy type to associate with it (acid, cold, fire, lightning, necrotic, spirit, radiant or thunder).  When cast, the mage selects a known type of energy and hurls the spark at the target.  If the caster makes a successful [Magical Attack](TheMagicalArts.md#Magical-Attacks-and-Saving-Throws) roll, the target takes 1d4 damage of the selected type.
+With this cantrip, a mage learns to create a dangerous spark of a particular type of energy.  Each time this spell is learned, the mage learns one energy type to associate with it (acid, cold, fire, lightning, necrotic, spirit, radiant or thunder).  When cast, the mage selects a known type of energy and hurls the spark at the target.  If the caster makes a successful [Magical Attack](MagicalArts.md#Magical-Attacks-and-Saving-Throws) roll, the target takes 1d4 damage of the selected type.
 
 ## Spirit Sight
 **Casting Ability:** Wisdom<br/>

@@ -1,5 +1,17 @@
 # Fighter-Rogue
+- [Statistics](#statistics)
+- [Equipment](#equipment)
+- [Class Abilities](#class-abilities)
+	- [Fortune's Favor](#fortunes-favor)
+	- [Mighty Deed](#mighty-deed)
+	- [Rogue Skills](#rogue-skills)
+	- [Sneak Attack](#sneak-attack)
+	- [Fighter-Rogue Table](#fighter-rogue-table)
+	- [Fighter-Rogue Saving Throws](#fighter-rogue-saving-throws)
+- [Fighter-Rogue Knacks](#fighter-rogue-knacks)
+	- [Sample Fighter-Rogue Builds](#sample-fighter-rogue-builds)
 
+## Statistics
 - **Starting HP**: 7 + CON Modifier
 - **Hit Dice**: 1d6 + 1 + CON Modifier per level
 - **HP after Level 10:** +2 per level

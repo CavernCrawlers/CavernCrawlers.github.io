@@ -1,5 +1,19 @@
 # Fighter-Spellcaster
+- [Statistics](#statistics)
+- [Equipment](#equipment)
+- [Class Abilities](#class-abilities)
+	- [Exhausting Magic](#exhausting-magic)
+	- [Invocation Dice](#invocation-dice)
+	- [Magical Focus](#magical-focus)
+	- [Spellcasting](#spellcasting)
+	- [Sense Magic](#sense-magic)
+	- [True Name](#true-name)
+	- [Fighter-Spellcaster Table](#fighter-spellcaster-table)
+	- [Fighter-Spellcaster Defenses](#fighter-spellcaster-defenses)
+- [Fighter-Spellcaster Knacks](#fighter-spellcaster-knacks)
+	- [Sample Fighter-Spellcaster Builds](#sample-fighter-spellcaster-builds)
 
+## Statistics
 - **Starting HP**: 6 + CON Modifier
 - **Hit Dice**: 1d6 + CON Modifier per level
 - **HP after level 10:** +2 per level.
