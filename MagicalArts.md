@@ -17,15 +17,19 @@ Archmage - access to 4 or more spell lists
 	- [Quick Summary](#quick-summary)
 	- [The Invocation Dice Pool](#the-invocation-dice-pool)
 	- [Spell Difficulty](#spell-difficulty)
-	- [Mishaps](#mishaps)
 	- [Invocation Dice Recovery](#invocation-dice-recovery)
 	- [Exhausting Magic](#exhausting-magic)
 	- [Magical Attacks and Saving Throws](#magical-attacks-and-saving-throws)
+	- [Spell Identification](#spell-identification)
+	- [Counter-Spelling](#counter-spelling)
+		- [Spell Duels](#spell-duels)
 - [Concentration](#concentration)
-- [Minor Magical Mishap](#minor-magical-mishap)
-- [Major Magical Mishap](#major-magical-mishap)
-- [Physical Corruption](#physical-corruption)
-- [Random Elements](#random-elements)
+- [Mishaps](#mishaps)
+	- [Minor Magical Mishap](#minor-magical-mishap)
+	- [Major Magical Mishap](#major-magical-mishap)
+	- [Physical Corruption](#physical-corruption)
+	- [Random Elements](#random-elements)
+
 
 ## Spellbooks
 Spellcasters record their spells and cantrips in "spellbooks".  These do not have to be literal books, but rather may be collections of scrolls, arcane runes carved on stones or most any other device the player and GM can agree on.  The primary limitation is that the spellbook be separate from the character (arcane tattoos are more of a magical item than a spellbook).  The language in which spells are written are typically a magical cypher learned from the caster's teacher and modified in their own way.  As such, deciphering someone else's spellbook can be a long and arduous process.
@@ -82,12 +86,7 @@ A spell’s **difficulty** is equal to 4 times the rank at which it is cast.  **
 
 If a spell’s **difficulty** is not met, the spell is not cast.  However, the mage may choose to continue casting the spell.  This requires that the mage reserve the dice already used in casting the spell and [Concentrate](Combat.md#Concentrating) long enough to satisfy the spell’s **casting time** again.  Once this time increment has passed, the mage may choose to roll additional **invocation dice** and add their total to the **spellcasting roll**.  In this way, more difficult spells can be cast over multiple “rounds”.
 
-*Example: The above 5th level magic-user with a 16 Wisdom is attempting to cast a Fireball at **rank** 3 (difficulty 12).  They choose to be conservative and roll only 4 dice, rolling a ‘1’, ‘3’, '3' and ‘4’, for a total of 11.  As the total is less than the **difficulty**, the spell is not cast.  The character chooses to continue the casting. This means they are now **concentrating** and they set aside the 4 dice already rolled, leaving 3 left unallocated in their **invocation pool**.  On their next round (since Fireball has a **casting time** of 1 **action**), they choose to roll one more die, getting another ‘1’.  This brings their total to 12, successfully casting the spell.  The two ‘1’s are now **expended**, and the other three committed dice are now released.  This leaves the caster with 5 dice in their **invocation pool**.  Note that no Mishap roll is made because the two '1's occurred on two separate rolls.*
-
-### Mishaps
-If two of the dice rolled at the same time come up as ‘1’s, this will result in a [Minor Magical Mishap](#Minor-Magical-Mishap), even if the spell casting is successful.  If three of the dice are ‘1’s, then the caster suffers a [Major Magical Mishap](#Major-Magical-Mishap).  If four or more dice are ‘1’s, then the caster suffers the effects of both a **minor** and a **major** spell mishap.
-
-Note that some tables may wish to assume that spells cast when there is no time pressure (thus the caster can take as long as they want) are assumed to be rolled a single die at a time.  As a result, no mishap can occur, though dice can still be expended as normal.
+*Example: The above 5th level magic-user with a 16 Wisdom is attempting to cast a Fireball at **rank** 3 (difficulty 12).  They choose to be conservative and roll only 4 dice, rolling a ‘1’, ‘3’, '3' and ‘4’, for a total of 11.  As the total is less than the **difficulty**, the spell is not cast.  The character chooses to continue the casting. This means they are now **concentrating** and they set aside the 4 dice already rolled, leaving 3 left unallocated in their **invocation pool**.  On their next round (since Fireball has a **casting time** of 1 **action**), they choose to roll one more die, getting another ‘1’.  This brings their total to 12, successfully casting the spell.  The two ‘1’s are now **expended**, and the other three committed dice are now released.  This leaves the caster with 5 dice in their **invocation pool**.  Note that no [Mishap](#Mishaps) roll is made because the two '1's occurred on two separate rolls.*
 
 ### Invocation Dice Recovery
 Whenever a spellcaster completes a [Short Rest](Combat.md#Short-Rest), they may roll a portion of their **expended** **invocation dice**.  Any of those dice that come up a 2+ are placed back into the caster’s **invocation pool**.  The number of dice that may be rolled after a short rest is equal to their **Wisdom Modifier**.
@@ -106,10 +105,43 @@ Once a spell has successfully been invoked, the mage may then need to make a **M
 
 Alternatively, a spell may require the target to make a [Saving Throw](CoreRules.md#Saving-Throws) instead of requiring a spellcaster to make an attack roll.  In this case, the Spellcaster's **Spell DT** is the target number.  If the target succeeds on their save, the effects of the spell may be reduced or even mitigated entirely (according to the spell's description).
 
+### Spell Identification
+If a mage can directly see and hear another spellcaster as they cast a spell, they may attempt a **Skilled Intelligence** check vs. the spell's **DT** in order to identify the spell being cast.  If the observing mage can only see or hear the casting mage, but not both, this check is performed at **Disadvantage**.
+
+If the check is successful and the mage has the spell in their spellbook, they completely identify the spell and whether or not it is being [upcast](Spells.md#Upcasting) and to what rank (though they do not know what aspects of the spell are being increased).
+
+If the check is successful but the mage does not have the spell in their spellbook, they will only be able to discern the following:
+1. Whether or not the spell is being cast at a rank the observing mage can cast.
+2. What the spell's governing Ability is (Intelligence, Wisdom or Charisma)
+3. Whether the spell is offensive, defensive or utilitarian in nature.
+
+If the check is failed, the observing mage gains no information.
+
+Characters without the ability to cast spells may not attempt this check at all.
+
+### Counter-Spelling
+If a spellcaster ([core](Glossary.md#Core-Class) or [hybrid](Glossary.md#Hybrid-Class)) can observe another character casting a spell (both see and hear), the observing mage may use their [Reaction](Combat.md#Reactions) to attempt to counter the spell being cast.  To do so, the counter-spelling mage decides how many **Invocation Dice** they wish to commit to the counter-spell (referred to hereafter as a "bid").  The original caster then has the chance to increase the number of their own **Invocation Dice** to attempt to complete the spell.  This process goes back-and-forth until both mages stop bidding (due to not wanting to commit more dice or simply not having any more dice available).  At that point, both mages MUST roll all the dice they bid.  The casting mage must meet or exceed both the spell's **DT** and the counter-spelling mage's total in order to successfully cast the spell.  Invocation Dice expend as normally after the outcome has been determined.
+
+*Example:  An adventuring party has come across a tribe of wild gnolls, including a shaman.  The gnoll shaman ([Fighter-Spellcaster](Fighter-Spellcaster.md): Lvl 5, Wis 13, 5 Invocation Dice) attempts to cast a rank 1 spell (DT 4) at the party using 2 dice.  Ekard (the party [Spellcaster](Spellcaster.md); Lvl 5, Wis 16, 7 Invocation Dice) decides to counter-spell it, bidding 3 dice.  In response, the shaman increases their own bid to 4 dice and Ekard then response by upping his bid to 5 dice (note that, at this point, neither party knows how many dice the other has in reserve).  The gnoll matches the bid of 5 dice (which is their limit) and Ekard goes to 6.  Finally, the GM indicates that the gnoll will not go any higher and both parties roll.  The gnoll gets lucky and rolls 6+5+5+4+3=23, which is more than enough to beat the spell's DT.  Ekard doesn't roll as well, getting 5+5+5+3+2+1=21.  As the gnoll's total exceeds both the spell DT and Ekard's total, the spell is successfully cast.  Additionally, none of the gnoll's invocation dice are expended (as they're all 3+) but 2 of Ekard's dice do (the '1' and '2').  At least Ekard didn't roll a Mishap.*
+
+#### Spell Duels
+If they wish to take the risk, either side in a counter-spelling scenario may attempt to force a spell duel.  In a spell duel, both mage's Invocation Dice will be expended if their faces show '1', '2' or '3' (rather than '1' or '2' as normal).  Additionally, the loosing mage will take 1d4 Psychic feedback damage per invocation die that they bid.
+
+Once a spell-duel has been declared, the other mage has a choice: either abandon the spell/counter-spell or take part in the duel.  If they choose to abandon, they do not roll any Invocation Dice and the spell/counter-spell simply fails.  This allows them to escape without expending any dice or taking any psychic feedback damage at the cost of the other side winning.  The mage that declared the duel, however, MUST still roll their Invocation Dice and risk expending those dice and causing a [Mishap](#Mishaps) (though they cannot loose and thus won't take any psychic feedback damage).
+
+*Example:  The next day, same adventuring party encounters the evil mage Bargle (Spellcaster; Lvl 7, Wis 18, 10 Invocation Dice) who attempts to hit the party with his Fireball spell (DT 12).  He commits 4 dice to the roll.  Ekard, recognizing the spell through a successful [Spell Identification](#Spell-Identification) check, attempts to counter this and bids 5 dice.  Bargle, being the arrogant prick that he is, decides to force a Spell Duel and ups his bid to 6 dice.  Ekard, knowing a fireball could devastate the party, reluctantly accepts the spell duel and ups his bid to 7 dice (his max, though Bargle doesn't know that).  Bargle ups his own bid to 8 dice and Ekard declares that he will not (cannot) go any higher.  Both sides roll-off to determine who wins the duel.  Bargle rolls 6+6+3+3+3+1+1+1=24 (more than enough for the Fireball's DT). Ekard, having another bad day, rolls 4+3+3+2+2+1+1=16 and would lose the duel.  However, he decides to take 1 level of [Exhaustion](Combat.md#Exhaustion) and adds 2 more dice (his Wisdom Modifier), getting 5+4=9, bringing his total to 25.  Bargle could do the same (getting 3 dice) but he doesn't want to risk adding a Minor Magical Mishap to his outcome.  As a result, Bargle loses the duel, stopping his Fireball.  He expends 6 dice (all three '1's and all three '3's) and also suffers a [Major Magical Mishap](#Major-Magical-Mishap) (rolling a 4 for **Mage Rot**), and takes 9d4 Psychic damage, rolling 4+4+3+3+2+1+1+1+1=20.  Ekard expends 6 dice (both '3's, both '2's and both '1's) and suffers a [Minor Magical Mishap](#Minor-Magical-Mishap) (rolling 26, suffering **Witchery III**).*
+
+As can be seen from the above example, spell duels are very risky for all parties involved.  Initiate one at your own risk.
+
 ## Concentration
 Several spells require **concentration** to maintain their effects after casting.  A caster may normally only concentrate on one thing at a time.  New actions requiring concentration supersede anything the caster is already concentrating on.  If a concentrating caster takes damage, they must pass a **Concentration Check** (a **Spirit saving throw**) vs DT 10 or ½ the damage done (whichever is higher).  Other things may also require a concentration check, such as being thrown into a river, suddenly startled, being grappled and so on.  The GM will set the DT of the check accordingly.  Additionally, spells that take more than 1 action to cast require concentration while they are being cast.  Losing concentration causes the magical art to fail.
 
-## Minor Magical Mishap
+## Mishaps
+If two of the dice rolled at the same time come up as ‘1’s, this will result in a [Minor Magical Mishap](#Minor-Magical-Mishap), even if the spell casting is successful.  If three of the dice are ‘1’s, then the caster suffers a [Major Magical Mishap](#Major-Magical-Mishap).  If four or more dice are ‘1’s, then the caster suffers the effects of both a **minor** and a **major** spell mishap.
+
+Note that some tables may wish to assume that spells cast when there is no time pressure (thus the caster can take as long as they want) are assumed to be rolled a single die at a time.  As a result, no mishap can occur, though dice can still be expended as normal.
+
+### Minor Magical Mishap
 | d30 | Mishap                                                                                                                                                                                                                                                                                                |
 | :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |  1  | **Uncanny Shade:** The caster’s shadow turns an unnatural {color} for a 2d4(pool) watches.                                                                                                                                                                                                            |
@@ -135,15 +167,15 @@ Several spells require **concentration** to maintain their effects after casting
 | 21  | **Embiggen:** The caster grows 1 size category. This lasts for 3d4(pool) minutes.                                                                                                                                                                                                                     |
 | 22  | **Shrink:** The caster shrinks 1 size category. This lasts for 3d4(pool) minutes.                                                                                                                                                                                                                     |
 | 23  | **Music From Beyond:** The caster is surrounded by faint, ethereal music for the next minute.                                                                                                                                                                                                         |
-| 24  | **Witchery:** All milk within **near** range of the caster immediately curdles.                                                                                                                                                                                                                       |
-| 25  | **Witchery:** All wine within **near** range of the caster goes sour.                                                                                                                                                                                                                                 |
-| 26  | **Witchery:** All food within **near** range of the caster spoils.                                                                                                                                                                                                                                    |
+| 24  | **Witchery I:** All milk within **near** range of the caster immediately curdles.                                                                                                                                                                                                                       |
+| 25  | **Witchery II:** All wine within **near** range of the caster goes sour.                                                                                                                                                                                                                                 |
+| 26  | **Witchery III:** All food within **near** range of the caster spoils.                                                                                                                                                                                                                                    |
 | 27  | **Rupture:** The caster’s nose begins to bleed and continues doing so until they pass a **DT 15** **Hardiness** Save. They can test at the start of each of their turns. They do not take any actual damage, but are at **Disadvantage** on all smell **Perception checks** until the bleeding stops. |
 | 28  | **Breath of Chaos:** A cold and unnatural wind blows through the area.                                                                                                                                                                                                                                |
 | 29  | **Horripilation:** All the caster’s hair stands on end. This effect lasts 4d4(pool) **exploration turns**.                                                                                                                                                                                            |
 | 30  | **Haunted:** Ghostly voices fill the air for the next 4d4(pool) minutes.                                                                                                                                                                                                                              |
 
-## Major Magical Mishap
+### Major Magical Mishap
 |  d30  | Mishap                                                                                                                                                                                                                                                                                     |
 | :---: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   1   | **Fiery Blast:** The caster becomes the center 20 ft radius explosion doing 4d6 fire damage to all in the affected area.  Everyone in the area may make an **Evasion** save vs **DT 15** (the caster automatically fails this save) to take half damage.                                   |
@@ -165,7 +197,7 @@ Several spells require **concentration** to maintain their effects after casting
 | 23-27 | **Physical Corruption:**  Roll on the [Physical Corruption](#Physical-Corruption) table.  This is a permanent curse.                                                                                                                                                                       |
 | 28-30 | **Miscast:**  The caster inadvertently channels the wrong magical energies. Randomly determine a  different magical art of the same type and rank. Have the mage make an **invocation roll** for the new art. If the check fails, nothing happens. If it is a success, follow the results. |
 
-## Physical Corruption
+### Physical Corruption
 The afflictions on this table never heal naturally.  Only the intervention of strong healing magic or curse removal can remedy these afflictions.
 
 | d10 | Corruption                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -181,7 +213,7 @@ The afflictions on this table never heal naturally.  Only the intervention of st
 |  9  | **Mutatiopillation:** Character’s hair is suffused with dark energy. Roll 1d4:<br/>1 – hair changes to a random unnatural {color}<br/>2 – hair constantly twists and writhes<br/>3 – hair falls out completely<br/>4 – hair sticks straight up.                                                                                                                                                                                         |
 | 10  | **Two-Faced:** A duplicate of the character’s face grows on his back. It looks just like his normal face. The eyes, nose, and mouth can be operated independently.                                                                                                                                                                                                                                                                      |
 
-## Random Elements
+### Random Elements
 Whenever a Mishap has a result in curly braces, {}, roll on the below table.
 
 | 1d6 | Ability | Animal   | Body Part | Color  | Creature Type | Damage Type | Aberration         | Beast           | Elemental     | Fey        | Fiend         | Undead   |

@@ -78,15 +78,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeoneering.md",
+                "file": "MagicalArts.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeoneering.md",
+                "file": "_sidebar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeoneering.md",
+                "file": "_sidebar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeoneering.md"
+                "file": "_sidebar.md"
               }
             }
           },
@@ -227,17 +226,19 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "54223d88ddc4c34a",
+  "active": "288cad40f2800edb",
   "lastOpenFiles": [
-    "CoreRules.md",
-    "Combat.md",
-    "Dungeoneering.md",
-    "Glossary.md",
-    "RulesSynopsis.md",
+    "MagicalArts.md",
     "_sidebar.md",
+    "Combat.md",
+    "Glossary.md",
+    "Fighter-Spellcaster.md",
+    "CoreRules.md",
+    "Spells.md",
+    "Dungeoneering.md",
+    "RulesSynopsis.md",
     "Traits.md",
     "TrueNames.md",
-    "Spells.md",
     "Spellcaster.md",
     "Skills.md",
     "Rogue-Spellcaster.md",
@@ -247,14 +248,12 @@
     "RankThreeSpells.md",
     "RankOneSpells.md",
     "Orc.md",
-    "MagicalArts.md",
     "Human.md",
     "Hob.md",
     "HirelingsAndAllies.md",
     "HealingAndRecovery.md",
     "Goblin.md",
     "Fighter.md",
-    "Fighter-Rogue.md",
     "templates",
     "package-lock.json",
     "node_modules/deploy/bootstrap",
