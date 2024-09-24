@@ -8,6 +8,8 @@
 	- [Contested Checks](#contested-checks)
 	- [Passive Checks](#passive-checks)
 	- [Saving Throws](#saving-throws)
+	- [Named Checks](#Named-Checks)
+		- [Perception](#Perception)
 - [Charisma and Reactions](#charisma-and-reactions)
 	- [Reaction Check Result Table](#reaction-check-result-table)
 - [Hazards and Challenges](#hazards-and-challenges)
@@ -37,6 +39,9 @@ Add D20 Check should only be called for when there is both doubt as to the actio
 ### Modifiers
 Situational arithmetic modifiers should generally be applied to the target DT rather than the die roll itself.  Typically these will range from +5 (for an exceptionally difficult task) to -5 (for an exceptionally easy task) with +3 to -3 being much more common.
 
+### Helping
+Two or more characters working together on a single task will often have greater chances of success than a single character acting alone.  In such a scenario, first determine which character will actually be rolling for the check; this is the "actor".  Anyone else involved is a "helper".  If the helper can relate the check to their **class** or **background**, the actor may add +2 to the **D20 check**.  If neither a helper's class or background apply, but one of their **passions** does, the helper may spend a **Fortune Point** to grant the actor a +2.  After the first helper, any subsequent helpers only add +1 to the check (with the same criteria) up to a maximum of doubling the actor's **Skill Bonus**.
+
 ### Flavor Bonus
 Providing a rich and exciting description of how your character accomplishes an action is worth a small  (+1 or +2) bonus on the D20 check.  Note, however, this should be a unique description; simply repeating the same description over and over is not worth a bonus.
 
@@ -60,6 +65,12 @@ Saving throws are a specialized type of **D20 Check**.  The saving throw modifie
 - **Spirit** uses either **Wisdom** or **Charisma**
 
 Unlike other D20 Checks, a **natural 1** always results in a failure on a Saving Throw and a **natural 20** is always a success.
+
+### Named Checks
+#### Perception
+This is a [Skilled](RulesSynopsis.md#Skilled-Check) Wisdom check involving one of the actor's senses (typically sight or hearing) that all characters are considered to be skilled in.
+#### Stealth
+This is a [skilled](RulesSynopsis.md#Skilled-Check) check in which the actor attempts to remain unnoticed.  Only **Rogues** and **Rogue-Hybrids** are considered skilled in this normally.  Frequently this is resolved as a contested check vs. any potential observers perception.
 
 ## Charisma and Reactions
 A **Reaction Check** is made upon the PCs meeting an NPC or group of NPCs for the first time and how they may react is uncertain.  Unlike other D20 Checks, this is not a simple pass/fail test.  Instead the D20 is rolled and the spokesperson's **Charisma Modifier** is added to the roll.  If the NPC group is inclined to be hostile, the roll is made with **Dissadvantage**.  If they are already inclined to be friendly, the roll is made with **Advantage**.  Most groups are neutral and will simply be a standard roll.  Compare the total rolled to the table below.
