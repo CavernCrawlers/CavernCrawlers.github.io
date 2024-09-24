@@ -1,4 +1,31 @@
 # Core Rules
+
+- [The D20 Check](#the-d20-check)
+	- [When to Roll](#when-to-roll)
+	- [Modifiers](#modifiers)
+	- [Flavor Bonus](#flavor-bonus)
+	- [Advantage and Disadvantage](#advantage-and-disadvantage)
+	- [Contested Checks](#contested-checks)
+	- [Passive Checks](#passive-checks)
+	- [Saving Throws](#saving-throws)
+- [Charisma and Reactions](#charisma-and-reactions)
+	- [Reaction Check Result Table](#reaction-check-result-table)
+- [Hazards and Challenges](#hazards-and-challenges)
+	- [Climbing](#climbing)
+		- [Long Climbs](#long-climbs)
+		- [Sheer Surfaces](#sheer-surfaces)
+	- [Visibility](#visibility)
+		- [Dim Lighting/Obscurement](#dim-lightingobscurement)
+		- [Darkness](#darkness)
+		- [Low-Light Vision](#low-light-vision)
+		- [Darkvision](#darkvision)
+	- [Falling](#falling)
+	- [Starvation](#starvation)
+	- [Swimming](#swimming)
+		- [Drowning](#drowning)
+	- [Wandering Monsters](#wandering-monsters)
+
+
 The earlier [Rules Synopsis](RulesSynopsis.md) provided a quick overview of the base game mechanics. In this chapter we'll go into more details about the rules and procedures for implementing them in your games.
 
 ## The D20 Check
@@ -88,4 +115,25 @@ Falling from a height onto a hard surface inflicts blunt damage onto the falling
 | 10.00s | 180fps   | 1,600ft | 18d6   |             |
 | 15.60s | 190fps   | 3,894ft | 19d6   | Terminal V. |
 
+### Starvation
+Going for more than a day without food or water incurs significant penalties.  Any character going more than a day without food will gain 1 level of [Exhaustion](Combat.md#Exhaustion) per day and they cannot recover levels of exhaustion until they get a meal.  Any character going more than a day without water will gain 1 level of Exhaustion per [Watch](RulesSynopsis.md#Time) after that first day and cannot recover any levels of exhaustion until they get water.
 
+### Swimming
+All characters can swim at half their normal ground movement rate.  In rough conditions (heavy current, rapids, inclement weather, etc), a Strength check may be required for the character to keep their head above water.
+
+#### Drowning
+Characters failing a swim check will begin drowning.  If they had a chance to draw a breath, a character can hold their breath for a number of minutes equal to their Constitution Modifier (minimum of 30 seconds).  If they did not get the chance to draw a breath, halve this time.  Each round after this time passes, the character will gain 1d4 levels of Exhaustion.
+
+### Wandering Monsters
+As characters travel, there is a chance they will come across a random encounter.  The odds of the encounter will vary by how populated the region is and they type of encounter depends on the type of region.
+
+| Population | Encounter Chance |
+|:-----------|:----------------:|
+| Sparse     | 1 in 10          |
+| Low        | 1 in 8           |
+| Moderate   | 1 in 6           |
+| High       | 1 in 4           |
+
+Typically, this check is made once or twice per day in the wilderness, once per [Watch](RulesSynopsis.md#Time) in an urban environment and once every 3 to 6 [Exploration Turns](RulesSynopsis.md#Time) in a dungeon environment.
+
+Player-character activities, especially those generating loud noise (combat, arguments, etc), will potentially increase the frequency of this check.  Conversely, other activities (like moving with stealth), will reduce the frequency.

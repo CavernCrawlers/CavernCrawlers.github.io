@@ -39,9 +39,14 @@ In some cases, a character may attempt a task that is directly related to their 
 &emsp;1d20 + Ability Modifier + Skill Bonus (if appropriate) >= Difficulty Target
 
 ### Attack Roll
-Whether swinging a sword, firing an arrow or simply punching someone in the face, an attack roll is required for the attacker to do damage to the target.  An **Attack Roll** consists of the player rolling 1d20 plus the character's **Base Attack Bonus** plus either the character's **Strength** or **Dexterity** modifier (depending on the type of attack).  This must equal or exceed the target's **Armor Class** to be successful.
+Whether swinging a sword, firing an arrow or simply punching someone in the face, an attack roll is required for the attacker to do damage to the target.  An **Attack Roll** consists of the player rolling 1d20 plus the character's **Attack Bonus** plus either the character's **Strength** or **Dexterity** modifier (depending on the type of attack).  This must equal or exceed the target's **Armor Class** to be successful.
 
-&emsp;1d20 + Base Attack Bonus + [Strength or Dexterity] Modifier >= Armor Class
+&emsp;1d20 + Attack Bonus + [Strength or Dexterity] Modifier >= Armor Class
+
+#### Magical Attack Roll
+This follows the same procedure as a normal [Attack Roll](#Attack-Roll), but instead uses the caster's **Skill Bonus** and either **Intelligence**, **Wisdom** or **Charisma modifier**.
+
+&emsp;1d20 + Skill Bonus + [Intelligence, Wisdom or Charisma] Modifier >= Armor Class
 
 ### Difficulty Targets
 Any given **D20 Check** will be compared to a Difficulty Target.  For attacks, this is typically the target's **Armor Class**.  For other **D20 Checks** (**Ability Checks** and **Skilled Checks**), this will be a value determined by the GM based on how difficult the task is.
