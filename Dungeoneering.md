@@ -46,29 +46,24 @@ Characters must take at least one [Short Rest](Combat.md#Short-Rest) every [Watc
 A character can search a single 10ft x 10ft area in one [Exploration Turn](RulesSynopsis.md#time).  The searching character makes a [Perception](CoreRules.md#Perception) check vs the **DT** of any hidden items/creatures in the area (see the [Helping](CoreRules.md#Helping) rules if multiple characters search the same area).  The GM should make this roll as the player-characters have no way to know if they failed in their search of if there really is nothing there.  A given area can only be searched once unless the character(s) manage to arrange an additional bonus they didn't have before (including going up a level and increasing their **Skill Bonus**).
 
 ## Traps
-Traps are one of the many defenses the makers of dungeons put in place to protect it from invaders.  Traps may appear on/around treasures or in the rooms and corridors of the dungeon itself.  Any given trap will have the following traits:
-- **Tell:** Most traps should have some sort of hint or clue to their existence if not to how they work (such as bloodstains, scorch marks or whatever else seems appropriate to how the trap works).
+Traps are one of the many defenses the makers of dungeons put in place to protect it from invaders.  Traps may appear on/around treasures or in the rooms and corridors of the dungeon itself.  Any given trap should have the following information:
+- **A Tell:** Most traps should have some sort of hint or clue to their existence if not to how they work (such as bloodstains, scorch marks or whatever else seems appropriate to how the trap works).
 - **Concealment:** This defines how the trap is hidden and the Difficulty Target to find the trap when a character is searching the area or item that has been trapped.
-- **Trigger:** This defines the action(s) that will potentially set off the trap and what is the chance of it going off (typically expressed as an X in 10 chance).  This should also include the means to bypass the trap (if any exists).
-- **Effect:** What happens when the trap does go off.  This should also indicate if the trap allows a saving throw (including type and DT) or must make an attack roll (along with the attack modifier) vs. the victim's AC.
+- **Trigger(s):** This defines the action(s) that will potentially set off the trap and what is the chance of it going off (typically expressed as an X in 10 chance).  This should also include the means to bypass the trap (if any exists).
+- **Effect(s):** What happens when the trap does go off.  This should also indicate if the trap allows a saving throw (including type and DT) or must make an attack roll (along with the attack modifier) vs. the victim's AC.
 - **Description:** This should describe not only the trap mechanism but also its purpose.
 
 Most denizens living in the dungeon should already be aware of any traps and how to properly disarm or bypass them (along with how to reset them).
 
-### Example Traps
-#### Poison Needle
-- **Tell:** A dead body of a previous adventurer slumped in the corner of the room.  A close examination by someone knowledgeable of medicine or healing will reveal that they died of poison.
-- **Concealment:** There is a small pinhole next to the lock from which the needle will be fired.  Anyone searching the chest must pass a **DT 15** **Perception** check to spot the trap.
-- **Trigger:** Attempting to open the lock without using the correct key.  As this is a well-maintained trap, it will always go off in these circumstances.
-- **Effect:** The victim must make a **Hardiness** saving throw vs **DT 15** or become [Poisoned](Combat.md#Poisoned) for 3d4(pool) minutes.  They will also take 1d6 poison damage each minute that the poison remains active.  The victim may repeat their save at the beginning of each minute to resist the effects of the poison.
+_**Example**<br/>_
+*A Crossbow Trap {spot: DT 13 (wall)/DT 15 (lock); attack: +3/1d8p} will be set off if anyone enters the room via the door without first turning the lock two full revolutions.  The bolt is fired from the wall behind anyone trying to open the door.  The dead body slumped against the door with a crossbow bolt in its back is a testament to the trap's effectiveness.*
 
-This is a simple poison needle trap concealed next to the lock of a treasure chest intended to prevent anyone who shouldn't from accessing the chest.
+## Random Encounters
+**Frequency:** In a typical dungeon, a check to experience a random encounter (wandering monster, strange noises, rival adventurers, etc) should be made once every 3 [Exploration Turns](RulesSynopsis.md#Time).
 
-#### Spiked Pit
-- **Tell:** The stones in this section of the corridor are a slightly lighter shade of grey than the stone in the rest of the dungeon.  A **passive perception** score of 15 or higher will notice this automatically.
-- **Concealment:** The floor has been expertly designed to blend in with the surrounding stone.  Anyone searching the area must pass a **DT 15 perception** check to notice the discolored stones and deduce that this is a trap of some kind.
-- **Trigger:** Walking across this section of the corridor has a **3 in 10** chance of triggering the trap.  Anyone hugging the wall on either side (keeping their feet within 1 foot of the wall) will not trigger the trap.
-- **Effect:** Anyone falling into the trap will fall 10 feet onto sharpened spikes at the bottom, taking **2d6b** damage from the fall plus another **2d6p** damage from the spikes.  If the victim passes an **Evasion** save vs **DT 13**, they manage to throw themselves to the side and avoid falling in.
+**Chance:** Normal odds for most dungeons should be 1 in 6.
 
-This is a 10 foot deep pit lined with spikes hidden under an expertly engineered section of the floor.  Once the trap has been triggered, it will remain open until someone pulls the lever on the eastern wall next to the pit (disguised as a torch sconce).
-
+**Distance:** The source of the encounter will be 2d6x10 feet away (or the furthest distance that can be percieved).  Roll 1d6:
+- 1-3: moving toward the party
+- 4-5: moving away from the party
+- 6: stationary
