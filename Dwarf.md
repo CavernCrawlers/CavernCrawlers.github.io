@@ -1,12 +1,12 @@
 ## Dwarf
 **AKA**: Dweorg, Dyerven, Gnome, Svartal<br/>
 Dwarves are a stocky fae species averaging around 4 to 5 feet in height, yet weighing as much as a full grown human.  Both men and women are capable of growing beards, though some choose to shave.  They typically mature at the same rate as humans, but are considered young until around the age of 50, as they typically live for 350 years.
-- Starting Age: 30 + 2d10 years
-- Height: 47 + 2d6 inches [4' 1" to 4' 11"]
-- Weight: 80 + (height roll * 2d8) lbs [134 to 322 lbs]
-- Size: Medium
-- Speed: 30 ft
-- Tags: Humanoid, Fae (earth)
+- **Starting Age:** 30 + 2d10 years
+- **Height:** 47 + 2d6 inches [4' 1" to 4' 11"]
+- **Weight:** 80 + (height roll * 2d8) lbs [134 to 322 lbs]
+- **Size:** Medium
+- **Speed:** 30 ft
+- **Tags:** Humanoid, Fae (earth)
 
 ### Features
 #### Dust of Ages
