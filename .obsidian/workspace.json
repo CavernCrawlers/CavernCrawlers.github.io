@@ -73,19 +73,20 @@
             }
           },
           {
-            "id": "54223d88ddc4c34a",
+            "id": "b13a6129d75bd2bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MagicalArts.md",
-                "mode": "preview",
+                "file": "Dungeoneering.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -151,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_sidebar.md",
+                "file": "Dungeoneering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_sidebar.md",
+                "file": "Dungeoneering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_sidebar.md"
+                "file": "Dungeoneering.md"
               }
             }
           },
@@ -226,16 +227,16 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "288cad40f2800edb",
+  "active": "b13a6129d75bd2bb",
   "lastOpenFiles": [
-    "MagicalArts.md",
-    "_sidebar.md",
+    "CoreRules.md",
+    "Dungeoneering.md",
     "Combat.md",
+    "_sidebar.md",
+    "MagicalArts.md",
     "Glossary.md",
     "Fighter-Spellcaster.md",
-    "CoreRules.md",
     "Spells.md",
-    "Dungeoneering.md",
     "RulesSynopsis.md",
     "Traits.md",
     "TrueNames.md",
