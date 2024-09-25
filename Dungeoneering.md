@@ -17,7 +17,7 @@
 - [Random Encounters](#random-encounters)
 
 ## Exploration Turn Sequence
-1. GM performs a Wandering [Monster check](CoreRules.md#Wandering-Monsters) (if needed).
+1. GM performs a [Random Encounter](CoreRules.md#Random-Encounters) check (if needed).
 2. The players declare the actions the party will take (moving, searching, listening, opening doors, etc).
 3. The GM describes the results of their actions and what they see.  If a monster is encountered, play proceeds to the Encounter phase.
 4. The GM and players perform any needed bookkeeping: advancing the Torch Timer, tracking spell durations, etc.
@@ -50,10 +50,10 @@ Only one character at a time may listen at any given door (or two for a double-d
 
 ## Movement
 ### Exploration Speed
-When moving through a dungeon and remaining alert for danger and clues, the party moves at the rate of the slowest character every Exploration Turn.  This may seem slow, but takes into account that the characters are remaining alert for danger and will get their full perception chances (rolled or passive).
+When moving through a dungeon and remaining alert for danger and clues, the party moves at the rate of the slowest character times 3 every [Exploration Turn](RulesSynopsis.md#Time); thus a character with a move of 30ft can cover 90ft per Exploration Turn.  This may seem slow, but takes into account that the characters are remaining alert for danger and will get their full perception chances (rolled or passive).
 
 ### Hurrying
-If the party wishes, they can move at three times this rate but they will automatically fail all perception checks.
+If the party wishes, they can triple their **Exploration Speed** but they suffer disadvantage on all perception checks.
 
 ## Resting
 Characters must take at least one [Short Rest](Combat.md#Short-Rest) every [Watch](RulesSynopsis.md#Time) when travelling (both in and out of dungeons).  Any character that fails to do so must pass a **Constitution Check** vs **DT 13** or gain 1 level of [Exhaustion](Combat.md#Exhaustion).  This check must be repeated every hour until they take a short rest with the DT increasing by 2 for each consecutive check.

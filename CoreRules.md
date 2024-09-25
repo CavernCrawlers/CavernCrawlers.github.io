@@ -67,6 +67,8 @@ Saving throws are a specialized type of **D20 Check**.  The saving throw modifie
 Unlike other D20 Checks, a **natural 1** always results in a failure on a Saving Throw and a **natural 20** is always a success.
 
 ### Named Checks
+#### Exhaustion
+This is a [Constitution](RulesSynopsis.md#ability-check) check vs a given DT.  If the check is failed, the character gains a level of [Exhaustion](Combat.md#exhaustion).
 #### Perception
 This is a [Skilled](RulesSynopsis.md#Skilled-Check) Wisdom check involving one of the actor's senses (typically sight or hearing) that all characters are considered to be skilled in.
 #### Stealth
@@ -135,7 +137,7 @@ All characters can swim at half their normal ground movement rate.  In rough con
 #### Drowning
 Characters failing a swim check will begin drowning.  If they had a chance to draw a breath, a character can hold their breath for a number of minutes equal to their Constitution Modifier (minimum of 30 seconds).  If they did not get the chance to draw a breath, halve this time.  Each round after this time passes, the character will gain 1d4 levels of Exhaustion.
 
-### Wandering Monsters
+### Random Encounters
 As characters travel, there is a chance they will come across a random encounter.  The odds of the encounter will vary by how populated the region is and they type of encounter depends on the type of region.
 
 | Population | Encounter Chance |
