@@ -53,7 +53,7 @@ If a spellbook is lost or destroyed, it may be recreated using the spells that t
 
 ## The Invocation Roll
 
-[comment]: # (This was inspired by the [Spell Dice](https://www.necropraxis.com/2013/11/01/spell-dice/) system by Necropraxis.)
+<!-- This was inspired by the [Spell Dice](https://www.necropraxis.com/2013/11/01/spell-dice/) system by Necropraxis. -->
 
 ### Quick Summary
 - Spellcasters get an **invocation pool** of six-sided dice based on their **Level** and **Wisdom Modifier**.

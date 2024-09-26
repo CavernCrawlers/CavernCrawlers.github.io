@@ -91,3 +91,36 @@ On open and flat terrain, the party can typically see for about 3 miles in any d
 - 1-3: moving toward the party
 - 4-5: moving away from the party
 - 6: stationary
+
+## Evasion and Pursuit
+In dense terrain (jungle, swamp, etc) follow the [Evasion and Pursuit](Dungeoneering.md#evasin-and-pursuit) rules under Dungeoneering.
+
+In open terrain (such as plains, hills, sparse forest, etc) follow this procedure:
+- If one side has the advantage of [Surprise](Combat.md#suprise), it may automatically flee without the other side getting the chance to pursue (they may not event be aware of the fleeing side).
+- If no one has the Surprise advantage, compare the size of the two groups to determine the chance of escape.
+
+If one group attempts to evade the other, the evading group makes a contested Stealth check vs the other side's Perception.  If the evading side wins, they get away without issue.  Otherwise the Pursuit rules will come into play.
+
+The following factors will modify this contested roll as follows:
+- If the group is 5 or fewer in number, they roll with Advantage.
+- If the group is 13 or more in number, they roll with Disadvantage.
+- If one side is at least twice as fast at the other, they roll with Advantage.
+- If the terrain is obscuring and the pursuing side is not intimately familiar with the territory, the pursuing side rolls with Disadvantage.
+
+### Pursuit
+Wilderness pursuit is tracked in [Watches](Combat.md#Time).
+
+1. The fleeing side will flee in a random direction if they do not follow easy to see landmarks.  Note that if the group does decide to follow a landmark, this may make it easier for the pursuers to follow.
+2. If the pursuing group has a greater movement rate than the fleeing side, the pursuing side makes its pursuit roll with Advantage.
+3. Both sides make a contested D20 Wisdom roll. Add skill bonuses if the group has someone trained in hunting/tracking/survival/etc.  Compare the results on the table below:
+
+| Group | Result | Outcome |
+|:------|:-------|:--------|
+| Evaders  | Win by 10+ | The evaders get away clean. |
+| Evaders  | Win by 5-9 | The evaders gain Advantage on their next roll. |
+| Evaders  | Win by 0-4 | Neither side gains or loses ground. |
+| Pursuers | Win by 1-4 | Neither side gains or loses ground. |
+| Pursuers | Win by 5-9 | The pursuers gain Advantage on their next roll. |
+| Pursuers | Win by 10+ | The pursuers intercept the evaders. |
+
+At the end of each **Watch**, the members of both parties must make an [Exhaustion check](CoreRules.md#Exhaustion) or gain one level of [Exhaustion](Combat.md#exhaustion).  Unlike in the [Dungeoneering](Dungeoneering.md#evasion-and-pursuit) rules (where characters are running full speed), gaining levels of Exhaustion does not stop either side, but the new movement rates and check penalties will need to be applied.

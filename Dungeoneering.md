@@ -53,7 +53,7 @@ Only one character at a time may listen at any given door (or two for a double-d
 When moving through a dungeon and remaining alert for danger and clues, the party moves at the rate of the slowest character times 3 every [Exploration Turn](RulesSynopsis.md#Time); thus a character with a move of 30ft can cover 90ft per Exploration Turn.  This may seem slow, but takes into account that the characters are remaining alert for danger and will get their full perception chances (rolled or passive).
 
 ### Hurrying
-If the party wishes, they can triple their **Exploration Speed** but they suffer disadvantage on all perception checks.
+If the party wishes, they can triple their **Exploration Speed** but they suffer disadvantage on all perception checks.  Additionally, this pace may not be kept up indefinitely and each character will need to make an [Exhaustion](CoreRules.md#exhaustion) check at the end of each [Exploration Turn](RulesSysnopsis.md#Time).  The **DT** of the check is 10 + 3 per consecutive **Exploration Turn**.
 
 ## Resting
 Characters must take at least one [Short Rest](Combat.md#Short-Rest) every [Watch](RulesSynopsis.md#Time) when travelling (both in and out of dungeons).  Any character that fails to do so must pass a **Constitution Check** vs **DT 13** or gain 1 level of [Exhaustion](Combat.md#Exhaustion).  This check must be repeated every hour until they take a short rest with the DT increasing by 2 for each consecutive check.
@@ -83,3 +83,18 @@ _**Example**<br/>_
 - 1-3: moving toward the party
 - 4-5: moving away from the party
 - 6: stationary
+
+## Evasion and Pursuit
+Compare both sides' movement rates.
+- If the fleeing side is faster, they will automatically escape.
+- If the fleeing side is not faster, proceed to the **Pursuit** rules below.
+
+### Pursuit
+Just like with [Combat](Combat.md), **Pursuit** time is measured in [Rounds](Combat.md#Time).
+
+Each side is assumed to be **Running** at 3 times their base movement speed.  This pace may be kept up for a number of **Rounds** equal to the creature's **Constitution** score.  After this, the creature must make an [Exhaustion](CoreRules.md#exhaustion) check at the start of every Round with a **DT** equal to 10 + 3 per consecutive Round.  Once a creature gains any levels of exhaustion, they can no longer run.
+
+Most NPCs will stop pursuit if they loose sight of the fleeing party.  Make a [Reaction Check](CoreRules.md#charisma-and-reactions) and on a **Hostile** result, the NPCs will continue pursuit as best they can.
+
+#### Distractions
+A fleeing party may attempt to distract their pursuers by dropping treasure or food (whatever they think will work best).  If the GM determines the distraction is worth notice, there is a roughly 50% chance the pursuing party will stop.  Likewise, dropping an obstacle (like burning oil or caltrops) may discourage or slow pursuit.
