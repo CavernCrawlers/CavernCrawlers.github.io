@@ -73,14 +73,16 @@ This is a [Constitution](RulesSynopsis.md#ability-check) check vs a given DT.  I
 This is a [Skilled](RulesSynopsis.md#Skilled-Check) Wisdom check involving one of the actor's senses (typically sight or hearing) that all characters are considered to be skilled in.
 #### Stealth
 This is a [skilled](RulesSynopsis.md#Skilled-Check) check in which the actor attempts to remain unnoticed.  Only **Rogues** and **Rogue-Hybrids** are considered skilled in this normally.  Frequently this is resolved as a contested check vs. any potential observers perception.
+#### Surprise
+This is a **Perception** check, often contested by the other side's **Dexterity/Stealth** check.  If no one is attempting to sneak up on the other, the **DT** for the check is normally 10.  Also see the [Surprise](Combat.md#suprise) rules in the Combat section.
 
 ## Charisma and Reactions
-A **Reaction Check** is made upon the PCs meeting an NPC or group of NPCs for the first time and how they may react is uncertain.  Unlike other D20 Checks, this is not a simple pass/fail test.  Instead the D20 is rolled and the spokesperson's **Charisma Modifier** is added to the roll.  If the NPC group is inclined to be hostile, the roll is made with **Dissadvantage**.  If they are already inclined to be friendly, the roll is made with **Advantage**.  Most groups are neutral and will simply be a standard roll.  Compare the total rolled to the table below.
+A **Reaction Check** is made upon the PCs meeting an NPC or group of NPCs for the first time and how they may react is uncertain.  Unlike other D20 Checks, this is not a simple pass/fail test.  Instead the D20 is rolled and the spokesperson's **Charisma Modifier** is added to the roll.  If the NPC group is inclined to be hostile, the roll is made with **Dissadvantage**.  If they are already inclined to be friendly, the roll is made with **Advantage**.  Most groups are neutral and this will simply be a standard roll.  Compare the total rolled to the table below.
 
 ### Reaction Check Result Table
 | d20      | Result |
 |:---------|:-------|
-| 1-       | **Hostile:** Will either attack or otherwise attempt to thwart the PC. If hostile action is not possible or obvious suicide, will attempt -to flee or get help. |
+| 1-       | **Hostile:** Will either attack or otherwise attempt to thwart the PC. If hostile action is not possible or obvious suicide, will attempt to flee or get help. |
 | 2 to 6   | **Unfriendly:** Will either attack or otherwise thwart the PCs if the NPCs have the upper hand. Otherwise will watch the PCs warily to see what they do. |
 | 7 to 14  | **Neutral:** The NPCs are undecided and will keep a watch on what the PCs do before deciding on their own course of action. |
 | 15 to 19 | **Indifferent:** Open to friendly negotiation or simply going about one another’s business unmolested. |

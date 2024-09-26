@@ -7,13 +7,21 @@ A **Combat Turn** is an individual creature’s opportunity to act.  All creatur
 A **Round** is the collection of all the Combat Turns of all the creature’s involved in the scene.  This takes up approximately 6 seconds.
 
 A **Minute** is just that, one minute.  A minute is made up of 10 Rounds.
+
 ## Surprise
-The potential for surprise exists when one side is aware and the other is not; allowing the aware side to attempt an ambush.  If both sides are unaware, they simply stand and stare at each other for a **round** while they both recover from surprise.  Both sides make a group **Wisdom/Perception** check vs a DT of 10.  During the first round of combat (known as the **Surprise Round**), those who passed their perception check take their **Combat Turns** as normal.  Those who failed their perception do not get to act during the Surprise Round.
+The potential for surprise exists when one or more sides are unaware of the other(s).  The members of each side make individual **Wisdom/Perception** checks vs a DT of 10 (see below for Ambushes).  During the first round of combat (known as the **Surprise Round**), those who passed their perception check take their **Combat Turns** as normal.  Those who failed their perception do not get to act during the Surprise Round.  If everyone is unaware, they all simply stand and stare at each other for a **round** while they both recover from surprise.  
 
 ### Ambush
-If one side has advance warning of an encounter, they may attempt an **Ambush**.  In this case, the ambushing group rolls a Dexterity/Stealth check using the character with the worst modifier (counting **Disadvantage** as -4 and **Advantage** as +4).  This sets the DT of the **Wisdom/Perception** check of the unaware side.  During the **Surprise Round**, all of the ambushers can act as normal as can any of the opposition who pass their perception check. An ambush may also provoke a Moral check for undisciplined targets if the GM so determines.
+If one side has advance warning of an encounter, they may attempt an **Ambush**.  In this case, the ambushing group rolls a Dexterity/Stealth check using the character with the worst modifier (counting **Disadvantage** as -4 and **Advantage** as +4).  This sets the DT of the **Wisdom/Perception** check of the unaware side.  During the **Surprise Round**, all of the ambushers can act as normal as can any of the opposition who pass their perception check. An ambush may also provoke a **Moral** check for undisciplined targets if the GM so determines.
 
 After the **Surprise Round**, subsequent **Rounds** proceed as normal.
+
+## Initiative
+Each participant in a combat will have an Initiative score.
+- For PCs this score will be equal to their **Level** + their **Dexterity Modifier** + their class **Initiative Bonus**.
+- For NPCs, this will typically be equal to their Hit Dice, but some creatures may have additional bonuses as given in the NPC's description.
+
+During each **Round** of combat, all participants act in descending order of their Initiative scores.  If two or more participants have the same initiative, PCs will act before NPCs.  If two or more PCs share the same initiative, they determine who acts first between them.  If multiple NPCs share the same initiative score, the GM decides their order.
 
 ## Actions
 There are four categories of action that may be taken during a creature’s **Combat Turn**: **Main Action**, **Movement Action**, **Free Action** and **Reaction**.

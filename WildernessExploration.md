@@ -1,4 +1,17 @@
 # Wilderness Exploration
+- [Wilderness Exploration Turn Sequence](#wilderness-exploration-turn-sequence)
+- [Time](#time)
+- [Well-Traveled Routes](#well-traveled-routes)
+- [Getting Lost](#getting-lost)
+- [Travel Speed](#travel-speed)
+	- [Travel Speed Chart](#travel-speed-chart)
+	- [Terrain](#terrain)
+	- [Forced March](#forced-march)
+	- [Double-Time](#double-time)
+	- [Resting](#resting)
+- [Foraging and Hunting](#foraging-and-hunting)
+- [Visibility](#visibility)
+- [Random Encounters](#random-encounters)
 
 ## Wilderness Exploration Turn Sequence
 1. Decide Direction: The party decides the direction they will travel for the next Watch.
@@ -7,10 +20,11 @@
 4. Description: The GM describes what the party encounters (terrain passed through, landmarks other points of interest).  The GM also asks the players for their actions as needed.  If other creatures are encountered, follow the procedure outlined in the Encounter rules.
 5. End of Watch: The GM performs any needed record keeping: rations, fatigue, spell durations, etc.
 
-## [Time](RulesSynopsis.md#Time)
-If the journey will take a day or less, time can be tracked in Hours or Watches.
-If the journey will take a week or less, time can be tracked in Watches or Days.
-If the journey will take more than a week, time should be tracked in Days or Weeks.
+## Time
+If the journey will take a day or less, time can be tracked in Hours or Watches.<br/>
+If the journey will take a week or less, time can be tracked in Watches or Days.<br/>
+If the journey will take more than a week, time should be tracked in Days or Weeks.<br/>
+See [also](RulesSynopsis.md#Time).
 
 ## Well-Traveled Routes
 If the party is traveling in well-known lands along a known route, there is no chance of their getting lost barring supernatural effects.
