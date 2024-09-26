@@ -66,6 +66,25 @@ A standard **Move Action** allows a creature to move up to its movement rate.  A
 ## Attacking an Enemy
 Attacking an ememy requires making a successful [Attack Roll](RulesSynopsis.md#Attack-Roll) vs the target's **AC**.
 
+### Ranged Attacks
+Attacks made at **Far** range have **Disadvantage** on the attack roll.<br/>
+Ranged weapons (including spells) with a max range of **Far** or greater, will attack at **Disadvantage** if used within **Close** range.
+
+#### Cover
+There are two types of cover to be concerned with.  Hard Cover is an object or piece of terrain capable of physically stopping the object (such as a stone wall or wooden palisade).  Soft Cover simply obscures the target, but will not physically stop the attack (such as fog, brush or shadows).
+
+| Type | Coverage | Modifier |
+|:-----|:--------:|:---------|
+| Hard | 100%     | Attack is Impossible |
+| Hard | 50-99%   | +5 to target's AC |
+| Hard | 25-49%   | +2 to target's AC |
+| Hard | <25%     | no modifier |
+| Soft | 50-100%  | Attack at Disadvantage |
+| Soft | <50%     | no modifier |
+
+### Magical Attacks
+Magical attacks follow the same rules as other attacks, but use the caster's **Skill Bonus** and either **Intelligence**, **Wisdom** or **Charisma modifier**.
+
 ### Fighting with Two Weapons
 In order to wield 2 weapons, the weapon in the character’s primary hand must be a light or medium one-handed weapon, and the weapon in their off-hand must be a light one-handed weapon.
 
@@ -206,6 +225,7 @@ If a character has any [Lingering Injuries](#Lingering-Injuries), they may be al
 If a Long Rest is interrupted, the characters will at least gain the benefits of a [Short Rest](#Short-Rest).
 
 A character cannot benefit from more than 1 Long Rest in a 24 hour period.
+
 ### Extended Rest
 An Extended Rest requires a full week’s rest at a **Safe Haven**.  A Safe Haven is defined as any location where characters can rest with no fear of danger nor any need to set up a watch.  Typically this is a friendly town, keep or the like where the characters have access to good food and warm beds. The GM will let the players know when their characters have encountered a Safe Haven.
 
@@ -214,5 +234,6 @@ At the end of an Extended Rest a character regains all **Hit Points**, recovers 
 No other **Downtime Activities** can be taken during an Extended Rest; your character is taking a week off to rest and recuperate.  
 
 If an Extended Rest is interrupted, but the character has managed at least a full 8 hours of rest, they will gain the benefits of a [Long Rest](#Long-Rest).
+
 ### Medical Care
 If a character is under the care of someone trained in medicine/healing, their recovery will be improved.  As mentioned above, under [Long Rests](#Long-Rest), a healer will add their **skill bonus** to the amount of **hit points** recovered during a long rest.  Additionally, they may add their caretaker’s skill bonus to any checks they make to recover from [Lingering Injuries](#Lingering-Injuries).

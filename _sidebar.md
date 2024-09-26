@@ -27,6 +27,8 @@
 	- [True Names](TrueNames.md)
 	- [Downtime](Downtime.md)
 	- [Dungeoneering](Dungeoneering.md)
+	- [Wilderness Exploration](WildernessExploration.md)
+	- [Encounters](Encounters.md)
 - [The Magical Arts](MagicalArts.md)
 	- [Spellbooks](MagicalArts.md#Spellbooks)
 		- [Learning New Spells](MagicalArts.md#Learning-New-Spells)

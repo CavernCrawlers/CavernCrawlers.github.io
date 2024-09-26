@@ -60,6 +60,7 @@ Unless otherwise noted, each trait may only be taken once.
 	- [War Wizard](#war-wizard)
 	- [Well of Power](#well-of-power)
 	- [With But a Wave](#with-but-a-wave)
+	- [Words of Power](#words-of-power)
 - [Supernatural Traits](#supernatural-traits)
 	- [[Beast] Speech](#beast-speech)
 	- [Child of the [Terrain]](#child-of-the-terrain)
@@ -243,7 +244,10 @@ Through martial training and practice, your mage has learned how best to harness
 This mage may spend a **Fortune Point** to regain a number of lost **Invocation Dice** equal to the highest of her **Intelligence**, **Wisdom** or **Charisma** modifiers upon completing a **Short Rest**.
 
 ### With But a Wave
-Even without a **Magical Focus**, this mage only loses **Invocation Dice** that come up a '1'.
+The caster picks two spells or cantrips they already know. These spells no longer require the caster be able to [Incant](Spells.md#components) when casting them.
+
+### Words of Power
+The caster picks two spells or cantrips they already know. These spells no longer require the caster be able to [Gesture](Spells.md#components) when casting them.
 
 ## Supernatural Traits
 

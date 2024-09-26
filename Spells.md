@@ -8,6 +8,7 @@ Within this section you will find a list of spells for use in the *Cavern Crawle
 	- [Area](#area)
 	- [Duration](#duration)
 	- [Save](#save)
+	- [Components](#components)
 - [Upcasting](#upcasting)
 
 ## Spell Descriptions
@@ -56,6 +57,12 @@ This indicates how long a spell will continue to affect the target(s).  Addition
 
 ### Save
 This indicates if a target is allowed to make a [Saving Throw](CoreRules.md#Saving-Throws) to resist or diminish the effect.  This will be given as a saving throw type.
+
+### Components
+Spells will often require **Gestures**, **Incantations** or **Materials** to cast.  If any one element is missing or restricted, the spell cannot be cast and any [Invocation Roll](MagicalArts.md#the-invocation-roll) will automatically fail.
+- **Gestures** require at least one free hand.
+- **Incantations** require the caster be able to speak freely and not be in a zone of total silence.
+- **Materials** are specific ingredients that the caster must have in hand (counted as part of gestures).
 
 ## Upcasting
 Several spells allow the caster to increase the **rank** at which the spell is cast in return for enhanced effects.  Doing so increases the **Spellcasting DT** of the spell to match the new rank.  No spell may be cast at a rank higher than that to which the spellcaster has access.  *For example, a 5th level spellcaster may not cast any spells at a rank higher than 3.*
