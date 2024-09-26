@@ -79,7 +79,7 @@ _**Example**<br/>_
 
 **Chance:** Normal odds for most dungeons should be 1 in 6.
 
-**Distance:** The source of the encounter will be 2d6x10 feet away (or the furthest distance that can be percieved).  Roll 1d6:
+**Distance:** The source of the encounter will be 2d6x10 feet away (or the furthest distance that can be percieved).  Roll 1d6 to determine the encounter's direction of travel (if any):
 - 1-3: moving toward the party
 - 4-5: moving away from the party
 - 6: stationary
