@@ -83,7 +83,7 @@ There are two types of cover to be concerned with.  Hard Cover is an object or p
 | Soft | <50%     | no modifier |
 
 ### Magical Attacks
-Magical attacks follow the same rules as other attacks, but use the caster's **Skill Bonus** and either **Intelligence**, **Wisdom** or **Charisma modifier**.
+Magical attacks follow the same rules as other attacks, but use the caster's **Skill Bonus** and either **Intelligence**, **Wisdom** or **Charisma modifier**.  See [Magical Attacks](MagicalArts.md#magical-attacks-and-saving-throws) under the Magical Arts document for further details.
 
 ### Fighting with Two Weapons
 In order to wield 2 weapons, the weapon in the character’s primary hand must be a light or medium one-handed weapon, and the weapon in their off-hand must be a light one-handed weapon.
