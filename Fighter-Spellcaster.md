@@ -51,19 +51,19 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 |:-------:|:--------------:|:------------------:|:-----------------:|:----------------------:|:--------:|:--------:|:-------------------------------------------------------------------------------|
 |    1    |     1d6        |       +1           |       +1          |          0d6           |  1       |     1    |  Spellcasting, Magic User (cantrip), Sense Magic, True Name                    |
 |    2    |     2d6        |       +1           |       +1          |          0d6           |  --      |    --    |                                                                                |
-|    3    |     3d6        |       +2           |       +2          |          1d6           |  --      |    --    |  Exhausting Magic, Spellcasting (rank 1)                                       |
+|    3    |     3d6        |       +2           |       +2          |          1d6           |  --      |    --    |  Exhausting Magic, Spellcasting (tier 1)                                       |
 |    4    |     4d6        |       +2           |       +2          |          2d6           |  +1      |    --    |                                                                                |
 |    5    |     5d6        |       +3           |       +3          |          3d6           |  --      |    +1    |                                                                                |
-|    6    |     6d6        |       +3           |       +3          |          4d6           |  --      |    --    |  Spellcasting (rank 2)                                                         |
+|    6    |     6d6        |       +3           |       +3          |          4d6           |  --      |    --    |  Spellcasting (tier 2)                                                         |
 |    7    |     7d6        |       +4           |       +4          |          5d6           |  --      |    --    |                                                                                |
 |    8    |     8d6        |       +4           |       +4          |          6d6           |  +1      |    --    |                                                                                |
-|    9    |     9d6        |       +5           |       +5          |          7d6           |  --      |    --    |  Spellcasting (rank 3)                                                         |
+|    9    |     9d6        |       +5           |       +5          |          7d6           |  --      |    --    |  Spellcasting (tier 3)                                                         |
 |   10    |    10d6        |       +5           |       +5          |          8d6           |  --      |    +1    |                                                                                |
 |   11    |    10d6+2      |       +6           |       +6          |          9d6           |  --      |    --    |                                                                                |
-|   12    |    10d6+4      |       +6           |       +6          |         10d6           |  --      |    --    |  Spellcasting (rank 4)                                                         |
+|   12    |    10d6+4      |       +6           |       +6          |         10d6           |  --      |    --    |  Spellcasting (tier 4)                                                         |
 |   13    |    10d6+6      |       +7           |       +7          |         10d6           |  +1      |    --    |                                                                                |
 |   14    |    10d6+8      |       +7           |       +7          |         11d6           |  --      |    +1    |                                                                                |
-|   15    |   10d6+10      |       +8           |       +8          |         12d6           |  --      |    --    |  Spellcasting (rank 5)                                                         |  
+|   15    |   10d6+10      |       +8           |       +8          |         12d6           |  --      |    --    |  Spellcasting (tier 5)                                                         |  
 
 ### Fighter-Spellcaster Saving Throws
 | Level | Evasion | Hardiness | Spirit |

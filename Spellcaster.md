@@ -22,6 +22,7 @@
 
 ## Equipment
 - a Mage's Pack or Explorer's Pack
+- 1 + Charisma Modifier (minimum 1) Runes
 - 4d6sp
 
 ## Class Abilities
@@ -44,24 +45,24 @@ Being sensitive to the world of magic, you may determine if a person, place or t
 ### True Name
 As a magic-user possessing supernatural power, you have a **True Name**.  Those who know your True Name can use it against you.  By calling out your True Name, a creature gains **Advantage** on all actions taken against you, including attacks and you have **Disadvantage** on your **Invocation** checks to cast spells against them.
 
-### Spellcaster Table
-| Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Invocation<br/>Dice | Spell<br/>DT | Traits | Abilities |
-|:-----:|:------------:|:----------------:|:---------------:|:-------------------:|:------------:|:------:|:----------|
-|  1    |    1d4       | +0               |  +1             |  1d6                |  11+         |   1    | Exhausting Magic, Magical Focus, Spellcasting (rank 1), Sense Magic, True Name |
-|  2    |    2d4       | +0               |  +2             |  2d6                |  12+         |  --    |  |
-|  3    |    3d4       | +1               |  +2             |  3d6                |  12+         |  --    | Spellcasting (rank 2) |
-|  4    |    4d4       | +1               |  +3             |  4d6                |  13+         |  --    |  |
-|  5    |    5d4       | +1               |  +4             |  5d6                |  14+         |  --    | Spellcasting (rank 3) |
-|  6    |    6d4       | +2               |  +4             |  6d6                |  14+         |  +1    |  |
-|  7    |    7d4       | +2               |  +5             |  7d6                |  15+         |  --    | Spellcasting (rank 4) |
-|  8    |    8d4       | +2               |  +6             |  8d6                |  16+         |  --    |  |
-|  9    |    9d4       | +3               |  +6             |  9d6                |  16+         |  --    | Spellcasting (rank 5) |
-| 10    |   10d4       | +3               |  +7             | 10d6                |  17+         |  +1    |  |
-| 11    |   10d4+1     | +3               |  +8             | 11d6                |  18+         |  --    | Spellcasting (rank 6) |
-| 12    |   10d4+2     | +4               |  +8             | 12d6                |  18+         |  --    |  |
-| 13    |   10d4+3     | +4               |  +9             | 13d6                |  19+         |  +1    |  |
-| 14    |   10d4+4     | +5               | +10             | 14d6                |  20+         |  --    |  |
-| 15    |   10d4+5     | +5               | +10             | 15d6                |  20+         |  +1    |  |
+### Spellcaster Table  
+|  Level  |  Hit<br/>Dice  |  Attack<br/>Bonus  |  Skill<br/>Bonus  |  Invocation<br/>Dice  |  Traits  |  Abilities                                                                       |
+|:-------:|:--------------:|:------------------:|:-----------------:|:---------------------:|:--------:|:---------------------------------------------------------------------------------|
+|   1     |     1d4        |  +0                |   +1              |   1d6                 |    1     |  Exhausting Magic, Magical Focus, Spellcasting (tier 1), Sense Magic, True Name  |
+|   2     |     2d4        |  +0                |   +2              |   2d6                 |   --     |                                                                                  |
+|   3     |     3d4        |  +1                |   +2              |   3d6                 |   --     |  Spellcasting (tier 2)                                                           |
+|   4     |     4d4        |  +1                |   +3              |   4d6                 |   --     |                                                                                  |
+|   5     |     5d4        |  +1                |   +4              |   5d6                 |   --     |  Spellcasting (tier 3)                                                           |
+|   6     |     6d4        |  +2                |   +4              |   6d6                 |   +1     |                                                                                  |
+|   7     |     7d4        |  +2                |   +5              |   7d6                 |   --     |  Spellcasting (tier 4)                                                           |
+|   8     |     8d4        |  +2                |   +6              |   8d6                 |   --     |                                                                                  |
+|   9     |     9d4        |  +3                |   +6              |   9d6                 |   --     |  Spellcasting (tier 5)                                                           |
+|  10     |    10d4        |  +3                |   +7              |  10d6                 |   +1     |                                                                                  |
+|  11     |    10d4+1      |  +3                |   +8              |  11d6                 |   --     |  Spellcasting (tier 6)                                                           |
+|  12     |    10d4+2      |  +4                |   +8              |  12d6                 |   --     |                                                                                  |
+|  13     |    10d4+3      |  +4                |   +9              |  13d6                 |   +1     |                                                                                  |
+|  14     |    10d4+4      |  +5                |  +10              |  14d6                 |   --     |                                                                                  |
+|  15     |    10d4+5      |  +5                |  +10              |  15d6                 |   +1     |                                                                                  |  
 
 ### Spellcaster Saving Throws
 | Level | Evasion | Hardiness | Spirit |
