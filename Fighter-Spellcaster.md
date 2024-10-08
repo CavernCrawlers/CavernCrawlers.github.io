@@ -23,6 +23,7 @@
 
 ## Equipment
 - a Warrior's Pack, a Mage's Pack or an Explorer's Pack
+- Charisma Modifier (minimum 1) Runes
 - 4d6sp
 
 ## Class Abilities
@@ -45,24 +46,24 @@ Being sensitive to the world of magic, you may determine if a person, place or t
 ### True Name
 As a magic-user possessing supernatural power, you have a **True Name**.  Those who know your True Name can use it against you.  By calling out your True Name, a creature gains **Advantage** on all actions taken against you, including attacks and you have **Disadvantage** on your **Invocation** checks to cast spells against them.
 
-### Fighter-Spellcaster Table
-| Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Invocation<br/>Dice | Spell<br/>DT | Knacks | Traits | Abilities |
-|:-----:|:------------:|:----------------:|:---------------:|:-------------------:|:------------:|:------:|:------:|:----------|
-|   1   |    1d6       |      +1          |      +1         |        1d6          |    11+       | 1      |    1   | Exhausting Magic, Spellcasting, Magic User (cantrip), Sense Magic, True Name |
-|   2   |    2d6       |      +1          |      +1         |        1d6          |    11+       | --     |   --   |  |
-|   3   |    3d6       |      +2          |      +2         |        2d6          |    12+       | --     |   --   | Spellcasting (rank 1) |
-|   4   |    4d6       |      +2          |      +2         |        3d6          |    12+       | +1     |   --   |  |
-|   5   |    5d6       |      +3          |      +3         |        4d6          |    13+       | --     |   +1   |  |
-|   6   |    6d6       |      +3          |      +3         |        4d6          |    13+       | --     |   --   | Spellcasting (rank 2) |
-|   7   |    7d6       |      +4          |      +4         |        5d6          |    14+       | --     |   --   |  |
-|   8   |    8d6       |      +4          |      +4         |        6d6          |    14+       | +1     |   --   |  |
-|   9   |    9d6       |      +5          |      +5         |        7d6          |    15+       | --     |   --   | Spellcasting (rank 3) |
-|  10   |   10d6       |      +5          |      +5         |        8d6          |    15+       | --     |   +1   |  |
-|  11   |   10d6+2     |      +6          |      +6         |        8d6          |    16+       | --     |   --   |  |
-|  12   |   10d6+4     |      +6          |      +6         |        9d6          |    16+       | --     |   --   | Spellcasting (rank 4) |
-|  13   |   10d6+6     |      +7          |      +7         |       10d6          |    17+       | +1     |   --   |  |
-|  14   |   10d6+8     |      +7          |      +7         |       11d6          |    17+       | --     |   +1   |  |
-|  15   |  10d6+10     |      +8          |      +8         |       12d6          |    18+       | --     |   --   | Spellcasting (rank 5) |
+### Fighter-Spellcaster Table  
+|  Level  |  Hit<br/>Dice  |  Attack<br/>Bonus  |  Skill<br/>Bonus  |  Invocation<br/>Dice   |  Knacks  |  Traits  |  Abilities                                                                     |
+|:-------:|:--------------:|:------------------:|:-----------------:|:----------------------:|:--------:|:--------:|:-------------------------------------------------------------------------------|
+|    1    |     1d6        |       +1           |       +1          |          0d6           |  1       |     1    |  Spellcasting, Magic User (cantrip), Sense Magic, True Name                    |
+|    2    |     2d6        |       +1           |       +1          |          0d6           |  --      |    --    |                                                                                |
+|    3    |     3d6        |       +2           |       +2          |          1d6           |  --      |    --    |  Exhausting Magic, Spellcasting (rank 1)                                       |
+|    4    |     4d6        |       +2           |       +2          |          2d6           |  +1      |    --    |                                                                                |
+|    5    |     5d6        |       +3           |       +3          |          3d6           |  --      |    +1    |                                                                                |
+|    6    |     6d6        |       +3           |       +3          |          4d6           |  --      |    --    |  Spellcasting (rank 2)                                                         |
+|    7    |     7d6        |       +4           |       +4          |          5d6           |  --      |    --    |                                                                                |
+|    8    |     8d6        |       +4           |       +4          |          6d6           |  +1      |    --    |                                                                                |
+|    9    |     9d6        |       +5           |       +5          |          7d6           |  --      |    --    |  Spellcasting (rank 3)                                                         |
+|   10    |    10d6        |       +5           |       +5          |          8d6           |  --      |    +1    |                                                                                |
+|   11    |    10d6+2      |       +6           |       +6          |          9d6           |  --      |    --    |                                                                                |
+|   12    |    10d6+4      |       +6           |       +6          |         10d6           |  --      |    --    |  Spellcasting (rank 4)                                                         |
+|   13    |    10d6+6      |       +7           |       +7          |         10d6           |  +1      |    --    |                                                                                |
+|   14    |    10d6+8      |       +7           |       +7          |         11d6           |  --      |    +1    |                                                                                |
+|   15    |   10d6+10      |       +8           |       +8          |         12d6           |  --      |    --    |  Spellcasting (rank 5)                                                         |  
 
 ### Fighter-Spellcaster Saving Throws
 | Level | Evasion | Hardiness | Spirit |

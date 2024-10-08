@@ -1,6 +1,8 @@
 # Spells
 Within this section you will find a list of spells for use in the *Cavern Crawlers* game.  This list is by no means definitive and the GM and players should work together if they wish to bring spells from other sources into the game.
 - [Spell Descriptions](#spell-descriptions)
+	- [Tier](#tier)
+	- [Runes](#runes)
 	- [Casting Ability](#casting-ability)
 	- [Casting Time](#casting-time)
 	- [Rank](#rank)
@@ -15,14 +17,17 @@ Within this section you will find a list of spells for use in the *Cavern Crawle
 
 All spell descriptions contain the following information.
 
+### Tier
+This is the minimum Tier at which the spell must be cast.
+
+### Runes
+Which rune(s) are required for the casting of the spell.
+
 ### Casting Ability
 This identifies which **Ability Score Modifier** (Intelligence, Wisdom or Charisma) is used to compute the **Saving Throw DT** or **Attack Modifier** of any spells you cast.
 
 ### Casting Time
 This is the minimum amount of time it takes to successfully cast a spell.  If a spell takes multiple rolls to cast, each roll is made at the end of each increment of **Casting Time**.
-
-### Rank
-This is the minimum rank at which a spell must be cast.  This is used in place of “level” to avoid confusion with character/monster level.
 
 ### Range
 Spells use the same values as are used for ranged weapons:<br/>
@@ -57,6 +62,8 @@ This indicates how long a spell will continue to affect the target(s).  Addition
 
 ### Save
 This indicates if a target is allowed to make a [Saving Throw](CoreRules.md#Saving-Throws) to resist or diminish the effect.  This will be given as a saving throw type.
+
+A spell's saving throw difficulty may be increased by increasing the casting difficulty on a +1 one-for-one basis.
 
 ### Components
 Spells will often require **Gestures**, **Incantations** or **Materials** to cast.  If any one element is missing or restricted, the spell cannot be cast and any [Invocation Roll](MagicalArts.md#the-invocation-roll) will automatically fail.
