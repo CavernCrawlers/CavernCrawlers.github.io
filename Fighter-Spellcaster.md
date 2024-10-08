@@ -9,7 +9,7 @@
 	- [Sense Magic](#sense-magic)
 	- [True Name](#true-name)
 	- [Fighter-Spellcaster Table](#fighter-spellcaster-table)
-	- [Fighter-Spellcaster Defenses](#fighter-spellcaster-defenses)
+	- [Fighter-Spellcaster Saving Throws](#fighter-spellcaster-saving-throws)
 - [Fighter-Spellcaster Knacks](#fighter-spellcaster-knacks)
 	- [Sample Fighter-Spellcaster Builds](#sample-fighter-spellcaster-builds)
 
@@ -28,13 +28,13 @@
 ## Class Abilities
 
 ### Exhausting Magic
-You may recover expended **Invocation Dice** by gaining 1 level of **Exhaustion** per die after completing 10 minutes of meditation.
+If you find yourself in need of a quick boost of magical energy, you may add **Skill Bonus** to your **Invocation Roll** by gaining 1 level of [Exhaustion](Combat.md#Exhaustion).
 
 ### Invocation Dice
 As a spellcaster, you have a number of invocation dice as indicated on the [Fighter-Spellcaster Table](#Fighter-Spellcaster-Table) plus additional dice equal to your **Wisdom Modifier**.
 
 ### Magical Focus
-As part of your apprenticeship, you created a unique magical focus to aid in your spellcasting.  This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held.  So long as you have your Magical Focus in hand when casting a spell, you may add your **Skill Bonus** to your **Invocation Dice** total.  A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 50sp worth of materials.
+As part of your apprenticeship, you created a unique magical focus to aid in your spellcasting.  This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held.  It also takes up 1 inventory slot.  So long as you have your Magical Focus in hand when casting a spell, you may reroll a number of invocation dice equal to 1/2 your Skill Bonus (rounded up).  A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 50sp worth of materials.
 
 ### Spellcasting
 You can harness the power of magic.  A mage begins their career knowing two cantrips and two spells.  You will need to select a **Magical Tradition** from which your spells will be drawn.  You may not cast a spell of a Rank higher than shown in the table below.  Your spells have a **Saving Throw DT** equal to the DT shown on the table below plus the spell's listed **Ability Score Modifier**.
@@ -64,7 +64,7 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 |  14   |   10d6+8     |      +7          |      +7         |       11d6          |    17+       | --     |   +1   |  |
 |  15   |  10d6+10     |      +8          |      +8         |       12d6          |    18+       | --     |   --   | Spellcasting (rank 5) |
 
-### Fighter-Spellcaster Defenses
+### Fighter-Spellcaster Saving Throws
 | Level | Evasion | Hardiness | Spirit |
 |:-----:|:-------:|:---------:|:------:|
 |   1   |    +1   |     +1    |   +1   |

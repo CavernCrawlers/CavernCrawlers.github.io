@@ -19,4 +19,4 @@ In all cases, the name must be called out loud enough for the target to hear the
 Beings of great supernatural power, such as gods, arch-demons, fae lords, and the like, can potentially hear their true name uttered aloud from anywhere in the cosmos.  Exercise caution.
 
 ## Learning True Names
-This is an excercise in role playing.  Some True Names may be recorded on ancient scrolls, or written on the walls of mouldering tombs.  Others may only exist in the dreams of dead gods or whatever other strange and wonderous place your GM's devious mind can think of.  Also, see the [Soul Gaze](Traits.md#Soul-Gaze) supernatural **Trait**.
+This is an exercise in role playing.  Some True Names may be recorded on ancient scrolls, or written on the walls of moldering tombs.  Others may only exist in the dreams of dead gods or whatever other strange and wonderous place your GM's devious mind can think of.  Also, see the [Soul Gaze](Traits.md#Soul-Gaze) supernatural **Trait**.

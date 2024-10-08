@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e91e68c9365544b8",
+        "id": "609f240bf88531c9",
         "type": "tabs",
         "children": [
           {
-            "id": "288cad40f2800edb",
+            "id": "de8b8847a1793173",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_sidebar.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "20a8bb3c86f0b047",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary.md",
+                "file": "MagicalArts.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -34,25 +21,12 @@
             }
           },
           {
-            "id": "d41b1638f99ac95f",
+            "id": "3c531181d8e700e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RulesSynopsis.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fe821e865575a013",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CoreRules.md",
+                "file": "Spellcaster.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -60,12 +34,12 @@
             }
           },
           {
-            "id": "04e061af789e4cab",
+            "id": "0886f400f1e0960a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat.md",
+                "file": "Rogue-Spellcaster.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -73,20 +47,19 @@
             }
           },
           {
-            "id": "b13a6129d75bd2bb",
+            "id": "72f72fb3672322e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeoneering.md",
+                "file": "Fighter-Spellcaster.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeoneering.md",
+                "file": "MagicalArts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeoneering.md",
+                "file": "MagicalArts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeoneering.md"
+                "file": "MagicalArts.md"
               }
             }
           },
@@ -227,34 +200,36 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "b13a6129d75bd2bb",
+  "active": "de8b8847a1793173",
   "lastOpenFiles": [
-    "CoreRules.md",
-    "Dungeoneering.md",
-    "Combat.md",
-    "_sidebar.md",
-    "MagicalArts.md",
-    "Glossary.md",
     "Fighter-Spellcaster.md",
+    "Rogue-Spellcaster.md",
+    "Spellcaster.md",
+    "MagicalArts.md",
+    "draft/Dragons.md",
+    "draft/Demons.md",
+    "draft/RaceOgre.md",
+    "Orc.md",
+    "TrueNames.md",
+    "Traits.md",
     "Spells.md",
     "RulesSynopsis.md",
-    "Traits.md",
-    "TrueNames.md",
-    "Spellcaster.md",
-    "Skills.md",
-    "Rogue-Spellcaster.md",
     "Rogue.md",
-    "README.md",
-    "RankTwoSpells.md",
-    "RankThreeSpells.md",
-    "RankOneSpells.md",
-    "Orc.md",
-    "Human.md",
-    "Hob.md",
     "HirelingsAndAllies.md",
-    "HealingAndRecovery.md",
-    "Goblin.md",
+    "Fighter-Rogue.md",
     "Fighter.md",
+    "draft/Skills.md",
+    "optional/OptionalMagic.md",
+    "_sidebar.md",
+    "ExperienceAndLevels.md",
+    "EncumbranceAndEquipment.md",
+    "Dwarf.md",
+    "CoreRules.md",
+    "Combat.md",
+    "CharacterCreation.md",
+    "Background.md",
+    "draft",
+    "optional",
     "templates",
     "package-lock.json",
     "node_modules/deploy/bootstrap",
@@ -262,8 +237,6 @@
     "node_modules/deploy/deploy",
     "node_modules/deploy/readme.markdown",
     "node_modules/deploy/test/simple-test.sh",
-    "node_modules/deploy/test/branches-test.sh",
-    "node_modules/deploy/test/assert.sh",
-    "node_modules/deploy/test/assert.out"
+    "node_modules/deploy/test/branches-test.sh"
   ]
 }

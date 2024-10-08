@@ -1,5 +1,21 @@
 # Skills
-In addition to their ability scores, all characters will have at least 2 skills.  If a skill applies in a situation requiring a **D20 Check**, then a **Skilled Check** is made.  This is a normal **Ability Check**, with an additional +4 modifier.  Some characters are particularly skilled and gain a +6 modifier instead of a +4.  This is achieved by learning the same skill twice.  Skills never grant a bonus higher than +6
+In addition to their ability scores, all characters will have at least 2 skills.  If a skill applies in a situation requiring a **D20 Check**, then a **Skilled Check** is made.  This is a normal **Ability Check**, with an additional modifier based on the skill's rank:
+
+## Skill Rank Table
+
+|   Rank          |   Skill Bonus        |
+|:----------------|:--------------------:|
+|   Unskilled     |  +0 w/ Disadvantage  |
+|   Apprentice    |                 +0   |
+|   Journeyman    |                 +2   |
+|   Expert        |                 +4   |
+|   Master        |                 +6   |
+|   Grandmaster   |                 +8   |
+|   Archmaster    |                +10   |  
+
+Anyone who does not have a skill listed on their character sheet is considered Unskilled.  In some cases the GM may determine that an unskilled check is actually impossible.
+
+When a character first acquires a skill, they will be ranked at Apprentice (+0).  Increasing the skill's rank is simply a matter of taking the same skill pick multiple times.  Each time the skill is picked, its rank increases by 1 to a max of Archmaster (+10).
 
 The following list contains skills that are deliberately broad to reflect the kind of broad competence seen in most heroic fiction.  In some cases, two different skills may seem to apply to a situation.  In that case, the player making the check determines which of their applicable skills is used.
 

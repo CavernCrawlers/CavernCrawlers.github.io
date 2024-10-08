@@ -13,6 +13,7 @@ Unless otherwise noted, each trait may only be taken once.
 	- [Always Prepared](#always-prepared)
 	- [Armor Training (light, medium or heavy)](#armor-training-light-medium-or-heavy)
 	- [Brawny](#brawny)
+	- [Broad Skills](#broad-skills)
 	- [Catch Your Breath](#catch-your-breath)
 	- [Charming](#charming)
 	- [Die Hard](#die-hard)
@@ -22,8 +23,10 @@ Unless otherwise noted, each trait may only be taken once.
 	- [Great Fortune](#great-fortune)
 	- [Great Leader](#great-leader)
 	- [Healer](#healer)
+	- [Journeyman](#journeyman)
 	- [Learned](#learned)
 	- [Linguist](#linguist)
+	- [Master](#master)
 	- [Merchant’s Eye](#merchants-eye)
 	- [Second Wind](#second-wind)
 	- [Self Improvement](#self-improvement)
@@ -96,6 +99,9 @@ Your character understands how to move in a particular weight of armor effective
 ### Brawny
 Your character gains a +2 bonus on non-combat checks involving Strength.
 
+### Broad Skills
+Your character may roll for a 2nd [Background Career](Background.md).  If the same career is rolled a 2nd time either re-roll (if desired) or increase your skill in that career or take the [Journeyman](#jouneyman) trait for that career.
+
 ### Catch Your Breath
 Your characer can recover 1 level of **Exhaustion** with a **Short Rest**.
 
@@ -123,11 +129,17 @@ Like the heroes of past ages, your character character commands respect by their
 ### Healer
 Your character is a gifted practitioner of medicine.  When caring for someone who is healing, their rate of HP recovery is increased by +1 HP per HD.  Additionally, she has **Advantage** when attempting to **stabilize** a **dying** character.
 
+### Journeyman
+Your character has spent more time training in their background career.  Your career improves from Apprentice(+0) to Journeyman(+2).
+
 ### Learned
 Your character gains a +2 bonus on non-combat checks involving Intelligence.
 
 ### Linguist
 Due to study and a gift for languages, your character knows three additional languages.  This trait may be taken multiple times, gaining three new languages each time.
+
+### Master
+Your character has spent enough time training in their background career to be considered a master at their craft.  Your career improves from Journeyman(+2) to Master (+4).
 
 ### Merchant’s Eye 
 Your character has a gift for appraising objects of various sorts. Under ordinary circumstances, he automatically knows the approximate value of any item.

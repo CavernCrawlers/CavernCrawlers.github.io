@@ -44,13 +44,13 @@ Even rarer still are ancient coins, gems, jewelry and the like.  Their value var
 
 The entries on the coinage table are far from the only materials used for money.  Some regions may use wood, bone, ivory or even more unusual materials.  Exchanges between countries is a matter of material value and diplomatic relations.
 
-| Coin | Abbreviation | Name* | Value | Real World Equivalent |
-|:-----|:------------:|:-----:|------:|----------------------:|
-| Copper | cp | "Peasant" | 1/10sp | $1.00 |
-| Silver | sp | "Common" | 1sp | $10.00 |
-| Electrum | ep | "Knight" | 5sp | $50.00 |
-| Gold | gp | "Noble" | 10sp | $100.00 |
-| Platinum | pp | "Royal" | 100sp | $1,000.00 |
+|  Coin      |  Abbreviation  |  Name*      |  Value   |  Real World Equivalent  |
+|:-----------|:--------------:|:-----------:|:--------:|------------------------:|
+|  Copper    |  cp            |  "Peasant"  |  1/10sp  |  $1.00                  |
+|  Silver    |  sp            |  "Common"   |     1sp  |  $10.00                 |
+|  Electrum  |  ep            |  "Knight"   |     5sp  |  $50.00                 |
+|  Gold      |  gp            |  "Noble"    |    10sp  |  $100.00                |
+|  Platinum  |  pp            |  "Royal"    |   100sp  |  $1,000.00              |  
 
 <sub>
 * Other realms will have their own names for equivalent coins.
@@ -61,13 +61,13 @@ The entries on the coinage table are far from the only materials used for money.
 ### Quality
 The equipment table prices in this chapter assume items of common quality.  Higher or lower quality work can dramatically affect these prices.  The exact game effect of different quality items is often left up to the GM to determine on a case-by-case basis.  For example, a poor quality sword may be judged to have a -1 to hit chance, while a superior quality sword may increase it’s damage die by 1 step.  It is recommended that weapon quality modifiers be limited to no more than +/- 1 on to-hit or damage, or a 1 die step for damage.  Higher quality weapons might have multiple such properties (such as a master-crafted bow being +1 to hit, +1 die step damage and +10% range).
 
-| Quality | Cost Multiplier |
-|:--------|:---------------:|
-| Poor | 0.5 |
-| Common | 1 |
-| Excellent | 2 |
-| Superior | 4 |
-| Master/Luxury | 10 |
+|  Quality        |  Cost Multiplier  |
+|:----------------|:-----------------:|
+|  Poor           |              0.5  |
+|  Common         |                1  |
+|  Excellent      |                2  |
+|  Superior       |                4  |
+|  Master/Luxury  |               10  |  
 
 ### Rarity
 Not all items are equally available in all regions.  As a result, the GM is encouraged to multiply the cost of an item based on how common or rare it is.  The recommended range is the same as for Quality Modifiers above (x0.5 to x10).
@@ -75,13 +75,13 @@ Not all items are equally available in all regions.  As a result, the GM is enco
 ### Haggling
 It is possible that your players may wish to haggle with local merchants over the cost of items (especially for those with quality or rarity modifiers).  This can be handled with a simple roll on the Reaction Table (see Rolling the Dice) modified by the bartering character’s **Charisma Modifier**.  Below are some suggestions on how to interpret the results:
 
-| Reaction Check Result | Effect |
-|:---|:---|
-| Hostile | The merchant is insulted and throws the character out of their shop.  If they have any influence in the community, they may consider blacklisting the character with other merchants. |
-| Unfriendly | The merchant not only refuses to haggle, but increases the price by (1d4+1)x10%. |
-| Neutral | The merchant is potentially willing to make a compromise deal, changing their price by (2d4-5)x5% [-15% to +15%] |
-| Indifferent | The merchant agrees to reduce their price by up to 30%. |
-| Friendly | The character has won the merchant over to such a degree that they’re willing to offer a ‘friends and family’ discount, cutting their price by up to 50%. |
+|  Reaction Check Result  |  Effect                                                                                                                                                                                 |
+|:------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  Hostile                |  The merchant is insulted and throws the character out of their shop.  If they have any influence in the community, they may consider blacklisting the character with other merchants.  |
+|  Unfriendly             |  The merchant not only refuses to haggle, but increases the price by (1d4+1)x10%.                                                                                                       |
+|  Neutral                |  The merchant is potentially willing to make a compromise deal, changing their price by (2d4-5)x5% [-15% to +15%]                                                                       |
+|  Indifferent            |  The merchant agrees to reduce their price by up to 30%.                                                                                                                                |
+|  Friendly               |  The character has won the merchant over to such a degree that they’re willing to offer a ‘friends and family’ discount, cutting their price by up to 50%.                              |  
 
 If the characters have no intent to haggle, simply forego any haggling rolls and use the price as listed (modified by quality and rarity as normal).
 
@@ -164,27 +164,27 @@ If a weapon lists 2 or more damage types, the wielder must specify the damage ty
 * -- All characters are always proficient with unarmed combat.
 </sub>
 
-#### Ranged Weapons
-| Weapon               | Weight | Damage | Type  | Range | Cost  | Slots | Properties |
-|:---------------------|:------:|:------:|:-----:|:-----:|------:|:-----:|:-----------|
-| Axe, Hand / Hatchet  | L      |  1d6   | S/B   | N     |  10sp | 1     | Hurlant |
-| Blowgun              | L      |  1d4   |  P    | N     |  20sp | 1     | Reload |
-| Bola                 | L      |  1d4   |  B    | N     |   1sp | 1     | Snare, Hurlant |
-| Bow, Long            | H      |  1d8   |  P    | F     | 100sp | 2     | 2H |
-| Bow, Short           | M      |  1d6   |  P    | F     |  50sp | 1     | 2H |
-| Crossbow             | M      |  1d8   |  P    | F     |  75sp | 1     | Reload, 2H |
-| Crossbow, Heavy      | H      | 1d10   |  P    | F     | 150sp | 2     | Reload, 2H |
-| Crossbow, Pistol     | L      |  1d6   |  P    | N     | 200sp | 1     | Reload |
-| Dagger               | L      |  1d6   | P/S   | N     |   4sp | 1     | Finesse, Hurlant |
-| Darts (10)           | L      |  1d4   |  P    | N     |   1sp | 1     | Finesse, Hurlant |
-| Hammer, Light        | M      |  1d6   |  B    | N     |  10sp | 1     | Hurlant    |
-| Improvised           | ?      | ?      |  ?    | N     |  --   | ?     |  |
-| Javelin              | M      |  1d6   |  P    | N     |   1sp | 1     | Versatile, Hurlant |
-| Lasso                | L      |  --    |  --   | N     |   4cp | 1     | Snare, Flexible |
-| Net                  | M      |  --    |  --   | N     |   2sp | 1     | Hurlant, Snare, 2H, Flexible |
-| Sling                | L      |  1d6   |  B    | F     |   2cp | 1     |  |
-| Spear                | M      |  1d8   |  P    | N     |   2sp | 1     | Versatile, Hurlant |
-| Trident              | M      | 1d8+1  |  P    | N     | 1 0sp | 1     | Versatile, Hurlant |
+#### Ranged Weapons  
+|  Weapon                |  Weight  |  Damage  |  Type   |  Range  |  Cost   |  Slots  |  Properties                    |
+|:-----------------------|:--------:|:--------:|:-------:|:-------:|--------:|:-------:|:-------------------------------|
+|  Axe, Hand / Hatchet   |  L       |   1d6    |  S/B    |  N      |   10sp  |  1      |  Hurlant                       |
+|  Blowgun               |  L       |   1d4    |   P     |  N      |   20sp  |  1      |  Reload                        |
+|  Bola                  |  L       |   1d4    |   B     |  N      |    1sp  |  1      |  Snare, Hurlant                |
+|  Bow, Long             |  H       |   1d8    |   P     |  F      |  100sp  |  2      |                            2H  |
+|  Bow, Short            |  M       |   1d6    |   P     |  F      |   50sp  |  1      |                            2H  |
+|  Crossbow              |  M       |   1d8    |   P     |  F      |   75sp  |  1      |  Reload, 2H                    |
+|  Crossbow, Heavy       |  H       |  1d10    |   P     |  F      |  150sp  |  2      |  Reload, 2H                    |
+|  Crossbow, Pistol      |  L       |   1d6    |   P     |  N      |  200sp  |  1      |  Reload                        |
+|  Dagger                |  L       |   1d6    |  P/S    |  N      |    4sp  |  1      |  Finesse, Hurlant              |
+|  Darts (10)            |  L       |   1d4    |   P     |  N      |    1sp  |  1      |  Finesse, Hurlant              |
+|  Hammer, Light         |  M       |   1d6    |   B     |  N      |   10sp  |  1      |  Hurlant                       |
+|  Improvised            |  ?       |  ?       |   ?     |  N      |   --    |  ?      |                                |
+|  Javelin               |  M       |   1d6    |   P     |  N      |    1sp  |  1      |  Versatile, Hurlant            |
+|  Lasso                 |  L       |   --     |   --    |  N      |    4cp  |  1      |  Snare, Flexible               |
+|  Net                   |  M       |   --     |   --    |  N      |    2sp  |  1      |  Hurlant, Snare, 2H, Flexible  |
+|  Sling                 |  L       |   1d6    |   B     |  F      |    2cp  |  1      |                                |
+|  Spear                 |  M       |   1d8    |   P     |  N      |    2sp  |  1      |  Versatile, Hurlant            |
+|  Trident               |  M       |  1d8+1   |   P     |  N      |  1 0sp  |  1      |  Versatile, Hurlant            |  
 
 
 <sub>
@@ -204,18 +204,18 @@ Like other items, armor quality can vary.  It is generally recommended that any 
 - **Noisy**: Imposes Disadvantage on stealth checks.
 - **DEX Mod**: This is the amount of your **Dexterity Modifier** (round up) that may be added to your AC.  If your Dexterity modifier is negative, always apply the full value.
 
-| Type | Category | Base AC | DEX Mod | Cost | Slots | Properties |
-|:-----|:--------:|:-------:|:-------:|-----:|:-----:|:-----------|
-| Cloth / Leather  | L | +1 | Full |    10sp | 1 | -- |
-| Hardened Leather | L | +2 | Full |    20sp | 1 | -- |
-| Ringmail         | M | +3 | Half |   150sp | 2 | Noisy |
-| Scalemail        | M | +4 | Half |   300sp | 2 | Noisy, Encumbering |
-| Chainmail        | M | +5 | Half |   600sp | 2 | Noisy, Encumbering |
-| Reinforced Chain | H | +6 | Zero | 1,000sp | 3 | Noisy, Encumbering |
-| Lamellar         | H | +7 | Zero | 2,000sp | 3 | Noisy, Encumbering |
-| Plate            | H | +8 | Zero | 3,000sp | 3 | Noisy, Encumbering |
-| Buckler          | B |  # | --   |    10sp | 1 | 1H |
-| Shield           | S |  % | --   |    20sp | 1 | 1H |
+|  Type              |  Category  | AC   |  DEX Mod  |  Cost     |  Slots  |  Properties          |
+|:-------------------|:----------:|:----:|:---------:|----------:|:-------:|:---------------------|
+|  Cloth / Leather   |  L         |  +1  |  Full     |     10sp  |      1  |  --                  |
+|  Hardened Leather  |  L         |  +2  |  Full     |     20sp  |      1  |  --                  |
+|  Ringmail          |  M         |  +3  |  Half     |    150sp  |      2  |  Noisy               |
+|  Scalemail         |  M         |  +4  |  Half     |    300sp  |      2  |  Noisy, Encumbering  |
+|  Chainmail         |  M         |  +5  |  Half     |    600sp  |      2  |  Noisy, Encumbering  |
+|  Reinforced Chain  |  H         |  +6  |  Zero     |  1,000sp  |      3  |  Noisy, Encumbering  |
+|  Lamellar          |  H         |  +7  |  Zero     |  2,000sp  |      3  |  Noisy, Encumbering  |
+|  Plate             |  H         |  +8  |  Zero     |  3,000sp  |      3  |  Noisy, Encumbering  |
+|  Buckler           |  B         |   #  |  --       |     10sp  |      1  |                  1H  |
+|  Shield            |  S         |   %  |  --       |     20sp  |      1  |                  1H  |  
 
 <sub>
 # Grants +3 AC with no armor, +2 with Light armor, +1 with Medium and +0 with Heavy.<br/>
@@ -227,12 +227,12 @@ For creatures that are not Medium in size, the cost of armor is modified: For sm
 #### Donning and Doffing Armor
 It takes time to don (put on) or doff (take off) armor.  You only benefit from armor's AC bonus once it is fully on (after the full donning time).  These times are halved with a competent assistant (excepting shields).
 
-| Category | Don | Doff |
-|:---------|----:|-----:|
-| Light            | 1 minute   | 1 minute |
-| Medium           | 5 minutes  | 1 minute |
-| Heavy            | 10 minutes | 5 minutes |
-| Buckler / Shield | 1 action   | 1 action |
+|  Category          |  Don         |  Doff       |
+|:-------------------|:-------------|:------------|
+|  Light             |  1 minute    |   1 minute  |
+|  Medium            |  5 minutes   |   1 minute  |
+|  Heavy             |  10 minutes  |  5 minutes  |
+|  Buckler / Shield  |  1 action    |   1 action  |  
 
 
 ### Gear
@@ -408,17 +408,16 @@ Be it as a beast of burden, means of transportation or just some extra protectio
 
 Animals can typically drag/pull five times their carry if otherwise unburdened.
 
-| Animal            |    Cost | Speed | Notes |
-|:------------------|--------:|:-----:|:------|
-| Camel             |   100sp | 50ft  | Carry 22 items |
-| Donkey / Mule     |    50sp | 40ft  | Carry 20 items |
-| Elephant          | 3,000sp | 40ft  | Carry 30 items |
-| Horse, draft / Ox |   100sp | 40ft  | Carry 25 items |
-| Horse, riding     |   150sp | 60ft  | Carry 22 items |
-| Horse, war        | 2,000sp | 60ft  | Carry 25 items |
-| Dog, guard        |    25sp | 40ft  | Carry 8 items |
-| Dog, war          |    50sp | 40ft  | Carry 11 items |
-| Pony              |    60sp | 40ft  | Carry 17 items |
+| Animal             |    Cost | Speed | Notes |
+|:-------------------|--------:|:-----:|:------|
+| Camel              |   100sp | 50ft  | Carry 30 items |
+| Donkey / Mule      |    50sp | 40ft  | Carry 20 items |
+| Horse, draft / Ox  |   100sp | 40ft  | Carry 45 items |
+| Horse, riding      |   150sp | 60ft  | Carry 30 items |
+| Horse, war         | 2,000sp | 60ft  | Carry 40 items |
+| Dog, hunting/guard |    25sp | 60ft  | Carry 5 items |
+| Dog, war           |    50sp | 40ft  | Carry 10 items |
+| Pony               |    60sp | 40ft  | Carry 15 items |
 
 #### Tack and Harness
 Once you have an animal companion, you way want to outfit it for your adventuring lifestyle.  The Barding entry of the table gives the cost and encumbrance multipliers for barding equivalent to any of the armor types listed above.
@@ -449,10 +448,12 @@ Sometimes you want to travel in style.  The prices below are to outright own a g
 
 Encumbrance is in **Slots** when the vehicle is being pulled and does not account for items in the vehicle.  A drawn vehicle's max capacity is equal to its own Encumbrance.
 
-| Vehicle  |  Cost | Encumbrance | Notes |
-|:---------|------:|:-----------:|:------|
-| Carriage | 500sp | 120         |  |
-| Cart     |  16sp |  40         |  |
-| Chariot  | 200sp |  20         |  |
-| Sled     |  20sp |  40         |  |
-| Wagon    |  50sp |  80         |  |
+|  Vehicle   |   Cost  |  Speed  |  Min Animals                    |  Load                        |
+|:-----------|--------:|:-------:|:--------------------------------|:-----------------------------|
+|  Carriage  |  500sp  |   30    |  1 draft horse<br/>or 2 mules   |  4 passengers plus 20 slots  |
+|  Cart      |   16sp  |   20    |  1 draft horse<br/>or 2 mules   |  40 slots                    |
+|  Chariot   |  200sp  |   40    |  1 riding horse                 |  1 passenger plus 10 slots   |
+|  Wagon     |   50sp  |   20    |  2 draft horses<br/>or 4 mules  |  150 slots                   |  
+
+<sub>Doubling the number of animals doubles the vehicles capacity.</sub>
+<sub>These vehicles may not traverse difficult terrain except by well-maintained roads.</sub>

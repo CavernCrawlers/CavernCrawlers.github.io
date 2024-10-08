@@ -109,15 +109,15 @@ This is a character’s force of personality and social influence.  Characters w
 ### Attribute Modifiers
 Each attribute also has an **Attribute Modifier** that is used as a bonus (or penalty) to the D20 roll on any **Ability Check** for that ability.  Use the table below to determine each of your **Ability Score's** modifiers.
 
-| Score | Modifier |
-|:-----:|:---:|
-|  3<sup>*</sup>   | -3 |
-|  4-5  | -2 |
-|  6-8  | -1 |
-| 9-12  | +0 |
-| 13-15 | +1 |
-| 16-17 | +2 |
-|  18<sup>%</sup>  | +3 |
+|  Score             |  Modifier  |
+|:------------------:|:----------:|
+|   3<sup>*</sup>    |        -3  |
+|              4-5   |        -2  |
+|              6-8   |        -1  |
+|             9-12   |        +0  |
+|             13-15  |        +1  |
+|             16-17  |        +2  |
+|   18<sup>%</sup>   |        +3  |  
 
 <sub>
 * Scores below 3 are only possible through supernatural effects or physical trauma.<br/>
@@ -129,8 +129,8 @@ In fantasy gaming there are a practically limitless number of possible species t
 
 There are several species to choose from: [Dwarf](Dwarf.md), [Elf](Elf.md), [Goblin](Goblin.md), [Hob](Hob.md), [Human](Human.md) and [Orc](Orc.md).  Other's may exist depending on the campaign the GM is running.
 
-## Roll for Background Occupation
-Roll on the [Background Occupation](Background.md#Apprenticeship-Table) table to determine what your character did before becoming an adventurer.
+## Roll for Background Career
+Roll on the [Background Career](Background.md#background-career-table) table to determine what your character did before becoming an adventurer.
 
 ## Pick a Class
 There are six character classes: [Warrior](Warrior.md), [Rogue](Rogue.md), [Mage](Mage.md), [Warrior-Rogue](Warrior-Rogue.md), [Warrior-Mage](Warrior-Mage.md) and [Rogue-Mage](Rogue-Mage.md).
