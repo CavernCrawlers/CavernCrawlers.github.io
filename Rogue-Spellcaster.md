@@ -30,21 +30,21 @@
 ## Class Abilities
 
 ### Exhausting Magic
-If you find yourself in need of a quick boost of magical energy, you may add **Skill Bonus** to your **Invocation Roll** by gaining 1 level of [Exhaustion](Combat.md#Exhaustion).
+If you find yourself in need of a quick boost of magical energy, you may add your **Skill Bonus** to your **Invocation Roll** by gaining 1 level of [Exhaustion](Combat.md#Exhaustion).
 
 ### Invocation Dice
 As a spellcaster, you have a number of invocation dice as indicated on the [Rogue-Spellcaster Table](#Rogue-Spellcaster-Table) plus additional dice equal to your **Wisdom Modifier**.
 
 ### Magical Focus
-As part of your apprenticeship, you created a unique magical focus to aid in your spellcasting.  This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held.  It also takes up 1 inventory slot.  So long as you have your Magical Focus in hand when casting a spell, you may reroll a number of invocation dice equal to 1/2 your Skill Bonus (rounded up).  A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 50sp worth of materials.
+As part of your apprenticeship, you created a unique magical focus to aid in your spellcasting.  This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held.  It also takes up 1 inventory slot.  So long as you have your Magical Focus in hand when casting a spell, you may reroll a number of invocation dice equal to 1/3 your Skill Bonus (rounded up).  A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 50sp worth of materials.
 
-### Rogue Skills
-For specific skill checks, Rogues gain an additional bonus beyond the normal Skill Bonus.
-- Climb & Slight of Hand: +2
-- Lock-Picking, Search, Stealth & Trap Handling: +1
+Spellcasters also frequently inscribe runes that they know into their spellcasting focus so that they are immediately on-hand when casting spells.
 
 ### Spellcasting
-You can harness the power of magic.  A mage begins their career knowing two cantrips and two spells.  You will need to select a **Magical Tradition** from which your spells will be drawn.  You may not cast a spell of a Rank higher than shown in the table below.  Your spells have a **Saving Throw DT** equal to the DT shown on the table below plus the spell's listed **Ability Score Modifier**.
+You can harness the power of magic.  A hybrid-spellcaster begins their career knowing two cantrips.  You may not cast a spell of a Rank higher than shown in the table below.
+
+### Sense Magic
+Being sensitive to the world of magic, you may determine if a person, place or thing is magical with a **Skilled** **Intelligence** check.  Doing so requires concentration and a full minute; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a mage is staring at them.  You can also attempt to decipher magical writing in the same way.
 
 ### Sense Magic
 Being sensitive to the world of magic, you may determine if a person, place or thing is magical with a **Skilled** **Intelligence** check.  Doing so requires concentration and a few minutes; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a mage is staring at them.  You can also attempt to decipher magical writing in the same way.

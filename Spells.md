@@ -59,17 +59,28 @@ This is the area over which the magical art’s effects can be felt:<br/>
 
 ### Duration
 This indicates how long a spell will continue to affect the target(s).  Additionally, spells whose duration is marked with a (c) indicate that [Concentration](MagicalArts.md#Concentration) is required to maintain the magic.
+- 1 Reaction
+- 1 Action
+- 1 Round
+- 1 Minute
+- 1 Exploration Turn (10 minutes)
+- 1 Hour
+- 1 Watch (4 hours)
+- 1 Day
+- 1 Week
+- 1 Month
+- 1 Year
+- double the number of years for each additional step.
 
 ### Save
 This indicates if a target is allowed to make a [Saving Throw](CoreRules.md#Saving-Throws) to resist or diminish the effect.  This will be given as a saving throw type.
 
-A spell's saving throw difficulty may be increased by increasing the casting difficulty on a +1 one-for-one basis.
-
 ### Components
-Spells will often require **Gestures**, **Incantations** or **Materials** to cast.  If any one element is missing or restricted, the spell cannot be cast and any [Invocation Roll](MagicalArts.md#the-invocation-roll) will automatically fail.
-- **Gestures** require at least one free hand.
+Spells will often require **Gestures**, **Incantations** or both to cast.  If any one element is missing or restricted, the spell cannot be cast and any [Invocation Roll](MagicalArts.md#the-invocation-roll) will automatically fail.
+- **Gestures** require at least one free hand (though it may be holding your Magical Focus or Rune).
 - **Incantations** require the caster be able to speak freely and not be in a zone of total silence.
-- **Materials** are specific ingredients that the caster must have in hand (counted as part of gestures).
 
 ## Upcasting
-Several spells allow the caster to increase the **rank** at which the spell is cast in return for enhanced effects.  Doing so increases the **Spellcasting DT** of the spell to match the new rank.  No spell may be cast at a rank higher than that to which the spellcaster has access.  *For example, a 5th level spellcaster may not cast any spells at a rank higher than 3.*
+Several spells allow the caster to increase the **rank** at which the spell is cast in return for enhanced effects.  Doing so increases the **Spellcasting DT** of the spell to match the new rank.  No spell may be cast at a rank higher than that to which the spellcaster has access.  
+
+*For example, a 5th level Spellcaster may not cast any spells at a rank higher than 3.*
