@@ -10,7 +10,9 @@ All Cantrips have a base Casting Difficulty of 0.
 - [Mage Hand](#mage-hand)
 - [Mage Light](#mage-light)
 - [Nature’s Blessing](#natures-blessing)
+- [Open](#open)
 - [Plant Speech](#plant-speech)
+- [Prestidigitation](#prestitigitation)
 - [Spark](#spark)
 - [Spirit Sight](#spirit-sight)
 
@@ -23,7 +25,7 @@ All Cantrips have a base Casting Difficulty of 0.
 **Save:** None<br/>
 Each time a mage learns this cantrip, they must pick a particular type of beast to which it will apply (such as canines, ursines, birds, felines, snakes, etc).  Once cast, the mage will gain the ability to converse with that type of beast for the cantrip's duration.  Interactions with these beasts follow the general rules for social interactions (regarding [reaction rolls](CoreRules.md#Charisma-and-Reactions), diplomacy and so forth).  However, it should be kept in mind that most normal beasts don’t have the same concerns or social norms.  Communication does not necessarily convey understanding.
 
-A mage may attempt to converse with more than one type of beast at the same time (assuming they know the versions of this cantrip for each beast being addressed).  Doing so increases the rank of the cantrip to Rank 1 plus 1 per additional beast type.
+A mage may attempt to converse with more than one type of beast at the same time (assuming they know the versions of this cantrip for each beast being addressed).  Doing so increases the rank of the cantrip by 1 per additional beast type.
 
 ## Beguilement
 **Casting Ability:** Charisma<br/>
@@ -32,7 +34,7 @@ A mage may attempt to converse with more than one type of beast at the same time
 **Area:** 1 Creature<br/>
 **Duration:** 10 minutes<br/>
 **Save:** Spirit<br/>
-A mage uses this spell to influence the emotions and attitudes of the target creature.  If the target succeeds on their **saving throw**, they are unaffected but know that the caster was attempting to influence their mind with magic.  If the target fails, their emotional state moves toward the emotion selected by the caster.  This can grant a plus or minus 1 modifier on social checks, including rolls on the [Reaction Table](CoreRules.md#Charisma-and-Reactions).
+A mage uses this spell to influence the emotions and attitudes of the target creature.  If the target succeeds on their **saving throw**, they are unaffected but know that the caster was attempting to influence their mind with magic.  If the target fails, their emotional state moves toward the emotion selected by the caster (and may potentially cause a Morale check).  This can grant a plus or minus 1 modifier on social checks, including rolls on the [Reaction Table](CoreRules.md#Charisma-and-Reactions) and Moral checks.
 
 ## Conjure Sound
 **Casting Ability:** Intelligence<br/>
@@ -55,11 +57,15 @@ This allows the mage to conjure a simple, silent and static illusion of roughly 
 ## Hexing
 **Casting Ability:** Wisdom<br/>
 **Casting Time:** 1 action<br/>
-**Range:** Near<br/>
+**Range:** Touch<br/>
 **Area:** 1 creature<br/>
 **Duration:** 1 task (up to 1 hour)<br/>
 **Save:** Spirit<br/>
-By uttering this minor curse, the mage causes the targeted creature to have **Disadvantage** on the next roll they take for a particular action.  The action must be specified at the time of casting and must be specific (such as climb a tree, strike with a sword, haggle for a price).  As soon as the task is attempted, or if the duration expires without an attempt, the hexing fades.
+By uttering this minor curse, the mage causes the targeted creature to have -2 on the next roll they take for a particular action.  The action must be specified at the time of casting and must be specific (such as climb a tree, strike with a sword, haggle for a price).  As soon as the task is attempted, or if the duration expires without an attempt, the hexing fades.
+
+The range may be increased by 1 step per +1 Rank (up to a range of Far).
+
+The number of effected creatures may be increased by +1 per +1 Rank.
 
 ## Inspire
 **Casting Ability:** Wisdom<br/>
@@ -69,6 +75,10 @@ By uttering this minor curse, the mage causes the targeted creature to have **Di
 **Duration:** 1 task (up to 1 hour)<br/>
 **Save:** none<br/>
 With a touch, words of encouragement and a small investment of magic, a mage can grant one creature +2 on a single roll to perform a specific task.  When this cantrip is invoked, the mage must name the task to which the bonus applies (e.g. “pick this lock” or “smite these bandits”).  As soon as the task is attempted, or if the duration expires without an attempt, the blessing fades.
+
+The range may be increased by 1 step per +1 Rank (up to a range of Far).
+
+The number of effected creatures may be increased by +1 per +1 Rank.
 
 ## Mage Hand
 **Casting Ability:** Intelligence<br/>
@@ -101,6 +111,21 @@ Increasing this cantrip's rank to 1 can increase the light's brightness to the e
 **Save:** none<br/>
 By this spell, a mage may cause any cutting or seed to root and any plant to bloom.  A mage who knows this cantrip may also use the Healing spell to heal wounded or blighted plants.
 
+## Open
+**Casting Ability:** Intelligence<br/>
+**Casting Time:** 1 action<br/>
+**Range:** Touch<br/>
+**Area:** 1 Object<br/>
+**Duration:** Instant<br/>
+**Save:** none<br/>
+This spell magically opens an unlocked, unobstructed object (such as a door, window or chest).  This object will stay open until some other force closes it.
+
+When cast at higher ranks, this spell may force open locked, stuck or blocked portals.  At Rank 1, the mage makes a check to force the lock, substituting their own Intelligence for Strength.  Each +1 Rank grants a +1 bonus to this roll.
+
+The range of this spell may be increased 1 step per +1 Rank, up to a range of Sight.
+
+This spell may be reversed to close objects and secure them against forced entry.
+
 ## Plant Speech
 **Casting Ability:** Charisma<br/>
 **Casting Time:** 1 action<br/>
@@ -109,6 +134,24 @@ By this spell, a mage may cause any cutting or seed to root and any plant to blo
 **Duration:** 1 hour<br/>
 **Save:** none<br/>
 This cantrip allows the caster to speak with plants of all varieties.  Unfortunately, plants are not known for being thrilling conversationalists.
+
+## Prestidigitation
+**Casting Ability:** Intelligence<br/>
+**Casting Time:** 1 action<br/>
+**Range:** Close<br/>
+**Area:** 1 Creature/Object<br/>
+**Duration:** up to 1 hour<br/>
+**Save:** none<br/>
+This cantrip allows the caster to perform a minor magical trick.  Any one of the following examples may be performed within range.
+- Instantly light or snuff a candle, taper or similar small, easily flammable object.
+- Instantly clean or soil up to 1 cubic foot of non-living material.
+- Chill, warm or spice up to 1 cubic foot of non-living material for 1 hour.
+- Inscribe a small, glowing mark on a non-living object or surface for 1 hour.
+- Create a palm-sized illusory image in your hand that lasts for 1 round.
+
+The range of this spell may be increased 1 step per +1 Rank, up to a range of Near.
+
+Multiple effects (up to 3) may be manifested at the same time for +1 Rank per 1 extra effect.  Alternatively, the same effect may be manifested up to 3 times.
 
 ## Spark
 **Casting Ability:** Intelligence<br/>

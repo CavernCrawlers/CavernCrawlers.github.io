@@ -1,7 +1,8 @@
-# Background Skills
-- [Pre-Adventuring Carrier](#pre-adventuring-carrier)
-- [Background Occupation Table](#background-occupation-table)
-- [Background Occupation Descriptions](#background-occupation-descriptions)
+# Background Careers
+- [Background Career](#background-career)
+- [Using Background Careers](#using-background-careers)
+- [Background Career Table](#background-career-table)
+- [Background Career Descriptions](#background-career-descriptions)
 	- [Acolyte](#acolyte)
 	- [Alchemist](#alchemist)
 	- [Animal Handler](#animal-handler)
@@ -40,52 +41,55 @@
 	- [Wizard’s Apprentice](#wizards-apprentice)
 - [Why did you become an adventurer?](#why-did-you-become-an-adventurer)
 
-## Pre-Adventuring Carrier
-Everyone did something before they became an adventurer. Roll (1d100) or select from the following table to determine what it was your character did before being thrust into a life of adventure. This will determine some of your character's starting equipment.  Your character is automatically proficient with any weapon provided by their background occupation, but not the entire weapon group.
+## Background Career
+Everyone did something before they became an adventurer. Roll (1d100) or select from the [Background Career Table](#background-career-table) to determine what it was your character did before being thrust into a life of adventure. This will determine some of your character's starting equipment.  Your character is automatically proficient with any weapon provided by their background occupation, but not the entire weapon group.
 
+## Using Background Careers
+Your character is automatically consider proficient at the Apprentice (+0) level with any activities related to their background career.  This may be improved through the use of [Traits](Traits.md).
+
+## Background Career Table  
 The column used for the roll should be chosen based on the culture in which your character was raised.
 
-## Background Occupation Table
-| Occupation          | Human / Hob | Dwarf | Elf    | Goblin / Orc |
-|:--------------------|:-----------:|:-----:|:------:|:------------:|
-| Acolyte             | 01-03       | 01-02 |  01-03 | 01-02        |
-| Alchemist           | 04-05       | 03-04 |  04-05 | 03-04        |
-| Animal Handler      | 06-09       | 05-07 |  06-09 | 05-08        |
-| Apothecary/Healer   | 10-11       | 08-09 |  10-12 | 09-11        |
-| Artisan             | 12-14       | 10-13 |  13-16 | 12-14        |
-| Barrister/Advocate  | 15-16       | 14-15 |  17-18 | 15-16        |
-| Butcher             | 17-19       | 16-18 |  19-20 | 17-19        |
-| Charcoal Burner/<br/>Woodcutter | 20-23       | 19-21 | 21-22 | 20-22        |
-| Clerk/Scribe        | 24-25       | 22-23 | 23-24 | 23-24        |
-| Con Artist/<br/>Mountebank | 26-28       | 24-25 | 25-26 | 25-27        |
-| Courtier            | 29-30       | 26-27 |  27-29 | 28-29        |
-| Criminal/Sp  y      | 31-34       | 28-30 |  30-32 | 30-33        |
-| Cult Initiate       | 35-36       | 31-32 |  33-34 | 34-36        |
-| Farmer/Gardener     | 37-40       | 33-35 |  35-37 | 37-40        |
-| Forester/Ranger     | 41-42       |   36  |  38-39 | 41-42        |
-| Fortune Teller      | 43-44       | 37-38 |  40-41 | 43-44        |
-| Gambler             | 45-47       | 39-41 |  42-43 | 45-47        |
-| Guard/Mercenary/<br/>Soldier | 48-51       | 42-46 | 44-47 | 48-52        |
-| Herbalist           | 52-54       | 47-48 |  48-49 | 53-54        |
-| Hermit/Rustic       | 55-57       | 49-51 |  50-53 | 55-57        |
-| Hunter/Trapper      | 58-60       | 52-53 |  54-56 | 58-60        |
-| Jeweler             | 61-63       | 54-58 |  57-60 | 61-63        |
-| Laborer/Teamster    | 64-68       | 59-64 |  61-64 | 64-67        |
-| Merchant            | 69-71       | 65-67 |  65-67 | 68-70        |
-| Miner               | 72-75       | 68-73 |  68-71 | 71-74        |
-| Minstrel/Performer  | 76-78       | 74-76 |  72-75 | 75-77        |
-| Navigator/Scout     | 79-81       | 77-79 |  76-79 | 78-80        |
-| Noble               | 82          | 80    |  80    | 81           |
-| Politician          | 83          | 81    |  81    | 82           |
-| Sailor/Fisher/<br/>Ferrier/Bargemaster | 84-87       | 82-83 | 82-83 | 83-84        |
-| Scholar/Sage        | 88-89       | 84-85 |  84-86 | 52-86        |
-| Smith               | 90-92       | 86-90 |  87-90 | 87-90        |
-| Squire              | 93          | 91    |  91-92 | 91           |
-| Stonemason          | 94-96       | 92-96 |  93-95 | 92-95        |
-| Vagrant/Wanderer    | 97-99       | 97-99 |  96-98 | 96-99        |
-| Wizard's Apprentice | 100         | 100   | 99-100 | 100          |
+|  Career                                  |  Human / Hob  |  Dwarf  |  Elf     |  Goblin / Orc  |
+|:-----------------------------------------|:-------------:|:-------:|:--------:|:--------------:|
+|  Acolyte                                 |  01-03        |  01-02  |   01-03  |  01-02         |
+|  Alchemist                               |  04-05        |  03-04  |   04-05  |  03-04         |
+|  Animal Handler                          |  06-09        |  05-07  |   06-09  |  05-08         |
+|  Apothecary/Healer                       |  10-11        |  08-09  |   10-12  |  09-11         |
+|  Artisan                                 |  12-14        |  10-13  |   13-16  |  12-14         |
+|  Barrister/Advocate                      |  15-16        |  14-15  |   17-18  |  15-16         |
+|  Butcher                                 |  17-19        |  16-18  |   19-20  |  17-19         |
+|  Charcoal Burner/<br/>Woodcutter         |  20-23        |  19-21  |   21-22  |  20-22         |
+|  Clerk/Scribe                            |  24-25        |  22-23  |   23-24  |  23-24         |
+|  Con Artist/<br/>Mountebank              |  26-28        |  24-25  |   25-26  |  25-27         |
+|  Courtier                                |  29-30        |  26-27  |   27-29  |  28-29         |
+|  Criminal/Sp  y                          |  31-34        |  28-30  |   30-32  |  30-33         |
+|  Cult Initiate                           |  35-36        |  31-32  |   33-34  |  34-36         |
+|  Farmer/Gardener                         |  37-40        |  33-35  |   35-37  |  37-40         |
+|  Forester/Ranger                         |  41-42        |    36   |   38-39  |  41-42         |
+|  Fortune Teller                          |  43-44        |  37-38  |   40-41  |  43-44         |
+|  Gambler                                 |  45-47        |  39-41  |   42-43  |  45-47         |
+|  Guard/Mercenary/<br/>Soldier            |  48-51        |  42-46  |   44-47  |  48-52         |
+|  Herbalist                               |  52-54        |  47-48  |   48-49  |  53-54         |
+|  Hermit/Rustic                           |  55-57        |  49-51  |   50-53  |  55-57         |
+|  Hunter/Trapper                          |  58-60        |  52-53  |   54-56  |  58-60         |
+|  Jeweler                                 |  61-63        |  54-58  |   57-60  |  61-63         |
+|  Laborer/Teamster                        |  64-68        |  59-64  |   61-64  |  64-67         |
+|  Merchant                                |  69-71        |  65-67  |   65-67  |  68-70         |
+|  Miner                                   |  72-75        |  68-73  |   68-71  |  71-74         |
+|  Minstrel/Performer                      |  76-78        |  74-76  |   72-75  |  75-77         |
+|  Navigator/Scout                         |  79-81        |  77-79  |   76-79  |  78-80         |
+|  Noble                                   |  82           |  80     |   80     |  81            |
+|  Politician                              |  83           |  81     |   81     |  82            |
+|  Sailor/Fisher/<br/>Ferrier/Bargemaster  |  84-87        |  82-83  |   82-83  |  83-84         |
+|  Scholar/Sage                            |  88-89        |  84-85  |   84-86  |  52-86         |
+|  Smith                                   |  90-92        |  86-90  |   87-90  |  87-90         |
+|  Squire                                  |  93           |  91     |   91-92  |  91            |
+|  Stonemason                              |  94-96        |  92-96  |   93-95  |  92-95         |
+|  Vagrant/Wanderer                        |  97-99        |  97-99  |   96-98  |  96-99         |
+|  Wizard's Apprentice                     |  100          |  100    |  99-100  |  100           |  
 
-## Background Occupation Descriptions
+## Background Career Descriptions
 
 ### Acolyte
 Feeling the call of the gods, you sought to join the clergy.  Pick either the [Great Church](AllegiancesAndMorality.md#Empyreans) or the [Old Faith](AllegiancesAndMorality.md#Old-Gods).  You may add your Skill Bonus to checks involving that panetheon.  You may make knowledge checks regarding other panetheons as a regular **Ability Check**.

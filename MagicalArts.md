@@ -1,14 +1,18 @@
 # The Magical Arts
 
-Death - Necromancers
-Divination - Seers
-Elemental - Sorcerers
-Spirit - Conjurers
-Life - Thaumaturges
+Traditions
+- Death - Necromancers
+- Divination - Seers
+- Elemental - Sorcerers
+- Spirit - Conjurers
+- Life - Thaumaturges
 
-Wizard - access to 2 spell lists
-Mage - access to 3 spell lists
-Archmage - access to 4 or more spell lists
+Traits
+- Wizard - access to 2 spell lists
+- Mage - access to 3 spell lists
+- Archmage - access to 4 or more spell lists
+
+# Table of Contents
 - [Spellbooks](#spellbooks)
 	- [Learning New Spells](#learning-new-spells)
 		- [Learning From a Mentor](#learning-from-a-mentor)
@@ -51,6 +55,9 @@ Spellcasters may also learn spells from other casters (if they can find one will
 #### Replacing a Spellbook
 If a spellbook is lost or destroyed, it may be recreated using the spells that the spellcaster has already prepared.  Doing so takes the same cost in time and materials as learning each spell anew.
 
+## Preparing Spells
+A spellcaster may only cast spells they have prepared.  Cantrips are always prepared, so they can always be cast.  Spells of Rank 1 or higher take time to prepare.  A spellcasters may only prepare as many spells as their Skill Bonus plus their Intelligence Modifier. Preparing a spell takes 10 minutes times the spell's base rank.  Once a spell is prepared, it remains prepared until the caster chooses to replace it with a different spell or some event causes the mage to temporarily lose the spell.
+
 ## The Invocation Roll
 
 <!-- This was inspired by the [Spell Dice](https://www.necropraxis.com/2013/11/01/spell-dice/) system by Necropraxis. -->
@@ -69,24 +76,32 @@ A spellcaster gets a pool of six-sided dice with which to cast their spells.  Th
 
 When casting a spell, the caster may choose to roll any number of **invocation dice** in order to try to meet or exceed the **spell difficulty**.  Any dice showing their ‘1’ or ‘2’ faces are **expended** from the pool (though still counted toward the casting result) and cannot be used again until **recovered**.
 
+#### Exhausting Magic
+If a spellcaster finds themselves in need of a quick boost of magical energy, they may add their **Skill bonus** to their **Invocation Roll** by gaining 1 level of [Exhaustion](Combat.md#Exhaustion).
+
+#### Magical Focus
+Each spellcaster constructs an item as part of their apprenticeship.  This item helps the mage in focusing and controlling their magic.  A magical focus must be an item that the spellcaster holds in their hand(s) and is obviously magical in nature (often covered in runes and glyphs).  While the magical focus is in hand, the magician may reroll a number of invocation dice equal to 1/2 their Skill Bonus (rounded up).
+
+*Example: A 5th level Rogue-Spellcaster has a Skill Bonus of +3.  Each time they cast a spell, they may reroll 2 of their Invocation Dice.*
+
 ### Spell Difficulty
-A spell’s **difficulty** is equal to 4 times the rank at which it is cast.  **Cantrips**, being Rank 0, are difficulty zero than thus do not need an invocation roll unless cast at a higher rank.
+A spell’s **difficulty** is equal to 3 times the rank at which it is cast.  **Cantrips**, being Rank 0, are difficulty zero than thus do not need an invocation roll unless cast at a higher rank.
 
 | Rank | Difficulty |
 |:----:|:----------:|
 | 0    |  0         |
-| 1    |  4         |
-| 2    |  8         |
-| 3    | 12         |
-| 4    | 16         |
-| 5    | 20         |
-| 6    | 24         |
+| 1    |  3         |
+| 2    |  6         |
+| 3    |  9         |
+| 4    | 12         |
+| 5    | 15         |
+| 6    | 18         |
 
-*Example: A character casting Magic Missile at **rank** 3 must beat a spell difficulty of 12 (3x4).*
+*Example: A character casting Magic Missile at **rank** 3 must beat a spell difficulty of 9 (3x3).*
 
 If a spell’s **difficulty** is not met, the spell is not cast.  However, the mage may choose to continue casting the spell.  This requires that the mage reserve the dice already used in casting the spell and [Concentrate](Combat.md#Concentrating) long enough to satisfy the spell’s **casting time** again.  Once this time increment has passed, the mage may choose to roll additional **invocation dice** and add their total to the **spellcasting roll**.  In this way, more difficult spells can be cast over multiple “rounds”.
 
-*Example: The above 5th level magic-user with a 16 Wisdom is attempting to cast a Fireball at **rank** 3 (difficulty 12).  They choose to be conservative and roll only 4 dice, rolling a ‘1’, ‘3’, '3' and ‘4’, for a total of 11.  As the total is less than the **difficulty**, the spell is not cast.  The character chooses to continue the casting. This means they are now **concentrating** and they set aside the 4 dice already rolled, leaving 3 left unallocated in their **invocation pool**.  On their next round (since Fireball has a **casting time** of 1 **action**), they choose to roll one more die, getting another ‘1’.  This brings their total to 12, successfully casting the spell.  The two ‘1’s are now **expended**, and the other three committed dice are now released.  This leaves the caster with 5 dice in their **invocation pool**.  Note that no [Mishap](#Mishaps) roll is made because the two '1's occurred on two separate rolls.*
+*Example: The above 5th level Spellcaster with a 16 Wisdom is attempting to cast a Fireball at **rank** 3 (difficulty 9).  They choose to be conservative and roll only 3 dice, rolling a ‘1’, '3' and ‘4’, for a total of 8.  As the total is less than the **difficulty**, the spell is not cast.  The character chooses to continue the casting. This means they are now **concentrating** and they set aside the 3 dice already rolled, leaving 4 left unallocated in their **invocation pool**.  On their next round (since Fireball has a **casting time** of 1 **action**), they choose to roll one more die, getting another ‘1’.  This brings their total to 9, successfully casting the spell.  The two ‘1’s are now **expended**, and the other three committed dice are now released.  This leaves the caster with 5 dice in their **invocation pool**.  Note that no [Mishap](#Mishaps) roll is made because the two '1's occurred on two separate rolls.*
 
 ### Invocation Dice Recovery
 Whenever a spellcaster completes a [Short Rest](Combat.md#Short-Rest), they may roll a portion of their **expended** **invocation dice**.  Any of those dice that come up a 2+ are placed back into the caster’s **invocation pool**.  The number of dice that may be rolled after a short rest is equal to their **Wisdom Modifier**.
@@ -97,11 +112,8 @@ After a [Long Rest](Combat.md#Long-Rest), the same procedure is followed with th
 
 After an [Extended Rest](Combat.md#Extended-Rest), all **invocation dice** that have been **expended** are automatically recovered.
 
-### Exhausting Magic
-If a spellcaster finds themselves in need of a quick boost of magical energy, they may add a number of **invocation dice** equal to their **Wisdom Modifier** to their **Invocation Roll** by gaining 1 level of [Exhaustion](Combat.md#Exhaustion).  These dice do not Expend as normal and simply disappear after the spell is cast.
-
 ### Magical Attacks and Saving Throws
-Once a spell has successfully been invoked, the mage may then need to make a **Magical Attack Roll**.  This is similar to a normal **Attack Roll**, but uses the mage’s **Skill Bonus** and the **Ability Modifier** of the ability called out by the Art in question.  If the Magical Attack Roll is a critical hit, it allows the mage to double one numerical trait of the magical art; typically range, area, number of targets, duration or damage.  In the case of damage, treat this the same as a [critical hit](Combat.md#Critical-Hits) from a weapon; thus it’s not strictly a doubling.  Alternatively, the caster may elect to recover one **expended** **Invocation Die** instead.
+Once a spell has successfully been invoked, the mage may then need to make a **Magical Attack Roll**.  This is similar to a normal **Attack Roll**, but uses the mage’s **Skill Bonus** and the **Ability Modifier** of the ability called out by the Art in question.  If the Magical Attack Roll is a critical hit, it allows the mage to double one numerical trait of the magical art; typically range, area, number of targets, duration or damage.  In the case of damage, treat this the same as a [critical hit](Combat.md#Critical-Hits) from a weapon; thus it’s not strictly a doubling.
 
 Alternatively, a spell may require the target to make a [Saving Throw](CoreRules.md#Saving-Throws) instead of requiring a spellcaster to make an attack roll.  In this case, the Spellcaster's **Spell DT** is the target number.  If the target succeeds on their save, the effects of the spell may be reduced or even mitigated entirely (according to the spell's description).
 
@@ -119,22 +131,8 @@ If the check is failed, the observing mage gains no information.
 
 Characters without the ability to cast spells may not attempt this check at all.
 
-### Counter-Spelling
-If a spellcaster ([core](Glossary.md#Core-Class) or [hybrid](Glossary.md#Hybrid-Class)) can observe another character casting a spell (both see and hear), the observing mage may use their [Reaction](Combat.md#Reactions) to attempt to counter the spell being cast.  To do so, the counter-spelling mage decides how many **Invocation Dice** they wish to commit to the counter-spell (referred to hereafter as a "bid").  The original caster then has the chance to increase the number of their own **Invocation Dice** to attempt to complete the spell.  This process goes back-and-forth until both mages stop bidding (due to not wanting to commit more dice or simply not having any more dice available).  At that point, both mages MUST roll all the dice they bid.  The casting mage must meet or exceed both the spell's **DT** and the counter-spelling mage's total in order to successfully cast the spell.  Invocation Dice expend as normally after the outcome has been determined.
-
-*Example:  An adventuring party has come across a tribe of wild gnolls, including a shaman.  The gnoll shaman ([Fighter-Spellcaster](Fighter-Spellcaster.md): Lvl 5, Wis 13, 5 Invocation Dice) attempts to cast a rank 1 spell (DT 4) at the party using 2 dice.  Ekard (the party [Spellcaster](Spellcaster.md); Lvl 5, Wis 16, 7 Invocation Dice) decides to counter-spell it, bidding 3 dice.  In response, the shaman increases their own bid to 4 dice and Ekard then response by upping his bid to 5 dice (note that, at this point, neither party knows how many dice the other has in reserve).  The gnoll matches the bid of 5 dice (which is their limit) and Ekard goes to 6.  Finally, the GM indicates that the gnoll will not go any higher and both parties roll.  The gnoll gets lucky and rolls 6+5+5+4+3=23, which is more than enough to beat the spell's DT.  Ekard doesn't roll as well, getting 5+5+5+3+2+1=21.  As the gnoll's total exceeds both the spell DT and Ekard's total, the spell is successfully cast.  Additionally, none of the gnoll's invocation dice are expended (as they're all 3+) but 2 of Ekard's dice do (the '1' and '2').  At least Ekard didn't roll a Mishap.*
-
-#### Spell Duels
-If they wish to take the risk, either side in a counter-spelling scenario may attempt to force a spell duel.  In a spell duel, both mage's Invocation Dice will be expended if their faces show '1', '2' or '3' (rather than '1' or '2' as normal).  Additionally, the loosing mage will take 1d4 Psychic feedback damage per invocation die that they bid.
-
-Once a spell-duel has been declared, the other mage has a choice: either abandon the spell/counter-spell or take part in the duel.  If they choose to abandon, they do not roll any Invocation Dice and the spell/counter-spell simply fails.  This allows them to escape without expending any dice or taking any psychic feedback damage at the cost of the other side winning.  The mage that declared the duel, however, MUST still roll their Invocation Dice and risk expending those dice and causing a [Mishap](#Mishaps) (though they cannot loose and thus won't take any psychic feedback damage).
-
-*Example:  The next day, same adventuring party encounters the evil mage Bargle (Spellcaster; Lvl 7, Wis 18, 10 Invocation Dice) who attempts to hit the party with his Fireball spell (DT 12).  He commits 4 dice to the roll.  Ekard, recognizing the spell through a successful [Spell Identification](#Spell-Identification) check, attempts to counter this and bids 5 dice.  Bargle, being the arrogant prick that he is, decides to force a Spell Duel and ups his bid to 6 dice.  Ekard, knowing a fireball could devastate the party, reluctantly accepts the spell duel and ups his bid to 7 dice (his max, though Bargle doesn't know that).  Bargle ups his own bid to 8 dice and Ekard declares that he will not (cannot) go any higher.  Both sides roll-off to determine who wins the duel.  Bargle rolls 6+6+3+3+3+1+1+1=24 (more than enough for the Fireball's DT). Ekard, having another bad day, rolls 4+3+3+2+2+1+1=16 and would lose the duel.  However, he decides to take 1 level of [Exhaustion](Combat.md#Exhaustion) and adds 2 more dice (his Wisdom Modifier), getting 5+4=9, bringing his total to 25.  Bargle could do the same (getting 3 dice) but he doesn't want to risk adding a Minor Magical Mishap to his outcome.  As a result, Bargle loses the duel, stopping his Fireball.  He expends 6 dice (all three '1's and all three '3's) and also suffers a [Major Magical Mishap](#Major-Magical-Mishap) (rolling a 4 for **Mage Rot**), and takes 9d4 Psychic damage, rolling 4+4+3+3+2+1+1+1+1=20.  Ekard expends 6 dice (both '3's, both '2's and both '1's) and suffers a [Minor Magical Mishap](#Minor-Magical-Mishap) (rolling 26, suffering **Witchery III**).*
-
-As can be seen from the above example, spell duels are very risky for all parties involved.  Initiate one at your own risk.
-
 ## Concentration
-Several spells require **concentration** to maintain their effects after casting.  A caster may normally only concentrate on one thing at a time.  New actions requiring concentration supersede anything the caster is already concentrating on.  If a concentrating caster takes damage, they must pass a **Concentration Check** (a **Spirit saving throw**) vs DT 10 or ½ the damage done (whichever is higher).  Other things may also require a concentration check, such as being thrown into a river, suddenly startled, being grappled and so on.  The GM will set the DT of the check accordingly.  Additionally, spells that take more than 1 action to cast require concentration while they are being cast.  Losing concentration causes the magical art to fail.
+Several spells require **concentration** to maintain their effects after casting.  A caster may normally only concentrate on one thing at a time.  New actions requiring concentration supersede anything the caster is already concentrating on.  If a concentrating caster takes damage, they must pass a **Concentration Check** (a type of **Spirit saving throw**) vs DT 10 or ½ the damage done (whichever is higher).  Other things may also require a concentration check, such as being thrown into a river, suddenly startled, being grappled and so on.  The GM will set the DT of the check accordingly.  Additionally, spells that take more than 1 action to cast require concentration while they are being cast.  Losing concentration causes the magical art to fail (though the declared number of invocation dice must still be rolled to see if a mishap occurs and how many are expended).
 
 ## Mishaps
 If two of the dice rolled at the same time come up as ‘1’s, this will result in a [Minor Magical Mishap](#Minor-Magical-Mishap), even if the spell casting is successful.  If three of the dice are ‘1’s, then the caster suffers a [Major Magical Mishap](#Major-Magical-Mishap).  If four or more dice are ‘1’s, then the caster suffers the effects of both a **minor** and a **major** spell mishap.
@@ -142,38 +140,37 @@ If two of the dice rolled at the same time come up as ‘1’s, this will result
 Note that some tables may wish to assume that spells cast when there is no time pressure (thus the caster can take as long as they want) are assumed to be rolled a single die at a time.  As a result, no mishap can occur, though dice can still be expended as normal.
 
 ### Minor Magical Mishap
-| d30 | Mishap                                                                                                                                                                                                                                                                                                |
-| :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  1  | **Uncanny Shade:** The caster’s shadow turns an unnatural {color} for a 2d4(pool) watches.                                                                                                                                                                                                            |
-|  2  | **Winter’s Caress:** All free-standing water within **Near** range of the caster immediately freezes.                                                                                                                                                                                                 |
-|  3  | **Distension:** The caster grows 1d4 inches in height.                                                                                                                                                                                                                                                |
-|  4  | **Dilation:** The caster shrinks 1d4 inches in height.                                                                                                                                                                                                                                                |
-|  5  | **Witch Hives:** The caster is covered in an itchy red rash that lasts 4d4(pool) **Exploration Turns**. While this rash lasts, the caster has **Disadvantage** on all DEX and **Concentration** checks.                                                                                               |
-|  6  | **Tainted:** The caster’s skin turns an unnatural {color}. This can be cured by a Remove Curse ritual.                                                                                                                                                                                                |
-|  7  | **Witch Eye:** An eye appears in the middle of the caster’s {body part}. It does not allow them to see any better. The eye remains for 4d4(pool) Hours.                                                                                                                                               |
-|  8  | **Elemental Summoning:** An {elemental} creature chosen by the GM appears within 5 feet of the caster. Make a [Reaction Check](CoreRules.md#Charisma-and-Reactions) to determine its attitude toward the caster. The creature will disappear after 3d4(pool) rounds.                                 |
-|  9  | **Fowl Beard:** The caster grows a long beard of {color} feathers that remains until the next time they sneeze.                                                                                                                                                                                       |
-| 10  | **Vanishing:** The caster is transported to a mysterious pocket dimension until the end of their next turn, at which time they return to the space they previously occupied or the nearest unoccupied space.                                                                                          |
-| 11  | **Time Skip:** The caster ages 1d4 years.                                                                                                                                                                                                                                                             |
-| 12  | **Reverse Time:** The caster’s ages -1d4 years.                                                                                                                                                                                                                                                       |
-| 13  | **Fae Summoning:** 1d6 {fae} creatures appear in unoccupied spaces within **Near** distance of the caster. Make a [Reaction Check](CoreRules.md#Charisma-and-Reactions) to determine their attitude toward the caster. They vanish after 2d4(pool) minutes.                                          |
-| 14  | **Levitation:** The caster levitates 1d10 feet up into the air. This effect lasts 4d4(pool) rounds. At the start of each of the caster’s turns, their elevation changes randomly by 2d6-7 feet.                                                                                                       |
-| 15  | **Beastly Presence:** A {beast} appears within 5 feet of the caster. Make a [Reaction Check](CoreRules.md#Charisma-and-Reactions) to determine its attitude toward the caster. It disappears after 3d4(pool) rounds.                                                                                 |
-| 16  | **Depilation:** The caster’s hair falls out but grows back within 1d4(pool) days.                                                                                                                                                                                                                     |
-| 17  | **Uncontrollable Shout:** The caster must shout whenever they speak. This condition lasts for 3d6(pool) minutes.                                                                                                                                                                                      |
-| 18  | **Obscuring Mist:** The effect of a rank 1 **Gather Mists** spell is centered on the caster.                                                                                                                                                                                                          |
-| 19  | **Wyrdlight:** The caster suffers the effects of a {color} *Faerie Fire* spell for 2d6(pool) Turns.                                                                                                                                                                                                   |
-| 20  | **Wyrdling Rain:** It’s not water. The caster inadvertently causes a torrential downpour that lasts for 2d4(pool) minutes. Roll 1d6 to determine the substance of the downpour.<br/>1 – flower petals / 2 - garden snails / 3 - cow dung / 4 - rotten vegetables / 5 - small stones / 6 - fish        |
-| 21  | **Embiggen:** The caster grows 1 size category. This lasts for 3d4(pool) minutes.                                                                                                                                                                                                                     |
-| 22  | **Shrink:** The caster shrinks 1 size category. This lasts for 3d4(pool) minutes.                                                                                                                                                                                                                     |
-| 23  | **Music From Beyond:** The caster is surrounded by faint, ethereal music for the next minute.                                                                                                                                                                                                         |
-| 24  | **Witchery I:** All milk within **near** range of the caster immediately curdles.                                                                                                                                                                                                                       |
-| 25  | **Witchery II:** All wine within **near** range of the caster goes sour.                                                                                                                                                                                                                                 |
-| 26  | **Witchery III:** All food within **near** range of the caster spoils.                                                                                                                                                                                                                                    |
-| 27  | **Rupture:** The caster’s nose begins to bleed and continues doing so until they pass a **DT 15** **Hardiness** Save. They can test at the start of each of their turns. They do not take any actual damage, but are at **Disadvantage** on all smell **Perception checks** until the bleeding stops. |
-| 28  | **Breath of Chaos:** A cold and unnatural wind blows through the area.                                                                                                                                                                                                                                |
-| 29  | **Horripilation:** All the caster’s hair stands on end. This effect lasts 4d4(pool) **exploration turns**.                                                                                                                                                                                            |
-| 30  | **Haunted:** Ghostly voices fill the air for the next 4d4(pool) minutes.                                                                                                                                                                                                                              |
+| d30   | Mishap                                                                                                                                                                                                                                                                                                |
+| :-:   | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  1    | **Uncanny Shade:** The caster’s shadow turns an unnatural {color} for a 2d4(pool) watches.                                                                                                                                                                                                            |
+|  2    | **Winter’s Caress:** All free-standing water within **Near** range of the caster immediately freezes.                                                                                                                                                                                                 |
+|  3    | **Distension:** The caster grows 1d4 inches in height.                                                                                                                                                                                                                                                |
+|  4    | **Dilation:** The caster shrinks 1d4 inches in height.                                                                                                                                                                                                                                                |
+|  5    | **Witch Hives:** The caster is covered in an itchy red rash that lasts 4d4(pool) **Exploration Turns**. While this rash lasts, the caster has **Disadvantage** on all DEX and **Concentration** checks.                                                                                               |
+|  6    | **Tainted:** The caster’s skin turns an unnatural {color}. This can be cured by a Remove Curse ritual.                                                                                                                                                                                                |
+|  7    | **Witch Eye:** An eye appears in the middle of the caster’s {body part}. It does not allow them to see any better. The eye remains for 4d4(pool) Hours.                                                                                                                                               |
+|  8    | **Elemental Summoning:** An {elemental} creature chosen by the GM appears within 5 feet of the caster. Make a [Reaction Check](CoreRules.md#Charisma-and-Reactions) to determine its attitude toward the caster. The creature will disappear after 3d4(pool) rounds.                                 |
+|  9    | **Fowl Beard:** The caster grows a long beard of {color} feathers that remains until the next time they sneeze.                                                                                                                                                                                       |
+| 10    | **Vanishing:** The caster is transported to a mysterious pocket dimension until the end of their next turn, at which time they return to the space they previously occupied or the nearest unoccupied space.                                                                                          |
+| 11    | **Time Skip:** The caster ages 1d4 years.                                                                                                                                                                                                                                                             |
+| 12    | **Reverse Time:** The caster’s ages -1d4 years.                                                                                                                                                                                                                                                       |
+| 13    | **Fae Summoning:** 1d6 {fae} creatures appear in unoccupied spaces within **Near** distance of the caster. Make a [Reaction Check](CoreRules.md#Charisma-and-Reactions) to determine their attitude toward the caster. They vanish after 2d4(pool) minutes.                                          |
+| 14    | **Levitation:** The caster levitates 1d10 feet up into the air. This effect lasts 4d4(pool) rounds. At the start of each of the caster’s turns, their elevation changes randomly by 2d6-7 feet.                                                                                                       |
+| 15    | **Beastly Presence:** A {beast} appears within 5 feet of the caster. Make a [Reaction Check](CoreRules.md#Charisma-and-Reactions) to determine its attitude toward the caster. It disappears after 3d4(pool) rounds.                                                                                 |
+| 16    | **Depilation:** The caster’s hair falls out but grows back within 1d4(pool) days.                                                                                                                                                                                                                     |
+| 17    | **Uncontrollable Shout:** The caster must shout whenever they speak. This condition lasts for 3d6(pool) minutes.                                                                                                                                                                                      |
+| 18    | **Obscuring Mist:** The effect of a rank 1 **Gather Mists** spell is centered on the caster.                                                                                                                                                                                                          |
+| 19    | **Wyrdlight:** The caster suffers the effects of a {color} *Faerie Fire* spell for 2d6(pool) Turns.                                                                                                                                                                                                   |
+| 20    | **Wyrdling Rain:** It’s not water. The caster inadvertently causes a torrential downpour that lasts for 2d4(pool) minutes. Roll 1d6 to determine the substance of the downpour.<br/>1 – flower petals / 2 - garden snails / 3 - cow dung / 4 - rotten vegetables / 5 - small stones / 6 - fish        |
+| 21    | **Embiggen:** The caster grows 1 size category. This lasts for 3d4(pool) minutes.                                                                                                                                                                                                                     |
+| 22    | **Shrink:** The caster shrinks 1 size category. This lasts for 3d4(pool) minutes.                                                                                                                                                                                                                     |
+| 23    | **Music From Beyond:** The caster is surrounded by faint, ethereal music for the next minute.                                                                                                                                                                                                         |
+| 24-25 | **Witch Sign:** All {1d3: milk/wine/food} within **near** range of the caster immediately spoils.                                                                                                                                                                                                                       |
+| 26    | **Rupture:** The caster’s nose begins to bleed and continues doing so until they pass a **DT 15** **Hardiness** Save. They can test at the start of each of their turns. They do not take any actual damage, but are at **Disadvantage** on all smell **Perception checks** until the bleeding stops. |
+| 27    | **Breath of Chaos:** A cold and unnatural wind blows through the area.                                                                                                                                                                                                                                |
+| 28    | **Horripilation:** All the caster’s hair stands on end. This effect lasts 4d4(pool) **exploration turns**.                                                                                                                                                                                            |
+| 29    | **Haunted:** Ghostly voices fill the air for the next 4d4(pool) minutes.                                                                                                                                                                                                                              |
+| 30    | **Worse Thank Expected:** Roll on the **Major Magical Mishap** table.
 
 ### Major Magical Mishap
 |  d30  | Mishap                                                                                                                                                                                                                                                                                     |
@@ -222,5 +219,5 @@ Whenever a Mishap has a result in curly braces, {}, roll on the below table.
 |   2 | DEX     | Toad     | Arms      | Yellow | Fey           | Slashing    | Gibbering Mouther  | Dire Wolf       | Mephit, Dust  | Pixie      | Babau         | Mummy    |
 |   3 | CON     | Squirrel | Legs      | Blue   | Fiend         | Blunt       | Intellect Devourer | Scorpion, Giant | Mephit, Ice   | Unicorn    | Barghest      | Shadow   |
 |   4 | INT     | Rabbit   | Torso     | Green  | Undead        | Fire        | Grell              | Spider, Giant   | Mephit, Magma | Harpy      | Bearded Devil | Skeleton |
-|   5 | WIS     | Sparrow  | Hands     | Orange | Aberration    | Cold        | Nothic             | Stirge          | Fire Snake    | Blink Dog  | Imp           | Spectre  |
+|   5 | WIS     | Sparrow  | Hands     | Orange | Aberration    | Cold        | Nothic             | Stirge          | Fire Snake    | Blink Dog  | Imp           | Spectre  | 
 |   6 | CHA     | Mouse    | Feet      | Purple | Beast         | Lightning   | Star Spawn Mangler | Rat, Giant      | Sala- mander  | Yeth Hound | Maw Demon     | Zombie   |  
