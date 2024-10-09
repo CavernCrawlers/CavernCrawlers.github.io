@@ -1,13 +1,11 @@
 # Runes
 
-It is believed by many that runes represent the language the gods used in the creation of the cosmos.
+It is believed by many that runes represent the language the gods used in the creation of the cosmos.  This is the reason some believe that magic is solely the provenance of the gods and that mortal casters are committing blasphemy by practicing magic. Regardless of their true nature, it is runes that empower magic.
 
-Runes empower magic.
-
-Full spellcasters begin play knowing Charisma Modifier + 1 (minimum 1) runes.  Hybrid spellcasters begin play with just Charisma Modifier (minimum 1) runes.  More must be discovered in play.
+[Full spellcasters](Glossary.md#full-class) begin play knowing Charisma Modifier + 1 (minimum 1) runes.  [Hybrid spellcasters](Glossar.md#hybrid-class)) begin play with just Charisma Modifier (minimum 1) runes.  More must be discovered in play.
 
 ## Rune List
-This is not a comprehensive list of every rune in existence.
+This is not a comprehensive list of every rune in existence.  These are some that are more commonly known of by spellcasters.
 
 |    Name     |    Category    |    Damage<br/>Type    |    Symbol    |
 |:------------|:---------------|:----------------------|:-------------|
@@ -36,47 +34,7 @@ This is not a comprehensive list of every rune in existence.
 |  Truth      |  Form          |  n/a                  |              |  
 |  Void       |  Form          |  n/a                  |              |
 
-# Formula
-Formula are used to control magic.  These are the individual spells a mage knows.  Formula are combined with Runes to create a specific effect.  The rune used will determine things like damage type and target type.  The formula used will determine other aspects of the spell.
+## Learning New Runes
+It is an exercise for the caster to locate new runes.  This is a frequent motivation for spellcasters to adventure; locating new runes in ancient texts, unexplored tombs and so forth.  Additionally, spellcasters may share their runes, but (even more-so than spells), runes are a jealously guarded secret.  No spellcaster will willingly share knowledge of a rune without first extracting some price or service from the asker.
 
-# Caster
-The caster is the final fundamental ingredient of magic.  Casters empower a spell via their Invocation Dice.
-
-# Example Spells
-
-## Spark
-- Rank: 0 (cantrip)
-- Rune(s): any elemental
-- Casting Ability: Intelligence
-- Casting Time: 1 Action
-- Range: Close
-- Area: 1 Creature/Object
-- Duration: Instant
-- Save: none
-- Components: Gestures and Incantations
-
-By means of this spell, the caster uses the power of a rune to conjure a small amount of a single element (approximately 1 cubic inch).  When this spell is cast, the mage selects the empowering rune (and damage type) of the spell.  At it's minimum, this spell does negligible damage, but can produce utilitarian effects (such as using the Fire rune to ignite a torch).  Alternatively, the mage may use this as an attack (requiring a magical attack vs an unwilling target), doing 1d4 damage of the selected type.
-
-The range of this spell may be increased 1 category per +1 Rank (up to a maximum of Far).
-
-The number of targets may be increased by 1 per +1 Rank.
-
-The damage may be increased by 1 die type per +1 Rank.
-
-## Mend
-- Rank: 0 (cantrip)
-- Rune(s): form or elemental
-- Casting Ability: Wisdom
-- Casting Time: 1 Action
-- Range: Touch
-- Area: 1 Creature or a Tiny area
-- Duration: Instant
-- Save: none
-- Components: Gestures and Incantations
-By means of this spell, the mage uses the power of a rune to heal or mend a given object.  The rune selected when casting this spell must match the target type (Person for healing a sapient being, Beast to heal an animal, Earth to mend a stone wall, etc).
-
-If used to heal a living being, this spell will heal the target's CON modifier (minimum 1) in HP.  For each +1 Rank added, increase the healing by 1 of the target's Hit Dice.  The number of creatures healed may be increased by +1 per +1 Rank.
-
-If used on an inanimate object, 1 Tiny area of material will be made whole.  This area may be increased by 1 category per +1 rank.  Thus, to mend a cut hemp rope, the mage would apply the Plant rune at rank zero.  To mend a 10 x 10 x 5 foot section of castle wall (500 cubic feet) would require casting the spell at Rank 3 (for a Large area of effect).
-
-The range of this spell may be increased 1 step per +1 Rank (max Far).
+Once a rune has been discovered, it must be inscribed.  Typically this is on a specially prepared object; such as a stone, crystal, prepared wood, or special parchment (the exact device is up to the caster).  Many caster carve their known runes into their [Magical Focus](MagicalArts.md#magical-focus), so that their runes are easily at hand when needed (this is one reason why experienced and knowledgeable mages prefer staffs).  Inscribing a rune requires 1 hour and 50sp plus the cost of the object on which it is being inscribed.
