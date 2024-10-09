@@ -1,4 +1,6 @@
 # Spells
+Spells are the magical formula by which the power of the runes may be harnessed and directed.
+
 Within this section you will find a list of spells for use in the *Cavern Crawlers* game.  This list is by no means definitive and the GM and players should work together if they wish to bring spells from other sources into the game.
 - [Spell Descriptions](#spell-descriptions)
 	- [Tier](#tier)
@@ -21,7 +23,7 @@ All spell descriptions contain the following information.
 This is the minimum Tier at which the spell must be cast.
 
 ### Runes
-Which rune(s) are required for the casting of the spell.
+Which [runes](Runes.md) are required for the casting of the spell.
 
 ### Casting Ability
 This identifies which **Ability Score Modifier** (Intelligence, Wisdom or Charisma) is used to compute the **Saving Throw DT** or **Attack Modifier** of any spells you cast.
@@ -84,3 +86,49 @@ Spells will often require **Gestures**, **Incantations** or both to cast.  If an
 Several spells allow the caster to increase the **rank** at which the spell is cast in return for enhanced effects.  Doing so increases the **Spellcasting DT** of the spell to match the new rank.  No spell may be cast at a rank higher than that to which the spellcaster has access.  
 
 *For example, a 5th level Spellcaster may not cast any spells at a rank higher than 3.*
+
+
+## Example Spells
+
+### Spark
+- **Tier:** Cantrip (0+)
+- **Runes:** any elemental rune
+- **Casting Ability:** Intelligence
+- **Casting Time:** 1 action
+- **Range:** Near
+- **Area:** 1 Creature/Object
+- **Duration:** Instant
+- **Save:** none
+- **Components:** Gestures & Incantations
+
+By means of this spell, the caster uses the power of a rune to conjure a small amount of a single element (approximately 1 cubic inch).  At it's minimum, this spell does negligible damage, but can produce utilitarian effects (such as using the Fire rune to ignite a torch).  Alternatively, the mage may use this as an attack (requiring a [Magical Attack](MagicalArts.md#Magical-Attacks-and-Saving-Throws) vs an unwilling target), doing 1d4 damage of the selected type.
+
+*Increased Ranks*
+Each +1 Rank may be used for one of the following.
+- Increase the range to Far.
+- Increase the number of targets by 1.
+- Increase the damage die 1 step.
+
+### Mend
+- **Tier:** 0 (cantrip)
+- **Runes:** A form or elemental rune matching the target type.
+- **Casting Ability:** Wisdom
+- **Casting Time:** 1 Action
+- **Range:** Touch
+- **Area:** 1 Creature or a Tiny area
+- **Duration:** Instant
+- **Save:** none
+- **Components:** Gestures & Incantations
+
+By means of this spell, the mage uses the power of a rune to heal or mend a given object.  The rune selected when casting this spell must match the target type (Person for healing a sapient being, Beast to heal an animal, Earth to mend a stone wall, etc).
+
+If used to heal a living being, this spell will heal the target's CON modifier (minimum 1) in HP.
+
+If used on an inanimate object, 1 Tiny area of material will be made whole.  This area may be increased by 1 category per +1 rank.  Thus, to mend a cut hemp rope, the mage would apply the Plant rune at rank zero.  To mend a 10 x 10 x 5 foot section of castle wall (500 cubic feet) would require casting the spell at Rank 3 (for a Large area of effect).
+
+*Increased Ranks*
+Each +1 Rank may be used for one of the following.
+- Increase the Range by 1 step (to a max of Far).
+- Increase the the healing of a living target by 1 of that target's Hit Dice.
+- Increase the area of an inanimate object by 1 step.
+- Increase the number of targets by 1.

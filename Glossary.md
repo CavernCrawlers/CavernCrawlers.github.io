@@ -29,6 +29,9 @@ The target number that must be met or exceeded when making a [D20 Check](#D20-Ch
 ## Disadvantage
 Rolling the dice twice and taking the worse result.
 
+## Full Class
+See [Core Class](#core-class).
+
 ## Hidden Door
 A door obscured from sight that must be found before it can be used.  See also [Hidden](#Hidden-Door) and [Secret](#Secret-Door) doors.
 

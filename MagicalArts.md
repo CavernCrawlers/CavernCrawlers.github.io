@@ -1,22 +1,12 @@
 # The Magical Arts
 
-Traditions
-- Death - Necromancers
-- Divination - Seers
-- Elemental - Sorcerers
-- Spirit - Conjurers
-- Life - Thaumaturges
-
-Traits
-- Wizard - access to 2 spell lists
-- Mage - access to 3 spell lists
-- Archmage - access to 4 or more spell lists
-
 # Table of Contents
 - [Spellbooks](#spellbooks)
 	- [Learning New Spells](#learning-new-spells)
 		- [Learning From a Mentor](#learning-from-a-mentor)
-		- [Replacing a Spellbook](#replacing-a-spellbook)
+	- [Replacing a Spellbook](#replacing-a-spellbook)
+- [Magical Focus](#magical-focus)
+	- [Replacing a Focus](#replacing-a-focus)
 - [The Invocation Roll](#the-invocation-roll)
 	- [Quick Summary](#quick-summary)
 	- [The Invocation Dice Pool](#the-invocation-dice-pool)
@@ -36,10 +26,9 @@ Traits
 
 
 ## Spellbooks
-Spellcasters record their spells and cantrips in "spellbooks".  These do not have to be literal books, but rather may be collections of scrolls, arcane runes carved on stones or most any other device the player and GM can agree on.  The primary limitation is that the spellbook be separate from the character (arcane tattoos are more of a magical item than a spellbook).  The language in which spells are written are typically a magical cypher learned from the caster's teacher and modified in their own way.  As such, deciphering someone else's spellbook can be a long and arduous process.
+Spellcasters record their spells and cantrips in "spellbooks".  These do not have to be literal books, but rather may be collections of scrolls, arcane formula carved into wood or most any other device the player and GM can agree on.  The primary limitation is that the spellbook be separate from the character (arcane tattoos are more of a magical item than a spellbook).  The language in which spells are written are typically a magical cipher learned from the caster's teacher and modified in their own way.  As such, deciphering someone else's spellbook can be a long and arduous process.
 
 A typical spellbook can hold up to 100 pages worth of spells.
-
 ### Learning New Spells
 New spells take hours, days, weeks or sometimes months to properly learn.  While learning a new spell, the mage may take part in no other form of [downtime activity](Downtime.md); all their working hours being consumed with study and preparation.
 
@@ -52,8 +41,18 @@ Whenever a mage gains access to a new **Spell Rank**, they may pick any one spel
 #### Learning From a Mentor
 Spellcasters may also learn spells from other casters (if they can find one willing to teach their jealously guarded secrets).  The teacher is assumed to be taking the [Help](Combat.md#Main-Actions) action in regards to the student learning the spell.  This also halves the amount of time required to learn the spell (though the material cost remains the same).
 
-#### Replacing a Spellbook
-If a spellbook is lost or destroyed, it may be recreated using the spells that the spellcaster has already prepared.  Doing so takes the same cost in time and materials as learning each spell anew.
+### Replacing a Spellbook
+If a spellbook is lost or destroyed, it may be recreated using the spells that the spellcaster has already prepared.  Doing so requires a specially prepared spellbook (worth at least 100sp) and takes the same cost in time and materials as learning each spell anew.
+
+## Magical Focus
+A magical focus is a device that aids a spellcaster in channeling and controlling their magic.  This device must be easily seen, recognized and hand-held.  It also takes up 1 inventory slot.  
+
+While a caster has their magical focus in hand, they may re-roll a number of invocation dice equal to 1/3 their **Skill Bonus** (rounded up).  
+
+Spellcasters also frequently inscribe [runes](Runes.md) that they know into their focus so that they are immediately on-hand when casting spells.
+
+### Replacing a Focus
+A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 50sp worth of materials.
 
 ## Preparing Spells
 A spellcaster may only cast spells they have prepared.  Cantrips are always prepared, so they can always be cast.  Spells of Rank 1 or higher take time to prepare.  A spellcasters may only prepare as many spells as their Skill Bonus plus their Intelligence Modifier. Preparing a spell takes 10 minutes times the spell's base rank.  Once a spell is prepared, it remains prepared until the caster chooses to replace it with a different spell or some event causes the mage to temporarily lose the spell.
