@@ -7,9 +7,25 @@ It is believed by many that runes represent the language the gods used in the cr
 ## Rune List
 This is not a comprehensive list of every rune in existence.  These are some that are more commonly known of by spellcasters.
 
+<table>
+	<tr>
+		<td><b>Name</b></td>
+		<td><b>Category</b></td>
+		<td><b>Damage<br/>Type</b></td>
+		<td align="center"><b>Symbol</b></td>
+	</tr>
+	<tr>
+		<td>Air</td>
+		<td>Elemental</td>
+		<td>Thunder</td>
+		<td align="center"><img src="/images/runes/Air.png" alt="Air Rune" style="width:25%; height:auto;"></td>
+	</tr>
+</table>
+
+
 |    Name     |    Category    |    Damage<br/>Type    |    Symbol    |
 |:------------|:---------------|:----------------------|:-------------|
-|  Air        |  Elemental     |  Thunder              |              |
+|  Air        |  Elemental     |  Thunder              | ![Air](/images/runes/air.png) |
 |  Earth      |  Elemental     |  Blunt/Slash/Pierce   |              |
 |  Fire       |  Elemental     |  Fire                 |              |
 |  Ice        |  Elemental     |  Cold                 |              |
