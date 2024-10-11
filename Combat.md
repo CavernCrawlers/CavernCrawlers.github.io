@@ -106,27 +106,33 @@ Shields, bucklers and helmets may be repaired by a skilled blacksmith.  The DC o
 If the attack roll exceeds the target’s **armor class** by at least 1 and is a **natural 20**, it is a **critical hit**.  When a PC takes a critical hit, they may take a [Lingering Injury](#Lingering-Injuries).  When a PC performs a critical hit, they do their normal damage, plus the max damage of their damage dice.  _For example, if an attack does 1d8 + 2 damage normally, a critical hit will do 1d8 + 2 + 8._
 
 #### Death and Dying
-A character can never be reduced below 0 HP.  As soon as a character drops to 0 HP, they fall **unconscious**.  When they are revived, they must check for a [Lingering Injury](#Lingering-Injuries).
+A character can never be reduced below 0 HP.  As soon as a character drops to 0 HP or less, they fall [unconscious](#unconcious).
 
-Next, form a d4 [Countdown Pool](RulesSynopsis.md#Countdown-Pools) equal to their **Constitution bonus** + **Wisdom bonus** (minimum of 1).  This pool is rolled at the end of each of the character’s **Combat Turns**.  Once this **Countdown Pool** is emptied, the character dies.  Taking a hit while dying automatically removes 1 die from the pool.  Taking a **critical hit** removes 2 dice.
+Next, form a d4 [Countdown Pool](RulesSynopsis.md#Countdown-Pools) equal to their **Constitution bonus** + **Wisdom bonus** (minimum of 1).  This pool is rolled at the end of each of the character’s **Combat Turns**.  Once this **Countdown Pool** is emptied, the character dies.  Taking a hit while dying automatically removes 1 die from the pool in addition to its normal damage.  Taking a **critical hit** removes 2 dice.
 
-A character who is dying may be saved by another character attempting to stabilize them.  This is done with a **Wisdom/Healing** check vs DT 13 (DT 15 if done in the middle of combat).  On a success, the character is stabilized at 0 hit points.  On a critical success, the patient regains consciousness with a number of Hit Points equal to the roll of 1 Hit Die plus their Constitution bonus.
+A character who is dying may be saved by another character attempting to stabilize them.  This is done with a **Wisdom/Healing** check vs difficulty 12 (15 if done in the middle of combat).  On a success, the character is stabilized but still has their negative HP total.  On a critical success, the patient is stabilized at 0 Hit Points.  Alternatively, magical healing automatically stabilizes the character at the number of HP healed minus their negative HP total. 
+
+When a dying character is revived, they must check for a [Lingering Injury](#Lingering-Injuries).
 
 #### Lingering Injuries
-When a character receives a **Critical Hit** or is reduced to 0 Hit Points, there is a chance they will receive a lingering injury.  The character must make a **Constitution check** vs DT 10 or half the damage taken, whichever is higher.  On a success, no lingering injury is accrued.  On a failure, the character rolls on the lingering injury table (at **Disadvantage** if the total damage exceeds the character’s **Constitution score**).
+When a character receives a **Critical Hit** or is reduced to 0 Hit Points, there is a chance they will receive a lingering injury.  
+
+For a critical hit, the character must make a **Constitution check** vs difficulty 12 or half the damage taken, whichever is higher.  On a success, no lingering injury is accrued.  On a failure, the character rolls on the lingering injury table (at **Disadvantage** if their total damage exceeds the character’s **Constitution score**).
+
+If the character is reduced to 0 or fewer HP, they must make a **Constitution check** vs difficulty 12 or their negative HP total (as a positive value), whichever is higher.  On a success, no lingering injury is accrued.  On a failure, the character rolls on the lingering injury table (at **Disadvantage** if their total negative HP exceeds the character’s **Constitution score**).
 
 | d20   | Injury |
 |:-----:|:-------|
-| 20    | _Heroic Scarring:_ You have acquired a new scar. This has no mechanical effect. |
-| 19    | _Minor Concussion:_ Make a DT 10 **Hardiness** save after each action in combat. On a failure, suffer the [Stunned](#Stunned) condition until the end of your next **Combat Turn**. Heals naturally on a DT 10 CON check after a **long rest**, or by the application of healing magic of 3rd rank or higher. |
-| 18    | _Sprained Arm/Hand:_ You have **Disadvantage** on any ability check or attack roll using the afflicted arm until healed. Heals naturally on a DT 10 CON check after a **long rest**, or by the application of healing magic of 3rd rank or higher. |
-| 17    | _Sprained Knee/Ankle:_ Your speed is reduced by 5 ft and you have **Disadvantage** on all **Evasion** saves. Heals naturally on a DT 10 CON check after a **long rest**, or by the application of healing magic of 3rd rank or higher. |
-| 16    | _Bruised Ribs:_ Make a DT 10 **Hardiness** save after each action in combat. On a failure, gain 1 level of [Exhaustion](#Exhaustion). Heals naturally on a DT 10 CON check after a **long rest**, or by the application of healing magic of 3rd rank or higher. |
-| 9-15  | _Horrific Scaring:_ Gain a -2 penalty on all **Persuasion** checks and a +2 bonus on all **Intimidation** checks. Never heals naturally, but can be healed by the application of healing magic of 5th rank or higher. |
-| 4-8   | _Broken Ribs:_ Make a DT 15 **Hardiness** save after each action in combat. On a failure, gain 1 level of [Exhaustion](#Exhaustion). Heals naturally on a DT 15 CON check after a **long rest**, or by the application of healing magic of 5th rank or higher. |
+| 1     | _Amputation:_ Roll 1d6 and consult the table below. This never heals back naturally and can only be healed by regeneration magic.<br/>1-2: _Eye_ – You have **Disadvantage** on all sight-based perception checks and ranged attacks. If both eyes are lost, permanently gain the [Blinded](#Blinded) condition.<br/>3-4: _Arm/Hand_ – You can no longer hold anything in the amputated hand/arm.<br/>5-6: _Leg/Foot_ – Your ground speed is halved and you cannot take the **Dash** action. You have **disadvantage** on **Evasion** saves. |
+| 2     | _Concussion:_ Make a DT 15 **Hardiness** save after each action in combat. On a failure, suffer the [Stunned](#Stunned) condition until the end of your next turn. Heals naturally on a DT 15 CON check after a **long rest**, or by the application of healing magic of 5th tier or higher. |
 | 3     | _Internal Bleeding:_ Immediately lose 1d6 CON. If CON has been reduced to 0 or less, die immediately. Heals back at the rate of 1 CON per **long rest**. |
-| 2     | _Concussion:_ Make a DT 15 **Hardiness** save after each action in combat. On a failure, suffer the [Stunned](#Stunned) condition until the end of your next turn. Heals naturally on a DT 15 CON check after a **long rest**, or by the application of healing magic of 5th rank or higher. |
-| 1     | _Amputation:_ Roll 1d6 and consult the table below. These never heal back naturally and can only be healed by regeneration magic.<br/>1-2: _Eye_ – You have **Disadvantage** on all sight-based perception checks and ranged attacks. If both eyes are lost, permanently gain the [Blinded](#Blinded) condition.<br/>3-4: _Arm/Hand_ – You can no longer hold anything in the amputated hand/arm.<br/>5-6: _Leg/Foot_ – Your ground speed is halved and you cannot take the **Dash** action. You have **disadvantage** on **Evasion** saves. |
+| 4-8   | _Broken Ribs:_ Make a DT 15 **Hardiness** save after each action in combat. On a failure, gain 1 level of [Exhaustion](#Exhaustion). Heals naturally on a DT 15 CON check after a **long rest**, or by the application of healing magic of 5th tier or higher. |
+| 9-15  | _Horrific Scaring:_ Gain a -2 penalty on all **Persuasion** checks and a +2 bonus on all **Intimidation** checks. Never heals naturally, but can be healed by the application of healing magic of 5th tier or higher. |
+| 16    | _Bruised Ribs:_ Make a DT 12 **Hardiness** save after each action in combat. On a failure, gain 1 level of [Exhaustion](#Exhaustion). Heals naturally on a DT 12 CON check after a **long rest**, or by the application of healing magic of 3rd tier or higher. |
+| 17    | _Sprained Knee/Ankle:_ Your speed is reduced by 5 ft and you have **Disadvantage** on all **Evasion** saves. Heals naturally on a DT 12 CON check after a **long rest**, or by the application of healing magic of 3rd tier or higher. |
+| 18    | _Sprained Arm/Hand:_ You have **Disadvantage** on any ability check or attack roll using the afflicted arm until healed. Heals naturally on a DT 12 CON check after a **long rest**, or by the application of healing magic of 3rd tier or higher. |
+| 19    | _Minor Concussion:_ Make a DT 12 **Hardiness** save after each action in combat. On a failure, suffer the [Stunned](#Stunned) condition until the end of your next **Combat Turn**. Heals naturally on a DT 12 CON check after a **long rest**, or by the application of healing magic of 3rd tier or higher. |
+| 20    | _Heroic Scarring:_ You have acquired a new scar. This has no mechanical effect. |
 
 ## Conditions
 ### Blinded
@@ -208,6 +214,10 @@ When a character receives a **Critical Hit** or is reduced to 0 Hit Points, ther
 
 ## Exhaustion
 Exhaustion is a special condition representing a character’s endurance and being worn down by constant struggle and hardship.  Each time a character gains the **Fatigued** or **Exhausted** condition, they increase their rank of Exhaustion by 1.  Any time a character makes an ability check, their **Exhaustion Rank** acts as a negative modifier to the roll.  Additionally, at rank 1 Exhaustion, they subtract 5 feet from their movement speed.  This increases to having their movement speed halved at rank 6 and reduced to 0 at rank 10.  If a character’s Exhaustion Rank would ever exceed 10, that character immediately dies.
+
+After any highly strenuous activity (such as combat or sprinting) the participants must make a Hardiness save vs DT 12 or gain a level of [Exhaustion](#exhaustion).  If the activity lasts longer than 1 minute, this save must be made at the end of each minute (plus at the end of the activity) with a cumulative +3 DT penalty per extra minute (or fraction thereof).
+
+*For example, a 15 round combat (1 minute 30 seconds) would require a DT 12 Hardiness save at the end of the 1st minute and then a DT 15 save at the end of the combat.*
 
 ## Healing and Recovery
 There are three types of rest in this system: Short, Long and Extended.
