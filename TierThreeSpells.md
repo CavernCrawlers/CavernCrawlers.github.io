@@ -96,7 +96,7 @@ The caster conjures a cone of elemental energy matching the rune used in casting
 
 The caster traces out a magical circle and imbues it with the power of a rune.  This circle shields those inside from forces matching the rune(s) used in the circle's creation.  
 
-If the rune is Elemental, any attacks involving that element along with any creatures that have that elemental tag will be stopped at the edge of the circle unless that pass their saving throw.  The same holds true for Force runes.
+If the rune is Elemental, any attacks involving that element along with any creatures that have that elemental tag will be stopped at the edge of the circle unless they pass their saving throw.  The same holds true for Force runes.
 
 If the rune is a Form rune, any creature of that form cannot cross the edge of the circle, nor can they use supernatural attacks across the edge of the circle, unless they pass their saving throw.  Mundane attacks from such creatures are unaffected.
 
@@ -358,7 +358,7 @@ The touched creature now moves at half its normal speed, loses -3 initiative, lo
 - **Save:** none
 - **Components:** Gestures, Incantations and a corpse
 
-Upon touching the target corpse, the caster may ask it up to 3 questions within 1 minute and the target is compelled to answer either "yes" or "no".  It is not required to elaborate any further.  Once the 3 question is asked or the duration expires, the corpse returns to an inanimate state and cannot be targeted by this spell again for 24 hours.
+Upon touching the target corpse, the caster may ask it up to 3 questions within 1 minute and the target is compelled to answer either "yes" or "no".  It is not required to elaborate any further.  Once the 3rd question is answered or the duration expires, the corpse returns to an inanimate state and cannot be targeted by this spell again for 24 hours.
 
 *Upcasting*
 

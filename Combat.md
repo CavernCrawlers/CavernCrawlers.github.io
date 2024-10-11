@@ -106,20 +106,22 @@ Shields, bucklers and helmets may be repaired by a skilled blacksmith.  The DC o
 If the attack roll exceeds the target’s **armor class** by at least 1 and is a **natural 20**, it is a **critical hit**.  When a PC takes a critical hit, they may take a [Lingering Injury](#Lingering-Injuries).  When a PC performs a critical hit, they do their normal damage, plus the max damage of their damage dice.  _For example, if an attack does 1d8 + 2 damage normally, a critical hit will do 1d8 + 2 + 8._
 
 #### Death and Dying
-A character can never be reduced below 0 HP.  As soon as a character drops to 0 HP or less, they fall [unconscious](#unconcious).
+As soon as a character drops to 0 HP or less, they fall [unconscious](#unconcious).
 
 Next, form a d4 [Countdown Pool](RulesSynopsis.md#Countdown-Pools) equal to their **Constitution bonus** + **Wisdom bonus** (minimum of 1).  This pool is rolled at the end of each of the character’s **Combat Turns**.  Once this **Countdown Pool** is emptied, the character dies.  Taking a hit while dying automatically removes 1 die from the pool in addition to its normal damage.  Taking a **critical hit** removes 2 dice.
 
 A character who is dying may be saved by another character attempting to stabilize them.  This is done with a **Wisdom/Healing** check vs difficulty 12 (15 if done in the middle of combat).  On a success, the character is stabilized but still has their negative HP total.  On a critical success, the patient is stabilized at 0 Hit Points.  Alternatively, magical healing automatically stabilizes the character at the number of HP healed minus their negative HP total. 
 
-When a dying character is revived, they must check for a [Lingering Injury](#Lingering-Injuries).
+Once unconscious, the character cannot be revived until they are healed back to at least 1 HP.
+
+When an unconscious character is revived, they must check for a [Lingering Injury](#Lingering-Injuries).
 
 #### Lingering Injuries
-When a character receives a **Critical Hit** or is reduced to 0 Hit Points, there is a chance they will receive a lingering injury.  
+When a character receives a **Critical Hit** or is reduced to 0 Hit Points or less, there is a chance they will receive a lingering injury.  
 
 For a critical hit, the character must make a **Constitution check** vs difficulty 12 or half the damage taken, whichever is higher.  On a success, no lingering injury is accrued.  On a failure, the character rolls on the lingering injury table (at **Disadvantage** if their total damage exceeds the character’s **Constitution score**).
 
-If the character is reduced to 0 or fewer HP, they must make a **Constitution check** vs difficulty 12 or their negative HP total (as a positive value), whichever is higher.  On a success, no lingering injury is accrued.  On a failure, the character rolls on the lingering injury table (at **Disadvantage** if their total negative HP exceeds the character’s **Constitution score**).
+When an unconscious character is revived, they must make a **Constitution check** vs difficulty 12 or their lowest negative HP total before healing (as a positive value), whichever is higher.  On a success, no lingering injury is accrued.  On a failure, the character rolls on the lingering injury table (at **Disadvantage** if their total negative HP exceeded the character’s **Constitution score**).
 
 | d20   | Injury |
 |:-----:|:-------|

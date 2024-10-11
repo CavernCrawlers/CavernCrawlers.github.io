@@ -173,9 +173,6 @@ This cantrip conjures a translucent hand that the mage may use to manipulate sma
 By means of this cantrip, a mage causes a touched object no larger than a fist to glow with the equivalent of candlelight.  This light may be of any color the caster wishes.
 
 *Upcasting*
-Each +3 Difficulty may be used for one of the following.
-- Increase the brightness to torch level.
-- Increase the duration 1 step.
 
 | Difficulty | Effect |
 |:----------:|:-------|
