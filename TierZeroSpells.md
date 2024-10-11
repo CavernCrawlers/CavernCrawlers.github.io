@@ -1,5 +1,5 @@
 # Cantrips
-
+Cantrips are also known as Tier 0 Spells.
 
 ## List
 - [Beast Speech](#beast-speech)
@@ -46,10 +46,12 @@ A mage may attempt to converse with more than one type of beast at the same time
 
 A mage uses this spell to influence the emotions and attitudes of the target creature.  If the target succeeds on their **saving throw**, they are unaffected but know that the caster was attempting to influence their mind with magic.  If the target fails, their emotional state moves toward the emotion selected by the caster (and may potentially cause a Morale check).  This can grant a plus or minus 1 modifier on social checks, including rolls on the [Reaction Table](CoreRules.md#Charisma-and-Reactions) and Moral checks.
 
-*Increased Ranks*
-Each +1 Rank may be used for one of the following.
-- Increase the saving throw difficulty by +2.
-- Increase the duration 1 step.
+*Upcasting*
+
+| Difficulty | Effect |
+|:----------:|:-------|
+| +1         | Increase the saving throw difficulty by +1 |
+| +2         | Increase the duration 1 step. |
 
 ## Conjure Sound
 - **Tier:** Cantrip (0+)
@@ -64,10 +66,12 @@ Each +1 Rank may be used for one of the following.
 
 With this cantrip, a mage conjures a distinct sound within range that is no louder than normal conversation.  The type of sound must be specific (footsteps, music, clinking coins, etc) but this cantrip may not be used for communication.  A creature who hears the sound may make a **Spirit** save in order to recognize the sound as not real.
 
-*Increased Ranks*
-Each +1 Rank may be used for one of the following.
-- Increase the saving throw difficulty by +2.
-- Increase the duration 1 step.
+*Upcasting*
+
+| Difficulty | Effect |
+|:----------:|:-------|
+| +1         | Increase the saving throw difficulty by +1 |
+| +2         | Increase the duration 1 step. |
 
 ## Glamour
 - **Tier:** Cantrip (0+)
@@ -82,10 +86,12 @@ Each +1 Rank may be used for one of the following.
 
 This allows the mage to conjure a simple, silent and static illusion of roughly human size.  This illusion has no substance or weight.  Anyone observing the illusion will know it is not real with a successful **Spirit** save or upon physically interacting with it.
 
-*Increased Ranks*
-Each +1 Rank may be used for one of the following.
-- Increase the saving throw difficulty by +2.
-- Increase the duration 1 step.
+*Upcasting*
+
+| Difficulty | Effect |
+|:----------:|:-------|
+| +1         | Increase the saving throw difficulty by +1 |
+| +2         | Increase the duration 1 step. |
 
 ## Hexing
 - **Tier:** Cantrip (0+)
@@ -100,12 +106,14 @@ Each +1 Rank may be used for one of the following.
 
 By uttering this minor curse, the mage causes the targeted creature to have -2 on the next roll they take for a particular action.  The action must be specified at the time of casting and must be specific (such as climb a tree, strike with a sword, haggle for a price).  As soon as the task is attempted, or if the duration expires without an attempt, the hexing fades.
 
-*Increased Ranks*
-Each +1 Rank may be used for one of the following.
-- Increase the saving throw difficulty by +2.
-- Increase the duration 1 step.
-- Increase the range 1 step (to a max of Far).
-- Increase the number of affected creatures by 1 (all must be of the same type).
+*Upcasting*
+
+| Difficulty | Effect |
+|:----------:|:-------|
+| +1         | Increase the saving throw difficulty by +1 |
+| +2         | Increase the duration 1 step. |
+| +2         | Increase the range 1 step |
+| +2         | Increase the number of affected creatures by 1 (may require additional runes for different creature types) |
 
 ## Inspire
 - **Tier:** Cantrip (0+)
@@ -120,12 +128,14 @@ Each +1 Rank may be used for one of the following.
 
 With a touch, words of encouragement and a small investment of magic, a mage can grant one creature +2 on a single roll to perform a specific task.  When this cantrip is invoked, the mage must name the task to which the bonus applies (e.g. “pick this lock” or “smite these bandits”).  As soon as the task is attempted, or if the duration expires without an attempt, the blessing fades.
 
-*Increased Ranks*
-Each +1 Rank may be used for one of the following.
-- Increase the saving throw difficulty by +2.
-- Increase the duration 1 step.
-- Increase the range 1 step (to a max of Far).
-- Increase the number of affected creatures by 1 (all must be of the same type).
+*Upcasting*
+
+| Difficulty | Effect |
+|:----------:|:-------|
+| +1         | Increase the saving throw difficulty by +1 |
+| +2         | Increase the duration 1 step. |
+| +2         | Increase the range 1 step |
+| +2         | Increase the number of affected creatures by 1 (may require additional runes for different creature types) |
 
 ## Mage Hand
 - **Tier:** Cantrip (0+)
@@ -140,12 +150,14 @@ Each +1 Rank may be used for one of the following.
 
 This cantrip conjures a translucent hand that the mage may use to manipulate small objects.  Such objects may be no larger than may fit in one hand and no heavier than 10 pounds.  It may not be used to wield weapons or make attacks, nor can it perform fine manipulations (such as lockpicking or pickpocketing).  
 
-*Increased Ranks*
-Each +1 Rank may be used for one of the following.
-- Allow fine manipulation
-- Increase the range to Far.
-- Increase the duration 1 step.
-- Increase the weight limit by 10 pounds.
+*Upcasting*
+
+| Difficulty | Effect |
+|:----------:|:-------|
+| +1         | Increase the weight limit by 5 pounds |
+| +2         | Allow fine manipulation |
+| +2         | Increase the duration 1 step. |
+| +2         | Increase the range to Far |
 
 ## Mage Light
 - **Tier:** Cantrip (0+)
@@ -160,10 +172,15 @@ Each +1 Rank may be used for one of the following.
 
 By means of this cantrip, a mage causes a touched object no larger than a fist to glow with the equivalent of candlelight.  This light may be of any color the caster wishes.
 
-*Increased Ranks*
-Each +1 Rank may be used for one of the following.
+*Upcasting*
+Each +3 Difficulty may be used for one of the following.
 - Increase the brightness to torch level.
 - Increase the duration 1 step.
+
+| Difficulty | Effect |
+|:----------:|:-------|
+| +2         | Increase the brightness to torch level |
+| +2         | Increase the duration 1 step. |
 
 ## Mend
 - **Tier:** 0 (cantrip)
@@ -182,12 +199,14 @@ If used to heal a living being, this spell will heal the target's CON modifier (
 
 If used on an inanimate object, 1 Tiny area of material will be made whole.  This area may be increased by 1 category per +1 rank.  Thus, to mend a cut hemp rope, the mage would apply the Plant rune at rank zero.  To mend a 10 x 10 x 5 foot section of castle wall (500 cubic feet) would require casting the spell at Rank 3 (for a Large area of effect).
 
-*Increased Ranks*
-Each +1 Rank may be used for one of the following.
-- Increase the Range by 1 step (to a max of Far).
-- Increase the the healing of a living target by 1 of that target's Hit Dice.
-- Increase the area of an inanimate object by 1 step.
-- Increase the number of targets by 1.
+*Upcasting*
+
+| Difficulty | Effect |
+|:----------:|:-------|
+| +2         | Increase the range 1 step (to a max of Far) |
+| +2         | Increase the healing of a living target by that target's CON Modifier (minimum 1) |
+| +2         | Increase the area of an inanimate object 1 step |
+| +2         | Increase the number of targets by 1 |
 
 ## Nature’s Blessing
 - **Tier:** Cantrip (0+)
@@ -217,10 +236,12 @@ This spell magically opens an unlocked, unobstructed object (such as a door, win
 
 This spell may be reversed to close objects and secure them against forced entry.
 
-*Increased Ranks*
-Each +1 Rank may be used for one of the following.
-- Force open locked/stuck/blocked portals as if Intelligence were Strength.
-- Increase the range 1 step (to a max of Sight).
+*Upcasting*
+
+| Difficulty | Effect |
+|:----------:|:-------|
+| +2         | Force open locked/stuck/blocked portals as if Intelligence were Strength |
+| +2         | Increase the range to Far |
 
 ## Plant Speech
 - **Tier:** Cantrip (0+)
@@ -255,13 +276,16 @@ This cantrip allows the caster to perform a minor magical trick.  Any one of the
 - *Light:* Inscribe a small, glowing mark on a non-living object or surface for 1 hour.
 - *Plant:* Spice up a **Tiny** amount of non-living material for 1 hour.
 - *Water:* Instantly clean up a **Tiny** amount of non-living material.
+- Other effects (likely requiring different runes) may be possible with GM permission.
 
 Multiple effects (up to 3) may be manifested at the same time if the caster has the needed runes.  Alternatively, the same effect may be manifested up to 3 times.
 
-*Increased Ranks*
-Each +1 Rank may be used for one of the following.
-- Increase the range to Near.
-- Increase the duration of an effect 1 step (up to a max of 1 day).
+*Upcasting*
+
+| Difficulty | Effect |
+|:----------:|:-------|
+| +2         | Increase the duration 1 step (up to a max of 1 day). |
+| +2         | Increase the range to Near |
 
 ## Spark
 - **Tier:** Cantrip (0+)
@@ -276,12 +300,13 @@ Each +1 Rank may be used for one of the following.
 
 By means of this spell, the caster uses the power of a rune to conjure a small amount of a single element (approximately 1 cubic inch).  At it's minimum, this spell does negligible damage, but can produce utilitarian effects (such as using the Fire rune to ignite a torch).  Alternatively, the mage may use this as an attack (requiring a [Magical Attack](MagicalArts.md#Magical-Attacks-and-Saving-Throws) vs an unwilling target), doing 1d4 damage of the selected type.
 
-*Increased Ranks*
-Each +1 Rank may be used for one of the following.
-- Increase the range to Far.
-- Increase the number of targets by 1.
-- Increase the damage die 1 step.
+*Upcasting*
 
+| Difficulty | Effect |
+|:----------:|:-------|
+| +2         | Increase the range to Far |
+| +2         | Increase the number of targets by 1 |
+| +2         | Increase the damage die 1 step (to a max of d12) |
 
 ## Spirit Sight
 - **Tier:** Cantrip (0+)

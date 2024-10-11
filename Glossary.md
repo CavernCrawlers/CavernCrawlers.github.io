@@ -23,6 +23,9 @@ This is one of the three core (aka single) classes: [Fighter](#Fighter.md), [Rog
 ## D20 Check
 Any check involving rolling a D20 plus modifiers and comparing the total to a [Difficulty Target](#Difficulty-Target).
 
+## Darkvision
+Allows the creature to see in either dim light or full darkness.  Dim lighting is treated as bright light and is in full color.  Full darkness is treated as dim lighting and is only in shades of grey.
+
 ## Difficulty Target(DT)
 The target number that must be met or exceeded when making a [D20 Check](#D20-Check).
 
@@ -46,6 +49,9 @@ This is one of three character classes that are a combination of two core classe
 
 ## Level
 A measure of a character's training and experience.
+
+## Low-Light Vision
+Allows a creature to see in dim lighting conditions as if it were bright light, but the vision is in shades of grey only. Full darkness still prevents any sight.
 
 ## Mental Check
 An [Ability Check](#Ability-Check) involving either **Intelligence**, **Wisdom** or **Charisma**.

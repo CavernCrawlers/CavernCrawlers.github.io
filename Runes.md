@@ -73,7 +73,7 @@ This is not a comprehensive list of every rune in existence.  These are some tha
 		<td>Acid</td>
 		<td align="center"><img src="/images/runes/Water.png" alt="three horizontal wavy lines" style="width:25%; height:auto;"></td>
 	</tr>
-	<tr><td/></tr>
+	<tr><td colspan="4" bgcolor="black"></tr>
 	<tr>
 		<td>Chaos</td>
 		<td>Force</td>
@@ -110,7 +110,7 @@ This is not a comprehensive list of every rune in existence.  These are some tha
 		<td>n/a</td>
 		<td align="center"><img src="/images/runes/Thought.png" alt="three dots in an equilateral triangle" style="width:25%; height:auto;"></td>
 	</tr>
-	<tr><td/></tr>
+	<tr><td colspan="4" bgcolor="black"></tr>
 	<tr>
 		<td>Beast</td>
 		<td>Form</td>
@@ -152,4 +152,4 @@ This is not a comprehensive list of every rune in existence.  These are some tha
 ## Learning New Runes
 It is an exercise for the caster to locate new runes.  This is a frequent motivation for spellcasters to adventure; locating new runes in ancient texts, unexplored tombs and so forth.  Additionally, spellcasters may share their runes, but (even more-so than spells), runes are a jealously guarded secret.  No spellcaster will willingly share knowledge of a rune without first extracting some price or service from the asker.
 
-Once a rune has been discovered, it must be inscribed.  Typically this is on a specially prepared object; such as a stone, crystal, prepared wood, or special parchment (the exact device is up to the caster).  Many caster carve their known runes into their [Magical Focus](MagicalArts.md#magical-focus), so that their runes are easily at hand when needed (this is one reason why experienced and knowledgeable mages prefer staffs).  Inscribing a rune requires 1 hour and 50sp plus the cost of the object on which it is being inscribed.
+Once a rune has been discovered, it must be inscribed.  Typically this is on a specially prepared object; such as a stone, crystal, prepared wood, or special parchment (the exact device is up to the caster).  Many casters carve their known runes into their [Magical Focus](MagicalArts.md#magical-focus), so that their runes are easily at hand when needed (this is one reason why experienced and knowledgeable mages prefer staffs).  Inscribing a rune requires 1 hour and 50sp plus the cost of the object on which it is being inscribed.
