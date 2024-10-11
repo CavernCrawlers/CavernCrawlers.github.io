@@ -56,20 +56,20 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 |  Level  |  Hit<br/>Dice  |  Attack<br/>Bonus  |  Skill<br/>Bonus  |  Invocation<br/>Dice  |  Knacks  |  Traits   |  Abilities                                                                                       |
 |:-------:|:--------------:|:------------------:|:-----------------:|:---------------------:|:--------:|:---------:|:-------------------------------------------------------------------------------------------------|
 |    1    |  1d5           |  +1                |  +1               |   0d6                 |   1      |    1      |  Magical Focus, Rogue Skills, Sense Magic, Spellcasting (cantrips), True Name                    |
-|    2    |  2d5           |  +1                |  +1               |   0d6                 |  --      |  --       |                                                                                                  |
-|    3    |  3d5           |  +2                |  +2               |   1d6                 |  --      |  --       |  Exhausting Magic, Spellcasting (tier 1)                                                         |
+|    2    |  2d5           |  +1                |  +1               |   1d6                 |  --      |  --       |                                                                                                  |
+|    3    |  3d5           |  +2                |  +2               |   2d6                 |  --      |  --       |  Exhausting Magic, Spellcasting (tier 1)                                                         |
 |    4    |  4d5           |  +2                |  +2               |   2d6                 |  +1      |  --       |                                                                                                  |
 |    5    |  5d5           |  +2                |  +3               |   3d6                 |  --      |  +1       |                                                                                                  |
 |    6    |  6d5           |  +3                |  +3               |   4d6                 |  --      |  --       |  Spellcasting (tier 2)                                                                           |
-|    7    |  7d5           |  +3                |  +4               |   5d6                 |  --      |  --       |                                                                                                  |
-|    8    |  8d5           |  +3                |  +4               |   6d6                 |  +1      |  --       |                                                                                                  |
-|    9    |  9d5           |  +4                |  +5               |   7d6                 |  --      |  --       |  Spellcasting (tier 3)                                                                           |
-|   10    |  10d5          |  +4                |  +5               |   8d6                 |  --      |  +1       |                                                                                                  |
-|   11    |  10d5+1        |  +5                |  +6               |   9d6                 |  --      |  --       |                                                                                                  |
-|   12    |  10d5+2        |  +5                |  +6               |  10d6                 |  --      |  --       |  Spellcasting (tier 4)                                                                           |
-|   13    |  10d5+3        |  +6                |  +7               |  10d6                 |  +1      |  --       |                                                                                                  |
-|   14    |  10d5+4        |  +6                |  +7               |  11d6                 |  --      |  +1       |                                                                                                  |
-|   15    |  10d5+5        |  +7                |  +8               |  12d6                 |  --      |  --       |  Spellcasting (tier 5)                                                                           |  
+|    7    |  7d5           |  +3                |  +4               |   4d6                 |  --      |  --       |                                                                                                  |
+|    8    |  8d5           |  +3                |  +4               |   5d6                 |  +1      |  --       |                                                                                                  |
+|    9    |  9d5           |  +4                |  +5               |   6d6                 |  --      |  --       |  Spellcasting (tier 3)                                                                           |
+|   10    |  10d5          |  +4                |  +5               |   6d6                 |  --      |  +1       |                                                                                                  |
+|   11    |  10d5+1        |  +5                |  +6               |   7d6                 |  --      |  --       |                                                                                                  |
+|   12    |  10d5+2        |  +5                |  +6               |   8d6                 |  --      |  --       |  Spellcasting (tier 4)                                                                           |
+|   13    |  10d5+3        |  +6                |  +7               |   8d6                 |  +1      |  --       |                                                                                                  |
+|   14    |  10d5+4        |  +6                |  +7               |   9d6                 |  --      |  +1       |                                                                                                  |
+|   15    |  10d5+5        |  +7                |  +8               |  10d6                 |  --      |  --       |  Spellcasting (tier 5)                                                                           |  
 
 ### Rogue-Spellcaster Saving Throws
 | Level | Evasion | Hardiness | Spirit |
