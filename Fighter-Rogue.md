@@ -28,38 +28,40 @@
 ### Fortune's Favor
 You have greater luck than other characters.  Your Base and Max **Fortune Points** are each increased by 1.
 
-### Mighty Deed
-Once per turn, when you make a melee attack, you may declare a Mighty Deed.  Describe the special effect you wish to add to your attack (such as disarming an opponent, tripping them, pushing them back, etc).  If the attack hits, and the die face is equal to or greater than your Mighty Deed target number, the Mighty Deed succeeds.  Note that the Mighty Deed cannot add to the damage of the attack and the target's **Saving Throws** may apply.
-
-If you take this as a class ability, you may not also take the Sneak Attack ability.
-
 ### Rogue Skills
 For specific skill checks, Rogues gain an additional bonus beyond the normal Skill Bonus.
 - Climb & Slight of Hand: +2
 - Lock-Picking, Search, Stealth & Trap Handling: +1
 
-### Sneak Attack
-When you have **Advantage** on an attack, add the listed damage to the attack.
+### At 2nd level:
 
-If you take this as a class ability, you may not also take Mighty Deed.
+#### Combat Exploits
+You gain the [Combat Exploits](Fighter.md#combat-exploits) class ability.
+
+If you take this as a class ability, you may not also take the Sneak Attack ability.
+
+#### Sneak Attack
+You gain the [Sneak Attack](Rogue.md#sneak-attack) ability.
+
+If you take this as a class ability, you may not also take Combat Exploits.
 
 ### Fighter-Rogue Table
 | Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Abilities |
 |:-----:|:------------:|:----------------:|:---------------:|:------:|:------:|:----------|
-|    1  |   1d6+1      |      +1          |      +1         |    1   |    1   | Fortune's Favor, Mighty Deed 14+, Rogue Skills |
-|    2  |   2d6+2      |      +2          |      +1         |   --   |   --   | Mighty Deed 12+ or Sneak Attack (+1d4) |
+|    1  |   1d6+1      |      +1          |      +1         |    1   |    1   | Fortune's Favor, Rogue Skills |
+|    2  |   2d6+2      |      +2          |      +1         |   --   |   --   | Combat Exploit 14+ or Sneak Attack (+1d4) |
 |    3  |   3d6+3      |      +2          |      +2         |   --   |   --   |  |
 |    4  |   4d6+4      |      +3          |      +2         |   +1   |   --   |  |
-|    5  |   5d6+5      |      +3          |      +3         |   --   |   --   | Mighty Deed 11+ |
-|    6  |   6d6+6      |      +4          |      +3         |   --   |   +1   |  |
+|    5  |   5d6+5      |      +3          |      +3         |   --   |   --   |  |
+|    6  |   6d6+6      |      +4          |      +3         |   --   |   +1   | Combat Exploit 12+ or Sneak Attack (+2d4) |
 |    7  |   7d6+7      |      +5          |      +4         |   --   |   --   |  |
-|    8  |   8d6+8      |      +5          |      +4         |   +1   |   --   | Mighty Deed 10+ or Sneak Attack (+2d4) |
+|    8  |   8d6+8      |      +5          |      +4         |   +1   |   --   |  |
 |    9  |   9d6+9      |      +6          |      +5         |   --   |   --   |  |
-|   10  |  10d6+10     |      +6          |      +5         |   --   |   +1   |  |
-|   11  |  10d6+12     |      +7          |      +6         |   --   |   --   | Mighty Deed 9+  |
+|   10  |  10d6+10     |      +6          |      +5         |   --   |   +1   | Combat Exploit 10+ or Sneak Attack (+3d4) |
+|   11  |  10d6+12     |      +7          |      +6         |   --   |   --   |  |
 |   12  |  10d6+14     |      +7          |      +6         |   +1   |   --   |  |
 |   13  |  10d6+16     |      +8          |      +7         |   --   |   --   |  |
-|   14  |  10d6+18     |      +8          |      +7         |   --   |   +1   | Mighty Deed 8+ or Sneak Attack (+3d4)  |
+|   14  |  10d6+18     |      +8          |      +7         |   --   |   +1   | Combat Exploit 9+ or Sneak Attack (+4d4) |
 |   15  |  10d6+20     |      +9          |      +8         |   +1   |   --   |  |
 
 ### Fighter-Rogue Saving Throws
@@ -83,9 +85,11 @@ If you take this as a class ability, you may not also take Mighty Deed.
 
 ## Fighter-Rogue Knacks
 
+Unless stated otherwise, each knack may only be taken once.
+
 **Archer**: You do not have **Disadvantage** when making attacks at Far range.
 
-**Assassin**:  If you already have the **Sneak Attack** ability, your Sneak Attack dice increase to d6s. If you do not already have the Sneak Attack ability, you gain the Sneak Attack ability.
+**Backstabber**:  If you do not already have the [Sneak Attack](#sneak-attack) ability, you gain the Sneak Attack ability.  You may not take this knack at 1st level.
 
 **Cavalry**: While mounted, you gain +2 to hit and +1 AC. Additionally, whatever creature you are mounted on gains +1 AC and +1 Evasion.
 
@@ -93,7 +97,7 @@ If you take this as a class ability, you may not also take Mighty Deed.
 
 **Intelligent Defense**: Your good at recognizing danger and know how best to avoid it. Add your **Intelligence Bonus** to your AC so long as you are not wearing medium or heavy armor. Cannot be combined with **Distracting Defense**.
 
-**Mighty Warrior**: If you already have the **Mighty Deed** ability, this knack has no effect.  If you do not have the Mighty Deed ability, you gain the Mighty Deed ability.
+**Mighty Warrior**: If you do not have the [Combat Exploit](#combat-exploit) ability, you gain the Combat Exploit ability.  You may not take this knack at 1st level.
 
 **Mighty Shot**: If you already have the **Mighty Deed** ability, you may use the Mighty Deed ability with ranged attacks.
 

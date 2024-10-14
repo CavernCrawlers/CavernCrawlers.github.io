@@ -41,13 +41,10 @@ As part of your apprenticeship, you created a unique magical focus to aid in you
 Spellcasters also frequently inscribe runes that they know into their spellcasting focus so that they are immediately on-hand when casting spells.
 
 ### Spellcasting
-You can harness the power of magic.  A hybrid-spellcaster begins their career knowing two cantrips.  You may not cast a spell of a Rank higher than shown in the table below.
+You can harness the power of magic.  A hybrid-spellcaster begins their career knowing two cantrips.  You may not cast a spell of a Tier higher than shown in the table below.
 
 ### Sense Magic
 Being sensitive to the world of magic, you may determine if a person, place or thing is magical with a **Skilled** **Intelligence** check.  Doing so requires concentration and a full minute; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a mage is staring at them.  You can also attempt to decipher magical writing in the same way.
-
-### Sense Magic
-Being sensitive to the world of magic, you may determine if a person, place or thing is magical with a **Skilled** **Intelligence** check.  Doing so requires concentration and a few minutes; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a mage is staring at them.  You can also attempt to decipher magical writing in the same way.
 
 ### True Name
 As a magic-user possessing supernatural power, you have a **True Name**.  Those who know your True Name can use it against you.  By calling out your True Name, a creature gains **Advantage** on all actions taken against you, including attacks and you have **Disadvantage** on your **Invocation** checks to cast spells against them.
@@ -91,6 +88,8 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 |  15   |   +11   |     +8    |  +11   |
 
 ## Rogue-Spellcaster Knacks
+
+Unless stated otherwise, each knack may only be taken once.
 
 **Distracting Defense**: You are good at misdirection and add your **Charisma Bonus** to your AC so long as you are not wearing medium or heavy armor.  Cannot be combined with **Intelligent Defense**.
 

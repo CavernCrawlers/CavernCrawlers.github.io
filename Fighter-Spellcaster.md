@@ -40,7 +40,7 @@ As part of your apprenticeship, you created a unique magical focus to aid in you
 Spellcasters also frequently inscribe runes that they know into their spellcasting focus so that they are immediately on-hand when casting spells.
 
 ### Spellcasting
-You can harness the power of magic.  A hybrid-spellcaster begins their career knowing two cantrips.  You may not cast a spell of a Rank higher than shown in the table below.
+You can harness the power of magic.  A hybrid-spellcaster begins their career knowing two cantrips.  You may not cast a spell of a Tier higher than shown in the table below.
 
 ### Sense Magic
 Being sensitive to the world of magic, you may determine if a person, place or thing is magical with a **Skilled** **Intelligence** check.  Doing so requires concentration and a full minute; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a mage is staring at them.  You can also attempt to decipher magical writing in the same way.
@@ -88,6 +88,8 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 
 ## Fighter-Spellcaster Knacks
 
+Unless stated otherwise, each knack may only be taken once.
+
 **Archer**: You do not have **Disadvantage** when making attacks at Far range.
 
 **Cavalry**: While mounted, you gain +2 to hit and +1 AC.  Additionally, whatever creature you are mounted on gains +1 AC and +1 Evasion.
@@ -102,7 +104,7 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 
 **Indomitable**: +1 to all **Saving Throws** except AC.
 
-**Mighty Deeds**: Once per turn, when you make a melee attack, you may declare a Mighty Deed.  Describe the special effect you wish to add to your attack (such as disarming an opponent, tripping them, pushing them back, etc).  If the attack hits, and the die face is equal to or greater than your 14, the Mighty Deed succeeds.  Note that the Mighty Deed cannot add to the damage of the attack and the target's **Saving Throws** may apply.  This ability may be taken more than once, reducing the Mighty Deed target number by 2 each time.
+**Mighty Warrior**: You gain the [Combat Exploit](Fighter.md#combat-exploits) ability at a target of 14+.  This target number is lowered by 1 each time you would gain a new Knack.
 
 **Shield Master**: While wielding a shield, you may add your shield bonus to your **Evasion** and you increase your AC bonus from shields by +1.
 

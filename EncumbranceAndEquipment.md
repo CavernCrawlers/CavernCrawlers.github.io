@@ -94,7 +94,7 @@ The weapon tables below are not meant to be exhaustive, but represent those most
 - **Finesse**: When used in melee, this weapon may use either **Dexterity** or **Strength** for attack and damage bonuses.
 - **Flexible**: This weapon ignores the target's AC bonus from shields and weapons with the **Defensive** property.
 - **Hurlant**: This weapon may be thrown to a range of [Near](#ranges) using either **Strength** or **Dexterity** for attack and damage bonuses.
-- **Impact**: On a **Critical Hit**, the garget must make a **Strength Check** (difficulty = damage taken) or suffer the effects of a **Shove Maneuver**.
+- **Impact**: On a **Critical Hit** the target suffers the effects of a [Pushback](CombatExploit.md#pushback).
 - **Mounted**: This weapon requires 2-hands when used on foot, but only 1 hand when mounted. Additionally, it does double damage on a mounted **Charge Maneuver**.
 - **Reach**: This weapon can be used for melee attacks against targets out to 10ft and can be used from the 2nd rank.
 - **Reload**: This weapon must be reloaded after each use, requiring an **Action**.

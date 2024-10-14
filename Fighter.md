@@ -24,11 +24,11 @@
 
 ## Class Abilities
 
+### Combat Exploits
+Once per turn, when you make a successful melee attack and the die face is equal to or greater than your Combat Exploit target number, choose the [Combat Exploit](CombatExploit.md) you wish to apply to the target.
+
 ### Hauler
 You add your **Constitution Modifier** (if positive) to your **Strength Score** for determining your **Encumbrance** limits.
-
-### Mighty Deed
-Once per turn, when you make a melee attack, you may declare a Mighty Deed.  Describe the special effect you wish to add to your attack (such as disarming an opponent, tripping them, pushing them back, etc).  If the attack hits, and the die face is equal to or greater than your Mighty Deed target number, the Mighty Deed succeeds.  Note that the Mighty Deed cannot add to the damage of the attack and the target's **Saving Throws** may apply.
 
 ### Minimum Damage
 Fighters are experts at dealing damage.  If your attack misses the target's AC by less than your level, you still deal your attack's minimum damage to the target.
@@ -36,20 +36,20 @@ Fighters are experts at dealing damage.  If your attack misses the target's AC b
 ### Fighter Table
 | Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Abilities |
 |:-----:|:------------:|:----------------:|:---------------:|:------:|:------:|:----------|
-|  1    |   1d6+2      |  +1              |  +1             |  1     |  1     | Hauler, Mighty Deed 14+, Minimum Damage |
-|  2    |   2d6+4      |  +1              |  +2             | --     | +1     | Mighty Deed 12+ |
+|  1    |   1d6+2      |  +1              |  +1             |  1     |  1     | Hauler, Combat Exploit 14+, Minimum Damage |
+|  2    |   2d6+4      |  +1              |  +2             | --     | +1     | Combat Exploit 12+ |
 |  3    |   3d6+6      |  +2              |  +2             | +1     | --     |  |
-|  4    |   4d6+8      |  +3              |  +3             | --     | --     | Mighty Deed 11+ |
+|  4    |   4d6+8      |  +3              |  +3             | --     | --     | Combat Exploit 11+ |
 |  5    |  5d6+10      |  +3              |  +4             | +1     | --     |  |
-|  6    |  6d6+12      |  +4              |  +4             | --     | +1     | Mighty Deed 10+ |
+|  6    |  6d6+12      |  +4              |  +4             | --     | +1     | Combat Exploit 10+ |
 |  7    |  7d6+14      |  +5              |  +5             | +1     | --     |  |
-|  8    |  8d6+16      |  +5              |  +6             | --     | --     | Mighty Deed 9+ |
+|  8    |  8d6+16      |  +5              |  +6             | --     | --     | Combat Exploit 9+ |
 |  9    |  9d6+18      |  +6              |  +6             | +1     | --     |  |
-| 10    | 10d6+20      |  +6              |  +7             | --     | +1     | Mighty Deed 8+ |
+| 10    | 10d6+20      |  +6              |  +7             | --     | +1     | Combat Exploit 8+ |
 | 11    | 10d6+22      |  +7              |  +8             | +1     | --     |  |
-| 12    | 10d6+24      |  +8              |  +8             | --     | --     | Mighty Deed 7+ |
+| 12    | 10d6+24      |  +8              |  +8             | --     | --     | Combat Exploit 7+ |
 | 13    | 10d6+26      |  +8              |  +9             | +1     | --     |  |
-| 14    | 10d6+28      |  +9              | +10             | --     | +1     | Mighty Deed 6+ |
+| 14    | 10d6+28      |  +9              | +10             | --     | +1     | Combat Exploit 6+ |
 | 15    | 10d6+30      | +10              | +10             | +1     | --     |  |
 
 ### Fighter Saving Throws
@@ -73,6 +73,8 @@ Fighters are experts at dealing damage.  If your attack misses the target's AC b
 
 ## Fighter Knacks
 
+Unless stated otherwise, each knack may only be taken once.
+
 **Archer**: You do not have **Disadvantage** when making attacks at Far range.
 
 **Armored**: Gain +1 AC while wearing armor.  Also reduce the damage taken from non-magical blunt, cutting and penetrating damage based on the weight of the armor worn (1 for Light, 2 for Medium or 3 for Heavy).
@@ -85,15 +87,14 @@ Fighters are experts at dealing damage.  If your attack misses the target's AC b
 
 **Cleave**: Immediately after one of your attacks drops a foe to 0 HP, you may make another attack.  If you have movement remaining, you may move between attacks.  This cannot be combined with the **Sweep** maneuver.
 
+**Critical Opening**:  Reduce the required _Natural_ value for a critical hit on your attacks by 1.  This knack may be taken up to 3 times.  For instance, taking this knack twice means you would only need a natural 18+.
+
 **Deadly Blow**: Your weapon damage die increases 1 step (d6 to d8, d8 to d10, etc).
 
-**Exploit Weakness**:  Reduce the required _Natural_ value for a critical hit on your attacks by 1.  This knack may be taken up to 3 times.  For instance, taking this knack twice means you would only need a natural 18+.
-
-**Great Weapon Fighter:** When wielding a Heavy 2-handed weapon, any damage dice that show a 1 or 2 may be re-rolled.  Take the higher result.						
-
+**Great Weapon Fighter:** When wielding a Heavy 2-handed weapon, any damage dice that show a 1 or 2 may be re-rolled.  Take the higher result.		
 **Indomitable**: +1 to all **Saving Throws**.
 
-**Mighty Shot**: You may use your Mighty Deed ability with ranged attacks.
+**Mighty Shot**: You may use your [Combat Exploits](#combat-exploits) ability with ranged attacks.
 
 **Precise Shot**: Ignore any cover bonuses your target has to their AC.
 

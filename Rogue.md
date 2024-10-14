@@ -75,7 +75,9 @@ When you have **Advantage** on an attack, add the listed damage to the attack.
 
 ## Rogue Knacks
 
-**Death Blow**: Your sneak attack dice increase to d6s.
+Unless specified otherwise, each knack may only be taken once.
+
+**Assassin**: You do an additional +1d4 damage with your [Sneak Attack](#sneak-attack) ability.
 
 **Distracting Defense**: You are good at misdirection and add your **Charisma Bonus** to your AC so long as you are not wearing medium or heavy armor.  Cannot be combined with **Intelligent Defense**.
 
