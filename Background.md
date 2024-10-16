@@ -50,44 +50,44 @@ Your character is automatically consider proficient at the Apprentice (+0) level
 ## Background Career Table  
 The column used for the roll should be chosen based on the culture in which your character was raised.
 
-|  Career                                  |  Human / Hob  |  Dwarf  |  Elf     |  Goblin / Orc  |
-|:-----------------------------------------|:-------------:|:-------:|:--------:|:--------------:|
-|  Acolyte                                 |  01-03        |  01-02  |   01-03  |  01-02         |
-|  Alchemist                               |  04-05        |  03-04  |   04-05  |  03-04         |
-|  Animal Handler                          |  06-09        |  05-07  |   06-09  |  05-08         |
-|  Apothecary/Healer                       |  10-11        |  08-09  |   10-12  |  09-11         |
-|  Artisan                                 |  12-14        |  10-13  |   13-16  |  12-14         |
-|  Barrister/Advocate                      |  15-16        |  14-15  |   17-18  |  15-16         |
-|  Butcher                                 |  17-19        |  16-18  |   19-20  |  17-19         |
-|  Charcoal Burner/<br/>Woodcutter         |  20-23        |  19-21  |   21-22  |  20-22         |
-|  Clerk/Scribe                            |  24-25        |  22-23  |   23-24  |  23-24         |
-|  Con Artist/<br/>Mountebank              |  26-28        |  24-25  |   25-26  |  25-27         |
-|  Courtier                                |  29-30        |  26-27  |   27-29  |  28-29         |
-|  Criminal/Sp  y                          |  31-34        |  28-30  |   30-32  |  30-33         |
-|  Cult Initiate                           |  35-36        |  31-32  |   33-34  |  34-36         |
-|  Farmer/Gardener                         |  37-40        |  33-35  |   35-37  |  37-40         |
-|  Forester/Ranger                         |  41-42        |    36   |   38-39  |  41-42         |
-|  Fortune Teller                          |  43-44        |  37-38  |   40-41  |  43-44         |
-|  Gambler                                 |  45-47        |  39-41  |   42-43  |  45-47         |
-|  Guard/Mercenary/<br/>Soldier            |  48-51        |  42-46  |   44-47  |  48-52         |
-|  Herbalist                               |  52-54        |  47-48  |   48-49  |  53-54         |
-|  Hermit/Rustic                           |  55-57        |  49-51  |   50-53  |  55-57         |
-|  Hunter/Trapper                          |  58-60        |  52-53  |   54-56  |  58-60         |
-|  Jeweler                                 |  61-63        |  54-58  |   57-60  |  61-63         |
-|  Laborer/Teamster                        |  64-68        |  59-64  |   61-64  |  64-67         |
-|  Merchant                                |  69-71        |  65-67  |   65-67  |  68-70         |
-|  Miner                                   |  72-75        |  68-73  |   68-71  |  71-74         |
-|  Minstrel/Performer                      |  76-78        |  74-76  |   72-75  |  75-77         |
-|  Navigator/Scout                         |  79-81        |  77-79  |   76-79  |  78-80         |
-|  Noble                                   |  82           |  80     |   80     |  81            |
-|  Politician                              |  83           |  81     |   81     |  82            |
-|  Sailor/Fisher/<br/>Ferrier/Bargemaster  |  84-87        |  82-83  |   82-83  |  83-84         |
-|  Scholar/Sage                            |  88-89        |  84-85  |   84-86  |  52-86         |
-|  Smith                                   |  90-92        |  86-90  |   87-90  |  87-90         |
-|  Squire                                  |  93           |  91     |   91-92  |  91            |
-|  Stonemason                              |  94-96        |  92-96  |   93-95  |  92-95         |
-|  Vagrant/Wanderer                        |  97-99        |  97-99  |   96-98  |  96-99         |
-|  Wizard's Apprentice                     |  100          |  100    |  99-100  |  100           |  
+| Career                                 | Human / Hob | Dwarf |  Elf   | Goblin / Orc |     |
+| :------------------------------------- | :---------: | :---: | :----: | :----------: | --- |
+| Acolyte                                |    01-03    | 01-02 | 01-03  |    01-02     |     |
+| Alchemist                              |    04-05    | 03-04 | 04-05  |    03-04     |     |
+| Animal Handler                         |    06-09    | 05-07 | 06-09  |    05-08     |     |
+| Apothecary/Healer                      |    10-11    | 08-09 | 10-12  |    09-11     |     |
+| Artisan                                |    12-14    | 10-13 | 13-16  |    12-14     |     |
+| Barrister/Advocate                     |    15-16    | 14-15 | 17-18  |    15-16     |     |
+| Butcher                                |    17-19    | 16-18 | 19-20  |    17-19     |     |
+| Charcoal Burner/<br/>Woodcutter        |    20-23    | 19-21 | 21-22  |    20-22     |     |
+| Clerk/Scribe                           |    24-25    | 22-23 | 23-24  |    23-24     |     |
+| Con Artist/<br/>Mountebank             |    26-28    | 24-25 | 25-26  |    25-27     |     |
+| Courtier                               |    29-30    | 26-27 | 27-29  |    28-29     |     |
+| Criminal/Spy                           |    31-34    | 28-30 | 30-32  |    30-33     |     |
+| Cult Initiate                          |    35-36    | 31-32 | 33-34  |    34-36     |     |
+| Farmer/Gardener                        |    37-40    | 33-35 | 35-37  |    37-40     |     |
+| Forester/Ranger                        |    41-42    |  36   | 38-39  |    41-42     |     |
+| Fortune Teller                         |    43-44    | 37-38 | 40-41  |    43-44     |     |
+| Gambler                                |    45-47    | 39-41 | 42-43  |    45-47     |     |
+| Guard/Mercenary/<br/>Soldier           |    48-51    | 42-46 | 44-47  |    48-52     |     |
+| Herbalist                              |    52-54    | 47-48 | 48-49  |    53-54     |     |
+| Hermit/Rustic                          |    55-57    | 49-51 | 50-53  |    55-57     |     |
+| Hunter/Trapper                         |    58-60    | 52-53 | 54-56  |    58-60     |     |
+| Jeweler                                |    61-63    | 54-58 | 57-60  |    61-63     |     |
+| Laborer/Teamster                       |    64-68    | 59-64 | 61-64  |    64-67     |     |
+| Merchant                               |    69-71    | 65-67 | 65-67  |    68-70     |     |
+| Miner                                  |    72-75    | 68-73 | 68-71  |    71-74     |     |
+| Minstrel/Performer                     |    76-78    | 74-76 | 72-75  |    75-77     |     |
+| Navigator/Scout                        |    79-81    | 77-79 | 76-79  |    78-80     |     |
+| Noble                                  |     82      |  80   |   80   |      81      |     |
+| Politician                             |     83      |  81   |   81   |      82      |     |
+| Sailor/Fisher/<br/>Ferrier/Bargemaster |    84-87    | 82-83 | 82-83  |    83-84     |     |
+| Scholar/Sage                           |    88-89    | 84-85 | 84-86  |    52-86     |     |
+| Smith                                  |    90-92    | 86-90 | 87-90  |    87-90     |     |
+| Squire                                 |     93      |  91   | 91-92  |      91      |     |
+| Stonemason                             |    94-96    | 92-96 | 93-95  |    92-95     |     |
+| Vagrant/Wanderer                       |    97-99    | 97-99 | 96-98  |    96-99     |     |
+| Wizard's Apprentice                    |     100     |  100  | 99-100 |     100      |     |
 
 ## Background Career Descriptions
 
@@ -236,17 +236,17 @@ You spent time learning the greater mysteries of magic.
 - **Starting Equipment:** Staff, Book of Magical Lore, 10sp
 
 ## Why did you become an adventurer?
-Roll on or choose from the table below to determine why your appentichip ended and what passion that has instilled in you.
+Roll on or choose from the table below to determine why your apprenticeship ended and what passion that has instilled in you.  Alternatively, make up a reason & passion of  your own.
 
-| 1d10 | Reason                                           | Passion |
-|:----:|:-------------------------------------------------|:--------|
-|   1  | Your teacher/boss was cruel and abusive.         | You will never allow anyone to disrespect you again. |
-|   2  | A rival drove you out of business.               | You will never be brought low like that again. |
-|   3  | Your someone was killed in a robbery gone wrong. | Criminals must face justice. |
-|   4  | You decided that this profession wasn't for you. | You will make your own way on your own terms. |
-|   5  | An injury left you unable to continue your<br/>occupation. | You will not let your infirmities dictate your life. |
-|   6  | You knew you wanted a life of adventure and<br/>excitement. | You will become a famous hero. |
-|   7  | It was too much hard work.                       | One day, you will live in the lap of luxury. |
-|   8  | Your teacher/boss favored another apprentice over you<br/>and you didn't get the respect you expected. | You will prove yourself the best at what you do. |
-|   9  | Your teacher/boss had to leave town for mysterious<br/>reasons. | You will never abandon another the way you were abandoned. |
-|  10  | You knew you were meant for greater things.      | You will find and achieve your destiny. |
+|  1d10  |  Reason                                                                                                  |  Passion                                                     |
+|:------:|:---------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------|
+|    1   |  Your teacher/boss was cruel and abusive.                                                                |  You will never allow anyone to disrespect you again.        |
+|    2   |  A rival drove you out of business.                                                                      |  You will never be brought low like that again.              |
+|    3   |  Your someone was killed in a robbery gone wrong.                                                        |  Criminals must face justice.                                |
+|    4   |  You decided that this profession wasn't for you.                                                        |  You will make your own way on your own terms.               |
+|    5   |  An injury left you unable to continue your<br/>occupation.                                              |  You will not let your infirmities dictate your life.        |
+|    6   |  You knew you wanted a life of adventure and<br/>excitement.                                             |  You will become a famous hero.                              |
+|    7   |  It was too much hard work.                                                                              |  One day, you will live in the lap of luxury.                |
+|    8   |  Your teacher/boss favored another apprentice over you<br/>and you didn't get the respect you expected.  |  You will prove yourself the best at what you do.            |
+|    9   |  Your teacher/boss had to leave town for mysterious<br/>reasons.                                         |  You will never abandon another the way you were abandoned.  |
+|   10   |  You knew you were meant for greater things.                                                             |  You will find and achieve your destiny.                     |  

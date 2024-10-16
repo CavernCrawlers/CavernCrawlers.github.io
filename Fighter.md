@@ -28,7 +28,7 @@
 Once per turn, when you make a successful melee attack and the die face is equal to or greater than your Combat Exploit target number, choose the [Combat Exploit](CombatExploit.md) you wish to apply to the target.
 
 ### Hauler
-You add your **Constitution Modifier** (if positive) to your **Strength Score** for determining your **Encumbrance** limits.
+You add your **Constitution Modifier** (if positive) to your **Strength Score** for determining your [Encumbrance](EncumbranceAndEquipment.md#encumbrance) limits.
 
 ### Minimum Damage
 Fighters are experts at dealing damage.  If your attack misses the target's AC by less than your level, you still deal your attack's minimum damage to the target.
@@ -85,13 +85,14 @@ Unless stated otherwise, each knack may only be taken once.
 
 **Charger**: If you perform the **charge** maneuver, add +2 to your damage rolls.
 
-**Cleave**: Immediately after one of your attacks drops a foe to 0 HP, you may make another attack.  If you have movement remaining, you may move between attacks.  This cannot be combined with the **Sweep** maneuver.
+**Cleave**: Immediately after one of your attacks drops a foe to 0 HP, you may make another attack.  If you have movement remaining, you may move between attacks.
 
 **Critical Opening**:  Reduce the required _Natural_ value for a critical hit on your attacks by 1.  This knack may be taken up to 3 times.  For instance, taking this knack twice means you would only need a natural 18+.
 
-**Deadly Blow**: Your weapon damage die increases 1 step (d6 to d8, d8 to d10, etc).
+**Deadly Blow**: Your weapon damage die increases [1 step](RulesSynopsis.md#die-adjustments).
 
-**Great Weapon Fighter:** When wielding a Heavy 2-handed weapon, any damage dice that show a 1 or 2 may be re-rolled.  Take the higher result.		
+**Great Weapon Fighter:** When wielding a Heavy 2-handed weapon, any damage dice that show a 1 or 2 may be re-rolled.  Take the higher result.	
+
 **Indomitable**: +1 to all **Saving Throws**.
 
 **Mighty Shot**: You may use your [Combat Exploits](#combat-exploits) ability with ranged attacks.
@@ -110,91 +111,91 @@ Unless stated otherwise, each knack may only be taken once.
 - **All-Rounder**
 	- 1st Level: Deadly Blow, [Superior Training](Traits.md#Superior-Training) -> Armored
 	- 2nd Level: [Die Hard](Traits.md#Die-Hard)
- 	- 3rd Level: Weapon Specialization
- 	- 5th Level: Deadly Blow
- 	- 6th Level: [Fast Healer](Traits.md#Fast-Healer)
- 	- 7th Level: Indomitable
- 	- 9th Level: Exploit Weakness
- 	- 10th Level: [Great Bravery](Traits.md#Great-Bravery)
- 	- 11th Level: Shield Master
- 	- 13th Level: Cleave
- 	- 14th Level: [Great Leader](Traits.md#Great-Leader)
-  	- 15th Level: Weapon Specialization
+	- 3rd Level: Weapon Specialization
+	- 5th Level: Mighty Shot
+	- 6th Level: [Fast Healer](Traits.md#Fast-Healer)
+	- 7th Level: Indomitable
+	- 9th Level: Exploit Weakness
+	- 10th Level: [Great Bravery](Traits.md#Great-Bravery)
+	- 11th Level: Shield Master
+	- 13th Level: Cleave
+	- 14th Level: [Great Leader](Traits.md#Great-Leader)
+	- 15th Level: Weapon Specialization
 - **Archer**
 	- 1st Level: Archer, [Superior Training](Traits.md#Superior-Training) -> Weapon Specialization
 	- 2nd Level: [Alert](Traits.md#Alert)
- 	- 3rd Level: Mighty Shot
- 	- 5th Level: Precise Shot
- 	- 6th Level: [Die Hard](Traits.md#Die-Hard)
- 	- 7th Level: Deadly Blow
- 	- 9th Level: Exploit Weakness
- 	- 10th Level: [Fast Healer](Traits.md#Fast-Healer)
- 	- 11th Level: Indomitable
- 	- 13th Level: Skirmisher
- 	- 14th Level: [Survivalist](Traits.md#Survivalist)
-  	- 15th Level: Weapon Specialization
+	- 3rd Level: Mighty Shot
+	- 5th Level: Precise Shot
+	- 6th Level: [Die Hard](Traits.md#Die-Hard)
+	- 7th Level: Deadly Blow
+	- 9th Level: Exploit Weakness
+	- 10th Level: [Fast Healer](Traits.md#Fast-Healer)
+	- 11th Level: Indomitable
+	- 13th Level: Skirmisher
+	- 14th Level: [Survivalist](Traits.md#Survivalist)
+	- 15th Level: Weapon Specialization
 - **Berserker** 
 	- 1st Level: Berserk, [Superior Training](Traits.md#Superior-Training) -> Reckless
 	- 2nd Level: [Catch Your Breath](Traits.md#Catch-Your-Breath)
- 	- 3rd Level: Deadly Blow
- 	- 5th Level: Cleave
- 	- 6th Level: [Die Hard](Traits.md#Die-Hard)
- 	- 7th Level: Skirmisher
- 	- 9th Level: Great Weapon Fighter
- 	- 10th Level: [Fast Healer](Traits.md#Fast-Healer)
- 	- 11th Level: Indomitable
- 	- 13th Level: Charger
- 	- 14th Level: [Second Wind](Traits.md#Second-Wind)
-  	- 15th Level: Weapon Specialization
+	- 3rd Level: Deadly Blow
+	- 5th Level: Cleave
+	- 6th Level: [Die Hard](Traits.md#Die-Hard)
+	- 7th Level: Skirmisher
+	- 9th Level: Great Weapon Fighter
+	- 10th Level: [Fast Healer](Traits.md#Fast-Healer)
+	- 11th Level: Indomitable
+	- 13th Level: Charger
+	- 14th Level: [Second Wind](Traits.md#Second-Wind)
+	- 15th Level: Weapon Specialization
 - **Cavalier**
 	- 1st Level: Cavalry, [Superior Training](Traits.md#Superior-Training) -> Charger
 	- 2nd Level: [Catch Your Breath](Traits.md#Catch-Your-Breath)
- 	- 3rd Level: Weapon Specializatin (lance)
- 	- 5th Level: Armored
- 	- 6th Level: [Great Bravery](Traits.md#Great-Bravery)
- 	- 7th Level: Deadly Blow
- 	- 9th Level: Indomitable
- 	- 10th Level: [Great Leader](Traits.md#Great-Leader)
- 	- 11th Level: Shield Master
- 	- 13th Level: Weapon Specialization
- 	- 14th Level: [Tenacity](Traits.md#Tenacity)
-  	- 15th Level: Exploit Weakness
+	- 3rd Level: Weapon Specialization (lance)
+	- 5th Level: Armored
+	- 6th Level: [Great Bravery](Traits.md#Great-Bravery)
+	- 7th Level: Deadly Blow
+	- 9th Level: Indomitable
+	- 10th Level: [Great Leader](Traits.md#Great-Leader)
+	- 11th Level: Shield Master
+	- 13th Level: Weapon Specialization
+	- 14th Level: [Tenacity](Traits.md#Tenacity)
+	- 15th Level: Exploit Weakness
 - **Damage Dealer** 
 	- 1st Level: Deadly Blow, [Superior Training](Traits.md#Superior-Training) -> Exploit Weakness
 	- 2nd Level: [Great Bravery](Traits.md#Great-Bravery)
- 	- 3rd Level: Weapon Specialziation
- 	- 5th Level: Great Weapon Fighter
- 	- 6th Level: [Self Improvement](Traits.md#Self-Improvement)
- 	- 7th Level: Reckless
- 	- 9th Level: Charger
- 	- 10th Level: [Tenacity](Traits.md#Tenacity)
- 	- 11th Level: Cleave
- 	- 13th Level: Indomitable
- 	- 14th Level: [Infuse Weapon](Traits.md#Infuse-Weapon)
-  	- 15th Level: Exploit Weakness
+	- 3rd Level: Weapon Specialziation
+	- 5th Level: Great Weapon Fighter
+	- 6th Level: [Self Improvement](Traits.md#Self-Improvement)
+	- 7th Level: Reckless
+	- 9th Level: Charger
+	- 10th Level: [Tenacity](Traits.md#Tenacity)
+	- 11th Level: Cleave
+	- 13th Level: Indomitable
+	- 14th Level: [Infuse Weapon](Traits.md#Infuse-Weapon)
+	- 15th Level: Exploit Weakness
 - **Tank** 
 	- 1st Level: Armored, [Superior Training](Traits.md#Superior-Training) -> Shield Master
 	- 2nd Level: [Die Hard](Traits.md#Die-Hard)
- 	- 3rd Level: Indomitable
- 	- 5th Level: Cavalry
- 	- 6th Level: [Fast Healer](Traits.md#Fast-Healer)
- 	- 7th Level: Deadly Blow
- 	- 9th Level: Exploit Weakness
- 	- 10th Level: [Second Wind](Traits.md#Second-Wind)
- 	- 11th Level: Charger
- 	- 13th Level: Exploit Weakness
- 	- 14th Level: [Tenacity](Traits.md#Tenacity)
-  	- 15th Level: Weapon Specialization
+	- 3rd Level: Indomitable
+	- 5th Level: Cavalry
+	- 6th Level: [Fast Healer](Traits.md#Fast-Healer)
+	- 7th Level: Deadly Blow
+	- 9th Level: Exploit Weakness
+	- 10th Level: [Second Wind](Traits.md#Second-Wind)
+	- 11th Level: Charger
+	- 13th Level: Exploit Weakness
+	- 14th Level: [Tenacity](Traits.md#Tenacity)
+	- 15th Level: Weapon Specialization
 - **Weapon Master**
 	- 1st Level: Deadly Blow, [Superior Training](Traits.md#Superior-Training) -> Weapon Specialization
 	- 2nd Level: [Tenacity](Traits.md#Tenacity)
- 	- 3rd Level: Exploit Weakness
- 	- 5th Level: Weapon Specializtion
- 	- 6th Level: [Die Hard](Traits.md#Die-Hard)
- 	- 7th Level: Archer or Great Weapon Fighter
- 	- 9th Level: Cleave
- 	- 10th Level: [Great Fortune](Traits.md#Great-Fortune)
- 	- 11th Level: Weapon Specializtion
- 	- 13th Level: Exploit Weakness 
- 	- 14th Level: [Self Improvement](Traits.md#Self-Improvement)
-  	- 15th Level: Reckless
+	- 3rd Level: Exploit Weakness
+	- 5th Level: Weapon Specialization
+	- 6th Level: [Die Hard](Traits.md#Die-Hard)
+	- 7th Level: Archer or Great Weapon Fighter
+	- 9th Level: Cleave
+	- 10th Level: [Great Fortune](Traits.md#Great-Fortune)
+	- 11th Level: Weapon Specialization
+	- 13th Level: Exploit Weakness 
+	- 14th Level: [Self Improvement](Traits.md#Self-Improvement)
+	- 15th Level: Reckless
