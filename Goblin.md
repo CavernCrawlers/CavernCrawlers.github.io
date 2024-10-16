@@ -1,4 +1,4 @@
-## Goblin
+# Goblin
 **AKA**: Kobold, Koballus, Luton, Skreetok<br/>
 Goblins are a species of naturally nocturnal humanoids most commonly found in the woods and mountains.  They stand 4 to 5 feet in height, have pointed ears, cat-like eyes, sharp teeth, long arms and spare or patchy body hair.  Their skin tones are some shade of gray, red, yellow or green.  They typically stand between 4 and 5 feet in height and have a lifespan rarely exceeding 50 years.
 - **Starting Age:** 10 + 1d4 years
@@ -8,14 +8,50 @@ Goblins are a species of naturally nocturnal humanoids most commonly found in th
 - **Speed:** 30 ft
 - **Tags:** Humanoid, Fae
 
-### Features
-#### Fey Blooded
+## Features
+### Fey Blooded
 Due to their inherently magical nature, goblins gain a +2 bonus on all **Saving Throws** vs magic.
-#### Low-Light Vision
+### Low-Light Vision
 Goblins see in dim light nearly as well as full daylight; however, this vision is shades of gray only, so color cannot be discerned in these conditions.  Also, this ability does not function in full darkness.
-#### Small Stature
+### Small Stature
 Being small hurts in a fight. You are a small creature and have **Disadvantage** wielding any weapon with the Heavy property, or when wielding a Versatile weapon one-handed.
 
 On the other hand, you gain a +2 bonus on all Stealth checks.
-#### True Name
+### True Name
 As fae creatures, goblins have **True Names**, and those with the knowledge may use an goblin’s true name against her. By calling out the true name, a character gains **Advantage** on all actions taken against the goblin, **attacks** and **saving throws**.
+
+## Optional
+### Life-Path
+Your starting ability array is: STR 6, CON 9, DEX 9, INT 9, WIS 8, CHA 7
+
+#### Culture
+What is your tribe most known for?
+
+|   1d12   |   Description                                                                                                                                                                                                                                                                                                                                                                                         |   ST   |   CN   |   DX   |   IN   |   WS   |   CH   |
+|:--------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:------:|:------:|:------:|:------:|:------:|:------:|
+|       1  |  The Snow Goblins live in the frozen lands to the {direction}. There they hunt, fish and raid in order to survive the long winters.                                                                                                                                                                                                                                                                   |   +0   |   +2   |   +0   |   -1   |   +0   |   -1   |
+|       2  |  They were known for mighty feats of crafting and their goods were sought all across the Gloaming.                                                                                                                                                                                                                                                                                                    |   -1   |   -1   |   +1   |   +1   |   +0   |   +0   |
+|       3  |  They travel the fae lands of Taranost, trading and exploring as they go.                                                                                                                                                                                                                                                                                                                             |     -1 |   +0   |   +0   |     +0 |   +0   |   +1   |
+|       4  |  They know all the songs telling the stories of goblin history all the way back to the world’s beginning.                                                                                                                                                                                                                                                                                             |    -1  |    -1  |    +0  |    +1  |    +1  |    +0  |
+|       5  |  They were led by a powerful warrior queen who made your tribe one of the most powerful in the land.                                                                                                                                                                                                                                                                                                  |    +1  |    +1  |    +1  |    -1  |     -1 |    -1  |
+|       6  |  For generations they were bound in service to {the Dark One}, chafing under their rule.                                                                                                                                                                                                                                                                                                              |    +1  |    +1  |    +1  |    -1  |     -1 |    -1  |
+|       7  |  Your tribe of goblin nomads followed the great herds of {animal} as they burrowed through the earth.                                                                                                                                                                                                                                                                                                 |    +0  |    +1  |    +1  |    -1  |    +0  |    -1  |
+|       8  |  They rode on great {animal} across the lands of {name}.                                                                                                                                                                                                                                                                                                                                              |    +0  |    +1  |    +1  |     -1 |    +0  |     -1 |
+|       9  |  They hunted the deadliest monsters in the land of {name}.                                                                                                                                                                                                                                                                                                                                            |    +1  |    +1  |    +1  |     -1 |    +0  |    -2  |
+|      10  |  They lived in a great subterranean town, ruled by a council of elders.                                                                                                                                                                                                                                                                                                                               |     +0 |     +0 |    +0  |     +0 |    +0  |    +0  |
+|      11  |  In the deep heart of the {name} forest, they lived off the land, making their homes in the great trees.                                                                                                                                                                                                                                                                                              |    +0  |    +1  |    +1  |     -1 |    +0  |    --1 |
+|      12  |  They have always lived near {species}, acting as emissaries and traders. Roll 1d10 to determine which other species’ Culture and Independence tables to use.<br/>1-2) Dwarf, 3-4) Elf, 5) Hob, 6-9) Human, 10) Orc<br/>When rolling on these tables, use 1d10 for Culture and 1d8 for Independence.                                                                                                  |    +0  |    +0  |    +0  |    +0  |    +0  |    +0  |  
+
+#### Independence
+Why did you set off on your own?
+
+| 1d8 | Description                                                                                                                                                                                                                                        | Passion                                                                      |
+|:---:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|
+|   1 | Your family was exiled from the tribe for a terrible crime. What was it and did they actually do it?                                                                                                                                               | Proving or family’s innocence OR  <br>Atoning for their crime.               |
+|   2 | When {name} came and attacked your tribe, only you escaped.                                                                                                                                                                                        | Vengeance on {name}.                                                         |
+|   3 | The empire of {name} took your lands, driving your people out.                                                                                                                                                                                     | Finding a new home for your people OR  <br>Overthrowing the {name} Empire.   |
+|   4 | {The Dark One} is on the move again, and it is no longer safe near their lands.                                                                                                                                                                    | The downfall of {the Dark One}.                                              |
+|   5 | When you were a child, all the land spoiled and the game disappeared, forcing you to find new homes elsewhere.                                                                                                                                     | Finding new lands suitable for your people.                                  |
+|   6 | Another tribe overpowered and conquered your people.                                                                                                                                                                                               | Freeing your people.                                                         |
+|   7 | You were kidnapped by an evil spellcaster, {name}, but rescued by [1d6]:<br><br>1) {name}, the miller; 2) {name}, the blacksmith; 3) {name}, the old witch; 4){name}, the hunter; 5) {name}, lord of {land}; 6) the player-character to your left. | Gratitude toward your rescuer OR  <br>Animosity toward the evil spellcaster. |
+|   8 | Your parents left the tribe to seek out a better life.                                                                                                                                                                                             | Living up to your parents’ sacrifice.                                        |  

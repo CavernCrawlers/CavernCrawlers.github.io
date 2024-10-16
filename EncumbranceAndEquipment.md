@@ -146,7 +146,7 @@ If a weapon lists 2 or more damage types, the wielder must specify the damage ty
 | Morning Star                      | M      | 1d8    | B          |  30sp | 1     | Versatile, Impact |
 | Net                               | M      |  --    | --         |  2sp  | 1     | Flexible, Hurlant, Snare, 2H |
 | Pike                              | H      | 1d10   | P          |   4sp | 2     | Reach, 2H |
-| Quarterstaff                      | L      | 1d6    | B          |   5cp | 1     | Defensive, Versatile |
+| Quarterstaff                      | M      | 1d6    | B          |   5cp | 1     | Defensive, Versatile |
 | Spear                             | M      | 1d8    | P          |   2sp | 1     | Versatile, Hurlant |
 | Sword, Arming                     | M      | 1d8    | S/P        |  30sp | 1     | Versatile |
 | Sword, Long / Great               | H      | 1d10   | S          | 100sp | 2     | 2H, Impact |
@@ -157,7 +157,7 @@ If a weapon lists 2 or more damage types, the wielder must specify the damage ty
 | Trident                           | M      | 1d8+1  | P          | 10sp  | 1     | Versatile, Hurlant |
 | Unarmed*                          | L      | 1d2    | B          |  --   | 0     | Finesse |
 | War Pick                          | M      | 1d8    | P          | 10sp  | 1     | Versatile |
-| Whip                              | L      | 1d6    |  S         | 4sp   | 1     | Finesse, Reach, Snare, Flexible |
+| Whip                              | L      | 1d6    | S          | 4sp   | 1     | Finesse, Reach, Snare, Flexible |
 
 <sub>
 ? -- These properties must be decided upon by the GM when the improvised weapon is acquired.<br/>

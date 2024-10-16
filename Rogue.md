@@ -29,7 +29,7 @@ You have greater luck than other characters.  You gain +2 to both your Base and 
 
 ### Rogue Skills
 For specific skill checks, Rogues gain an additional bonus beyond the normal **Skill Bonus**.
-- Climb & Slight of Hand: +2
+- Climb & Sleight of Hand: +2
 - Lock-Picking, Search, Stealth & Trap Handling: +1
 
 ### Sneak Attack
@@ -79,6 +79,12 @@ Unless specified otherwise, each knack may only be taken once.
 
 **Assassin**: You do an additional +1d4 damage with your [Sneak Attack](#sneak-attack) ability.
 
+**Clue Hound**: You have **Advantage** on Search checks.
+
+**Code-breaker**: You have **Advantage** on checks to decipher secret codes and unknown languages.
+
+**Counterfeiter**: You have Advantage on rolls to spot or create forgeries.
+
 **Distracting Defense**: You are good at misdirection and add your **Charisma Bonus** to your AC so long as you are not wearing medium or heavy armor.  Cannot be combined with **Intelligent Defense**.
 
 **Intelligent Defense**: You are good at recognizing danger and knowing how best to avoid it. Add your **Intelligence Bonus** to your AC so long as you are not wearing medium or heavy armor.  Cannot be combined with **Distracting Defense**.
@@ -86,6 +92,10 @@ Unless specified otherwise, each knack may only be taken once.
 **Light Footed**: Gain +10 ft movement and move at full speed with no penalty to stealth so long as you are not wearing medium or heavy armor.
 
 **Master of Disguise**: Other characters have **Disadvantage** on checks to see through your disguise and you have **Advantage** on checks to see through someone else’s disguise.
+
+**Master of Locks**: You have **Advantage** on Lock-picking rolls.
+
+**Master of Traps**:  You have **Advantage** on Trap Handling rolls.
 
 **Poisoner**: If you poison a target, that target has **Disadvantage** on their **Saving Throw** to resist the poison's effects.  Additionally, you have **Advantage** on your own **Saving Throws** to resist poison.
 
@@ -95,24 +105,76 @@ Unless specified otherwise, each knack may only be taken once.
 
 **Skulker**: While in dim lighting conditions, you have **Advantage** on stealth checks.   Additionally, dim lighting does not impose **Disadvantage** on your own perception checks.
 
-**Trap Sense**: You take half damage from traps.
+**Sleight of Hand Expert**: You have **Advantage** on Sleight of Hand checks.
+
+**Trap Sense**: You have **Advantage** on Perception rolls to spot traps and you take half damage from traps.
 
 **Watchful**: So long as you are conscious, you have **Advantage** on perception rolls to spot an ambush and you are never considered “unaware” of attacks.
 
 ### Sample Rogue Builds
 - **Assassin** 
-	- Knack – Poisoner
-	- Trait - [Unassuming](Traits.md#unassuming)
+	- 1st Level: Poisoner, [Unassuming](Traits.md#unassuming)
+	- 2nd Level: [Actor](Traits.md#actor)
+	- 3rd Level: Assassin
+	- 5th Level: Master of Disguise
+	- 6th Level: [Panther's Grace](Traits.md#panthers-grace)
+	- 7th Level: Skulker
+	- 9th Level: Quick Reflexes
+	- 10th Level: [Alert](Traits.md#alert)
+	- 11th Level: Trap Sense
+	- 13th Level: Distracting Defense or Intelligent Defense
+	- 14th Level: [Watchful](Traits.md#watchful)
+	- 15th Level: Light Footed
 - **Bard** 
-	- Knack – Distracting Defense
-	- Trait - [Linguist](Traits.md#linguist)
+	- 1st Level: Distracting Defense, [Linguist](Traits.md#linguist)
+	- 2nd Level: [Friendly Face](Traits.md#friendly-face)
+	- 3rd Level: Code-Breaker
+	- 5th Level: Watchful
+	- 6th Level: [Actor](Traits.md#actor)
+	- 7th Level: Light Footed
+	- 9th Level: Quick Reflexes
+	- 10th Level: [Charming](Traits.md#charming)
+	- 11th Level: Trap Sense
+	- 13th Level: Skulker
+	- 14th Level: [Learned](Traits.md#learned)
+	- 15th Level: Second Story Work
 - **Burglar** 
-	- Knack – Skulker
-	- Trait - [Gifted Climber](Traits.md#gifted-climber)
+	- 1st Level: Skulker, [Unassuming](Traits.md#unassuming)
+	- 2nd Level: [Agile](Traits.md#agile)
+	- 3rd Level: Second Story Work
+	- 5th Level: Master of Locks
+	- 6th Level: [Always Prepared](Traits.md#always-prepared)
+	- 7th Level: Trap Sense
+	- 9th Level: Master of Traps
+	- 10th Level: [Great Fortune](Traits.md#great-fortune)
+	- 11th Level: Distracting Defense or Intelligent Defense
+	- 13th Level: Clue Hound
+	- 14th Level: [Merchant's Eye](Traits.md#merchants-eye)
+	- 15th Level: Light Footed
 - **Mountebank** 
-	- Knack – Master of Disguise
-	- Trait - [Friendly Face](Traits.md#friendly-face)
+	- 1st Level: Master of Disguise, [Friendly Face](Traits.md#friendly-face)
+	- 2nd Level: [Actor](Traits.md#actor)
+	- 3rd Level: Counterfeiter
+	- 5th Level: Watchful
+	- 6th Level: [Linguist](Traits.md#linguist)
+	- 7th Level: Sleight of Hand Expert
+	- 9th Level: Code-Breaker
+	- 10th Level:  [Charming](Traits.md#charming)
+	- 11th Level: Light-Footed
+	- 13th Level: Quick Reflexes
+	- 14th Level: [Merchant's Eye](Traits.md#merchants-eye)
+	- 15th Level: Distracting Defense
 - **Scout** 
-	- Knack – Watchful
-	- Trait - [Child of the (Terrain)](Traits.md#child-of-the-terrain)
+	- 1st Level: Watchful, [Child of the (Terrain)](Traits.md#child-of-the-terrain)
+	- 2nd Level: [Survivalist](Traits.md#survivalist)
+	- 3rd Level: Skulker
+	- 5th Level: Distracting Defense or Intelligent Defense
+	- 6th Level: [Unassuming](Traits.md#unassuming)
+	- 7th Level: Light-Footed
+	- 9th Level: Clue Hound
+	- 10th Level: [Alert](Traits.md#alert)
+	- 11th Level: Assassin
+	- 13th Level: Trap Sense
+	- 14th Level: [Catch Your Breath](Traits.md#catch-your-breath)
+	- 15th Level: Quick Reflexes
 

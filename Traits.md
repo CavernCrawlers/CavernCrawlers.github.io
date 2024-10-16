@@ -11,6 +11,7 @@ Unless otherwise noted, each trait may only be taken once.
 	- [Agile](#agile)
 	- [Alert](#alert)
 	- [Always Prepared](#always-prepared)
+	- [Animal Companion](#animal-companion)
 	- [Armor Training (light, medium or heavy)](#armor-training-light-medium-or-heavy)
 	- [Brawny](#brawny)
 	- [Broad Skills](#broad-skills)
@@ -54,6 +55,7 @@ Unless otherwise noted, each trait may only be taken once.
 	- [Panther’s Grace](#panthers-grace)
 	- [Unarmed Combat](#unarmed-combat)
 - [Spellcasting Traits](#spellcasting-traits)
+	- [Familiar](#familiar)
 	- [Flexible Ritualist](#flexible-ritualist)
 	- [Potent Magic](#potent-magic)
 	- [Practiced Ritual](#practiced-ritual)
@@ -93,6 +95,8 @@ Your character is always on the lookout for danger.  She gains +1 **Initiative**
 
 ### Always Prepared 
 Your character often has unusual but helpful objects at hand. He may spend a **Fortune Point** to have any item he might have reasonably procured along the way and which could fit in his bag.
+
+### Animal Companion
 
 ### Armor Training (light, medium or heavy)
 Your character understands how to move in a particular weight of armor effectively.  They must have light armor training before they can take medium.  They must have medium armor training before they can take heavy.
@@ -226,6 +230,9 @@ Your character is dangerous even without a weapon in her hand. Her unarmed comba
 ## Spellcasting Traits
 
 Most of these **Traits** are only available to characters who possess the ability to utilize **Magical Arts**.  The exception is the [Touched by Magic](#touched-by-magic) trait, which will then qualify the character for other traits of this type.
+
+### Familiar
+
 
 ### Flexible Ritualist
 Your character casts **Rituals** in ways different from other mages. You may pick two Rituals and change which **Ability Score** is associated with **Checks** for casting those Rituals. You may choose **Intelligence**, **Wisdom**, or **Charisma** for the **Invocation Checks**, and need not necessarily choose the same Ability Score for each ritual. You are not required to pick both Rituals when this trait is gained, and may instead “hold” some of your picks for later Rituals.  This trait may be taken multiple times, applying to different Rituals each time.
