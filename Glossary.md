@@ -17,6 +17,9 @@ An adventuring profession.  Either [Fighter](Fighter.md), [Rogue](Rogue.md), [Sp
 ## Concealed Door
 A type of [Hidden Door](#Hidden-Door) that is simply obscured behind some other object.
 
+## Concentration
+This is the act of concentrating on a spell (or other activity that requires intense concentration).  Concentration may be lost by the character taking damage or other possible distractions.
+
 ## Core Class
 This is one of the three core (aka single) classes: [Fighter](#Fighter.md), [Rogue](#Rogue.md) and [Spellcaster](#Spellcaster.md).
 

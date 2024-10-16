@@ -18,7 +18,7 @@
 - **HP after level 10:** +1 per level.
 - **Initiative Bonus**: +0
 - **Armor Training**: None
-- **Weapon Training**: Light weapons
+- **Weapon Training**: Light weapons & Staffs
 
 ## Equipment
 - a Mage's Pack or Explorer's Pack
@@ -39,7 +39,7 @@ As part of your apprenticeship, you created a unique magical focus to aid in you
 Spellcasters also frequently inscribe runes that they know into their spellcasting focus so that they are immediately on-hand when casting spells.
 
 ### Spellcasting
-You can harness the power of magic.  A mage begins their career knowing two cantrips and two **Rank 1** spells.  You may not cast a spell of a Rank higher than shown in the table below.
+You can harness the power of magic.  A mage begins their career knowing two cantrips and two **Rank 1** spells.  You may not cast a spell of a Tier higher than shown in the table below.
 
 ### Sense Magic
 Being sensitive to the world of magic, you may determine if a person, place or thing is magical with a **Skilled** **Intelligence** check.  Doing so requires concentration and a full minute; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a mage is staring at them.  You can also attempt to decipher magical writing in the same way.

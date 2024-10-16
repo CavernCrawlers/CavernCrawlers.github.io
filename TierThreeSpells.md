@@ -330,13 +330,13 @@ The caster may send a brief (25 words or less) mental message directly to the ta
 - **Runes:** Time
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
-- **Range:** Close
+- **Range:** Touch
 - **Area:** 1 Creature
 - **Duration:** 1 minute
 - **Save:** Evasion 14+
 - **Components:** Gestures & Incantations
 
-The touched creature now moves at half its normal speed, loses -3 initiative, loses its Reaction and may only make 1 attack when taking the Attack action.  The target creature may repeat its save at the end of each of its turns to end the effect early.
+The touched creature now moves at half its normal speed, loses -3 initiative, loses its Reaction and may only make 1 attack when taking the Attack action.  Additionally, the creature has Disadvantage on all Evasion saves and they lose their Dexterity bonus to their AC (if positive).  The target creature may repeat its save at the end of each of its turns to end the effect early.
 
 *Upcasting*
 
