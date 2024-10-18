@@ -106,8 +106,6 @@ Unless stated otherwise, each knack may only be taken once.
 
 **Mighty Warrior**: You gain the [Combat Exploit](Fighter.md#combat-exploits) ability at a target of 14+.  This target number is lowered by 1 each time you would gain a new Knack.
 
-**Shield Master**: While wielding a shield, you may add your shield bonus to your **Evasion** and you increase your AC bonus from shields by +1.
-
 **Skirmisher**: Gain +1 **Initiative**, +5 feet movement and +1 AC vs **Attacks of Opportunity** so long as you are not wearing _heavy_ armor.
 
 **Weapon Specialization**:  Pick a weapon. Your character receives a +1 to hit and +2 damage bonus while wielding this weapon. If this talent is taken at 1st level, your character begins the game with this weapon for free.  This knack may be taken more than once, applying to a different weapon each time.

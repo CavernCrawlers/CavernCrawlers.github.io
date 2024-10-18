@@ -30,7 +30,7 @@ Rank 1 spells have a **Casting Difficulty** of 4.
 - **Range:** Near
 - **Area:** 1 spirit
 - **Duration:** Instant
-- **Save:** Spirit (10+)
+- **Save:** Spirit 10+
 - **Components:** Gestures & Incantations
 
 The spellcaster performs a rite of banishing, and attempts to send a single incorporeal spirit back to its home realm. If the target fails its saving throw it is immediately returned to its home realm. This spell only affects spirits not of the mortal world who have found their way here from another dimension.
@@ -88,7 +88,7 @@ Additional arrows may be conjured at a rate of +1 arrow per +1 Rank. Each arrow 
 
 ## Beauty's Bane
 - **Tier:** 1st (3+)
-- **Runes:** A rune matching the target creature type.
+- **Runes:** A form rune matching the target creature type.
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 minute
 - **Range:** Near
@@ -110,7 +110,7 @@ This curse makes the target repulsive both physically and spiritually.  The affl
 
 ## Calm
 - **Tier:** 1st (3+)
-- **Runes:** A rune matching the target creature type.
+- **Runes:** A form rune matching the target creature type.
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -130,7 +130,7 @@ This calms the targeted creature's emotions and will remove the [Frightened](Com
 
 ## Charm
 - **Tier:** 1st (3+)
-- **Runes:** A rune matching the target creature type.
+- **Runes:** A form rune matching the target creature type.
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -222,9 +222,9 @@ This spell fills a 5 ft cube with impenetrable mist or shadows, blocking normal 
 
 ## Heal Wounds
 - **Tier:** 1st (3+)
-- **Runes:** A rune matching the target creature type.
+- **Runes:** A form or elemental rune matching the target creature type.
 - **Casting Ability:** Wisdom
-- **Casting Time:** 1 action
+- **Casting Time:** 1 minute
 - **Range:** Touch
 - **Area:** 1 Creature
 - **Duration:** instant
@@ -323,7 +323,7 @@ This purification ritual causes all food and drink within the affected area to b
 
 ## Read Language
 - **Tier:** 1st (3+)
-- **Runes:** Thought or Truth
+- **Runes:** Truth
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Personal

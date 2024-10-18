@@ -95,6 +95,10 @@ Unless stated otherwise, each knack may only be taken once.
 
 **Charger**: If you perform the charge maneuver, add +2 to your damage rolls.
 
+**Cleave**: Immediately after one of your attacks drops a foe to 0 HP, you may make another attack.  If you have movement remaining, you may move between attacks.
+
+**Indomitable**: +1 to all **Saving Throws**.
+
 **Intelligent Defense**: Your good at recognizing danger and know how best to avoid it. Add your **Intelligence Bonus** to your AC so long as you are not wearing medium or heavy armor. Cannot be combined with **Distracting Defense**.
 
 **Mighty Warrior**: If you do not have the [Combat Exploit](#combat-exploit) ability, you gain the Combat Exploit ability.  You may not take this knack at 1st level.

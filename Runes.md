@@ -2,7 +2,7 @@
 
 It is believed by many that runes represent the language the gods used in the creation of the cosmos.  This is the reason some believe that magic is solely the provenance of the gods and that mortal casters are committing blasphemy by practicing magic. Regardless of their true nature, it is runes that empower magic.
 
-[Full spellcasters](Glossary.md#full-class) begin play knowing Charisma Modifier + 1 (minimum 1) runes.  [Hybrid spellcasters](Glossar.md#hybrid-class)) begin play with just Charisma Modifier (minimum 1) runes.  More must be discovered in play.
+[Full spellcasters](Glossary.md#full-class) begin play knowing Charisma Modifier + 1 (minimum 2) runes.  [Hybrid spellcasters](Glossar.md#hybrid-class)) begin play with just Charisma Modifier (minimum 1) runes.  More must be discovered in play.
 
 ## Rune List
 This is not a comprehensive list of every rune in existence.  These are some that are more commonly known of by spellcasters.

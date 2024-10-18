@@ -211,7 +211,7 @@ If used on an inanimate object, 1 Tiny area of material will be made whole.  Thi
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Touch
-- **Area:** Up to 10 square feet.
+- **Area:** Large
 - **Duration:** Instant
 - **Save:** none
 - **Components:** Gestures & Incantations
