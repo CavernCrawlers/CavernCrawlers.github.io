@@ -139,7 +139,7 @@ With a touch, words of encouragement and a small investment of magic, a mage can
 
 ## Mage Hand
 - **Tier:** Cantrip (0+)
-- **Runes:** Air
+- **Runes:** Air or Spirit
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near

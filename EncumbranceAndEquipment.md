@@ -94,7 +94,7 @@ The weapon tables below are not meant to be exhaustive, but represent those most
 - **Finesse**: When used in melee, this weapon may use either **Dexterity** or **Strength** for attack and damage bonuses.
 - **Flexible**: This weapon ignores the target's AC bonus from shields and weapons with the **Defensive** property.
 - **Hurlant**: This weapon may be thrown to a range of [Near](#ranges) using either **Strength** or **Dexterity** for attack and damage bonuses.
-- **Impact**: On a **Critical Hit** the target suffers the effects of a [Pushback](CombatExploit.md#pushback).
+- **Impact**: On a **Critical Hit** the target suffers the effects of a [Pushback](draft/CombatManeuver.md#pushback).
 - **Mounted**: This weapon requires 2-hands when used on foot, but only 1 hand when mounted. Additionally, it does double damage on a mounted **Charge Maneuver**.
 - **Reach**: This weapon can be used for melee attacks against targets out to 10ft and can be used from the 2nd rank.
 - **Reload**: This weapon must be reloaded after each use, requiring an **Action**.
@@ -317,7 +317,7 @@ For convenience the following equipment packs exist as pre-build packages at a d
 | Pack            |  Cost | Contents | 
 |:----------------|------:|:---------|
 | Explorer's Pack |  50sp | backpack, practical clothes, heavy cloak, bedroll, mess kit, tinderbox, 10 torches, 1 week’s rations, 50ft rope, leather armor, one light weapon and one medium weapon. |
-| Mage's Pack     | 100sp | backpack, common robes, spellbook, many pouches, the components for a single **Rank** 1 **ritual**, and a light weapon. |
+| Mage's Pack     | 100sp | backpack, common robes, spellbook, many pouches, a magical focus, and a light weapon. |
 | Rogue's Pack    |  80sp | backpack, dark clothing, sack, 10 candles, crowbar, hammer, 10 pitons, hooded lantern, 2 flasks of oil, tinderbox, lockpicks, 50ft rope, leather armor, 1 light weapon and 1 medium weapon. |
 | Warrior's Pack  |  90sp | backpack, common clothing, tinderbox, tools for arms and armor maintenance, a light weapon and scale mail; plus either 2 weapons or a weapon and shield. |
 

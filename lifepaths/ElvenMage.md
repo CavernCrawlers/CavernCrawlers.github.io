@@ -1,249 +1,19 @@
+---
+cssclass: clean-embeds
+---
 # The Elven Mage
 ## (Spellcaster)
-Tutored from a young age in your peoples’ magic, you can call forth many wonders.  You’ve watched the rise of the younger races and are filled with a mixture of hope and dread.  You’ve gone forth into their world hoping to tame some of their recklessness yet acquire some of their vigor.
+Tutored from a young age in your peoples’ magic, you can call forth many wonders.  You’ve watched the rise of the younger races and are filled with a mixture of hope and dread.  You’ve gone forth into their world hoping to tame some of their recklessness yet acquire some of their vigor.  You gain access to the [Wizard's Apprentice](Background.md#wizards-apprentice) background.
 
 ## Childhood
 You have a gift for sorcery and diplomacy. Your Intelligence and Charisma begins at 10, and all of your other ability scores begin at 8.
 
 ### How did you come to the lands of humans?
-<table>
-	<tr>
-		<td align="center"><b>d12</b></td>
-		<td align="left"><b>Before the rise of humans, where did your elven family of old make its home?</b></td>
-		<td align="center"><b>STR</b></td>
-		<td align="center"><b>DEX</b></td>
-		<td align="center"><b>CON</b></td>
-		<td align="center"><b>INT</b></td>
-		<td align="center"><b>WIS</b></td>
-		<td align="center"><b>CHA</b></td>
-	</tr>
-	<tr>
-		<td align="center">1</td>
-		<td>They lived atop the trees in a hidden glade.</td>
-		<td align="center">+1</td><!--STR-->
-		<td align="center">+1</td><!--DEX-->
-		<td align="center">+1</td><!--CON-->
-		<td align="center">+0</td><!--INT-->
-		<td align="center">+2</td><!--WIS-->
-		<td align="center">+0</td><!--CHA-->
-	</tr>
-	<tr>
-		<td align="center">2</td>
-		<td>They ruled from slender towers of arcane construction.</td>
-		<td align="center">+0</td><!--STR-->
-		<td align="center">+1</td><!--DEX-->
-		<td align="center">+0</td><!--CON-->
-		<td align="center">+2</td><!--INT-->
-		<td align="center">+1</td><!--WIS-->
-		<td align="center">+1</td><!--CHA-->
-	</tr>
-	<tr>
-		<td align="center">3</td>
-		<td>They sailed delicate craft on a clear river.</td>
-		<td align="center">+1</td><!--STR-->
-		<td align="center">+1</td><!--DEX-->
-		<td align="center">+0</td><!--CON-->
-		<td align="center">+1</td><!--INT-->
-		<td align="center">+1</td><!--WIS-->
-		<td align="center">+1</td><!--CHA-->
-	</tr>
-	<tr>
-		<td align="center">4</td>
-		<td>They dwelt beneath the earth with other sorts of fae beings.</td>
-		<td align="center">+1</td><!--STR-->
-		<td align="center">+0</td><!--DEX-->
-		<td align="center">+2</td><!--CON-->
-		<td align="center">+1</td><!--INT-->
-		<td align="center">+1</td><!--WIS-->
-		<td align="center">+0</td><!--CHA-->
-	</tr>
-	<tr>
-		<td align="center">5</td>
-		<td>They roamed open grasslands, hunting the beasts that grazed there.</td>
-		<td align="center">+0</td><!--STR-->
-		<td align="center">+2</td><!--DEX-->
-		<td align="center">+1</td><!--CON-->
-		<td align="center">+0</td><!--INT-->
-		<td align="center">+2</td><!--WIS-->
-		<td align="center">+0</td><!--CHA-->
-	</tr>
-	<tr>
-		<td align="center">6</td>
-		<td>They were the high elves, and ruled a court of the fae in the heart of the forest.</td>
-		<td align="center">+0</td><!--STR-->
-		<td align="center">+1</td><!--DEX-->
-		<td align="center">+1</td><!--CON-->
-		<td align="center">+0</td><!--INT-->
-		<td align="center">+1</td><!--WIS-->
-		<td align="center">+2</td><!--CHA-->
-	</tr>
-	<tr>
-		<td align="center">7</td>
-		<td>They dwelt always near humans, making friends more easily than others of their kind.</td>
-		<td align="center">+0</td><!--STR-->
-		<td align="center">+1</td><!--DEX-->
-		<td align="center">+1</td><!--CON-->
-		<td align="center">+0</td><!--INT-->
-		<td align="center">+1</td><!--WIS-->
-		<td align="center">+2</td><!--CHA-->
-	</tr>
-	<tr>
-		<td align="center">8</td>
-		<td>They lived far to the north in glistening spires of icy rock.</td>
-		<td align="center">+0</td><!--STR-->
-		<td align="center">+0</td><!--DEX-->
-		<td align="center">+2</td><!--CON-->
-		<td align="center">+2</td><!--INT-->
-		<td align="center">+1</td><!--WIS-->
-		<td align="center">+0</td><!--CHA-->
-	</tr>
-	<tr>
-		<td align="center">9</td>
-		<td>Your people always wandered, never staying long in one place.</td>
-		<td align="center">+1</td><!--STR-->
-		<td align="center">+2</td><!--DEX-->
-		<td align="center">+0</td><!--CON-->
-		<td align="center">+1</td><!--INT-->
-		<td align="center">+1</td><!--WIS-->
-		<td align="center">+0</td><!--CHA-->
-	</tr>
-	<tr>
-		<td align="center">10</td>
-		<td>Their constant companions were the beasts of the wilderness, with whom they lived in simple harmony.</td>
-		<td align="center">+1</td><!--STR-->
-		<td align="center">+2</td><!--DEX-->
-		<td align="center">+0</td><!--CON-->
-		<td align="center">+0</td><!--INT-->
-		<td align="center">+1</td><!--WIS-->
-		<td align="center">+1</td><!--CHA-->
-	</tr>
-	<tr>
-		<td align="center">11</td>
-		<td>They built great hidden libraries and stored the world’s forgotten knowledge.</td>
-		<td align="center">+0</td><!--STR-->
-		<td align="center">+1</td><!--DEX-->
-		<td align="center">+0</td><!--CON-->
-		<td align="center">+2</td><!--INT-->
-		<td align="center">+1</td><!--WIS-->
-		<td align="center">+1</td><!--CHA-->
-	</tr>
-	<tr>
-		<td align="center">12</td>
-		<td>Their home was a great city, the likes of which the earth will never see again.</td>
-		<td align="center">+1</td><!--STR-->
-		<td align="center">+1</td><!--DEX-->
-		<td align="center">+0</td><!--CON-->
-		<td align="center">+1</td><!--INT-->
-		<td align="center">+1</td><!--WIS-->
-		<td align="center">+1</td><!--CHA-->
-	</tr>
-	<tr><td colspan=8><b>Please note the general direction and distance to your homelands on the kingdom map.</b></td></tr>
-</table>
+![](Birthright.md#elven)
 
-| d8 | What caused you to leave the other elves?                                                     | STR | DEX | CON | INT | WIS | CHA |
-|:--:|:----------------------------------------------------------------------------------------------|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1  | Your family was slain by wild, {name} from the north.                                         | +2  |  +0 |  +0 |  +0 |  +1 |  +0 |
-| 2  | Simple curiosity led you far from home.                                                       | +0  |  +0 |  +0 |  +1 |  +0 |  +2 |
-| 3  | Being a kindhearted soul, you believe that humans and elves can help one another.             | +0  |  +0 |  +0 |  +2 |  +1 |  +0 |
-| 4  | You wanted to seek knowledge which your own people did not have.                              | +0  |  +0 |  +0 |  +2 |  +1 |  +0 |
-| 5  | You decided that the age of humans had arrived, and wanted to be a part of their great deeds. | +0  |  +0 |  +1 |  +0 |  +2 |  +0 |
-| 6  | You were confident that your unusual skills would help you earn your way among humans.        | +0  |  +2 |  +0 |  +1 |  +0 |  +0 |
-| 7  | You wanted to confront the ancient enemies of your people.&nbsp; Who were they?               | +1  |  +0 |  +1 |  +1 |  +0 |  +0 |
-| 8  | Most of your enclave journeyed to far away lands.                                             | +0  |  +1 |  +0 |  +1 |  +1 |  +0 |  
+![](LeavingHomeland.md#elven)
 
-<table>
-	<tr>
-		<td align="center"><b>d8</b></td>
-		<td><b>When you left your own people, you found it difficult to live with humans. However, the other PCs became your fast friends. Who else became your friend?</b></td>
-		<td align="center"><b>STR</b></td>
-		<td align="center"><b>DEX</b></td>
-		<td align="center"><b>CON</b></td>
-		<td align="center"><b>INT</b></td>
-		<td align="center"><b>WIS</b></td>
-		<td align="center"><b>CHA</b></td>
-	</tr>
-	<tr>
-		<td align="center">1</td>
-		<td>The blacksmith was kind to you, and you often sat at his forge, trading stories.</td>
-		<td align="center">+2</td><!--STR-->
-		<td align="center">+0</td><!--DEX-->
-		<td align="center">+0</td><!--CON-->
-		<td align="center">+0</td><!--INT-->
-		<td align="center">+0</td><!--WIS-->
-		<td align="center">+1</td><!--CHA-->
-	</tr>
-	<tr>
-		<td align="center">2</td>
-		<td>The hunters taught you much human woodcraft, and learned much of yours.</td>
-		<td align="center">+0</td><!--STR-->
-		<td align="center">+2</td><!--DEX-->
-		<td align="center">+0</td><!--CON-->
-		<td align="center">+0</td><!--INT-->
-		<td align="center">+1</td><!--WIS-->
-		<td align="center">+0</td><!--CHA-->
-	</tr>
-	<tr>
-		<td align="center">3</td><!--Roll-->
-		<td>Most humans found you too strange, and were frightened of you. You spent much time alone.</td>
-		<td align="center">+0</td><!--STR-->
-		<td align="center">+0</td><!--DEX-->
-		<td align="center">+1</td><!--CON-->
-		<td align="center">+1</td><!--INT-->
-		<td align="center">+1</td><!--WIS-->
-		<td align="center">+0</td><!--CHA-->
-	</tr>
-	<tr>
-		<td align="center">4</td><!--Roll-->
-		<td>One of the human elders told you ancient stories of dwarves and men.</td>
-		<td align="center">+0</td><!--STR-->
-		<td align="center">+0</td><!--DEX-->
-		<td align="center">+0</td><!--CON-->
-		<td align="center">+2</td><!--INT-->
-		<td align="center">+1</td><!--WIS-->
-		<td align="center">+0</td><!--CHA-->
-	</tr>
-	<tr>
-		<td align="center">5</td><!--Roll-->
-		<td>{Grandmother/Grandfather} Weaver said you were not the first elf {he/she} had met.</td>
-		<td align="center">+0</td><!--STR-->
-		<td align="center">+1</td><!--DEX-->
-		<td align="center">+0</td><!--CON-->
-		<td align="center">+0</td><!--INT-->
-		<td align="center">+2</td><!--WIS-->
-		<td align="center">+0</td><!--CHA-->
-	</tr>
-	<tr>
-		<td align="center">6</td><!--Roll-->
-		<td>Shockingly, you had a tryst with a young, beautiful human.</td>
-		<td align="center">+0</td><!--STR-->
-		<td align="center">+0</td><!--DEX-->
-		<td align="center">+1</td><!--CON-->
-		<td align="center">+0</td><!--INT-->
-		<td align="center">+0</td><!--WIS-->
-		<td align="center">+2</td><!--CHA-->
-	</tr>
-	<tr>
-		<td align="center">7</td><!--Roll-->
-		<td>You served your time with a human militia, aiding them in the protection of their lands.</td>
-		<td align="center">+1</td><!--STR-->
-		<td align="center">+0</td><!--DEX-->
-		<td align="center">+1</td><!--CON-->
-		<td align="center">+0</td><!--INT-->
-		<td align="center">+0</td><!--WIS-->
-		<td align="center">+1</td><!--CHA-->
-	</tr>
-	<tr>
-		<td align="center">8</td><!--Roll-->
-		<td>The old witch was fascinated by you, and the two of you would trade secrets.</td>
-		<td align="center">+0</td><!--STR-->
-		<td align="center">+1</td><!--DEX-->
-		<td align="center">+0</td><!--CON-->
-		<td align="center">+1</td><!--INT-->
-		<td align="center">+1</td><!--WIS-->
-		<td align="center">+0</td><!--CHA-->
-	</tr>
-	<tr><td colspan=8><b>Please add the above NPC to the village and describe them.</b></td></tr>
-</table>
+![](VillageFriend.md#elf)
 
 ### How has the threat of {threat} affected your childhood?
 Pick one of the campaign threats and roll on the related Character History Table.
@@ -426,20 +196,21 @@ The elven spell-weavers taught you the language of creation.  You become a level
 </table>
 
 ## Fill out your sheet.
-1. Record your name, background, class and level.
-2. Record your species and the [features](Elf.md#features) that come from it.
-3. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
-4. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Elven Mage begins with the following equipment: your background trappings, a backpack, elvish robes, a spellbook, many pouches, a light weapon, 4d6sp and the equipment you rolled above.
-5. Write down your starting [cantrips](TierZeroSpells.md).
-6. Write down your starting [spells](TierOneSpells.md).
-7. Write down your starting [runes](Runes.md).  If you rolled the same rune multiple times, you may replace the duplicate(s) with different runes of the same type.
-8. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
-9. Your Base Attack Bonus comes from your class. As a level 1 Spellcaster, you have a BAB of +0.
-10. Your Skill bonus comes from your class.  As a level 1 Spellcaster, you have a SB of +1.
-11. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a Spellcaster.
-12. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-13. As an Elven Spellcaster, your Base and Max Fortune Points are both 1.
-14. Your starting Hit Points equal to 4 plus your Constitution Modifier.
-15. Fill in your [Saving Throws](Spellcaster.md#spellcaster-saving-throws) using the chart in the Spellcaster document.
-16. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
+1. Record your name, class and level.
+2. Pick your background form those that have become available during your Lifepath.
+3. Record your species and the [features](Elf.md#features) that come from it.
+4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
+5. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Elven Mage begins with the following equipment: your background trappings, a backpack, elvish robes, a spellbook, many pouches, a light weapon, 4d6sp and the equipment you rolled above.
+6. Write down your starting [cantrips](TierZeroSpells.md).
+7. Write down your starting [spells](TierOneSpells.md).
+8. Write down your starting [runes](Runes.md).  If you rolled the same rune multiple times, you may replace the duplicate(s) with different runes of the same type.
+9. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
+10. Your Base Attack Bonus comes from your class. As a level 1 Spellcaster, you have a BAB of +0.
+11. Your Skill bonus comes from your class.  As a level 1 Spellcaster, you have a SB of +1.
+12. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a Spellcaster.
+13. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
+14. As an Elven Spellcaster, your Base and Max Fortune Points are both 1.
+15. Your starting Hit Points equal to 4 plus your Constitution Modifier.
+16. Fill in your [Saving Throws](Spellcaster.md#spellcaster-saving-throws) using the chart in the Spellcaster document.
+17. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
 

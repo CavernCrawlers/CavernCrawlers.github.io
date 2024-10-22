@@ -35,8 +35,9 @@ For specific skill checks, Rogues gain an additional bonus beyond the normal Ski
 
 ### At 2nd level:
 
-#### Combat Exploits
-You gain the [Combat Exploits](Fighter.md#combat-exploits) class ability.
+#### Combat Maneuvers
+You gain the Fighter's Combat Maneuvers ability.
+![Combat Maneuvers](Fighter.md#combat-maneuvers)
 
 If you take this as a class ability, you may not also take the Sneak Attack ability.
 
@@ -101,7 +102,7 @@ Unless stated otherwise, each knack may only be taken once.
 
 **Intelligent Defense**: Your good at recognizing danger and know how best to avoid it. Add your **Intelligence Bonus** to your AC so long as you are not wearing medium or heavy armor. Cannot be combined with **Distracting Defense**.
 
-**Mighty Warrior**: If you do not have the [Combat Exploit](#combat-exploit) ability, you gain the Combat Exploit ability.  You may not take this knack at 1st level.
+**Mighty Warrior**: If you do not have the [Combat Maneuvers](#combat-maneuvers) ability, you gain the Combat Maneuvers ability.  You may not take this knack at 1st level.
 
 **Mighty Shot**: If you already have the **Mighty Deed** ability, you may use the Mighty Deed ability with ranged attacks.
 

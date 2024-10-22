@@ -6,39 +6,39 @@
 	- [Acolyte](#acolyte)
 	- [Alchemist](#alchemist)
 	- [Animal Handler](#animal-handler)
-	- [Apothecary/Healer](#apothecaryhealer)
+	- [Apothecary](#apothecary)
 	- [Artisan](#artisan)
-	- [Barrister/Advocate](#barristeradvocate)
+	- [Barrister](#barrister)
 	- [Butcher](#butcher)
-	- [Charcoal Burner/Woodcutter](#charcoal-burnerwoodcutter)
-	- [Clerk/Scribe](#clerkscribe)
-	- [Con Artist/Mountebank](#con-artistmountebank)
+	- [Clerk](#clerk)
+	- [Mountebank](#mountebank)
 	- [Courtier](#courtier)
-	- [Criminal/Spy](#criminalspy)
+	- [Criminal](#criminal)
 	- [Cult Initiate](#cult-initiate)
-	- [Farmer/Gardener](#farmergardener)
-	- [Forester/Ranger](#foresterranger)
+	- [Entertainer](#entertainer)
+	- [Farmer](#farmer)
+	- [Forester](#forester)
 	- [Fortune Teller](#fortune-teller)
 	- [Gambler](#gambler)
-	- [Guard/Mercenary/Soldier](#guardmercenarysoldier)
+	- [Soldier](#soldier)
 	- [Herbalist](#herbalist)
-	- [Hermit/Rustic](#hermitrustic)
-	- [Hunter/Trapper](#huntertrapper)
+	- [Hermit](#hermit)
+	- [Hunter](#hunter)
 	- [Jeweler](#jeweler)
-	- [Laborer/Teamster](#laborerteamster)
+	- [Laborer](#laborer)
 	- [Merchant](#merchant)
 	- [Miner](#miner)
-	- [Minstrel/Performer](#minstrelperformer)
-	- [Navigator/Scout](#navigatorscout)
 	- [Noble](#noble)
 	- [Politician](#politician)
-	- [Sailor/Fisher/Ferrier/Bargemaster](#sailorfisherferrierbargemaster)
-	- [Scholar/Sage](#scholarsage)
+	- [Sage](#sage)
+	- [Sailor](#sailor)
+	- [Scout](#scout)
 	- [Smith](#smith)
 	- [Squire](#squire)
 	- [Stonemason](#stonemason)
-	- [Vagrant/Wanderer](#vagrantwanderer)
+	- [Wanderer](#wanderer)
 	- [Wizard’s Apprentice](#wizards-apprentice)
+	- [Woodcutter](#woodcutter)
 - [Why did you become an adventurer?](#why-did-you-become-an-adventurer)
 
 ## Background Career
@@ -55,39 +55,58 @@ The column used for the roll should be chosen based on the culture in which your
 |  Acolyte                                 |  01-03        |  01-02  |   01-03  |  01-02         |
 |  Alchemist                               |  04-05        |  03-04  |   04-05  |  03-04         |
 |  Animal Handler                          |  06-09        |  05-07  |   06-09  |  05-08         |
-|  Apothecary/Healer                       |  10-11        |  08-09  |   10-12  |  09-11         |
+|  Apothecary                              |  10-11        |  08-09  |   10-12  |  09-11         |
 |  Artisan                                 |  12-14        |  10-13  |   13-16  |  12-14         |
-|  Barrister/Advocate                      |  15-16        |  14-15  |   17-18  |  15-16         |
+|  Barrister                               |  15-16        |  14-15  |   17-18  |  15-16         |
 |  Butcher                                 |  17-19        |  16-18  |   19-20  |  17-19         |
-|  Charcoal Burner/<br/>Woodcutter         |  20-23        |  19-21  |   21-22  |  20-22         |
-|  Clerk/Scribe                            |  24-25        |  22-23  |   23-24  |  23-24         |
-|  Con Artist/<br/>Mountebank              |  26-28        |  24-25  |   25-26  |  25-27         |
+|  Woodcutter                              |  20-23        |  19-21  |   21-22  |  20-22         |
+|  Clerk                                   |  24-25        |  22-23  |   23-24  |  23-24         |
+|  Mountebank                              |  26-28        |  24-25  |   25-26  |  25-27         |
 |  Courtier                                |  29-30        |  26-27  |   27-29  |  28-29         |
-|  Criminal/Spy                            |  31-34        |  28-30  |   30-32  |  30-33         |
+|  Criminal                                |  31-34        |  28-30  |   30-32  |  30-33         |
 |  Cult Initiate                           |  35-36        |  31-32  |   33-34  |  34-36         |
-|  Farmer/Gardener                         |  37-40        |  33-35  |   35-37  |  37-40         |
-|  Forester/Ranger                         |  41-42        |    36   |   38-39  |  41-42         |
+|  Farmer                                  |  37-40        |  33-35  |   35-37  |  37-40         |
+|  Forester                                |  41-42        |    36   |   38-39  |  41-42         |
 |  Fortune Teller                          |  43-44        |  37-38  |   40-41  |  43-44         |
 |  Gambler                                 |  45-47        |  39-41  |   42-43  |  45-47         |
-|  Guard/Mercenary/<br/>Soldier            |  48-51        |  42-46  |   44-47  |  48-52         |
+|  Soldier                                 |  48-51        |  42-46  |   44-47  |  48-52         |
 |  Herbalist                               |  52-54        |  47-48  |   48-49  |  53-54         |
-|  Hermit/Rustic                           |  55-57        |  49-51  |   50-53  |  55-57         |
-|  Hunter/Trapper                          |  58-60        |  52-53  |   54-56  |  58-60         |
+|  Hermit                                  |  55-57        |  49-51  |   50-53  |  55-57         |
+|  Hunter                                  |  58-60        |  52-53  |   54-56  |  58-60         |
 |  Jeweler                                 |  61-63        |  54-58  |   57-60  |  61-63         |
-|  Laborer/Teamster                        |  64-68        |  59-64  |   61-64  |  64-67         |
+|  Laborer                                 |  64-68        |  59-64  |   61-64  |  64-67         |
 |  Merchant                                |  69-71        |  65-67  |   65-67  |  68-70         |
 |  Miner                                   |  72-75        |  68-73  |   68-71  |  71-74         |
-|  Minstrel/Performer                      |  76-78        |  74-76  |   72-75  |  75-77         |
-|  Navigator/Scout                         |  79-81        |  77-79  |   76-79  |  78-80         |
+|  Entertainer                             |  76-78        |  74-76  |   72-75  |  75-77         |
+|  Scout                                   |  79-81        |  77-79  |   76-79  |  78-80         |
 |  Noble                                   |  82           |  80     |   80     |  81            |
 |  Politician                              |  83           |  81     |   81     |  82            |
-|  Sailor/Fisher/<br/>Ferrier/Bargemaster  |  84-87        |  82-83  |   82-83  |  83-84         |
-|  Scholar/Sage                            |  88-89        |  84-85  |   84-86  |  52-86         |
+|  Sailor                                  |  84-87        |  82-83  |   82-83  |  83-84         |
+|  Sage                                    |  88-89        |  84-85  |   84-86  |  52-86         |
 |  Smith                                   |  90-92        |  86-90  |   87-90  |  87-90         |
 |  Squire                                  |  93           |  91     |   91-92  |  91            |
 |  Stonemason                              |  94-96        |  92-96  |   93-95  |  92-95         |
-|  Vagrant/Wanderer                        |  97-99        |  97-99  |   96-98  |  96-99         |
+|  Wanderer                                |  97-99        |  97-99  |   96-98  |  96-99         |
 |  Wizard's Apprentice                     |  100          |  100    |  99-100  |  100           |  
+
+## Focused Backgrounds
+In some cases it is not appropriate to have access to the full list of backgrounds.  The following table gives some examples of more focused lists.
+
+| d12 | Adventurer          | Aristocratic        | Educated            | Poor          | Servant            | Trade              | Wild           |
+|:---:|:--------------------|:--------------------|:--------------------|:--------------|:-------------------|:-------------------|:---------------|
+| 1   | Acolyte             | Alchemist           | Alchemist           | Acolyte       | Artisan            | Apothecary         | Animal Handler |
+| 2   | Mountebank          | Barrister           | Apothecary          | Butcher       | Butcher            | Artisan            | Healer (apothecary) |
+| 3   | Criminal            | Courtier            | Barrister           | Criminal      | Woodcutter         | Butcher            | Woodcutter     |
+| 4   | Cult Initiate       | Spy (criminal)      | Scribe (clerk)      | Cult Initiate | Clerk              | Mercenary (soldier) | Farmer         |
+| 5   | Ranger (forester)   | Gambler             | Jeweler             | Farmer        | Courtier           | Herbalist          | Herbalist      |
+| 6   | Gambler             | Solider             | Merchant            | Herbalist     | Gardener (farmer)  | Hunter             | Hermit         |
+| 7   | Mercenary (soldier) | Merchant            | Entertainer         | Hermit        | Forester           | Jeweler            | Hunter         |
+| 8   | Hunter              | Noble               | Navigator (scout)   | Hunter        | Guard (soldier)    | Merchant           | Laborer        |
+| 9   | Entertainer         | Politician          | Sage                | Laborer       | Laborer            | Miner              | Miner          |
+| 10  | Scout               | Sage                | Smith               | Miner         | Entertainer        | Entertainer        | Scout          |
+| 11  | Sailor              | Squire              | Stonemason          | Fisher (sailor) | Sage               | Smith              | Fisher (sailor) |
+| 12  | Wizard’s Apprentice | Wizard’s Apprentice | Wizard’s Apprentice | Vagrant       | Smith              | Stonemason         | Wanderer       |
+
 
 ## Background Career Descriptions
 
@@ -103,7 +122,7 @@ You brewed chemical concoctions for those who could afford them.
 You know animals. In fact, you probably like them better than you like most people.
 - **Trappings:** Whip, Rope, Grooming Kit, a Mule/Donkey, 5sp
 
-### Apothecary/Healer
+### Apothecary
 You learned how to tend the sick, bind wounds, set bones and correct other ailments.
 - **Trappings:** Dagger, Healer's Kit, Soap, 15sp
 
@@ -111,7 +130,7 @@ You learned how to tend the sick, bind wounds, set bones and correct other ailme
 You are a trained craftsperson; such as a leatherworker, cartwright, shipwright or similar.
 - **Trappings:** Dagger, Artisan's Tools for your profession, a letter of introduction from your former teacher, 10sp
 
-### Barrister/Advocate
+### Barrister
 You are versed in the law and how to represent both peasants and nobles before the courts.
 - **Trappings:** Dagger, Quill, Ink, Parchment (10 sheets), Book (laws), 10sp
 
@@ -119,23 +138,15 @@ You are versed in the law and how to represent both peasants and nobles before t
 You know how to safely butcher, store and prepare meat of various types.
 - **Trappings:** Cleaver, A bundle of 7 days' rations (mostly dried meats), 10sp
 
-### Charcoal Burner/Woodcutter
-You search the forests for quality trees for building or burning into charcoal.
-- **Trappings:** Hatchet, Firestarting Kit, 10sp
-
-### Clerk/Scribe
+### Clerk
 You know how to both read and write and how to draft contracts and other legal documents.  You gain literacy without having to spend a language choice on it.
 - **Trappings:** Dagger, Quill, Ink, Parchment (10 pages), 10sp
-
-### Con Artist/Mountebank
-You made a living by tricking people into giving you money for false promises or counterfeit goods.
-- **Trappings:** Dagger, tools for the con of your choice (bottles of colored liquid, weighted dice, marked cards or the like), 10sp
 
 ### Courtier
 You were a court functionary, attendant or some other personage known to the nobility though you are not of noble birth.
 - **Trappings:** Dagger, Excellent Quality Clothing, 10sp
 
-### Criminal/Spy
+### Criminal
 You're well acquainted with the seedy underbelly of society.
 - **Trappings:** Dagger, Crowbar or Disguise Kit, 10sp
 
@@ -143,11 +154,15 @@ You're well acquainted with the seedy underbelly of society.
 You were once initiated into a forbidden cult of worship.  Pick one of the [Chthonian](AllegiancesAndMorality.md#Chthonians), [Elemental](AllegiancesAndMorality.md#Elemental-Monarchs), [Qliphotic](AllegiancesAndMorality.md#Qliphotic) or [Derlethian](AllegiancesAndMorality.md#Derlethians) cults.  You may add your Skill Bonus to checks involving that panetheon.  You may make knowledge checks regarding other panetheons as a regular **Ability Check**.
 - **Trappings:** Athame (dagger), Book (cult lore), 10sp
 
-### Farmer/Gardener
+### Entertainer
+You sang, played an instrument, danced or performed in some other way for the entertainment of others.
+- **Trappings:** Dagger, Musical Instrument (or other performance tool), 10sp
+
+### Farmer
 You tended the land, understanding soil and seed.
 - **Trappings:** Pitchfork, a chicken (or other small farm animal), 10sp
 
-### Forester/Ranger
+### Forester
 You roamed the forests, watching for poachers and outlaws.
 - **Trappings:** Shortbow, 3d4 Arrows, 3 days rations, 5sp
 
@@ -159,19 +174,15 @@ Whether by astrology, palmistry, cards or some other means, you predicted people
 Games of chance are your bread and butter.
 - Starting Equipment: Dagger, a game of chance (cards, dice, etc), 5+2d6sp
 
-### Guard/Mercenary/Soldier
-You fought for a living, literally.
-- **Trappings:** A uniform, a weapon doing no more than 1d6 damage (such as a spear, mace, or short sword), 10sp
-
 ### Herbalist
 You know plants and their uses.
 - **Trappings:** Dagger, Herbs (healer's kit), 10sp
 
-### Hermit/Rustic
+### Hermit
 You lived far from others -- either in a sheltered community like a monastery or entirely alone.
 - **Trappings:** Quarterstaff, Prayer Book/Wheel, 10sp
 
-### Hunter/Trapper
+### Hunter
 You hunted animals for their meat and fur.
 - **Trappings:** Shortbow and 3d4 arrows or a Spear, Hunting Trap, 10sp
 
@@ -179,7 +190,7 @@ You hunted animals for their meat and fur.
 You worked on fine gems and jewelry.
 - **Trappings:** Dagger, Jeweler's Tools, a small gem worth 20sp
 
-### Laborer/Teamster
+### Laborer
 You performed hard manual labor.
 - **Trappings:** A Shovel or similar tool, 10sp.
 
@@ -191,13 +202,9 @@ You traded goods with anyone with coin or barter.
 You worked the mines, digging up precious stones and metals.
 - **Trappings:** Miner's Pick, Bundle of 3 Torches, 10sp.
 
-### Minstrel/Performer
-You sang, played an instrument, danced or performed in some other way for the entertainment of others.
-- **Trappings:** Dagger, Musical Instrument (or other performance tool), 10sp
-
-### Navigator/Scout
-You know the wilderness and how to lead others through it.
-- **Trappings:** 2 Handaxes, Bundle of 7 days rations, 5sp
+### Mountebank
+You made a living by tricking people into giving you money for false promises or counterfeit goods.
+- **Trappings:** Dagger, tools for the con of your choice (bottles of colored liquid, weighted dice, marked cards or the like), 10sp
 
 ### Noble
 You were born into or somehow else became a member of the aristocracy.
@@ -207,17 +214,25 @@ You were born into or somehow else became a member of the aristocracy.
 You served a mayor's office, village council or similar group of leaders.
 - **Trappings:** Dagger, Quill, Ink, 10 sheets of parchment, 10sp
 
-### Sailor/Fisher/Ferrier/Bargemaster
+### Sage
+You studied either in a formal university or apprenticed to a sage.
+- **Trappings:** Dagger, Quill, Ink, 10 sheets of parchment, Book of Lore (pick one subject), 5sp
+
+### Sailor
 You earned a living on the water (whether river, lake or sea).
 - **Trappings:** Belaying Pin (club), Rope (50 ft), 10sp
 
-### Scholar/Sage
-You studied either in a formal university or apprenticed to a sage.
-- **Trappings:** Dagger, Quill, Ink, 10 sheets of parchment, Book of Lore (pick one subject), 5sp
+### Scout
+You know the wilderness and how to lead others through it.
+- **Trappings:** 2 Handaxes, Bundle of 7 days rations, 5sp
 
 ### Smith
 You labored at the forge, shaping metal.
 - **Trappings:** Smith’s Hammer, Leather Apron, 10sp
+
+### Soldier
+You fought for a living, literally.
+- **Trappings:** A uniform, a weapon doing no more than 1d6 damage (such as a spear, mace, or short sword), 10sp
 
 ### Squire
 You were apprenticed to a knight.
@@ -227,13 +242,17 @@ You were apprenticed to a knight.
 You shaped stone for roads and buildings.
 - **Trappings:** Sledge Hammer, Stonemason's Tools, 10sp
 
-### Vagrant/Wanderer
+### Wanderer
 You wandered place-to-place, doing odd jobs or begging.
 - **Trappings:** Club, Begging Bowl, 1d6sp, a contact in the local "beggar's guild".
 
 ### Wizard’s Apprentice
 You spent time learning the greater mysteries of magic.
 - **Trappings:** Staff, Book of Magical Lore, 10sp
+
+### Woodcutter
+You search the forests for quality trees for building or burning into charcoal.
+- **Trappings:** Hatchet, Firestarting Kit, 10sp
 
 ## Why did you become an adventurer?
 Roll on or choose from the table below to determine why your apprenticeship ended and what passion that has instilled in you.  Alternatively, make up a reason & passion of  your own.

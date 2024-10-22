@@ -105,6 +105,7 @@ Unless stated otherwise, each knack may only be taken once.
 **Indomitable**: +1 to all **Saving Throws** except AC.
 
 **Mighty Warrior**: You gain the [Combat Exploit](Fighter.md#combat-exploits) ability at a target of 14+.  This target number is lowered by 1 each time you would gain a new Knack.
+![Combat Maneuvers](Fighter.md#combat-maneuvers)
 
 **Skirmisher**: Gain +1 **Initiative**, +5 feet movement and +1 AC vs **Attacks of Opportunity** so long as you are not wearing _heavy_ armor.
 

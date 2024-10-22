@@ -24,8 +24,8 @@
 
 ## Class Abilities
 
-### Combat Exploits
-Once per turn, when you make a successful melee attack and the die face is equal to or greater than your Combat Exploit target number, choose the [Combat Exploit](CombatExploit.md) you wish to apply to the target.
+### Combat Maneuvers
+Once per turn, as part of a normal attack, you may declare a Combat Maneuver.  If the die face of your attack roll is equal to or greater than your Combat Maneuver target number, the target suffers the effects of the maneuver.  Many maneuvers, however, do all the target to make a saving throw.  See the [Combat Maneuvers](Combat.md#combat-maneuvers) section of the Combat document for further details.
 
 ### Hauler
 You add your **Constitution Modifier** (if positive) to your **Strength Score** for determining your [Encumbrance](EncumbranceAndEquipment.md#encumbrance) limits.
@@ -101,11 +101,11 @@ Unless stated otherwise, each knack may only be taken once.
 
 **Reckless**: When you choose to use this ability, all your attacks that **Round** have **Advantage**.  All attacks against you also have **Advantage** until the start of your next **Turn**.
 
-**Shield Master**: While wielding a shield, you may add your shield bonus to your **Evasion Defense** and you increase your AC bonus from shields by +1.
+**Shield Master**: While wielding a shield, you may add your shield bonus to your **Evasion Defense** and you increase your AC bonus from shields by +1.  If this knack is taken at 1st level, your character begins play with a shield for free.
 
 **Skirmisher**: Gain +1 **Initiative**, +5 feet movement and +1 AC vs **Attacks of Opportunity** so long as you are not wearing _heavy_ armor.
 
-**Weapon Specialization**:  Pick a weapon. Your character receives a +1 to hit and +2 damage bonus while wielding this weapon. If this talent is taken at 1st level, your character begins the game with this weapon for free.  This knack may be taken more than once, applying to a different weapon each time.
+**Weapon Specialization**:  Pick a weapon. Your character receives a +1 to hit and +2 damage bonus while wielding this weapon. If this knack is taken at 1st level, your character begins the game with this weapon for free.  This knack may be taken more than once, applying to a different weapon each time.
 
 ### Sample Fighter Builds
 - **All-Rounder**

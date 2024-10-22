@@ -103,6 +103,8 @@ Unless specified otherwise, each knack may only be taken once.
 
 **Second Story Work**: So long as you are not wearing medium or heavy armor, your movement is not slowed when climbing or walking along narrow surfaces.  Additionally, you take half damage from falls if you pass an **Evasion** Saving Throw with a DT of (10 + 1 per 5 feet fallen).
 
+**Silver Tongue**: You have advantage on deception and persuasion checks.
+
 **Skulker**: While in dim lighting conditions, you have **Advantage** on stealth checks.   Additionally, dim lighting does not impose **Disadvantage** on your own perception checks.
 
 **Sleight of Hand Expert**: You have **Advantage** on Sleight of Hand checks.
