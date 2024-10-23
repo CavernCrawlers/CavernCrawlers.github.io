@@ -9,7 +9,7 @@ While your childhood was that of an ordinary villager, something miraculous happ
 You are wise beyond your years. Your Wisdom begins at 12, and all of your other ability scores begin at 8.
 
 ### What was your childhood like?
-![table](/lifepaths/Birthright.md#villager)
+![table](github.com/CavernCrawlers/CavernCrawlers/blob/main/Birthright.md?plain=1)
 
 ![](ChildhoodDistinction.md#distinction)
 
