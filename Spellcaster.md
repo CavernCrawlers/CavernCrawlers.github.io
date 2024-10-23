@@ -31,7 +31,7 @@
 If you find yourself in need of a quick boost of magical energy, you may add your **Skill Bonus** to your **Invocation Roll** by gaining 1 level of [Exhaustion](Combat.md#Exhaustion).
 
 ### Invocation Dice
-As a spellcaster, you have a number of invocation dice as indicated on the [Spellcaster Table](#Spellcaster-Table) plus additional dice equal to your **Wisdom Modifier**.
+As a spellcaster, you have a number of invocation dice as indicated on the table below plus additional dice equal to your **Wisdom Modifier**.
 
 ### Magical Focus
 As part of your apprenticeship, you created a unique magical focus to aid in your spellcasting.  This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held.  It also takes up 1 inventory slot.  So long as you have your Magical Focus in hand when casting a spell, you may reroll a number of invocation dice equal to 1/3 your Skill Bonus (rounded up).  A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 50sp worth of materials.

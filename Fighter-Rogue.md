@@ -1,3 +1,6 @@
+---
+cssclass: clean-embeds
+---
 # Fighter-Rogue
 - [Statistics](#statistics)
 - [Equipment](#equipment)
@@ -26,23 +29,22 @@
 ## Class Abilities
 
 ### Fortune's Favor
-You have greater luck than other characters.  Your Base and Max **Fortune Points** are each increased by 1.
+![Fortune's Favor](Rogue.md#fortune's%20favor)
 
 ### Rogue Skills
-For specific skill checks, Rogues gain an additional bonus beyond the normal Skill Bonus.
-- Climb & Slight of Hand: +2
-- Lock-Picking, Search, Stealth & Trap Handling: +1
+![Rogue Skills](Rogue.md#rogue%20skills)
 
 ### At 2nd level:
 
 #### Combat Maneuvers
 You gain the Fighter's Combat Maneuvers ability.
-![Combat Maneuvers](Fighter.md#combat-maneuvers)
+![Combat Maneuvers](Fighter.md#combat%20maneuvers)
 
 If you take this as a class ability, you may not also take the Sneak Attack ability.
 
 #### Sneak Attack
-You gain the [Sneak Attack](Rogue.md#sneak-attack) ability.
+You gain the Sneak Attack ability.
+![Sneak Attack](Rogue.md#sneak%20attack)
 
 If you take this as a class ability, you may not also take Combat Exploits.
 
@@ -50,19 +52,19 @@ If you take this as a class ability, you may not also take Combat Exploits.
 | Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Abilities |
 |:-----:|:------------:|:----------------:|:---------------:|:------:|:------:|:----------|
 |    1  |   1d6+1      |      +1          |      +1         |    1   |    1   | Fortune's Favor, Rogue Skills |
-|    2  |   2d6+2      |      +2          |      +1         |   --   |   --   | Combat Exploit 14+ or Sneak Attack (+1d4) |
+|    2  |   2d6+2      |      +2          |      +1         |   --   |   --   | Combat Maneuver 14+ or Sneak Attack (+1d4) |
 |    3  |   3d6+3      |      +2          |      +2         |   --   |   --   |  |
 |    4  |   4d6+4      |      +3          |      +2         |   +1   |   --   |  |
 |    5  |   5d6+5      |      +3          |      +3         |   --   |   --   |  |
-|    6  |   6d6+6      |      +4          |      +3         |   --   |   +1   | Combat Exploit 12+ or Sneak Attack (+2d4) |
+|    6  |   6d6+6      |      +4          |      +3         |   --   |   +1   | Combat Maneuver 12+ or Sneak Attack (+2d4) |
 |    7  |   7d6+7      |      +5          |      +4         |   --   |   --   |  |
 |    8  |   8d6+8      |      +5          |      +4         |   +1   |   --   |  |
 |    9  |   9d6+9      |      +6          |      +5         |   --   |   --   |  |
-|   10  |  10d6+10     |      +6          |      +5         |   --   |   +1   | Combat Exploit 10+ or Sneak Attack (+3d4) |
+|   10  |  10d6+10     |      +6          |      +5         |   --   |   +1   | Combat Maneuver 10+ or Sneak Attack (+3d4) |
 |   11  |  10d6+12     |      +7          |      +6         |   --   |   --   |  |
 |   12  |  10d6+14     |      +7          |      +6         |   +1   |   --   |  |
 |   13  |  10d6+16     |      +8          |      +7         |   --   |   --   |  |
-|   14  |  10d6+18     |      +8          |      +7         |   --   |   +1   | Combat Exploit 9+ or Sneak Attack (+4d4) |
+|   14  |  10d6+18     |      +8          |      +7         |   --   |   +1   | Combat Maneuver 9+ or Sneak Attack (+4d4) |
 |   15  |  10d6+20     |      +9          |      +8         |   +1   |   --   |  |
 
 ### Fighter-Rogue Saving Throws

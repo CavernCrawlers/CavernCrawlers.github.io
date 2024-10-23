@@ -25,7 +25,7 @@
 ## Class Abilities
 
 ### Combat Maneuvers
-Once per turn, as part of a normal attack, you may declare a Combat Maneuver.  If the die face of your attack roll is equal to or greater than your Combat Maneuver target number, the target suffers the effects of the maneuver.  Many maneuvers, however, do all the target to make a saving throw.  See the [Combat Maneuvers](Combat.md#combat-maneuvers) section of the Combat document for further details.
+Once per turn, as part of a normal attack, you may declare a Combat Maneuver.  If the die face of your attack roll is equal to or greater than your Combat Maneuver target number, the target suffers the effects of the maneuver.  Many maneuvers, however, do allow the target to make a saving throw.  See the [Combat Maneuvers](Combat.md#combat-maneuvers) section of the Combat document for further details.
 
 ### Hauler
 You add your **Constitution Modifier** (if positive) to your **Strength Score** for determining your [Encumbrance](EncumbranceAndEquipment.md#encumbrance) limits.
@@ -36,20 +36,20 @@ Fighters are experts at dealing damage.  If your attack misses the target's AC b
 ### Fighter Table
 | Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Abilities |
 |:-----:|:------------:|:----------------:|:---------------:|:------:|:------:|:----------|
-|  1    |   1d6+2      |  +1              |  +1             |  1     |  1     | Hauler, Combat Exploit 14+, Minimum Damage |
-|  2    |   2d6+4      |  +1              |  +2             | --     | +1     | Combat Exploit 12+ |
+|  1    |   1d6+2      |  +1              |  +1             |  1     |  1     | Hauler, Combat Maneuver 14+, Minimum Damage |
+|  2    |   2d6+4      |  +1              |  +2             | --     | +1     | Combat Maneuver 12+ |
 |  3    |   3d6+6      |  +2              |  +2             | +1     | --     |  |
-|  4    |   4d6+8      |  +3              |  +3             | --     | --     | Combat Exploit 11+ |
+|  4    |   4d6+8      |  +3              |  +3             | --     | --     | Combat Maneuver 11+ |
 |  5    |  5d6+10      |  +3              |  +4             | +1     | --     |  |
-|  6    |  6d6+12      |  +4              |  +4             | --     | +1     | Combat Exploit 10+ |
+|  6    |  6d6+12      |  +4              |  +4             | --     | +1     | Combat Maneuver 10+ |
 |  7    |  7d6+14      |  +5              |  +5             | +1     | --     |  |
-|  8    |  8d6+16      |  +5              |  +6             | --     | --     | Combat Exploit 9+ |
+|  8    |  8d6+16      |  +5              |  +6             | --     | --     | Combat Maneuver 9+ |
 |  9    |  9d6+18      |  +6              |  +6             | +1     | --     |  |
-| 10    | 10d6+20      |  +6              |  +7             | --     | +1     | Combat Exploit 8+ |
+| 10    | 10d6+20      |  +6              |  +7             | --     | +1     | Combat Maneuver 8+ |
 | 11    | 10d6+22      |  +7              |  +8             | +1     | --     |  |
-| 12    | 10d6+24      |  +8              |  +8             | --     | --     | Combat Exploit 7+ |
+| 12    | 10d6+24      |  +8              |  +8             | --     | --     | Combat Maneuver 7+ |
 | 13    | 10d6+26      |  +8              |  +9             | +1     | --     |  |
-| 14    | 10d6+28      |  +9              | +10             | --     | +1     | Combat Exploit 6+ |
+| 14    | 10d6+28      |  +9              | +10             | --     | +1     | Combat Maneuver 6+ |
 | 15    | 10d6+30      | +10              | +10             | +1     | --     |  |
 
 ### Fighter Saving Throws

@@ -1,3 +1,6 @@
+---
+cssclass: clean-embeds
+---
 # Fighter-Spellcaster
 - [Statistics](#statistics)
 - [Equipment](#equipment)
@@ -29,24 +32,22 @@
 ## Class Abilities
 
 ### Exhausting Magic
-If you find yourself in need of a quick boost of magical energy, you may add your **Skill Bonus** to your **Invocation Roll** by gaining 1 level of [Exhaustion](Combat.md#Exhaustion).
+![Exhausting Magic](Spellcaster.md#exhausting%20magic)
 
 ### Invocation Dice
-As a spellcaster, you have a number of invocation dice as indicated on the [Fighter-Spellcaster Table](#Fighter-Spellcaster-Table) plus additional dice equal to your **Wisdom Modifier**.
+![Invocation Dice](Spellcaster.md#invocation%20dice)
 
 ### Magical Focus
-As part of your apprenticeship, you created a unique magical focus to aid in your spellcasting.  This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held.  It also takes up 1 inventory slot.  So long as you have your Magical Focus in hand when casting a spell, you may reroll a number of invocation dice equal to 1/3 your Skill Bonus (rounded up).  A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 50sp worth of materials.
-
-Spellcasters also frequently inscribe runes that they know into their spellcasting focus so that they are immediately on-hand when casting spells.
+![Magical Focus](Spellcaster.md#magical%20focus)
 
 ### Spellcasting
 You can harness the power of magic.  A hybrid-spellcaster begins their career knowing two cantrips.  You may not cast a spell of a Tier higher than shown in the table below.
 
 ### Sense Magic
-Being sensitive to the world of magic, you may determine if a person, place or thing is magical with a **Skilled** **Intelligence** check.  Doing so requires concentration and a full minute; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a mage is staring at them.  You can also attempt to decipher magical writing in the same way.
+![Sense Magic](Spellcaster.md#sense%20magic)
 
 ### True Name
-As a magic-user possessing supernatural power, you have a **True Name**.  Those who know your True Name can use it against you.  By calling out your True Name, a creature gains **Advantage** on all actions taken against you, including attacks and you have **Disadvantage** on your **Invocation** checks to cast spells against them.
+![True Name](Spellcaster.md#true%20name)
 
 ### Fighter-Spellcaster Table  
 |  Level  |  Hit<br/>Dice  |  Attack<br/>Bonus  |  Skill<br/>Bonus  |  Invocation<br/>Dice   |  Knacks  |  Traits  |  Abilities                                                                     |
@@ -104,7 +105,7 @@ Unless stated otherwise, each knack may only be taken once.
 
 **Indomitable**: +1 to all **Saving Throws** except AC.
 
-**Mighty Warrior**: You gain the [Combat Exploit](Fighter.md#combat-exploits) ability at a target of 14+.  This target number is lowered by 1 each time you would gain a new Knack.
+**Mighty Warrior**: You gain the [Combat Maneuver](Fighter.md#combat-maneuvers) ability at a target of 14+.  This target number is lowered by 1 each time you would gain a new Knack.
 ![Combat Maneuvers](Fighter.md#combat-maneuvers)
 
 **Skirmisher**: Gain +1 **Initiative**, +5 feet movement and +1 AC vs **Attacks of Opportunity** so long as you are not wearing _heavy_ armor.

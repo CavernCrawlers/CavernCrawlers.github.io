@@ -2,26 +2,29 @@
 ## Time
 Time in combat (and other action scenes) is tracked in relatively strict and discrete game units called **Combat Turns**, **Rounds** and **Minutes**.
 
-A **Combat Turn** is an individual creature’s opportunity to act.  All creature’s Combat Turns are executed in descending order of **Initiative** with tied Initiative results acting simultaneously.
+A **Combat Turn** is an individual creature’s opportunity to act.  All creatures' Combat Turns are executed in descending order of [Initiative](#initiative) with tied Initiative results acting simultaneously.
 
 A **Round** is the collection of all the Combat Turns of all the creature’s involved in the scene.  This takes up approximately 6 seconds.
 
 A **Minute** is just that, one minute.  A minute is made up of 10 Rounds.
 
 ## Surprise
-The potential for surprise exists when one or more sides are unaware of the other(s).  The members of each side make individual **Wisdom/Perception** checks vs a DT of 10 (see below for Ambushes).  During the first round of combat (known as the **Surprise Round**), those who passed their perception check take their **Combat Turns** as normal.  Those who failed their perception do not get to act during the Surprise Round.  If everyone is unaware, they all simply stand and stare at each other for a **round** while they both recover from surprise.  
+The potential for surprise exists when one or more sides are unaware of the other(s).  The members of each side make individual **Wisdom/Perception** checks vs a difficulty of 9 (see below for Ambushes).  During the first round of combat (known as the **Surprise Round**), those who passed their perception check take their **Combat Turns** as normal.  Those who failed their perception do not get to act during the Surprise Round.  If everyone is unaware, they all simply stand and stare at each other for a **round** while they both recover from surprise.  
 
 ### Ambush
-If one side has advance warning of an encounter, they may attempt an **Ambush**.  In this case, the ambushing group rolls a Dexterity/Stealth check using the character with the worst modifier (counting **Disadvantage** as -4 and **Advantage** as +4).  This sets the DT of the **Wisdom/Perception** check of the unaware side.  During the **Surprise Round**, all of the ambushers can act as normal as can any of the opposition who pass their perception check. An ambush may also provoke a **Moral** check for undisciplined targets if the GM so determines.
+If one side has advance warning of an encounter, they may attempt an **Ambush**.  In this case, the ambushing group rolls a Dexterity/Stealth check using the character with the worst modifier (counting **Disadvantage** as -4 and **Advantage** as +4).  This sets the difficulty of the **Wisdom/Perception** check of the unaware side.  During the **Surprise Round**, all of the ambushers can act as normal as can any of the opposition who pass their perception check. An ambush may also provoke a **Morale** check for undisciplined targets if the GM so determines.
 
 After the **Surprise Round**, subsequent **Rounds** proceed as normal.
 
 ## Initiative
 Each participant in a combat will have an Initiative score.
-- For PCs this score will be equal to their **Level** + their **Dexterity Modifier** + their class **Initiative Bonus**.
-- For NPCs, this will typically be equal to their Hit Dice, but some creatures may have additional bonuses as given in the NPC's description.
-
-During each **Round** of combat, all participants act in descending order of their Initiative scores.  If two or more participants have the same initiative, PCs will act before NPCs.  If two or more PCs share the same initiative, they determine who acts first between them.  If multiple NPCs share the same initiative score, the GM decides their order.
+- At the beginning of combat, all PCs and the GM roll 1d10 plus their Initiative Modifier.
+- The highest total initiative acts first in the round.  
+- Play then proceeds clockwise around the table.
+- When it is the GMs turn to act, all GM-controlled creatures (characters and monsters) get to act in an order decided by the GM.
+- Ties
+	- If there is a tie for the highest initiative, PCs will act before NPCs.  
+	- If two or more PCs are tied for the highest, they determine who acts first between them.
 
 ## Actions
 There are four categories of action that may be taken during a creature’s **Combat Turn**: **Main Action**, **Movement Action**, **Free Action** and **Reaction**.
@@ -32,7 +35,7 @@ Main Actions are those that will take up a majority of a creature’s time and a
 Following is a list of commonly used Main Actions.  This is not a complete list, just those that come up frequently during action scenes.
 - **Attack:** Make one melee or ranged attack with a weapon or multiple attacks if you have a feature allowing you more than one attack per attack action.
 - **Cast:**  Cast a cantrip or spell.  (Some may be cast as reactions.)
-- **Command:** The character chooses to make themselves conspicuous to the enemy and give direction to their comrades.  The commander makes a DT 10 **Charisma** check and on a success, all allies that can see and hear the commander gain +2 to hit until the start of the commander’s next Combat Turn.  Character’s may only benefit from one instance of the Command action at a time.  While giving commands, the character is distracted and anyone attacking the commanding character does so with **Advantage**.
+- **Command:** The character chooses to make themselves conspicuous to the enemy and give direction to their comrades.  The commander makes a DT 12 **Charisma** check and on a success, all allies that can see and hear the commander gain +2 to hit until the start of the commander’s next Combat Turn.  Character’s may only benefit from one instance of the Command action at a time.  While giving commands, the character is distracted and anyone attacking the commanding character does so with **Advantage**.
 - **Dash:** Take an extra move action.
 - **Defend:**  A Defending character gains +2 to **AC** and **Evasion** saving throws until the start of their next Combat Turn.
 - **Escape:**  Escape a grapple by winning an opposed **Strength** or **Dexterity** check against the grappler’s **Strength** or **Dexterity**.
@@ -47,8 +50,8 @@ Following is a list of commonly used Main Actions.  This is not a complete list,
 A standard **Move Action** allows a creature to move up to its movement rate.  Any form of movement (such as climbing, swimming, leaping or flying) is covered here.  Each creature gets one dedicated Move Action per Turn.  Additionally, the **Dash** Main Action may be used to perform a second Move Action in lieu of any other main actions.
 - **Move:** Move up to your character’s movement rate using one of their available movement modes.
 - **Stand Up:** Getting up from prone uses up half of your movement.
-- **Leap, Horizontal:** A creature may leap horizontally up to half its movement rate without requiring a roll.  For greater distances, a **Strength** check must be made with a **DT** equal to 10 plus the number of additional feet to be crossed.  The total leap distance may not exceed the creature’s total movement.  A horizontal leap may cross any obstacle no higher than the creature’s **Strength Modifier** in feet (with a minimum of 1 foot).
-- **Leap, Vertical:** A creature may leap a number of vertical feet equal to its **Strength Modifier** without requiring a roll (with a minimum of 1 foot).  Higher leaps require a **Strength** check with a **DT** equal to 15 plus 2 per additional foot.  The total leap height may not exceed double the creature’s Strength Modifier.  A vertical leap may not cross a horizontal distance greater than the creature’s reach.
+- **Leap, Horizontal:** A creature may, with a running start, leap horizontally a number of feet equal to its Strength Score without requiring a roll.  Without a running start, halve this distance.  For greater distances, a **Strength** check must be made with a difficulty equal to 10 plus the number of additional feet to be crossed.  The total leap distance may not exceed the creature’s total movement.  A horizontal leap may cross any obstacle no higher than the creature’s **Strength Modifier** in feet (with a minimum of 1 foot).
+- **Leap, Vertical:** A creature may leap a number of vertical feet equal to its **Strength Modifier** without requiring a roll (with a minimum of 1 foot).  Higher leaps require a **Strength** check with a difficulty equal to 15 plus 2 per additional foot.  The total leap height may not exceed double the creature’s Strength Modifier.  A vertical leap may not cross a horizontal distance greater than the creature’s reach.
 - **Swim:** A creature may swim at half its ground movement rate.  Swimming in calm conditions or with the current does not require a roll.  Other conditions will require a **Strength** roll to successfully make progress.
 - **Fly:** A creature cannot fly unless it has a defined flying movement rate.  Flying creatures ignore any terrain not at the same elevation.  Gaining altitude requires double the normal amount of movement, but lowering altitude only requires half.  Wind currents may also impact flying speed.
 - **Burrow:** A creature cannot burrow unless it has a defined burrowing movement rate.  Burrowing creatures ignore all surface terrain, but different ground material compositions may impact their movement rate.  Digging deeper or shallower costs the normal amount of movement.
@@ -64,14 +67,14 @@ A standard **Move Action** allows a creature to move up to its movement rate.  A
 - **Trigger a Readied Action:** If the set trigger occurs, take the readied action.
 
 ## Attacking an Enemy
-Attacking an ememy requires making a successful [Attack Roll](RulesSynopsis.md#Attack-Roll) vs the target's **AC**.
+Attacking an enemy requires making a successful [Attack Roll](RulesSynopsis.md#Attack-Roll) vs the target's **AC**.
 
 ### Ranged Attacks
 Attacks made at **Far** range have **Disadvantage** on the attack roll.<br/>
 Ranged weapons (including spells) with a max range of **Far** or greater, will attack at **Disadvantage** if used within **Close** range.
 
 #### Cover
-There are two types of cover to be concerned with.  Hard Cover is an object or piece of terrain capable of physically stopping the object (such as a stone wall or wooden palisade).  Soft Cover simply obscures the target, but will not physically stop the attack (such as fog, brush or shadows).
+There are two types of cover to be concerned with.  Hard Cover is an object or piece of terrain capable of physically stopping the attack (such as a stone wall or wooden palisade).  Soft Cover simply obscures the target, but will not physically stop the attack (such as fog, brush or shadows).
 
 | Type | Coverage | Modifier |
 |:-----|:--------:|:---------|
@@ -90,7 +93,7 @@ In order to wield 2 weapons, the weapon in the character’s primary hand must b
 
 A character wielding two weapons has the option of using their off-hand weapon offensively or defensively.  This choice is made at the beginning of the character’s turn.  If the weapon is being used offensively, the character gains a +1 to hit bonus and may choose to strike with either weapon (not both).  If the weapon is being used defensively, the character gains a +1 AC bonus and may only attack with their primary weapon.
 
-Under no circumstances is a character allowed to attack with both weapons at the same time.  However, if a character has multiple attacks per Combat Turn, then they may choose which weapon to strike with each time they make an attack.
+Under no circumstances is a character allowed to attack with both weapons at the same time.  However, if a character has multiple attacks per Combat Turn, then they may choose which weapon to strike with each time they make an attack (subject to the above rules).
 
 See the [Off-Hand Proficiency](Traits.md#Off-Hand-Proficiency) trait for additional rules.
 
@@ -102,22 +105,24 @@ Magical shields, bucklers and helmets are not immediately sacrificed but lose on
 Shields, bucklers and helmets may be repaired by a skilled blacksmith.  The DC of the check is 15 and will restore a buckler or helmet to functional or return a damaged shield to normal.  If the roll is failed, the item is permanently destroyed.  Magical items may require re-enchantment.
 
 ### Damage
+#### What are Hit Points?
+Hit Points represent cuts, scrapes, bruises and other minor injuries one can take from dangerous physical activity (such as combat).  It does not represent serious injuries (such as blood loss, concision or the like).  Serious injury only occurs if a player character takes a Critical Hit or is dropped to 0 HP or less (see the [Lingering Injuries](#lingering-injuries) rules).  As a result, HPs heal relatively quickly.
 #### Critical Hits
-If the attack roll exceeds the target’s **armor class** by at least 1 and is a **natural 20**, it is a **critical hit**.  When a PC takes a critical hit, they may take a [Lingering Injury](#Lingering-Injuries).  When a PC performs a critical hit, they do their normal damage, plus the max damage of their damage dice.  _For example, if an attack does 1d8 + 2 damage normally, a critical hit will do 1d8 + 2 + 8._
+If the attack roll exceeds the target’s **armor class** by at least 1 and is a **natural 20**, it is a **critical hit**.  When a PC recieves a critical hit, they take that attack's max damage and may also take a [Lingering Injury](#Lingering-Injuries).  When a PC performs a critical hit, they do their normal damage, plus the max damage of their damage dice.  _For example, if an attack does 1d8 + 2 damage normally, a critical hit will do 1d8 + 2 + 8._
 
 #### Death and Dying
 As soon as a character drops to 0 HP or less, they fall [unconscious](#unconcious).
 
-Next, form a d4 [Countdown Pool](RulesSynopsis.md#Countdown-Pools) equal to their **Constitution bonus** + **Wisdom bonus** (minimum of 1).  This pool is rolled at the end of each of the character’s **Combat Turns**.  Once this **Countdown Pool** is emptied, the character dies.  Taking a hit while dying automatically removes 1 die from the pool in addition to its normal damage.  Taking a **critical hit** removes 2 dice.
+Next, form a d4 [Countdown Pool](RulesSynopsis.md#Countdown-Pools) equal to their **Constitution bonus** + **Wisdom bonus** (minimum of 1).  This pool is rolled at the end of each of the character’s **Combat Turns**.  Once this **Countdown Pool** is emptied, the character dies.  Taking a hit while dying automatically removes 1 die from the pool in addition to the normal damage.  Taking a **critical hit** removes 2 dice.
 
-A character who is dying may be saved by another character attempting to stabilize them.  This is done with a **Wisdom/Healing** check vs difficulty 12 (15 if done in the middle of combat).  On a success, the character is stabilized but still has their negative HP total.  On a critical success, the patient is stabilized at 0 Hit Points.  Alternatively, magical healing automatically stabilizes the character at the number of HP healed minus their negative HP total. 
+A character who is dying may be saved by another character attempting to stabilize them.  This is done with a **Wisdom/Healing** check vs difficulty 12 (15 if done in the middle of combat).  On a success, the character is stabilized but still has their negative HP total.  On a critical success, the patient is stabilized at 0 Hit Points.  The [Mend](TierZeroSpells.md#mend) cantrip will stabilize a dying creature as a successful healing roll.  Any healing spell of Tier 1 or higher stabilizes a dying creature as a critical success on the healing check.
 
 Once unconscious, the character cannot be revived until they are healed back to at least 1 HP.
 
 When an unconscious character is revived, they must check for a [Lingering Injury](#Lingering-Injuries).
 
 #### Lingering Injuries
-When a character receives a **Critical Hit** or is reduced to 0 Hit Points or less, there is a chance they will receive a lingering injury.  
+When a player character receives a **Critical Hit** or is reduced to 0 Hit Points or less, there is a chance they will receive a lingering injury.  
 
 For a critical hit, the character must make a **Constitution check** vs difficulty 12 or half the damage taken, whichever is higher.  On a success, no lingering injury is accrued.  On a failure, the character rolls on the lingering injury table (at **Disadvantage** if their total damage exceeds the character’s **Constitution score**).
 
@@ -125,20 +130,20 @@ When an unconscious character is revived, they must make a **Constitution check*
 
 | d20   | Injury |
 |:-----:|:-------|
-| 1     | _Amputation:_ Roll 1d6 and consult the table below. This never heals back naturally and can only be healed by regeneration magic.<br/>1-2: _Eye_ – You have **Disadvantage** on all sight-based perception checks and ranged attacks. If both eyes are lost, permanently gain the [Blinded](#Blinded) condition.<br/>3-4: _Arm/Hand_ – You can no longer hold anything in the amputated hand/arm.<br/>5-6: _Leg/Foot_ – Your ground speed is halved and you cannot take the **Dash** action. You have **disadvantage** on **Evasion** saves. |
-| 2     | _Concussion:_ Make a DT 15 **Hardiness** save after each action in combat. On a failure, suffer the [Stunned](#Stunned) condition until the end of your next turn. Heals naturally on a DT 15 CON check after a **long rest**, or by the application of healing magic of 5th tier or higher. |
+| 1     | _Amputation:_ Roll 1d6 and consult the table below. This never heals back naturally and can only be healed by regeneration magic.<br/>1-2: _Eye_ – You have **Disadvantage** on all sight-based perception checks and ranged attacks. If both eyes are lost, permanently gain the [Blinded](#Blinded) condition.<br/>3-4: _Arm/Hand_ – You can no longer hold anything in the amputated hand/arm.<br/>5-6: _Leg/Foot_ – Your ground speed is halved and you cannot take the **Dash** action. You have **disadvantage** on **Evasion** saves and lose your DEX bonus to AC (negative DEX is still counted). |
+| 2     | _Concussion:_ Make a DT 15 **Hardiness** save after each action in combat. On a failure, suffer the [Stunned](#Stunned) condition until the end of your next turn. Heals naturally on a DT 15 CON check after a **long rest**, or by the application of appropriate healing magic. |
 | 3     | _Internal Bleeding:_ Immediately lose 1d6 CON. If CON has been reduced to 0 or less, die immediately. Heals back at the rate of 1 CON per **long rest**. |
-| 4-8   | _Broken Ribs:_ Make a DT 15 **Hardiness** save after each action in combat. On a failure, gain 1 level of [Exhaustion](#Exhaustion). Heals naturally on a DT 15 CON check after a **long rest**, or by the application of healing magic of 5th tier or higher. |
-| 9-15  | _Horrific Scaring:_ Gain a -2 penalty on all **Persuasion** checks and a +2 bonus on all **Intimidation** checks. Never heals naturally, but can be healed by the application of healing magic of 5th tier or higher. |
-| 16    | _Bruised Ribs:_ Make a DT 12 **Hardiness** save after each action in combat. On a failure, gain 1 level of [Exhaustion](#Exhaustion). Heals naturally on a DT 12 CON check after a **long rest**, or by the application of healing magic of 3rd tier or higher. |
-| 17    | _Sprained Knee/Ankle:_ Your speed is reduced by 5 ft and you have **Disadvantage** on all **Evasion** saves. Heals naturally on a DT 12 CON check after a **long rest**, or by the application of healing magic of 3rd tier or higher. |
-| 18    | _Sprained Arm/Hand:_ You have **Disadvantage** on any ability check or attack roll using the afflicted arm until healed. Heals naturally on a DT 12 CON check after a **long rest**, or by the application of healing magic of 3rd tier or higher. |
-| 19    | _Minor Concussion:_ Make a DT 12 **Hardiness** save after each action in combat. On a failure, suffer the [Stunned](#Stunned) condition until the end of your next **Combat Turn**. Heals naturally on a DT 12 CON check after a **long rest**, or by the application of healing magic of 3rd tier or higher. |
+| 4-8   | _Broken Ribs:_ Make a DT 15 **Hardiness** save after each action in combat. On a failure, gain 1 level of [Exhaustion](#Exhaustion). Heals naturally on a DT 15 CON check after a **long rest**, or by the application of appropriate healing magic. |
+| 9-15  | _Horrific Scaring:_ Gain a -2 penalty on all **Persuasion** checks and a +2 bonus on all **Intimidation** checks. Never heals naturally, but can be healed by the application of appropriate healing magic. |
+| 16    | _Bruised Ribs:_ Make a DT 12 **Hardiness** save after each action in combat. On a failure, gain 1 level of [Exhaustion](#Exhaustion). Heals naturally on a DT 12 CON check after a **long rest**, or by the application of appropriate healing magic. |
+| 17    | _Sprained Knee/Ankle:_ Your speed is reduced by 5 ft and you have **Disadvantage** on all **Evasion** saves. Heals naturally on a DT 12 CON check after a **long rest**, or by the application of appropriate healing magic. |
+| 18    | _Sprained Arm/Hand:_ You have **Disadvantage** on any ability check or attack roll using the afflicted arm until healed. Heals naturally on a DT 12 CON check after a **long rest**, or by the application of appropriate healing magic. |
+| 19    | _Minor Concussion:_ Make a DT 12 **Hardiness** save after each action in combat. On a failure, suffer the [Stunned](#Stunned) condition until the end of your next **Combat Turn**. Heals naturally on a DT 12 CON check after a **long rest**, or by the application of appropriate healing magic. |
 | 20    | _Heroic Scarring:_ You have acquired a new scar. This has no mechanical effect. |
 
 ## Combat Maneuvers
 
-Once per turn, as part of a normal melee attack, a Fighter may declare a Combat Maneuver.  This is a special move that won't do any extra damage, but can add additional consequences to the attack (such as tripping or disarming a foe).  If the d20 face shows a number equal to or higher than the fighter's Combat Exploit target, the exploit is successfully executed.  The defender may make a saving throw to negate the effect.  The target number of the save is always the total attack value rolled.
+Once per turn, as part of a normal melee attack, a Fighter may declare a Combat Maneuver.  This is a special move that won't do any extra damage, but can add additional consequences to the attack (such as tripping or disarming a foe).  If the d20 face shows a number equal to or higher than the fighter's Combat Maneuvers target, the move is successfully executed.  The defender may negate the effect with a successful saving throw vs the total attack value rolled (see the below examples for details).
 
 Non-fighters may also attempt **some** of these exploits (those marked with am asterisk) but the target is always 18+.
 
@@ -167,7 +172,7 @@ You twist your target's weapon in such a way that they must pass an **Evasion** 
 |  10 | 5 feet to the defender's front-right. |
 
 #### Impair*
-Striking at your foe's arm or hand, you attempt to weaken their ability to strike.  The target makes an **Evasion** save.  On a failure, they suffer **Disadvantage** on their next attack.  This cannot effect creatures immune to critical hits (such as undead and amorphous monsters).
+Striking at your foe's arm or hand, you attempt to weaken their ability to strike.  The target makes a **Hardiness** save.  On a failure, they suffer **Disadvantage** on their next attack.  This cannot effect creatures immune to critical hits (such as undead and amorphous monsters).
 
 #### Juke*
 You fake going one direction in order to slip past your foe by going the other way around.  The target must make an Evasion save.  On a failure, the attacker may use their movement to move through the target's space and to exit their reach without drawing an Opportunity Attack from the target.
@@ -195,22 +200,22 @@ Describe some effect you wish to add to your attack.  The GM will decide what sa
 ### Concentrating
 - Cannot perform any other action requiring **Concentration**.
 - If another act requiring Concentration is performed, concentration is lost.
-- Any time a Concentrating character takes damage, they must perform a **Constitution Roll** vs a DT of 10 or 1/2 the damage taken, whichever is higher.  This is referred to as a **Concentration Check**.  If the check fails, concentration is lost.
+- Any time a Concentrating character takes damage, they must perform a **Constitution Roll** vs a difficulty of 9 plus the spell's tier or 1/2 the damage taken, whichever is higher.  This is referred to as a **Concentration Check**.  If the check fails, concentration is lost.
 - Other circumstances may also require a Concentration Check with a DT set by the **Game Master** (such as a heavy storm, clinging to a cliff face, being grappled and so forth).
 ### Deafened
 - Auto-fail any check that requires hearing.
 ### Exhausted
 - Increase your [Exhaustion](#Exhaustion) level by 1.
 ### Fatigued
-- Increase your [Exhaustion](#Exhaustion) level by 1.
+- See Exhausted (above).
 ### Frightened
 - Disadvantage on Ability Checks and Attacks while source of fright is in sight.
 - Cannot willingly move closer to the source of fright.
 ### Grappled
 - Speed is reduced to 0 and cannot benefit from speed boosts.
-- Ends if the grappler is **incapacitated**.
-- Ends if the grappled is moved out of the grappler's reach.
 - Grappled creature has **Disadvantage** on attacks against anyone other than the grappler.
+- Ends if the grappler is [incapacitated](#incapacitated).
+- Ends if the grappled is moved out of the grappler's reach.
 ### Incapacitated
 - Cannot take **Actions** or **Reactions**.
 ### Intoxicated
@@ -218,10 +223,10 @@ Describe some effect you wish to add to your attack.  The GM will decide what sa
 ### Invisible
 - Cannot be detected by normal sight.
 - Has **Advantage** when hiding.
-- Attacks against this creature have **Disadvantage** if they cannot visually perceve the creature.
-- This creature's attacks have **Advantage** against any creatures unable to percieve it.
+- Attacks against this creature have **Disadvantage** if the attacker cannot perceive the defender.
+- This creature's attacks have **Advantage** against any creatures unable to perceive it.
 ### Paralyzed
-- Is **incapacitated**.
+- Is [incapacitated](#incapacitated).
 - Cannot move or speak.
 - Auto-fail any **Evasion** or **Hardiness** saving throw as well as any **STR** or **DEX** checks.
 - Attacks against this creature have **Advantage**.
@@ -230,9 +235,9 @@ Describe some effect you wish to add to your attack.  The GM will decide what sa
 - This creature and all non-magical worn or carried items are transformed.  Magical items are allowed their own saving throw.
 - Weight is multiplied by 10.
 - Does not age.
-- **Incapacitated** and cannot move or speak.
+- [Incapacitated](#incapacitated) 
+- [Paralyzed](#paralyzed).
 - Unaware of surroundings.
-- Auto-fail any **Evasion** or **Hardiness** saving throw as well as any **STR** or **DEX** checks.
 - Has resistance to all damage.
 - Immune to **poison** and **disease**, but preexisting poisons and diseases are suspended, not neutralized.
 ### Poisoned
@@ -247,23 +252,19 @@ Describe some effect you wish to add to your attack.  The GM will decide what sa
 - Attacks against the restrained crature have **Advantage**.
 - The restrained creatures attacks are made with **Disadvantage**.
 ### Stunned
-- Is **Incapacitated**.
+- Is [incapacitated](#incapacitated).
 - Cannot move.
 - Can only speak slowly and hesitantly.
 - Auto-fail any **Evasion** or **Hardiness** saving throw as well as any **STR** or **DEX** checks.
 - Attacks against the stunned crature have **Advantage**.
 ### Unconcious
-- Is **Incapacitated**.
-- Cannot move or speak.
-- Unaware of surroundings.
+- Falls [prone](#prone).
+- Is [paralyzed](#paralyzed).
+- Is unaware of surroundings.
 - Drops anything held.
-- Falls **prone**.
-- Auto-fail any **Evasion** or **Hardiness** saving throw as well as any **STR** or **DEX** checks.
-- Attacks against the unconcious crature have **Advantage**.
-- Attacks from a creature within 5 feet of the paralyzed creature that hit automatically become **critical hits**.
 
 ## Exhaustion
-Exhaustion is a special condition representing a character’s endurance and being worn down by constant struggle and hardship.  Each time a character gains the **Fatigued** or **Exhausted** condition, they increase their rank of Exhaustion by 1.  Any time a character makes an ability check, their **Exhaustion Rank** acts as a negative modifier to the roll.  Additionally, at rank 1 Exhaustion, they subtract 5 feet from their movement speed.  This increases to having their movement speed halved at rank 6 and reduced to 0 at rank 10.  If a character’s Exhaustion Rank would ever exceed 10, that character immediately dies.
+Exhaustion is a special condition representing a character’s endurance and being worn down by constant struggle and hardship.  Each time a character gains the **Fatigued** or **Exhausted** condition, they increase their rank of Exhaustion by 1.  Any time a character makes a [d20 check](RulesSynopsis.md#d20-checks), their **Exhaustion Rank** acts as a negative modifier to the roll.  Additionally, at rank 1 Exhaustion, they subtract 5 feet from their movement speed.  This increases to having their movement speed halved at rank 6 and reduced to 0 at rank 10.  If a character’s Exhaustion Rank would ever exceed 10, that character immediately dies.
 
 After any highly strenuous activity (such as combat or sprinting) the participants must make a Hardiness save vs DT 12 or gain a level of [Exhaustion](#exhaustion).  If the activity lasts longer than 1 minute, this save must be made at the end of each minute (plus at the end of the activity) with a cumulative +3 DT penalty per extra minute (or fraction thereof).
 

@@ -111,136 +111,136 @@ In some cases it is not appropriate to have access to the full list of backgroun
 ## Background Career Descriptions
 
 ### Acolyte
-Feeling the call of the gods, you sought to join the clergy.  Pick either the [Great Church](AllegiancesAndMorality.md#Empyreans) or the [Old Faith](AllegiancesAndMorality.md#Old-Gods).  You may add your Skill Bonus to checks involving that panetheon.  You may make knowledge checks regarding other panetheons as a regular **Ability Check**.
-- **Trappings:** Quarterstaff, Holy Symbol, Prayer Book/Wheel, 10sp
+Feeling the call of the gods, you sought to join the clergy.  Pick an appropriate religion (for examples, see the [Great Church](AllegiancesAndMorality.md#Empyreans) and the [Old Faith](AllegiancesAndMorality.md#Old-Gods)).
+- **Trappings:** Quarterstaff, Holy Symbol, Prayer Book/Wheel, 2d6sp
 
 ### Alchemist
 You brewed chemical concoctions for those who could afford them.
-- **Trappings:** Quarterstaff, Alchemy Kit, 10sp
+- **Trappings:** Quarterstaff, Alchemy Kit, 2d6sp
 
 ### Animal Handler
 You know animals. In fact, you probably like them better than you like most people.
-- **Trappings:** Whip, Rope, Grooming Kit, a Mule/Donkey, 5sp
+- **Trappings:** Whip, Rope, Grooming Kit, a Mule/Donkey, 1d6sp
 
 ### Apothecary
 You learned how to tend the sick, bind wounds, set bones and correct other ailments.
-- **Trappings:** Dagger, Healer's Kit, Soap, 15sp
+- **Trappings:** Dagger, Healer's Kit, Soap, 2d6sp
 
 ### Artisan
 You are a trained craftsperson; such as a leatherworker, cartwright, shipwright or similar.
-- **Trappings:** Dagger, Artisan's Tools for your profession, a letter of introduction from your former teacher, 10sp
+- **Trappings:** Dagger, Artisan's Tools for your profession, a letter of introduction from your former teacher, 2d6sp
 
 ### Barrister
 You are versed in the law and how to represent both peasants and nobles before the courts.
-- **Trappings:** Dagger, Quill, Ink, Parchment (10 sheets), Book (laws), 10sp
+- **Trappings:** Dagger, Quill, Ink, Parchment (10 sheets), Book (laws), 2d6sp
 
 ### Butcher
 You know how to safely butcher, store and prepare meat of various types.
-- **Trappings:** Cleaver, A bundle of 7 days' rations (mostly dried meats), 10sp
+- **Trappings:** Cleaver, A bundle of 7 days' rations (mostly dried meats), 2d6sp
 
 ### Clerk
 You know how to both read and write and how to draft contracts and other legal documents.  You gain literacy without having to spend a language choice on it.
-- **Trappings:** Dagger, Quill, Ink, Parchment (10 pages), 10sp
+- **Trappings:** Dagger, Quill, Ink, Parchment (10 pages), 2d6sp
 
 ### Courtier
 You were a court functionary, attendant or some other personage known to the nobility though you are not of noble birth.
-- **Trappings:** Dagger, Excellent Quality Clothing, 10sp
+- **Trappings:** Dagger, Excellent Quality Clothing, 3d6sp
 
 ### Criminal
 You're well acquainted with the seedy underbelly of society.
-- **Trappings:** Dagger, Crowbar or Disguise Kit, 10sp
+- **Trappings:** Dagger, Crowbar or Disguise Kit, 2d6sp
 
 ### Cult Initiate
-You were once initiated into a forbidden cult of worship.  Pick one of the [Chthonian](AllegiancesAndMorality.md#Chthonians), [Elemental](AllegiancesAndMorality.md#Elemental-Monarchs), [Qliphotic](AllegiancesAndMorality.md#Qliphotic) or [Derlethian](AllegiancesAndMorality.md#Derlethians) cults.  You may add your Skill Bonus to checks involving that panetheon.  You may make knowledge checks regarding other panetheons as a regular **Ability Check**.
-- **Trappings:** Athame (dagger), Book (cult lore), 10sp
+You were once initiated into a forbidden cult of worship (for examples see the [Chthonian](AllegiancesAndMorality.md#Chthonians), [Elemental](AllegiancesAndMorality.md#Elemental-Monarchs), [Qliphotic](AllegiancesAndMorality.md#Qliphotic) or [Derlethian](AllegiancesAndMorality.md#Derlethians) cults).
+- **Trappings:** Athame (dagger), Book (cult lore), 2d6sp
 
 ### Entertainer
 You sang, played an instrument, danced or performed in some other way for the entertainment of others.
-- **Trappings:** Dagger, Musical Instrument (or other performance tool), 10sp
+- **Trappings:** Dagger, Musical Instrument (or other performance tool), 2d6sp
 
 ### Farmer
 You tended the land, understanding soil and seed.
-- **Trappings:** Pitchfork, a chicken (or other small farm animal), 10sp
+- **Trappings:** Pitchfork, a chicken (or other small farm animal), 2d6sp
 
 ### Forester
 You roamed the forests, watching for poachers and outlaws.
-- **Trappings:** Shortbow, 3d4 Arrows, 3 days rations, 5sp
+- **Trappings:** Shortbow, 3d4 Arrows, 3 days rations, 1d6sp
 
 ### Fortune Teller
 Whether by astrology, palmistry, cards or some other means, you predicted peoples' futures.
-- **Trappings:** Dagger, a fortune-telling device (cards, runestones, etc), 10sp
+- **Trappings:** Dagger, a fortune-telling device (cards, carved stones, astrological charts, etc), 2d6sp
 
 ### Gambler
 Games of chance are your bread and butter.
-- Starting Equipment: Dagger, a game of chance (cards, dice, etc), 5+2d6sp
+- Starting Equipment: Dagger, a game of chance (cards, dice, etc), 3d6sp
 
 ### Herbalist
 You know plants and their uses.
-- **Trappings:** Dagger, Herbs (healer's kit), 10sp
+- **Trappings:** Dagger, Herbs (healer's kit), 2d6sp
 
 ### Hermit
 You lived far from others -- either in a sheltered community like a monastery or entirely alone.
-- **Trappings:** Quarterstaff, Prayer Book/Wheel, 10sp
+- **Trappings:** Quarterstaff, Prayer Book/Wheel, 2d6sp
 
 ### Hunter
 You hunted animals for their meat and fur.
-- **Trappings:** Shortbow and 3d4 arrows or a Spear, Hunting Trap, 10sp
+- **Trappings:** Shortbow and 3d4 arrows or a Spear, Hunting Trap, 2d6sp
 
 ### Jeweler
 You worked on fine gems and jewelry.
-- **Trappings:** Dagger, Jeweler's Tools, a small gem worth 20sp
+- **Trappings:** Dagger, Jeweler's Tools, a small gem worth 2d6+10sp
 
 ### Laborer
 You performed hard manual labor.
-- **Trappings:** A Shovel or similar tool, 10sp.
+- **Trappings:** A Shovel or similar tool, 2d6sp.
 
 ### Merchant
 You traded goods with anyone with coin or barter.
-- **Trappings:** Dagger, 10+2d6sp
+- **Trappings:** Dagger, 4d6sp
 
 ### Miner
 You worked the mines, digging up precious stones and metals.
-- **Trappings:** Miner's Pick, Bundle of 3 Torches, 10sp.
+- **Trappings:** Miner's Pick, Bundle of 3 Torches, 2d6sp.
 
 ### Mountebank
 You made a living by tricking people into giving you money for false promises or counterfeit goods.
-- **Trappings:** Dagger, tools for the con of your choice (bottles of colored liquid, weighted dice, marked cards or the like), 10sp
+- **Trappings:** Dagger, tools for the con of your choice (bottles of colored liquid, weighted dice, marked cards or the like), 2d6sp
 
 ### Noble
 You were born into or somehow else became a member of the aristocracy.
-- **Trappings:** Longsword or Rapier, Signet Ring, Superior Quality Clothes, 15sp
+- **Trappings:** an [Excellent quality](EncumbranceAndEquipment.md#quality) weapon, Signet Ring, Superior Quality Clothes, 3d6sp
 
 ### Politician
 You served a mayor's office, village council or similar group of leaders.
-- **Trappings:** Dagger, Quill, Ink, 10 sheets of parchment, 10sp
+- **Trappings:** Dagger, Quill, Ink, 10 sheets of parchment, 2d6sp
 
 ### Sage
 You studied either in a formal university or apprenticed to a sage.
-- **Trappings:** Dagger, Quill, Ink, 10 sheets of parchment, Book of Lore (pick one subject), 5sp
+- **Trappings:** Dagger, Quill, Ink, 10 sheets of parchment, Book of Lore (pick one subject), 1d6sp
 
 ### Sailor
 You earned a living on the water (whether river, lake or sea).
-- **Trappings:** Belaying Pin (club), Rope (50 ft), 10sp
+- **Trappings:** Belaying Pin (club), Rope (50 ft), 2d6sp
 
 ### Scout
 You know the wilderness and how to lead others through it.
-- **Trappings:** 2 Handaxes, Bundle of 7 days rations, 5sp
+- **Trappings:** 2 light weapons, Bundle of 7 days rations, 1d6sp
 
 ### Smith
 You labored at the forge, shaping metal.
-- **Trappings:** Smith’s Hammer, Leather Apron, 10sp
+- **Trappings:** Smith’s Hammer, Leather Apron, 2d6sp
 
 ### Soldier
 You fought for a living, literally.
-- **Trappings:** A uniform, a weapon doing no more than 1d6 damage (such as a spear, mace, or short sword), 10sp
+- **Trappings:** A uniform, a weapon doing no more than 1d6 damage (such as a spear, mace, or short sword), 2d6sp
 
 ### Squire
 You were apprenticed to a knight.
-- **Trappings:** Long Sword, Tabard, 10sp
+- **Trappings:** a light or medium melee weapon, Tabard, 10sp
 
 ### Stonemason
 You shaped stone for roads and buildings.
-- **Trappings:** Sledge Hammer, Stonemason's Tools, 10sp
+- **Trappings:** Sledge Hammer, Stonemason's Tools, 2d6sp
 
 ### Wanderer
 You wandered place-to-place, doing odd jobs or begging.
@@ -248,24 +248,8 @@ You wandered place-to-place, doing odd jobs or begging.
 
 ### Wizard’s Apprentice
 You spent time learning the greater mysteries of magic.
-- **Trappings:** Staff, Book of Magical Lore, 10sp
+- **Trappings:** Staff, Book of Magical Lore, 2d6sp
 
 ### Woodcutter
 You search the forests for quality trees for building or burning into charcoal.
-- **Trappings:** Hatchet, Firestarting Kit, 10sp
-
-## Why did you become an adventurer?
-Roll on or choose from the table below to determine why your apprenticeship ended and what passion that has instilled in you.  Alternatively, make up a reason & passion of  your own.
-
-|  1d10  |  Reason                                                                                                  |  Passion                                                     |
-|:------:|:---------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------|
-|    1   |  Your teacher/boss was cruel and abusive.                                                                |  You will never allow anyone to disrespect you again.        |
-|    2   |  A rival drove you out of business.                                                                      |  You will never be brought low like that again.              |
-|    3   |  Your someone was killed in a robbery gone wrong.                                                        |  Criminals must face justice.                                |
-|    4   |  You decided that this profession wasn't for you.                                                        |  You will make your own way on your own terms.               |
-|    5   |  An injury left you unable to continue your<br/>occupation.                                              |  You will not let your infirmities dictate your life.        |
-|    6   |  You knew you wanted a life of adventure and<br/>excitement.                                             |  You will become a famous hero.                              |
-|    7   |  It was too much hard work.                                                                              |  One day, you will live in the lap of luxury.                |
-|    8   |  Your teacher/boss favored another apprentice over you<br/>and you didn't get the respect you expected.  |  You will prove yourself the best at what you do.            |
-|    9   |  Your teacher/boss had to leave town for mysterious<br/>reasons.                                         |  You will never abandon another the way you were abandoned.  |
-|   10   |  You knew you were meant for greater things.                                                             |  You will find and achieve your destiny.                     |  
+- **Trappings:** Hatchet, Firestarting Kit, 2d6sp

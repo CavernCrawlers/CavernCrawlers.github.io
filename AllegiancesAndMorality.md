@@ -32,7 +32,7 @@ Once a character becomes a **Champion**, they gain the following features:
 **Champions** of the cosmic powers will find that they frequently recognize one another. When two Champions meet, they each make a **Wisdom Check** vs a **Difficulty** of 10 + the target’s **Hit Dice** and on a success, will know the other’s **Allegiance** and if they are a supernatural creature or not.
 
 ### Animosity
-**Champions** and supernatural participants in The Conflict often hate those of other **Allegiances**. Any social checks between creatures of differing Allegiances are made at **Disadvantage** on all ability checks (count as 2 ranks of Disadvantage if of opposing Allegiances).
+**Champions** and supernatural participants in The Conflict often hate those of other **Allegiances**. Any social checks between creatures of differing Allegiances are made at **Disadvantage** (count as 2 ranks of Disadvantage if of opposing Allegiances).
 
 ### A Life of Conflict
 Perhaps the greatest downside to joining a faction of The Conflict is the fact that it will forever control your destiny.  Never more will your character be able to settle down to enjoy the simple life.  Agents of enemy Pantheons will seek you out and your own patron will require your services.  Perhaps you will find brief periods of rest in an isolated village or in a rich aristocrat’s palace, but eventually the conflict will draw you back in.
@@ -41,7 +41,7 @@ Perhaps the greatest downside to joining a faction of The Conflict is the fact t
 The character immediately gains an [Allegiance Trait](Traits.md#allegiance-traits).  This is in addition to the normal traits gained for leveling up.
 
 ### Cosmic Champion
-Anyone who chooses to become a **Champion** in The Conflict are natural leaders for their faction.  As a result, they gain **Advantage** on any checks to lead, inspire or persuade other active participants of the same **Allegiance** who are of equal or lower rank in their faction.
+Those who choose to become a **Champion** in The Conflict are natural leaders for their faction.  As a result, they gain **Advantage** on any checks to lead, inspire or persuade other active participants of the same **Allegiance** who are of equal or lower rank in their faction.
 
 ### Summoned
 **Champions** in The Conflict are subject to being summoned to service by the higher ranking members of their faction.  They may be called by the **Summoning** ritual, even to other planes of existence.
