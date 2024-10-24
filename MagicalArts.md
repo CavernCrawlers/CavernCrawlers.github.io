@@ -1,28 +1,6 @@
 # The Magical Arts
 
 # Table of Contents
-- [Spellbooks](#spellbooks)
-	- [Learning New Spells](#learning-new-spells)
-		- [Learning From a Mentor](#learning-from-a-mentor)
-	- [Replacing a Spellbook](#replacing-a-spellbook)
-- [Magical Focus](#magical-focus)
-	- [Replacing a Focus](#replacing-a-focus)
-- [The Invocation Roll](#the-invocation-roll)
-	- [Quick Summary](#quick-summary)
-	- [The Invocation Dice Pool](#the-invocation-dice-pool)
-	- [Spell Difficulty](#spell-difficulty)
-	- [Invocation Dice Recovery](#invocation-dice-recovery)
-	- [Exhausting Magic](#exhausting-magic)
-	- [Magical Attacks and Saving Throws](#magical-attacks-and-saving-throws)
-	- [Spell Identification](#spell-identification)
-	- [Counter-Spelling](#counter-spelling)
-		- [Spell Duels](#spell-duels)
-- [Concentration](#concentration)
-- [Mishaps](#mishaps)
-	- [Minor Magical Mishap](#minor-magical-mishap)
-	- [Major Magical Mishap](#major-magical-mishap)
-	- [Physical Corruption](#physical-corruption)
-	- [Random Elements](#random-elements)
 
 
 ## Spellbooks
@@ -39,7 +17,7 @@ Once the calculated learning time has passed, the mage makes an **Intelligence**
 Whenever a mage gains access to a new **Spell Rank**, they may pick any one spell that they are qualified to cast and learn it automatically (without going through the normal learning process).
 
 #### Learning From a Mentor
-Spellcasters may also learn spells from other casters (if they can find one willing to teach their jealously guarded secrets).  The teacher is assumed to be taking the [Help](Combat.md#Main-Actions) action in regards to the student learning the spell.  This also halves the amount of time required to learn the spell (though the material cost remains the same).
+Spellcasters may also learn spells from other casters (if they can find one willing to teach their jealously guarded secrets).  The teacher is assumed to be taking the [Help](Combat.md#Main%20Actions) action in regards to the student learning the spell.  This also halves the amount of time required to learn the spell (though the material cost remains the same).
 
 ### Replacing a Spellbook
 If a spellbook is lost or destroyed, it may be recreated using the spells that the spellcaster has already prepared.  Doing so requires a specially prepared spellbook (worth at least 100sp) and takes the same cost in time and materials as learning each spell anew.
@@ -103,18 +81,18 @@ If a spell’s **difficulty** is not met, the spell is not cast.  However, the m
 *Example: The above 5th level Spellcaster with a 16 Wisdom is attempting to cast a Fireball at **rank** 3 (difficulty 9).  They choose to be conservative and roll only 3 dice, rolling a ‘1’, '3' and ‘4’, for a total of 8.  As the total is less than the **difficulty**, the spell is not cast.  The character chooses to continue the casting. This means they are now **concentrating** and they set aside the 3 dice already rolled, leaving 4 left unallocated in their **invocation pool**.  On their next round (since Fireball has a **casting time** of 1 **action**), they choose to roll one more die, getting another ‘1’.  This brings their total to 9, successfully casting the spell.  The two ‘1’s are now **expended**, and the other three committed dice are now released.  This leaves the caster with 5 dice in their **invocation pool**.  Note that no [Mishap](#Mishaps) roll is made because the two '1's occurred on two separate rolls.*
 
 ### Invocation Dice Recovery
-Whenever a spellcaster completes a [Short Rest](Combat.md#Short-Rest), they may roll a portion of their **expended** **invocation dice**.  Any of those dice that come up a 2+ are placed back into the caster’s **invocation pool**.  The number of dice that may be rolled after a short rest is equal to their **Wisdom Modifier**.
+Whenever a spellcaster completes a [Short Rest](Combat.md#Short%20Rest), they may roll a portion of their **expended** **invocation dice**.  Any of those dice that come up a 2+ are placed back into the caster’s **invocation pool**.  The number of dice that may be rolled after a short rest is equal to their **Wisdom Modifier**.
 
-After a [Long Rest](Combat.md#Long-Rest), the same procedure is followed with the following 2 exceptions:
+After a [Long Rest](Combat.md#Long%20Rest), the same procedure is followed with the following 2 exceptions:
 - A number of dice equal to the character’s **Wisdom Modifier** are recovered without rolling.
 - The caster may then roll all their remaining **expended** **invocation dice**.
 
-After an [Extended Rest](Combat.md#Extended-Rest), all **invocation dice** that have been **expended** are automatically recovered.
+After an [Extended Rest](Combat.md#Extended%20Rest), all **invocation dice** that have been **expended** are automatically recovered.
 
 ### Magical Attacks and Saving Throws
-Once a spell has successfully been invoked, the mage may then need to make a **Magical Attack Roll**.  This is similar to a normal **Attack Roll**, but uses the mage’s **Skill Bonus** and the **Ability Modifier** of the ability called out by the Art in question.  If the Magical Attack Roll is a critical hit, it allows the mage to double one numerical trait of the magical art; typically range, area, number of targets, duration or damage.  In the case of damage, treat this the same as a [critical hit](Combat.md#Critical-Hits) from a weapon; thus it’s not strictly a doubling.
+Once a spell has successfully been invoked, the mage may then need to make a **Magical Attack Roll**.  This is similar to a normal **Attack Roll**, but uses the mage’s **Skill Bonus** and the **Ability Modifier** of the ability called out by the Art in question.  If the Magical Attack Roll is a critical hit, it allows the mage to double one numerical trait of the magical art; typically range, area, number of targets, duration or damage.  In the case of damage, treat this the same as a [critical hit](Combat.md#Critical%20Hits) from a weapon; thus it’s not strictly a doubling.
 
-Alternatively, a spell may require the target to make a [Saving Throw](CoreRules.md#Saving-Throws) instead of requiring a spellcaster to make an attack roll.  In this case, the Spellcaster's **Spell DT** is the target number.  If the target succeeds on their save, the effects of the spell may be reduced or even mitigated entirely (according to the spell's description).
+Alternatively, a spell may require the target to make a [Saving Throw](CoreRules.md#Saving%20Throws) instead of requiring a spellcaster to make an attack roll.  In this case, the Spellcaster's **Spell DT** is the target number.  If the target succeeds on their save, the effects of the spell may be reduced or even mitigated entirely (according to the spell's description).
 
 ### Spell Identification
 If a mage can directly see and hear another spellcaster as they cast a spell, they may attempt a **Skilled Intelligence** check vs. the spell's **DT** in order to identify the spell being cast.  If the observing mage can only see or hear the casting mage, but not both, this check is performed at **Disadvantage**.
@@ -134,7 +112,7 @@ Characters without the ability to cast spells may not attempt this check at all.
 Several spells require **concentration** to maintain their effects after casting.  A caster may normally only concentrate on one thing at a time.  New actions requiring concentration supersede anything the caster is already concentrating on.  If a concentrating caster takes damage, they must pass a **Concentration Check** (a type of **Spirit saving throw**) vs DT 10 or ½ the damage done (whichever is higher).  Other things may also require a concentration check, such as being thrown into a river, suddenly startled, being grappled and so on.  The GM will set the DT of the check accordingly.  Additionally, spells that take more than 1 action to cast require concentration while they are being cast.  Losing concentration causes the magical art to fail (though the declared number of invocation dice must still be rolled to see if a mishap occurs and how many are expended).
 
 ## Mishaps
-If two of the dice rolled at the same time come up as ‘1’s, this will result in a [Minor Magical Mishap](#Minor-Magical-Mishap), even if the spell casting is successful.  If three of the dice are ‘1’s, then the caster suffers a [Major Magical Mishap](#Major-Magical-Mishap).  If four or more dice are ‘1’s, then the caster suffers the effects of both a **minor** and a **major** spell mishap.
+If two of the dice rolled at the same time come up as ‘1’s, this will result in a [Minor Magical Mishap](#Minor%20Magical%20Mishap), even if the spell casting is successful.  If three of the dice are ‘1’s, then the caster suffers a [Major Magical Mishap](#Major%20Magical%20Mishap).  If four or more dice are ‘1’s, then the caster suffers the effects of both a **minor** and a **major** spell mishap.
 
 Note that some tables may wish to assume that spells cast when there is no time pressure (thus the caster can take as long as they want) are assumed to be rolled a single die at a time.  As a result, no mishap can occur, though dice can still be expended as normal.
 
@@ -148,14 +126,14 @@ Note that some tables may wish to assume that spells cast when there is no time 
 |  5    | **Witch Hives:** The caster is covered in an itchy red rash that lasts 4d4(pool) **Exploration Turns**. While this rash lasts, the caster has **Disadvantage** on all DEX and **Concentration** checks.                                                                                               |
 |  6    | **Tainted:** The caster’s skin turns an unnatural {color}. This can be cured by a Remove Curse ritual.                                                                                                                                                                                                |
 |  7    | **Witch Eye:** An eye appears in the middle of the caster’s {body part}. It does not allow them to see any better. The eye remains for 4d4(pool) Hours.                                                                                                                                               |
-|  8    | **Elemental Summoning:** An {elemental} creature chosen by the GM appears within 5 feet of the caster. Make a [Reaction Check](CoreRules.md#Charisma-and-Reactions) to determine its attitude toward the caster. The creature will disappear after 3d4(pool) rounds.                                 |
+|  8    | **Elemental Summoning:** An {elemental} creature chosen by the GM appears within 5 feet of the caster. Make a [Reaction Check](CoreRules.md#Charisma%20and%20Reactions) to determine its attitude toward the caster. The creature will disappear after 3d4(pool) rounds.                                 |
 |  9    | **Fowl Beard:** The caster grows a long beard of {color} feathers that remains until the next time they sneeze.                                                                                                                                                                                       |
 | 10    | **Vanishing:** The caster is transported to a mysterious pocket dimension until the end of their next turn, at which time they return to the space they previously occupied or the nearest unoccupied space.                                                                                          |
 | 11    | **Time Skip:** The caster ages 1d4 years.                                                                                                                                                                                                                                                             |
 | 12    | **Reverse Time:** The caster’s ages -1d4 years.                                                                                                                                                                                                                                                       |
-| 13    | **Fae Summoning:** 1d6 {fae} creatures appear in unoccupied spaces within **Near** distance of the caster. Make a [Reaction Check](CoreRules.md#Charisma-and-Reactions) to determine their attitude toward the caster. They vanish after 2d4(pool) minutes.                                          |
+| 13    | **Fae Summoning:** 1d6 {fae} creatures appear in unoccupied spaces within **Near** distance of the caster. Make a [Reaction Check](CoreRules.md#Charisma%20and%20Reactions) to determine their attitude toward the caster. They vanish after 2d4(pool) minutes.                                          |
 | 14    | **Levitation:** The caster levitates 1d10 feet up into the air. This effect lasts 4d4(pool) rounds. At the start of each of the caster’s turns, their elevation changes randomly by 2d6-7 feet.                                                                                                       |
-| 15    | **Beastly Presence:** A {beast} appears within 5 feet of the caster. Make a [Reaction Check](CoreRules.md#Charisma-and-Reactions) to determine its attitude toward the caster. It disappears after 3d4(pool) rounds.                                                                                 |
+| 15    | **Beastly Presence:** A {beast} appears within 5 feet of the caster. Make a [Reaction Check](CoreRules.md#Charisma%20and%20Reactions) to determine its attitude toward the caster. It disappears after 3d4(pool) rounds.                                                                                 |
 | 16    | **Depilation:** The caster’s hair falls out but grows back within 1d4(pool) days.                                                                                                                                                                                                                     |
 | 17    | **Uncontrollable Shout:** The caster must shout whenever they speak. This condition lasts for 3d6(pool) minutes.                                                                                                                                                                                      |
 | 18    | **Obscuring Mist:** The effect of a rank 1 **Gather Mists** spell is centered on the caster.                                                                                                                                                                                                          |
@@ -188,9 +166,9 @@ Note that some tables may wish to assume that spells cast when there is no time 
 |  13   | **Outside Interference:**  The caster is attacked by 2d6 HD of {aberrations} (minimum 1 creature).  They appear within 1d6 times 10 feet of the caster in a random direction.  They continue their assault for 4d4(pool) rounds unless defeated.                                           |
 |  14   | **Etheric Shock:** The caster takes 3d8 lightning damage.                                                                                                                                                                                                                                  |
 | 15-20 | **Enfeeblement:** Magical energy wracks the caster’s body, draining {ability} by 1d6 points.  This effect lasts 4d4(pool) minutes                                                                                                                                                          |
-|  21   | **Assault From Beyond:** The winds of magic lash the caster and they must roll 1d10+10 on the [Lingering Injury](Combat.md#Lingering-Injuries) table.                                                                                                                                      |
+|  21   | **Assault From Beyond:** The winds of magic lash the caster and they must roll 1d10+10 on the [Lingering Injury](Combat.md#Lingering%20Injuries) table.                                                                                                                                      |
 |  22   | **The Hounds of Hell:** The caster is attacked by 2d6 HD of {fiends} (minimum 1 creature).  They appear within 1d6 times 10 feet of the caster in a random direction.  They remain for 4d4(pool) rounds or until defeated.                                                                 |
-| 23-27 | **Physical Corruption:**  Roll on the [Physical Corruption](#Physical-Corruption) table.  This is a permanent curse.                                                                                                                                                                       |
+| 23-27 | **Physical Corruption:**  Roll on the [Physical Corruption](#Physical%20Corruption) table.  This is a permanent curse.                                                                                                                                                                       |
 | 28-30 | **Miscast:**  The caster inadvertently channels the wrong magical energies. Randomly determine a  different magical art of the same type and rank. Have the mage make an **invocation roll** for the new art. If the check fails, nothing happens. If it is a success, follow the results. |
 
 ### Physical Corruption

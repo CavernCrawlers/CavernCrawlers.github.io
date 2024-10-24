@@ -1,6 +1,6 @@
-- [Experience and Levels](#experience-and-levels)
-	- [Leveling Up](#leveling-up)
-	- [Leveling Table](#leveling-table)
+- [Experience and Levels](#experience%20and%20levels)
+	- [Leveling Up](#leveling%20up)
+	- [Leveling Table](#leveling%20table)
 
 ## Experience and Levels
 All classes level up using the same experience table.  Note that level 0 is an optional level for those groups wishing to start their campaign with a character “funnel” or “gauntlet”.  If wanting to start at level 1 (or any higher level, for that matter), simply assume the requisite experience has already been acquired.  Thus, when starting at 1st level, all characters will start play with 0 xp; if starting at 3rd level, all characters would start at 4,000 xp.
@@ -8,7 +8,7 @@ All classes level up using the same experience table.  Note that level 0 is an o
 The primary means of gaining experience points is through the completion of **quests**.  Unlike many other OSR games, there is no XP award for individual monsters slain or treasure gathered.  Instead the player characters will choose or be assigned a quest with a clearly defined goal.  Once that goal has been achieved and the quest completed, the GM will award all participating PCs an amount of XP based on how difficult the quest was.
 
 ### Leveling Up
-Once a character has accumulated enough experience points to reach the next level, the character will level up the next time they complete at least a [Long Rest](Combat.md#Long-Rest) in a [Safe Haven](Combat.md#Extended-Rest).  Upon completion of the rest, the character gains all the benefits of their new level.
+Once a character has accumulated enough experience points to reach the next level, the character will level up the next time they complete at least a [Long Rest](Combat.md#Long%20Rest) in a [Safe Haven](Combat.md#Extended%20Rest).  Upon completion of the rest, the character gains all the benefits of their new level.
 
 ### Leveling Table
 The table below shows how many **experience points** are needed to achieve each level.  Additionally, the **skill bonus** for both single-class and hybrid-class characters is provided.

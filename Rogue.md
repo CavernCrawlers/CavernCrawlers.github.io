@@ -1,14 +1,17 @@
+---
+cssclass: clean-embeds
+---
 # Rogue
-- [Statis](#statis)
-- [Equipment](#equipment)
-- [Class Abilities](#class-abilities)
-	- [Fortune's Favor](#fortunes-favor)
-	- [Rogue Skills](#rogue-skills)
-	- [Sneak Attack](#sneak-attack)
-	- [Rogue Table](#rogue-table)
-	- [Rogue Saving Throws](#rogue-saving-throws)
-- [Rogue Knacks](#rogue-knacks)
-	- [Sample Rogue Builds](#sample-rogue-builds)
+- [Statistics](#Statistics)
+- [Equipment](#Equipment)
+- [Class Abilities](#Class%20Abilities)
+	- [Fortune's Favor](#Fortune's%20Favor)
+	- [Rogue Skills](#Rogue%20Skills)
+	- [Sneak Attack](#Sneak%20Attack)
+- [Rogue Table](#Rogue%20Table)
+	- [Rogue Saving Throws](#Rogue%20Saving%20Throws)
+- [Rogue Knacks](#Rogue%20Knacks)
+	- [Sample Rogue Builds](#Sample%20Rogue%20Builds)
 
 ## Statistics
 - **Starting HP**: 6 + CON Modifier
@@ -35,7 +38,7 @@ For specific skill checks, Rogues gain an additional bonus beyond the normal **S
 ### Sneak Attack
 When you have **Advantage** on an attack, add the listed damage to the attack.
 
-### Rogue Table
+## Rogue Table
 | Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Abilities |
 |:-----:|:------------:|:----------------:|:---------------:|:------:|:------:|:----------|
 |  1    |  1d6         |  +1              |  +1             |  1     |  1     | Fortune's Favor, Rogue Skills (see below) |
@@ -77,7 +80,7 @@ When you have **Advantage** on an attack, add the listed damage to the attack.
 
 Unless specified otherwise, each knack may only be taken once.
 
-**Assassin**: You do an additional +1d4 damage with your [Sneak Attack](#sneak-attack) ability.
+**Assassin**: You do an additional +1d4 damage with your [Sneak Attack](#sneak%20attack) ability.
 
 **Clue Hound**: You have **Advantage** on Search checks.
 
@@ -119,7 +122,7 @@ Unless specified otherwise, each knack may only be taken once.
 	- 2nd Level: [Actor](Traits.md#actor)
 	- 3rd Level: Assassin
 	- 5th Level: Master of Disguise
-	- 6th Level: [Panther's Grace](Traits.md#panthers-grace)
+	- 6th Level: [Panther's Grace](Traits.md#panthers%20grace)
 	- 7th Level: Skulker
 	- 9th Level: Quick Reflexes
 	- 10th Level: [Alert](Traits.md#alert)
@@ -129,7 +132,7 @@ Unless specified otherwise, each knack may only be taken once.
 	- 15th Level: Light Footed
 - **Bard** 
 	- 1st Level: Distracting Defense, [Linguist](Traits.md#linguist)
-	- 2nd Level: [Friendly Face](Traits.md#friendly-face)
+	- 2nd Level: [Friendly Face](Traits.md#friendly%20face)
 	- 3rd Level: Code-Breaker
 	- 5th Level: Watchful
 	- 6th Level: [Actor](Traits.md#actor)
@@ -145,16 +148,16 @@ Unless specified otherwise, each knack may only be taken once.
 	- 2nd Level: [Agile](Traits.md#agile)
 	- 3rd Level: Second Story Work
 	- 5th Level: Master of Locks
-	- 6th Level: [Always Prepared](Traits.md#always-prepared)
+	- 6th Level: [Always Prepared](Traits.md#always%20prepared)
 	- 7th Level: Trap Sense
 	- 9th Level: Master of Traps
-	- 10th Level: [Great Fortune](Traits.md#great-fortune)
+	- 10th Level: [Great Fortune](Traits.md#great%20fortune)
 	- 11th Level: Distracting Defense or Intelligent Defense
 	- 13th Level: Clue Hound
-	- 14th Level: [Merchant's Eye](Traits.md#merchants-eye)
+	- 14th Level: [Merchant's Eye](Traits.md#merchants%20eye)
 	- 15th Level: Light Footed
 - **Mountebank** 
-	- 1st Level: Master of Disguise, [Friendly Face](Traits.md#friendly-face)
+	- 1st Level: Master of Disguise, [Friendly Face](Traits.md#friendly%20face)
 	- 2nd Level: [Actor](Traits.md#actor)
 	- 3rd Level: Counterfeiter
 	- 5th Level: Watchful
@@ -164,10 +167,10 @@ Unless specified otherwise, each knack may only be taken once.
 	- 10th Level:  [Charming](Traits.md#charming)
 	- 11th Level: Light-Footed
 	- 13th Level: Quick Reflexes
-	- 14th Level: [Merchant's Eye](Traits.md#merchants-eye)
+	- 14th Level: [Merchant's Eye](Traits.md#merchants%20eye)
 	- 15th Level: Distracting Defense
 - **Scout** 
-	- 1st Level: Watchful, [Child of the (Terrain)](Traits.md#child-of-the-terrain)
+	- 1st Level: Watchful, [Child of the (Terrain)](Traits.md#child%20of%20the%20terrain)
 	- 2nd Level: [Survivalist](Traits.md#survivalist)
 	- 3rd Level: Skulker
 	- 5th Level: Distracting Defense or Intelligent Defense
@@ -177,6 +180,5 @@ Unless specified otherwise, each knack may only be taken once.
 	- 10th Level: [Alert](Traits.md#alert)
 	- 11th Level: Assassin
 	- 13th Level: Trap Sense
-	- 14th Level: [Catch Your Breath](Traits.md#catch-your-breath)
+	- 14th Level: [Catch Your Breath](Traits.md#catch%20your%20breath)
 	- 15th Level: Quick Reflexes
-

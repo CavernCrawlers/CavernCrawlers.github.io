@@ -2,17 +2,18 @@
 cssclass: clean-embeds
 ---
 # Fighter-Rogue
-- [Statistics](#statistics)
-- [Equipment](#equipment)
-- [Class Abilities](#class-abilities)
-	- [Fortune's Favor](#fortunes-favor)
-	- [Mighty Deed](#mighty-deed)
-	- [Rogue Skills](#rogue-skills)
-	- [Sneak Attack](#sneak-attack)
-	- [Fighter-Rogue Table](#fighter-rogue-table)
-	- [Fighter-Rogue Saving Throws](#fighter-rogue-saving-throws)
-- [Fighter-Rogue Knacks](#fighter-rogue-knacks)
-	- [Sample Fighter-Rogue Builds](#sample-fighter-rogue-builds)
+- [Statistics](#Statistics)
+- [Equipment](#Equipment)
+- [Class Abilities](#Class%20Abilities)
+	- [Fortune's Favor](#Fortune's%20Favor)
+	- [Rogue Skills](#Rogue%20Skills)
+	- [At 2nd level:](#At%202nd%20level:)
+		- [Combat Maneuvers](#Combat%20Maneuvers)
+		- [Sneak Attack](#Sneak%20Attack)
+- [Fighter-Rogue Table](#Fighter-Rogue%20Table)
+	- [Fighter-Rogue Saving Throws](#Fighter-Rogue%20Saving%20Throws)
+- [Fighter-Rogue Knacks](#Fighter-Rogue%20Knacks)
+	- [Sample Fighter-Rogue Builds](#Sample%20Fighter-Rogue%20Builds)
 
 ## Statistics
 - **Starting HP**: 7 + CON Modifier
@@ -48,7 +49,7 @@ You gain the Sneak Attack ability.
 
 If you take this as a class ability, you may not also take Combat Exploits.
 
-### Fighter-Rogue Table
+## Fighter-Rogue Table
 | Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Abilities |
 |:-----:|:------------:|:----------------:|:---------------:|:------:|:------:|:----------|
 |    1  |   1d6+1      |      +1          |      +1         |    1   |    1   | Fortune's Favor, Rogue Skills |
@@ -92,7 +93,7 @@ Unless stated otherwise, each knack may only be taken once.
 
 **Archer**: You do not have **Disadvantage** when making attacks at Far range.
 
-**Backstabber**:  If you do not already have the [Sneak Attack](#sneak-attack) ability, you gain the Sneak Attack ability.  You may not take this knack at 1st level.
+**Backstabber**:  If you do not already have the [Sneak Attack](#sneak%20attack) ability, you gain the Sneak Attack ability.  You may not take this knack at 1st level.
 
 **Cavalry**: While mounted, you gain +2 to hit and +1 AC. Additionally, whatever creature you are mounted on gains +1 AC and +1 Evasion.
 
@@ -104,7 +105,7 @@ Unless stated otherwise, each knack may only be taken once.
 
 **Intelligent Defense**: Your good at recognizing danger and know how best to avoid it. Add your **Intelligence Bonus** to your AC so long as you are not wearing medium or heavy armor. Cannot be combined with **Distracting Defense**.
 
-**Mighty Warrior**: If you do not have the [Combat Maneuvers](#combat-maneuvers) ability, you gain the Combat Maneuvers ability.  You may not take this knack at 1st level.
+**Mighty Warrior**: If you do not have the [Combat Maneuvers](#combat%20maneuvers) ability, you gain the Combat Maneuvers ability.  You may not take this knack at 1st level.
 
 **Mighty Shot**: If you already have the **Mighty Deed** ability, you may use the Mighty Deed ability with ranged attacks.
 
@@ -129,4 +130,4 @@ Unless stated otherwise, each knack may only be taken once.
 	- Trait - [Duelist](Traits.md#duelist)
 - **Thug** 
 	- Knack – Charger
-	- Trait - [Knife Fighting](Traits.md#knife-fighting)
+	- Trait - [Knife Fighting](Traits.md#knife%20fighting)

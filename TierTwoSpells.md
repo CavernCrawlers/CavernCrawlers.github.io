@@ -1,25 +1,26 @@
 # Tier 2 Spells
-
-- [Alter Self](#alter-self)
-- [Augury](#augury)
-- [Blessing](#blessing)
-- [Blight](#blight)
-- [Blind/Deafen](#blinddeafen)
-- [Charm Animal](#charm-animal)
-- [Detect Invisible](#detect-invisible)
-- [Detect Thoughts](#detect-thoughts)
-- [Heat Metal](#heat-metal)
-- [Invisibility](#invisibility)
-- [Knowing](#knowing)
-- [Locate](#locate)
-- [Mirror Image](#mirror-image)
-- [Paralyze](#paralyze)
-- [Phantasm](#phantasm)
-- [Restoration](#restoration)
-- [Silence](#silence)
-- [Smite](#smite)
-- [Warp Wood](#warp-wood)
-- [Web](#web)
+- [Alter Self](#Alter%20Self)
+- [Augury](#Augury)
+- [Blessing](#Blessing)
+- [Blight](#Blight)
+- [Blind](#Blind)
+- [Catsight](#Catsight)
+- [Deafen](#Deafen)
+- [Detect Invisible](#Detect%20Invisible)
+- [Detect Thoughts](#Detect%20Thoughts)
+- [Growth](#Growth)
+- [Heat Metal](#Heat%20Metal)
+- [Invisibility](#Invisibility)
+- [Knowing](#Knowing)
+- [Locate](#Locate)
+- [Mirror Image](#Mirror%20Image)
+- [Paralyze](#Paralyze)
+- [Phantasm](#Phantasm)
+- [Restoration](#Restoration)
+- [Silence](#Silence)
+- [Smite](#Smite)
+- [Warp Wood](#Warp%20Wood)
+- [Web](#Web)
 
 ## Alter Self
 - **Tier:** 2 (6+)
@@ -129,7 +130,7 @@ You curse the target creature with [Blindness](Combat.md#Blinded).  A victim of 
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-For the duration of the spell, the touched creature gains [Low-Light Vision](Glossary.md#low-light-vision).
+For the duration of the spell, the touched creature gains [Low-Light Vision](Glossary.md#low-light%20vision).
 
 *Upcasting*
 

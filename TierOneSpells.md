@@ -1,26 +1,24 @@
 # Tier 1 Spells
-
-Rank 1 spells have a **Casting Difficulty** of 4.
-- [Abjuration](#abjuration)
-- [Alarm](#alarm)
-- [Arcane Arrow](#arcane-arrow)
-- [Beauty's Bane](#beautys-bane)
-- [Calm](#calm)
-- [Charm](#charm)
-- [Enchant Weapon](#enchant-weapon)
-- [Frighten](#frighten)
-- [Gather Mist/Shadows](#gather-mistshadows)
-- [Heal Wounds](#heal-wounds)
-- [Leaping](#leaping)
-- [Mage Lock](#mage-lock)
-- [Magic Pouch](#magic-pouch)
-- [Purify Food and Drink](#purify-food-and-drink)
-- [Read Language](#read-language)
-- [Resist Element](#resist-element)
-- [Shield](#shield)
-- [Sleep](#sleep)
-- [Turn Undead](#turn-undead)
-- [Ventriloquism](#ventriloquism)
+- [Abjuration](#Abjuration)
+- [Alarm](#Alarm)
+- [Arcane Arrow](#Arcane%20Arrow)
+- [Beauty's Bane](#Beauty's%20Bane)
+- [Calm](#Calm)
+- [Charm](#Charm)
+- [Enchant Weapon](#Enchant%20Weapon)
+- [Frighten](#Frighten)
+- [Gather Mist/Shadows](#Gather%20Mist/Shadows)
+- [Heal Wounds](#Heal%20Wounds)
+- [Leaping](#Leaping)
+- [Mage Lock](#Mage%20Lock)
+- [Magic Pouch](#Magic%20Pouch)
+- [Purify Food and Drink](#Purify%20Food%20and%20Drink)
+- [Read Language](#Read%20Language)
+- [Resist Element](#Resist%20Element)
+- [Shield](#Shield)
+- [Sleep](#Sleep)
+- [Turn Undead](#Turn%20Undead)
+- [Ventriloquism](#Ventriloquism)
 
 ## Abjuration
 - **Tier:** 1st (3+)
@@ -239,7 +237,7 @@ This spell allows the target to heal 1 Hit Die plus their CON Modifier in hit po
 |:----------:|:-------|
 | +2         | increase the number of targets by 1 (note that multiple runes may be required to affect creatures of different types). |
 | +2         | increase the number of Hit Dice rolled for healing by 1. |
-| +6         | heal any one of the following [lingering injuries](Combat.md#lingering-injuries): minor concussion, sprain, bruised ribs |
+| +6         | heal any one of the following [lingering injuries](Combat.md#lingering%20injuries): minor concussion, sprain, bruised ribs |
 | +9         | Difficulty +9 - heal any one of the following lingering injuries: horrific scarring, broken ribs, internal bleeding, concussion |
 | +12        | Difficulty +12 - heal the amputation lingering injury |
 

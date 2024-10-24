@@ -6,79 +6,79 @@ Each class abilties table shows when characters gain Traits.
 Traits are broken into multiple distinct types: General, Allegiance, Combat, Spellcasting and Supernatural.
 
 Unless otherwise noted, each trait may only be taken once.
-- [General Traits](#general-traits)
-	- [Actor](#actor)
-	- [Agile](#agile)
-	- [Alert](#alert)
-	- [Always Prepared](#always-prepared)
-	- [Animal Companion](#animal-companion)
-	- [Armor Training (light, medium or heavy)](#armor-training-light-medium-or-heavy)
-	- [Brawny](#brawny)
-	- [Broad Skills](#broad-skills)
-	- [Catch Your Breath](#catch-your-breath)
-	- [Charming](#charming)
-	- [Die Hard](#die-hard)
-	- [Fast Healer](#fast-healer)
-	- [Friendly Face](#friendly-face)
-	- [Great Bravery](#great-bravery)
-	- [Great Fortune](#great-fortune)
-	- [Great Leader](#great-leader)
-	- [Healer](#healer)
-	- [Journeyman](#journeyman)
-	- [Learned](#learned)
-	- [Linguist](#linguist)
-	- [Master](#master)
-	- [Merchant’s Eye](#merchants-eye)
-	- [Second Wind](#second-wind)
-	- [Self Improvement](#self-improvement)
-	- [Stout](#stout)
-	- [Superior Training](#superior-training)
-	- [Survivalist](#survivalist)
-	- [Tenacity](#tenacity)
-	- [Unassuming](#unassuming)
-	- [Very Helpful](#very-helpful)
-	- [Weapon Training](#weapon-training)
-	- [Wise](#wise)
-- [Allegiance Traits](#allegiance-traits)
-	- [Breaker of [Allegiance]](#breaker-of-allegiance)
-	- [Rebuke [Allegiance]](#rebuke-allegiance)
-	- [Summoner](#summoner)
-	- [Warded Against [Allegiance]](#warded-against-allegiance)
-- [Combat Traits](#combat-traits)
-	- [Combat Mastery](#combat-mastery)
-	- [Crossbow Expert](#crossbow-expert)
-	- [Duelist](#duelist)
-	- [Favored Enemy](#favored-enemy)
-	- [Knife Fighting](#knife-fighting)
-	- [Mage Slayer](#mage-slayer)
-	- [Off-Hand Proficiency](#off-hand-proficiency)
-	- [Panther’s Grace](#panthers-grace)
-	- [Unarmed Combat](#unarmed-combat)
-- [Spellcasting Traits](#spellcasting-traits)
-	- [Familiar](#familiar)
-	- [Flexible Ritualist](#flexible-ritualist)
-	- [Potent Magic](#potent-magic)
-	- [Practiced Ritual](#practiced-ritual)
-	- [Skilled Caster](#skilled-caster)
-	- [Supreme Concentration](#supreme-concentration)
-	- [Touched by Magic](#touched-by-magic)
-	- [War Wizard](#war-wizard)
-	- [Well of Power](#well-of-power)
-	- [With But a Wave](#with-but-a-wave)
-	- [Words of Power](#words-of-power)
-- [Supernatural Traits](#supernatural-traits)
-	- [[Beast] Speech](#beast-speech)
-	- [Child of the [Terrain]](#child-of-the-terrain)
-	- [[Elemental] Caller](#elemental-caller)
-	- [Fae Touched](#fae-touched)
-	- [Ghost-Touched](#ghost-touched)
-	- [Healing Touch](#healing-touch)
-	- [Infuse Weapon](#infuse-weapon)
-	- [Oathkeeper](#oathkeeper)
-	- [Second Sight](#second-sight)
-	- [Shapechanger](#shapechanger)
-	- [Soul Gaze](#soul-gaze)
-	- [Spirit Friend](#spirit-friend)
+- [General Traits](#General%20Traits)
+	- [Actor](#Actor)
+	- [Agile](#Agile)
+	- [Alert](#Alert)
+	- [Always Prepared](#Always%20Prepared)
+	- [Animal Companion](#Animal%20Companion)
+	- [Armor Training (light, medium or heavy)](#Armor%20Training%20(light,%20medium%20or%20heavy))
+	- [Brawny](#Brawny)
+	- [Broad Skills](#Broad%20Skills)
+	- [Catch Your Breath](#Catch%20Your%20Breath)
+	- [Charming](#Charming)
+	- [Die Hard](#Die%20Hard)
+	- [Fast Healer](#Fast%20Healer)
+	- [Friendly Face](#Friendly%20Face)
+	- [Great Bravery](#Great%20Bravery)
+	- [Great Fortune](#Great%20Fortune)
+	- [Great Leader](#Great%20Leader)
+	- [Healer](#Healer)
+	- [Journeyman](#Journeyman)
+	- [Learned](#Learned)
+	- [Linguist](#Linguist)
+	- [Master](#Master)
+	- [Merchant’s Eye](#Merchant%E2%80%99s%20Eye)
+	- [Second Wind](#Second%20Wind)
+	- [Self Improvement](#Self%20Improvement)
+	- [Stout](#Stout)
+	- [Superior Training](#Superior%20Training)
+	- [Survivalist](#Survivalist)
+	- [Tenacity](#Tenacity)
+	- [Unassuming](#Unassuming)
+	- [Very Helpful](#Very%20Helpful)
+	- [Weapon Training](#Weapon%20Training)
+	- [Wise](#Wise)
+- [Allegiance Traits](#Allegiance%20Traits)
+	- [Breaker of {Allegiance}](#Breaker%20of%20%7BAllegiance%7D)
+	- [Rebuke {Allegiance}](#Rebuke%20%7BAllegiance%7D)
+	- [Summoner](#Summoner)
+	- [Warded Against {Allegiance}](#Warded%20Against%20%7BAllegiance%7D)
+- [Combat Traits](#Combat%20Traits)
+	- [Combat Mastery](#Combat%20Mastery)
+	- [Crossbow Expert](#Crossbow%20Expert)
+	- [Duelist](#Duelist)
+	- [Favored Enemy](#Favored%20Enemy)
+	- [Knife Fighting](#Knife%20Fighting)
+	- [Mage Slayer](#Mage%20Slayer)
+	- [Off-Hand Proficiency](#Off-Hand%20Proficiency)
+	- [Panther’s Grace](#Panther%E2%80%99s%20Grace)
+	- [Unarmed Combat](#Unarmed%20Combat)
+- [Spellcasting Traits](#Spellcasting%20Traits)
+	- [Familiar](#Familiar)
+	- [Flexible Ritualist](#Flexible%20Ritualist)
+	- [Potent Magic](#Potent%20Magic)
+	- [Practiced Ritual](#Practiced%20Ritual)
+	- [Skilled Caster](#Skilled%20Caster)
+	- [Supreme Concentration](#Supreme%20Concentration)
+	- [Touched by Magic](#Touched%20by%20Magic)
+	- [War Wizard](#War%20Wizard)
+	- [Well of Power](#Well%20of%20Power)
+	- [With But a Wave](#With%20But%20a%20Wave)
+	- [Words of Power](#Words%20of%20Power)
+- [Supernatural Traits](#Supernatural%20Traits)
+	- [{Beast} Speech](#%7BBeast%7D%20Speech)
+	- [Child of the {Terrain}](#Child%20of%20the%20%7BTerrain%7D)
+	- [{Elemental} Caller](#%7BElemental%7D%20Caller)
+	- [Fae Touched](#Fae%20Touched)
+	- [Ghost-Touched](#Ghost-Touched)
+	- [Healing Touch](#Healing%20Touch)
+	- [Infuse Weapon](#Infuse%20Weapon)
+	- [Oathkeeper](#Oathkeeper)
+	- [Second Sight](#Second%20Sight)
+	- [Shapechanger](#Shapechanger)
+	- [Soul Gaze](#Soul%20Gaze)
+	- [Spirit Friend](#Spirit%20Friend)
 
 ## General Traits
 
@@ -105,10 +105,10 @@ Your character understands how to move in a particular weight of armor effective
 Your character gains a +2 bonus on non-combat checks involving Strength.
 
 ### Broad Skills
-Your character may roll for a 2nd [Background Career](Background.md).  If the same career is rolled a 2nd time either re-roll (if desired) or increase your skill in that career or take the [Journeyman](#jouneyman) trait for that career.
+Your character may roll for a 2nd [Background Career](Background.md).  If the same career is rolled a 2nd time either re-roll (if desired) or replace this trait with the [Journeyman](#journeyman) trait for the duplicated career.
 
 ### Catch Your Breath
-Your characer can recover 1 level of **Exhaustion** with a **Short Rest**.
+Your character can recover 1 level of **Exhaustion** with a **Short Rest**.
 
 ### Charming
 Your character gains a +2 bonus on non-combat checks involving Charisma.
@@ -182,18 +182,18 @@ Your character gains proficiency with an additional class of weapons.  This trai
 Your character gains a +2 bonus on non-combat checks involving Wisdom.
 
 ## Allegiance Traits
-Each of these traits requires a character to have sworn [Allegiance](AllegiancesAndMorality.md) to a [Cosmic Power](AllegiancesAndMorality.md#Cosmic-Powers) before they can be taken.
+Each of these traits requires a character to have sworn [Allegiance](AllegiancesAndMorality.md) to a [Cosmic Power](AllegiancesAndMorality.md#Cosmic%20Powers) before they can be taken.
 
-### Breaker of [Allegiance]
+### Breaker of {Allegiance}
 A character cannot be of the named **Allegiance** when taking this trait.  Their blows are filled with the power of their cosmic patron and thus grant +2 to hit and damage against creatures of the named Allegiance and also count as magical for **resistance** and **immunity** purposes.  After scoring a hit against a creature of the named Allegiance, this character may spend a **Fortune Point** to have their attack automatically do maximum damage.  This trait may be taken multiple times, applying to a different Allegiance each time.
 
-### Rebuke [Allegiance]
+### Rebuke {Allegiance}
 A character cannot be of the named **Allegiance** when taking this trait.  Your character’s very presence is an anathema to supernatural creatures of the named Allegiance.  She may use her action to attempt to drive off supernatural creatures of the named Allegiance.  She makes a **Charisma Check**, adding in her **Character Level** as a bonus.  Any creatures able to see and hear her must make a **Spirit Saving Throw** using the check's total as the **DT**.  If the creature's total is lower than the DT it becomes **Frightened** of your character for the next minute.  If the Charisma check was also a critical success, those creature are **Routed** for the next 24 hours.  Any creature whose Spirit Save is equal to or higher than the DT becomes immune to this ability from your character for the next 24 hours, unless she spends a Fortune Point.  This trait may be taken multiple times, applying to a different Allegiance each time.
 
 ### Summoner
 The character may cast the Summoning ritual to summon supernatural creatures as a **Spellcaster** of his level using the highest of his **Intelligence**, **Wisdom** or **Charisma Modifiers** when doing so.  The creature summoned must be of the same **Allegiance** as the character.
 
-### Warded Against [Allegiance]
+### Warded Against {Allegiance}
 A character cannot be of the named **Allegiance**.  Your character has **Advantage** on **Saving Throws** against the supernatural powers of creatures of the named Allegiance.  Your character may also spend a **Fortune Point** to automatically pass a failed Saving Throw verses those supernatural powers.  This trait may be taken multiple times, applying to a different Allegiance each time.
 
 ## Combat Traits
@@ -229,7 +229,7 @@ Your character is dangerous even without a weapon in her hand. Her unarmed comba
 
 ## Spellcasting Traits
 
-Most of these **Traits** are only available to characters who possess the ability to utilize **Magical Arts**.  The exception is the [Touched by Magic](#touched-by-magic) trait, which will then qualify the character for other traits of this type.
+Most of these **Traits** are only available to characters who possess the ability to utilize **Magical Arts**.  The exception is the [Touched by Magic](#touched%20by%20magic) trait, which will then qualify the character for other traits of this type.
 
 ### Familiar
 
@@ -272,13 +272,13 @@ The caster picks two spells or cantrips they already know. These spells no longe
 
 These are supernatural abilties that may be gained without the ability to use **magical arts** or swear and **allegiance** to a **cosmic power**.
 
-### [Beast] Speech
+### {Beast} Speech
 Whether because of heritage, a mystical pact, or an unknown gift, your character has a great affinity with the named type of animal. She may speak with them, has a rough sense of when they are nearby, and gains **Advantage** on any **D20 Checks** involving them.  This trait may be taken multiple times, applying to a different animal type each time.
 
-### Child of the [Terrain]
+### Child of the {Terrain}
 Pick a terrain type (such as forest, desert, ocean, mountain, etc).  Your character can never become lost in this terrain except by magical means.  Additionally, sometimes the spirits of the land in this terrain whisper to her and she gains **Advantage** on any **Charisma Check** to interact with such spirits.  This trait may be taken multiple times, applying to a different terrain type each time.
 
-### [Elemental] Caller
+### {Elemental} Caller
 Due to bloodline or oath, all manifested or aware elementals of the named type in Near range of your character must present themselves; socially if they are capable of speech, or wordlessly if they are not. Your character can perceive them even if they are invisible or inaudible.  He gains the appropriate elemental language as a bonus language.  This trait may be taken multiple times, applying to a different elemental type each time.
 
 ### Fae Touched
@@ -297,7 +297,7 @@ Your character may infuse part of her soul into her weapon attacks (including un
 When your character witnesses an oath or makes one herself, fate binds the oath taker to see it done. Anyone who makes an oath in your character’s presence, including the character herself, must keep their word or find themselves halving all healing received and unable to regain **Fortune Points** unless they are working towards fulfilling their oath.
 
 ### Second Sight
-Your character gains the **Sense Magic** ability as if they were a [Spellcaster](Spellcaster.md#sense-magic).
+Your character gains the [Sense Magic](Spellcaster.md#sense%20magic) ability as if they were a Spellcaster.
 
 ### Shapechanger
 Be it due to magic, a curse or an unnatural heritage, your character has the ability to take the shape of any one small, ordinary animal chosen at the time this trait is taken.  Doing so is very difficult and requires the expenditure of a Fortune Point. This change lasts for 1 hour per **Character Level**. Changing back earlier requires a **Difficulty 12 Spirit Save** or the expenditure of another **Fortune Point**.

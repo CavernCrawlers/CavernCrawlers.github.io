@@ -5,23 +5,23 @@
 	- [Rarity](#rarity)
 	- [Haggling](#haggling)
 	- [Weapons](#weapons)
-		- [Weapon Properties](#weapon-properties)
-		- [Damage Types](#damage-types)
+		- [Weapon Properties](#weapon%20properties)
+		- [Damage Types](#damage%20types)
 		- [Weight](#weight)
 		- [Ranges](#ranges)
-		- [Melee Weapons](#melee-weapons)
-		- [Ranged Weapons](#ranged-weapons)
+		- [Melee Weapons](#melee%20weapons)
+		- [Ranged Weapons](#ranged%20weapons)
 	- [Armor](#armor)
-		- [Armor Properties](#armor-properties)
-		- [Donning and Doffing Armor](#donning-and-doffing-armor)
+		- [Armor Properties](#armor%20properties)
+		- [Donning and Doffing Armor](#donning%20and%20doffing%20armor)
 	- [Gear](#gear)
-		- [Equipment Packs](#equipment-packs)
-		- [Food and Shelter](#food-and-shelter)
-		- [Lifestyle Expenses](#lifestyle-expenses)
+		- [Equipment Packs](#equipment%20packs)
+		- [Food and Shelter](#food%20and%20shelter)
+		- [Lifestyle Expenses](#lifestyle%20expenses)
 		- [Services](#services)
-		- [Mounts, Livestock and Transport](#mounts-livestock-and-transport)
-		- [Tack and Harness](#tack-and-harness)
-		- [Drawn Vehicles](#drawn-vehicles)
+		- [Mounts, Livestock and Transport](#mounts%20livestock%20and%20transport)
+		- [Tack and Harness](#tack%20and%20harness)
+		- [Drawn Vehicles](#drawn%20vehicles)
 
 ## Encumbrance
 
@@ -79,7 +79,7 @@ It is possible that your players may wish to haggle with local merchants over th
 |:------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  Hostile                |  The merchant is insulted and throws the character out of their shop.  If they have any influence in the community, they may consider blacklisting the character with other merchants.  |
 |  Unfriendly             |  The merchant not only refuses to haggle, but increases the price by (1d4+1)x10%.                                                                                                       |
-|  Neutral                |  The merchant is potentially willing to make a compromise deal, changing their price by (2d4-5)x5% [-15% to +15%]                                                                       |
+|  Neutral                |  The merchant is potentially willing to make a compromise deal, changing their price by (2d4-5)x5% {-15% to +15%}                                                                       |
 |  Indifferent            |  The merchant agrees to reduce their price by up to 30%.                                                                                                                                |
 |  Friendly               |  The character has won the merchant over to such a degree that they’re willing to offer a ‘friends and family’ discount, cutting their price by up to 50%.                              |  
 
@@ -94,7 +94,7 @@ The weapon tables below are not meant to be exhaustive, but represent those most
 - **Finesse**: When used in melee, this weapon may use either **Dexterity** or **Strength** for attack and damage bonuses.
 - **Flexible**: This weapon ignores the target's AC bonus from shields and weapons with the **Defensive** property.
 - **Hurlant**: This weapon may be thrown to a range of [Near](#ranges) using either **Strength** or **Dexterity** for attack and damage bonuses.
-- **Impact**: On a **Critical Hit** the target suffers the effects of a [Pushback](draft/CombatManeuver.md#pushback).
+- **Impact**: On a **Critical Hit** the target suffers the effects of a [Shove](Combat.md#shove).
 - **Mounted**: This weapon requires 2-hands when used on foot, but only 1 hand when mounted. Additionally, it does double damage on a mounted **Charge Maneuver**.
 - **Reach**: This weapon can be used for melee attacks against targets out to 10ft and can be used from the 2nd rank.
 - **Reload**: This weapon must be reloaded after each use, requiring an **Action**.
@@ -184,7 +184,7 @@ If a weapon lists 2 or more damage types, the wielder must specify the damage ty
 |  Net                   |  M       |   --     |   --    |  N      |    2sp  |  1      |  Hurlant, Snare, 2H, Flexible  |
 |  Sling                 |  L       |   1d6    |   B     |  F      |    2cp  |  1      |                                |
 |  Spear                 |  M       |   1d8    |   P     |  N      |    2sp  |  1      |  Versatile, Hurlant            |
-|  Trident               |  M       |  1d8+1   |   P     |  N      |  1 0sp  |  1      |  Versatile, Hurlant            |  
+|  Trident               |  M       |  1d8+1   |   P     |  N      |   10sp  |  1      |  Versatile, Hurlant            |  
 
 
 <sub>
@@ -326,8 +326,8 @@ While on an adventure, your character will still need food to eat and a place to
 
 | Item     | Cost | Notes |
 |:---------|-----:|:------|
-| Inn Stay |  1sp | 1 day; common quality counts toward a modest [Lifestyle](#lifestyle-expenses). |
-| Meals    |  1sp | 1 day; common quality counts toward a modest [Lifestyle](#lifestyle-expenses). |
+| Inn Stay |  1sp | 1 day; common quality counts toward a modest [Lifestyle](#lifestyle%20expenses). |
+| Meals    |  1sp | 1 day; common quality counts toward a modest [Lifestyle](#lifestyle%20expenses). |
 | *Drink*  |   -- | costs are per serving |
 | -Ale     |  2cp | |
 | -Beer    |  1cp | |

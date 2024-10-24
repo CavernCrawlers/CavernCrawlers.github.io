@@ -2,8 +2,8 @@
 **AKA**: Kobold, Koballus, Luton, Skreetok<br/>
 Goblins are a species of naturally nocturnal humanoids most commonly found in the woods and mountains.  They stand 4 to 5 feet in height, have pointed ears, cat-like eyes, sharp teeth, long arms and spare or patchy body hair.  Their skin tones are some shade of gray, red, yellow or green.  They typically stand between 4 and 5 feet in height and have a lifespan rarely exceeding 50 years.
 - **Starting Age:** 10 + 1d4 years
-- **Height:** 46 + 2d8 inches [4' to 5' 2"]
-- **Weight:** 55 + (height roll * 2d4) lbs [59 to 183 lbs]
+- **Height:** 46 + 2d8 inches {4' to 5' 2"}
+- **Weight:** 55 + (height roll * 2d4) lbs {59 to 183 lbs}
 - **Size:** Small
 - **Speed:** 30 ft
 - **Tags:** Humanoid, Fae

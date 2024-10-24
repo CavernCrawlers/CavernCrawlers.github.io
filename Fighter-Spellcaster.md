@@ -2,19 +2,19 @@
 cssclass: clean-embeds
 ---
 # Fighter-Spellcaster
-- [Statistics](#statistics)
-- [Equipment](#equipment)
-- [Class Abilities](#class-abilities)
-	- [Exhausting Magic](#exhausting-magic)
-	- [Invocation Dice](#invocation-dice)
-	- [Magical Focus](#magical-focus)
-	- [Spellcasting](#spellcasting)
-	- [Sense Magic](#sense-magic)
-	- [True Name](#true-name)
-	- [Fighter-Spellcaster Table](#fighter-spellcaster-table)
-	- [Fighter-Spellcaster Saving Throws](#fighter-spellcaster-saving-throws)
-- [Fighter-Spellcaster Knacks](#fighter-spellcaster-knacks)
-	- [Sample Fighter-Spellcaster Builds](#sample-fighter-spellcaster-builds)
+- [Statistics](#Statistics)
+- [Equipment](#Equipment)
+- [Class Abilities](#Class%20Abilities)
+	- [Exhausting Magic](#Exhausting%20Magic)
+	- [Invocation Dice](#Invocation%20Dice)
+	- [Magical Focus](#Magical%20Focus)
+	- [Spellcasting](#Spellcasting)
+	- [Sense Magic](#Sense%20Magic)
+	- [True Name](#True%20Name)
+- [Fighter-Spellcaster Table](#Fighter-Spellcaster%20Table)
+	- [Fighter-Spellcaster Saving Throws](#Fighter-Spellcaster%20Saving%20Throws)
+- [Fighter-Spellcaster Knacks](#Fighter-Spellcaster%20Knacks)
+	- [Sample Fighter-Spellcaster Builds](#Sample%20Fighter-Spellcaster%20Builds)
 
 ## Statistics
 - **Starting HP**: 6 + CON Modifier
@@ -49,7 +49,7 @@ You can harness the power of magic.  A hybrid-spellcaster begins their career kn
 ### True Name
 ![True Name](Spellcaster.md#true%20name)
 
-### Fighter-Spellcaster Table  
+## Fighter-Spellcaster Table  
 |  Level  |  Hit<br/>Dice  |  Attack<br/>Bonus  |  Skill<br/>Bonus  |  Invocation<br/>Dice   |  Knacks  |  Traits  |  Abilities                                                                     |
 |:-------:|:--------------:|:------------------:|:-----------------:|:----------------------:|:--------:|:--------:|:-------------------------------------------------------------------------------|
 |    1    |     1d6        |       +1           |       +1          |          0d6           |  1       |     1    |  Spellcasting, Magic User (cantrip), Sense Magic, True Name                    |
@@ -105,8 +105,8 @@ Unless stated otherwise, each knack may only be taken once.
 
 **Indomitable**: +1 to all **Saving Throws** except AC.
 
-**Mighty Warrior**: You gain the [Combat Maneuver](Fighter.md#combat-maneuvers) ability at a target of 14+.  This target number is lowered by 1 each time you would gain a new Knack.
-![Combat Maneuvers](Fighter.md#combat-maneuvers)
+**Mighty Warrior**: You gain the [Combat Maneuver](Fighter.md#combat%20maneuvers) ability at a target of 14+.  This target number is lowered by 1 each time you would gain a new Knack.
+![Combat Maneuvers](Fighter.md#combat%20maneuvers)
 
 **Skirmisher**: Gain +1 **Initiative**, +5 feet movement and +1 AC vs **Attacks of Opportunity** so long as you are not wearing _heavy_ armor.
 

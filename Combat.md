@@ -1,4 +1,60 @@
 # Combat
+- [Surprise](#Surprise)
+	- [Ambush](#Ambush)
+- [Initiative](#Initiative)
+- [Actions](#Actions)
+	- [Main Actions](#Main%20Actions)
+	- [Move Actions](#Move%20Actions)
+	- [Free Actions](#Free%20Actions)
+	- [Reactions](#Reactions)
+- [Attacking an Enemy](#Attacking%20an%20Enemy)
+	- [Ranged Attacks](#Ranged%20Attacks)
+		- [Cover](#Cover)
+	- [Magical Attacks](#Magical%20Attacks)
+	- [Fighting with Two Weapons](#Fighting%20with%20Two%20Weapons)
+	- [Shields Shall be Splintered and Helmets Sundered](#Shields%20Shall%20be%20Splintered%20and%20Helmets%20Sundered)
+	- [Damage](#Damage)
+		- [What are Hit Points?](#What%20are%20Hit%20Points?)
+		- [Critical Hits](#Critical%20Hits)
+		- [Death and Dying](#Death%20and%20Dying)
+		- [Lingering Injuries](#Lingering%20Injuries)
+- [Combat Maneuvers](#Combat%20Maneuvers)
+	- [Combat Maneuver Examples:](#Combat%20Maneuver%20Examples:)
+		- [Battle Cry](#Battle%20Cry)
+		- [Blind*](#Blind*)
+		- [Disarm](#Disarm)
+		- [Impair*](#Impair*)
+		- [Juke*](#Juke*)
+		- [Shove*](#Shove*)
+		- [Rally](#Rally)
+		- [Trip*](#Trip*)
+		- [Other*](#Other*)
+- [Conditions](#Conditions)
+	- [Blinded](#Blinded)
+	- [Charmed](#Charmed)
+	- [Concentrating](#Concentrating)
+	- [Deafened](#Deafened)
+	- [Exhausted](#Exhausted)
+	- [Fatigued](#Fatigued)
+	- [Frightened](#Frightened)
+	- [Grappled](#Grappled)
+	- [Incapacitated](#Incapacitated)
+	- [Intoxicated](#Intoxicated)
+	- [Invisible](#Invisible)
+	- [Paralyzed](#Paralyzed)
+	- [Petrified](#Petrified)
+	- [Poisoned](#Poisoned)
+	- [Prone](#Prone)
+	- [Restrained](#Restrained)
+	- [Stunned](#Stunned)
+	- [Unconcious](#Unconcious)
+- [Exhaustion](#Exhaustion)
+- [Healing and Recovery](#Healing%20and%20Recovery)
+	- [Short Rest](#Short%20Rest)
+	- [Long Rest](#Long%20Rest)
+	- [Extended Rest](#Extended%20Rest)
+	- [Medical Care](#Medical%20Care)
+
 ## Time
 Time in combat (and other action scenes) is tracked in relatively strict and discrete game units called **Combat Turns**, **Rounds** and **Minutes**.
 
@@ -67,7 +123,7 @@ A standard **Move Action** allows a creature to move up to its movement rate.  A
 - **Trigger a Readied Action:** If the set trigger occurs, take the readied action.
 
 ## Attacking an Enemy
-Attacking an enemy requires making a successful [Attack Roll](RulesSynopsis.md#Attack-Roll) vs the target's **AC**.
+Attacking an enemy requires making a successful [Attack Roll](RulesSynopsis.md#Attack%20Roll) vs the target's **AC**.
 
 ### Ranged Attacks
 Attacks made at **Far** range have **Disadvantage** on the attack roll.<br/>
@@ -86,7 +142,7 @@ There are two types of cover to be concerned with.  Hard Cover is an object or p
 | Soft | <50%     | no modifier |
 
 ### Magical Attacks
-Magical attacks follow the same rules as other attacks, but use the caster's **Skill Bonus** and either **Intelligence**, **Wisdom** or **Charisma modifier**.  See [Magical Attacks](MagicalArts.md#magical-attacks-and-saving-throws) under the Magical Arts document for further details.
+Magical attacks follow the same rules as other attacks, but use the caster's **Skill Bonus** and either **Intelligence**, **Wisdom** or **Charisma modifier**.  See [Magical Attacks](MagicalArts.md#magical%20attacks%20and%20saving%20throws) under the Magical Arts document for further details.
 
 ### Fighting with Two Weapons
 In order to wield 2 weapons, the weapon in the character’s primary hand must be a light or medium one-handed weapon, and the weapon in their off-hand must be a light one-handed weapon.
@@ -95,7 +151,7 @@ A character wielding two weapons has the option of using their off-hand weapon o
 
 Under no circumstances is a character allowed to attack with both weapons at the same time.  However, if a character has multiple attacks per Combat Turn, then they may choose which weapon to strike with each time they make an attack (subject to the above rules).
 
-See the [Off-Hand Proficiency](Traits.md#Off-Hand-Proficiency) trait for additional rules.
+See the [Off-Hand Proficiency](Traits.md#Off-Hand%20Proficiency) trait for additional rules.
 
 ### Shields Shall be Splintered and Helmets Sundered
 Any time a character takes a hit in combat from a direct attack (not an Area of Effect), before the damage dice are rolled, they may choose to sacrifice their shield (assuming they are wielding one) or helmet (again assuming they are wearing one) to cancel the hit.  A buckler or helmet sacrificed is destroyed.  A shield sacrificed is treated as a buckler until it is either repaired or destroyed.
@@ -106,20 +162,20 @@ Shields, bucklers and helmets may be repaired by a skilled blacksmith.  The DC o
 
 ### Damage
 #### What are Hit Points?
-Hit Points represent cuts, scrapes, bruises and other minor injuries one can take from dangerous physical activity (such as combat).  It does not represent serious injuries (such as blood loss, concision or the like).  Serious injury only occurs if a player character takes a Critical Hit or is dropped to 0 HP or less (see the [Lingering Injuries](#lingering-injuries) rules).  As a result, HPs heal relatively quickly.
+Hit Points represent cuts, scrapes, bruises and other minor injuries one can take from dangerous physical activity (such as combat).  It does not represent serious injuries (such as blood loss, concision or the like).  Serious injury only occurs if a player character takes a Critical Hit or is dropped to 0 HP or less (see the [Lingering Injuries](#lingering%20injuries) rules).  As a result, HPs heal relatively quickly.
 #### Critical Hits
-If the attack roll exceeds the target’s **armor class** by at least 1 and is a **natural 20**, it is a **critical hit**.  When a PC recieves a critical hit, they take that attack's max damage and may also take a [Lingering Injury](#Lingering-Injuries).  When a PC performs a critical hit, they do their normal damage, plus the max damage of their damage dice.  _For example, if an attack does 1d8 + 2 damage normally, a critical hit will do 1d8 + 2 + 8._
+If the attack roll exceeds the target’s **armor class** by at least 1 and is a **natural 20**, it is a **critical hit**.  When a PC recieves a critical hit, they take that attack's max damage and may also take a [Lingering Injury](#Lingering%20Injuries).  When a PC performs a critical hit, they do their normal damage, plus the max damage of their damage dice.  _For example, if an attack does 1d8 + 2 damage normally, a critical hit will do 1d8 + 2 + 8._
 
 #### Death and Dying
 As soon as a character drops to 0 HP or less, they fall [unconscious](#unconcious).
 
-Next, form a d4 [Countdown Pool](RulesSynopsis.md#Countdown-Pools) equal to their **Constitution bonus** + **Wisdom bonus** (minimum of 1).  This pool is rolled at the end of each of the character’s **Combat Turns**.  Once this **Countdown Pool** is emptied, the character dies.  Taking a hit while dying automatically removes 1 die from the pool in addition to the normal damage.  Taking a **critical hit** removes 2 dice.
+Next, form a d4 [Countdown Pool](RulesSynopsis.md#Countdown%20Pools) equal to their **Constitution bonus** + **Wisdom bonus** (minimum of 1).  This pool is rolled at the end of each of the character’s **Combat Turns**.  Once this **Countdown Pool** is emptied, the character dies.  Taking a hit while dying automatically removes 1 die from the pool in addition to the normal damage.  Taking a **critical hit** removes 2 dice.
 
 A character who is dying may be saved by another character attempting to stabilize them.  This is done with a **Wisdom/Healing** check vs difficulty 12 (15 if done in the middle of combat).  On a success, the character is stabilized but still has their negative HP total.  On a critical success, the patient is stabilized at 0 Hit Points.  The [Mend](TierZeroSpells.md#mend) cantrip will stabilize a dying creature as a successful healing roll.  Any healing spell of Tier 1 or higher stabilizes a dying creature as a critical success on the healing check.
 
 Once unconscious, the character cannot be revived until they are healed back to at least 1 HP.
 
-When an unconscious character is revived, they must check for a [Lingering Injury](#Lingering-Injuries).
+When an unconscious character is revived, they must check for a [Lingering Injury](#Lingering%20Injuries).
 
 #### Lingering Injuries
 When a player character receives a **Critical Hit** or is reduced to 0 Hit Points or less, there is a chance they will receive a lingering injury.  
@@ -186,7 +242,7 @@ You let out a rallying cry, perform a flashy maneuver or otherwise attempt to em
 #### Trip*
 You try to take your opponent's feet out from under them.  The target must make an **Evasion** save.  On a failure, they are knocked [Prone](Cbomat.md#prone).  If the target is larger than the attacker, or has more than two legs, they make their save with advantage.  If they are smaller, they have disadvantage.  This has no effect on flying creatures or creatures without legs.
 
-#### Other
+#### Other*
 Describe some effect you wish to add to your attack.  The GM will decide what saving throw the target is allowed and the exact mechanical effects your exploit has.
 
 ## Conditions
@@ -264,7 +320,7 @@ Describe some effect you wish to add to your attack.  The GM will decide what sa
 - Drops anything held.
 
 ## Exhaustion
-Exhaustion is a special condition representing a character’s endurance and being worn down by constant struggle and hardship.  Each time a character gains the **Fatigued** or **Exhausted** condition, they increase their rank of Exhaustion by 1.  Any time a character makes a [d20 check](RulesSynopsis.md#d20-checks), their **Exhaustion Rank** acts as a negative modifier to the roll.  Additionally, at rank 1 Exhaustion, they subtract 5 feet from their movement speed.  This increases to having their movement speed halved at rank 6 and reduced to 0 at rank 10.  If a character’s Exhaustion Rank would ever exceed 10, that character immediately dies.
+Exhaustion is a special condition representing a character’s endurance and being worn down by constant struggle and hardship.  Each time a character gains the **Fatigued** or **Exhausted** condition, they increase their rank of Exhaustion by 1.  Any time a character makes a [d20 check](RulesSynopsis.md#d20%20checks), their **Exhaustion Rank** acts as a negative modifier to the roll.  Additionally, at rank 1 Exhaustion, they subtract 5 feet from their movement speed.  This increases to having their movement speed halved at rank 6 and reduced to 0 at rank 10.  If a character’s Exhaustion Rank would ever exceed 10, that character immediately dies.
 
 After any highly strenuous activity (such as combat or sprinting) the participants must make a Hardiness save vs DT 12 or gain a level of [Exhaustion](#exhaustion).  If the activity lasts longer than 1 minute, this save must be made at the end of each minute (plus at the end of the activity) with a cumulative +3 DT penalty per extra minute (or fraction thereof).
 
@@ -275,26 +331,26 @@ There are three types of rest in this system: Short, Long and Extended.
 ### Short Rest
 A short rest is a 10-minute breather after which a character may regain a few hit points.  At the end of a Short rest, a character regains a number of hit points equal to the roll of 1 **hit die** plus their **Constitution Modifier**.  A character cannot benefit from more Short Rests in a 24 hour period than their Constitution modifier (minimum of 1).
 ### Long Rest
-A long rest is at least 8 hours of uninterrupted sleep or light activity.  At the end of a long rest, a character heals back a number of hit points equal to 1 **hit die** plus their **Constitution Score**.  If they are under medical care, add the caretaker’s skill bonus to the total if they are trained in healing.  Additionally, a character maintaining a **Wealthy** or higher [lifestyle](EncumbranceAndEquipment.md#Lifestyle-Expenses) adds a second hit die to the amount of hit points regained.
+A long rest is at least 8 hours of uninterrupted sleep or light activity.  At the end of a long rest, a character heals back a number of hit points equal to 1 **hit die** plus their **Constitution Score**.  If they are under medical care, add the caretaker’s skill bonus to the total if they are trained in healing.  Additionally, a character maintaining a **Wealthy** or higher [lifestyle](EncumbranceAndEquipment.md#Lifestyle%20Expenses) adds a second hit die to the amount of hit points regained.
 
 _For example, Merrick is a 5th level fighter with a 16 Constitution.  At the end of a short rest, he can regain 1d6 + 4 hit points (1d6+2 for his hit die plus another 2 for his constitution modifier).  At the end of a Long Rest with a superior quality meal while staying in a superior quality room at an inn, he’ll regain 2d6+4 (2 hit dice because of the wealthy lifestyle) + 16 (constitution score) hit points._
 
 Additionally, any characters completing a long rest will recover one rank of [Exhaustion](#Exhaustion).  When their exhaustion rank reaches 0, they are no longer **Exhausted**.
 
-If a character has any [Lingering Injuries](#Lingering-Injuries), they may be allowed a chance to recover from those injuries after a Long Rest.
+If a character has any [Lingering Injuries](#Lingering%20Injuries), they may be allowed a chance to recover from those injuries after a Long Rest.
 
-If a Long Rest is interrupted, the characters will at least gain the benefits of a [Short Rest](#Short-Rest).
+If a Long Rest is interrupted, the characters will at least gain the benefits of a [Short Rest](#Short%20Rest).
 
 A character cannot benefit from more than 1 Long Rest in a 24 hour period.
 
 ### Extended Rest
 An Extended Rest requires a full week’s rest at a **Safe Haven**.  A Safe Haven is defined as any location where characters can rest with no fear of danger nor any need to set up a watch.  Typically this is a friendly town, keep or the like where the characters have access to good food and warm beds. The GM will let the players know when their characters have encountered a Safe Haven.
 
-At the end of an Extended Rest a character regains all **Hit Points**, recovers all ranks of [Exhaustion](#Exhaustion) and has advantage on any rolls to recover from [Lingering Injuries](#Lingering-Injuries).
+At the end of an Extended Rest a character regains all **Hit Points**, recovers all ranks of [Exhaustion](#Exhaustion) and has advantage on any rolls to recover from [Lingering Injuries](#Lingering%20Injuries).
 
 No other **Downtime Activities** can be taken during an Extended Rest; your character is taking a week off to rest and recuperate.  
 
-If an Extended Rest is interrupted, but the character has managed at least a full 8 hours of rest, they will gain the benefits of a [Long Rest](#Long-Rest).
+If an Extended Rest is interrupted, but the character has managed at least a full 8 hours of rest, they will gain the benefits of a [Long Rest](#Long%20Rest).
 
 ### Medical Care
-If a character is under the care of someone trained in medicine/healing, their recovery will be improved.  As mentioned above, under [Long Rests](#Long-Rest), a healer will add their **skill bonus** to the amount of **hit points** recovered during a long rest.  Additionally, they may add their caretaker’s skill bonus to any checks they make to recover from [Lingering Injuries](#Lingering-Injuries).
+If a character is under the care of someone trained in medicine/healing, their recovery will be improved.  As mentioned above, under [Long Rests](#Long%20Rest), a healer will add their **skill bonus** to the amount of **hit points** recovered during a long rest.  Additionally, they may add their caretaker’s skill bonus to any checks they make to recover from [Lingering Injuries](#Lingering%20Injuries).

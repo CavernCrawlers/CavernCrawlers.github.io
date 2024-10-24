@@ -44,7 +44,7 @@ Wrath
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-By this spell, the wizard conjures an invisible "eye" through which they can see.  While looking through this eye, the mage is unaware of their immediate surroundings (treat as both [blind](Combat.md#blinded) and [deaf](Combat.md#deafened)).  The eye can move at a rate of Near but must remain within Near range of the caster.  The eye has [Low-Light Vision](Glossary.md#low-light-vision) and can squeeze through Tiny openings.
+By this spell, the wizard conjures an invisible "eye" through which they can see.  While looking through this eye, the mage is unaware of their immediate surroundings (treat as both [blind](Combat.md#blinded) and [deaf](Combat.md#deafened)).  The eye can move at a rate of Near but must remain within Near range of the caster.  The eye has [Low-Light Vision](Glossary.md#low-light%20vision) and can squeeze through Tiny openings.
 
 *Upcasting*
 

@@ -68,52 +68,37 @@
             }
           },
           {
-            "id": "72cafd5447a9a384",
+            "id": "323c453599e9d1f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Background.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Background"
-            }
-          },
-          {
-            "id": "c7a492e055c5f972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "draft/Skills.md",
+                "file": "WildernessExploration.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Skills"
+              "title": "WildernessExploration"
             }
           },
           {
-            "id": "628f88668d603f4b",
+            "id": "ee15f8b28d21c148",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EncumbranceAndEquipment.md",
+                "file": "CoreRules.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "EncumbranceAndEquipment"
+              "title": "CoreRules"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -270,34 +255,34 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "c7a492e055c5f972",
+  "active": "323c453599e9d1f9",
   "lastOpenFiles": [
-    "draft/RaceOgre.md",
-    "draft/Dragons.md",
-    "draft/Demons.md",
-    "templates/LifepathTemplate.md",
-    "Background.md",
-    "templates/ClassTemplate.md",
-    "Fighter.md",
-    "lifepaths/AcolyteOfTheOldGods.md",
-    "lifepaths/NovicePaladin.md",
-    "EncumbranceAndEquipment.md",
+    "Dungeoneering.md",
+    "WildernessExploration.md",
+    "TrueNames.md",
     "Traits.md",
-    "Fighter-Spellcaster.md",
-    "lifepaths/Birthright.md",
-    "lifepaths/ElvenHighborn.md",
-    "lifepaths/DwarvenRuneCaster.md",
-    "lifepaths/NewWatchman.md",
-    "lifepaths/AdventurousTrader.md",
-    "lifepaths/DabblingDiabolist.md",
-    "lifepaths/LocalPerformer.md",
-    "Fighter-Rogue.md",
-    "lifepaths/NeophyteDruid.md",
-    "lifepaths/DwarvenExplorer.md",
-    "lifepaths/ElvenMage.md",
-    "lifepaths/ElvenRanger.md",
-    "lifepaths/HeirToALegend.md",
-    "lifepaths/HeraldOfTheNamelessGods.md",
+    "TierZeroSpells.md",
+    "TierTwoSpells.md",
+    "TierThreeSpells.md",
+    "TierOneSpells.md",
+    "TierFourSpells.md",
+    "Spells.md",
+    "Spellcaster.md",
+    "Runes.md",
+    "RulesSynopsis.md",
+    "CoreRules.md",
+    "Combat.md",
+    "Rogue-Spellcaster.md",
+    "lifepaths/VillageFriend.md",
+    "Rogue.md",
+    "README.md",
+    "Orc.md",
+    "MagicalArts.md",
+    "Human.md",
+    "Hob.md",
+    "HirelingsAndAllies.md",
+    "Goblin.md",
+    "Glossary.md",
     "snippets/clean-embeds.css",
     "snippets",
     "lifepaths/lu92168me1lk.tmp",

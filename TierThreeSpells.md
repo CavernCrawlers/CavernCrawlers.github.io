@@ -1,5 +1,22 @@
 # Tier 3 Spells
-
+- [Animate Dead](#Animate%20Dead)
+- [Arcane Eruption](#Arcane%20Eruption)
+- [Arcane Lance](#Arcane%20Lance)
+- [Arcane Wave](#Arcane%20Wave)
+- [Circle of Protection](#Circle%20of%20Protection)
+- [Commanding Word](#Commanding%20Word)
+- [Curse](#Curse)
+- [Dispel Magic](#Dispel%20Magic)
+- [Fabricate](#Fabricate)
+- [Haste](#Haste)
+- [Melt into Mist](#Melt%20into%20Mist)
+- [Lay to Rest](#Lay%20to%20Rest)
+- [Levitate](#Levitate)
+- [Seeing Stone](#Seeing%20Stone)
+- [Sending](#Sending)
+- [Slow](#Slow)
+- [Speak with Dead](#Speak%20with%20Dead)
+- [Water Breathing](#Water%20Breathing)
 
 ## Animate Dead
 - **Tier:** 3 (9+)

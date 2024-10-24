@@ -1,11 +1,11 @@
 # Background Careers
-- [Background Career](#background-career)
-- [Using Background Careers](#using-background-careers)
-- [Background Career Table](#background-career-table)
-- [Background Career Descriptions](#background-career-descriptions)
+- [Background Career](#background%20career)
+- [Using Background Careers](#using%20background%20careers)
+- [Background Career Table](#background%20career%20table)
+- [Background Career Descriptions](#background%20career%20descriptions)
 	- [Acolyte](#acolyte)
 	- [Alchemist](#alchemist)
-	- [Animal Handler](#animal-handler)
+	- [Animal Handler](#animal%20handler)
 	- [Apothecary](#apothecary)
 	- [Artisan](#artisan)
 	- [Barrister](#barrister)
@@ -14,11 +14,11 @@
 	- [Mountebank](#mountebank)
 	- [Courtier](#courtier)
 	- [Criminal](#criminal)
-	- [Cult Initiate](#cult-initiate)
+	- [Cult Initiate](#cult%20initiate)
 	- [Entertainer](#entertainer)
 	- [Farmer](#farmer)
 	- [Forester](#forester)
-	- [Fortune Teller](#fortune-teller)
+	- [Fortune Teller](#fortune%20teller)
 	- [Gambler](#gambler)
 	- [Soldier](#soldier)
 	- [Herbalist](#herbalist)
@@ -37,12 +37,11 @@
 	- [Squire](#squire)
 	- [Stonemason](#stonemason)
 	- [Wanderer](#wanderer)
-	- [Wizard’s Apprentice](#wizards-apprentice)
+	- [Wizard’s Apprentice](#wizard's%20apprentice)
 	- [Woodcutter](#woodcutter)
-- [Why did you become an adventurer?](#why-did-you-become-an-adventurer)
 
 ## Background Career
-Everyone did something before they became an adventurer. Roll (1d100) or select from the [Background Career Table](#background-career-table) to determine what it was your character did before being thrust into a life of adventure. This will determine some of your character's starting equipment.  Your character is automatically proficient with any weapon provided by their background occupation, but not the entire weapon group.
+Everyone did something before they became an adventurer. Roll (1d100) or select from the [Background Career Table](#background%20career%20table) to determine what it was your character did before being thrust into a life of adventure. This will determine some of your character's starting equipment.  Your character is automatically proficient with any weapon provided by their background occupation, but not the entire weapon group.
 
 ## Using Background Careers
 Your character is automatically consider proficient at the Apprentice (+0) level with any activities related to their background career.  This may be improved through the use of [Traits](Traits.md).
@@ -111,7 +110,7 @@ In some cases it is not appropriate to have access to the full list of backgroun
 ## Background Career Descriptions
 
 ### Acolyte
-Feeling the call of the gods, you sought to join the clergy.  Pick an appropriate religion (for examples, see the [Great Church](AllegiancesAndMorality.md#Empyreans) and the [Old Faith](AllegiancesAndMorality.md#Old-Gods)).
+Feeling the call of the gods, you sought to join the clergy.  Pick an appropriate religion (for examples, see the [Great Church](AllegiancesAndMorality.md#Empyreans) and the [Old Faith](AllegiancesAndMorality.md#Old%20Gods)).
 - **Trappings:** Quarterstaff, Holy Symbol, Prayer Book/Wheel, 2d6sp
 
 ### Alchemist
@@ -151,7 +150,7 @@ You're well acquainted with the seedy underbelly of society.
 - **Trappings:** Dagger, Crowbar or Disguise Kit, 2d6sp
 
 ### Cult Initiate
-You were once initiated into a forbidden cult of worship (for examples see the [Chthonian](AllegiancesAndMorality.md#Chthonians), [Elemental](AllegiancesAndMorality.md#Elemental-Monarchs), [Qliphotic](AllegiancesAndMorality.md#Qliphotic) or [Derlethian](AllegiancesAndMorality.md#Derlethians) cults).
+You were once initiated into a forbidden cult of worship (for examples see the [Chthonian](AllegiancesAndMorality.md#Chthonians), [Elemental](AllegiancesAndMorality.md#Elemental%20Monarchs), [Qliphotic](AllegiancesAndMorality.md#Qliphotic) or [Derlethian](AllegiancesAndMorality.md#Derlethians) cults).
 - **Trappings:** Athame (dagger), Book (cult lore), 2d6sp
 
 ### Entertainer
@@ -232,7 +231,7 @@ You labored at the forge, shaping metal.
 
 ### Soldier
 You fought for a living, literally.
-- **Trappings:** A uniform, a weapon doing no more than 1d6 damage (such as a spear, mace, or short sword), 2d6sp
+- **Trappings:** A uniform, a light or medium weapon worth no more than 15sp, 2d6sp
 
 ### Squire
 You were apprenticed to a knight.

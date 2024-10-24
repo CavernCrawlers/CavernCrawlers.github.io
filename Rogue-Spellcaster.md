@@ -2,20 +2,19 @@
 cssclass: clean-embeds
 ---
 # Rogue-Spellcaster
-- [Statistics](#statistics)
-- [Equipment](#equipment)
-- [Class Abilities](#class-abilities)
-	- [Exhausting Magic](#exhausting-magic)
-	- [Invocation Dice](#invocation-dice)
-	- [Magical Focus](#magical-focus)
-	- [Rogue Skills](#rogue-skills)
-	- [Spellcasting](#spellcasting)
-	- [Sense Magic](#sense-magic)
-	- [True Name](#true-name)
-	- [Rogue-Spellcaster Table](#rogue-spellcaster-table)
-	- [Rogue-Spellcaster Saving Throws](#rogue-spellcaster-saving-throws)
-- [Rogue-Spellcaster Knacks](#rogue-spellcaster-knacks)
-	- [Sample Rogue-Spellcaster Builds](#sample-rogue-spellcaster-builds)
+- [Statistics](#Statistics)
+- [Equipment](#Equipment)
+- [Class Abilities](#Class%20Abilities)
+	- [Exhausting Magic](#Exhausting%20Magic)
+	- [Invocation Dice](#Invocation%20Dice)
+	- [Magical Focus](#Magical%20Focus)
+	- [Spellcasting](#Spellcasting)
+	- [Sense Magic](#Sense%20Magic)
+	- [True Name](#True%20Name)
+- [Rogue-Spellcaster Table](#Rogue-Spellcaster%20Table)
+	- [Rogue-Spellcaster Saving Throws](#Rogue-Spellcaster%20Saving%20Throws)
+- [Rogue-Spellcaster Knacks](#Rogue-Spellcaster%20Knacks)
+	- [Sample Rogue-Spellcaster Builds](#Sample%20Rogue-Spellcaster%20Builds)
 
 ## Statistics
 - **Starting HP**: 5
@@ -50,7 +49,7 @@ You can harness the power of magic.  A hybrid-spellcaster begins their career kn
 ### True Name
 ![True Name](Spellcaster.md#true%20name)
 
-### Rogue-Spellcaster Table  
+## Rogue-Spellcaster Table  
 |  Level  |  Hit<br/>Dice  |  Attack<br/>Bonus  |  Skill<br/>Bonus  |  Invocation<br/>Dice  |  Knacks  |  Traits   |  Abilities                                                                                       |
 |:-------:|:--------------:|:------------------:|:-----------------:|:---------------------:|:--------:|:---------:|:-------------------------------------------------------------------------------------------------|
 |    1    |  1d5           |  +1                |  +1               |   0d6                 |   1      |    1      |  Magical Focus, Rogue Skills, Sense Magic, Spellcasting (cantrips), True Name                    |
@@ -118,7 +117,7 @@ Unless stated otherwise, each knack may only be taken once.
 	- Trait - [Unassuming](Traits.md#unassuming)
 - **Spellsinger** 
 	- Knack – Distracting Defense
-	- Trait - [Practiced Ritual](Traits.md#practiced-ritual)
+	- Trait - [Practiced Ritual](Traits.md#practiced%20ritual)
 - **Trickster** 
 	- Knack – Master of Disguise
 	- Trait - [Actor](Traits.md#actor)

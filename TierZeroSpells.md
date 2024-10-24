@@ -1,22 +1,27 @@
 # Cantrips
 Cantrips are also known as Tier 0 Spells.
+- [Beast Speech](#Beast%20Speech)
+- [Beguilement](#Beguilement)
+- [Conjure Shadow](#Conjure%20Shadow)
+- [Conjure Sound](#Conjure%20Sound)
+- [Flare](#Flare)
+- [Glamour](#Glamour)
+- [Hexing](#Hexing)
+- [Inspire](#Inspire)
+- [Knot](#Knot)
+- [Mage Hand](#Mage%20Hand)
+- [Mage Light](#Mage%20Light)
+- [Mend](#Mend)
+- [Nature’s Blessing](#Nature%E2%80%99s%20Blessing)
+- [Open](#Open)
+- [Plant Speech](#Plant%20Speech)
+- [Prestidigitation](#Prestidigitation)
+- [Repel Insects](#Repel%20Insects)
+- [Repel Rain](#Repel%20Rain)
+- [Spark](#Spark)
+- [Spirit Sight](#Spirit%20Sight)
+- [Unknot](#Unknot)
 
-## List
-- [Beast Speech](#beast-speech)
-- [Beguilement](#beguilement)
-- [Conjure Sound](#conjure-sound)
-- [Glamour](#glamour)
-- [Hexing](#hexing)
-- [Inspire](#inspire)
-- [Mage Hand](#mage-hand)
-- [Mage Light](#mage-light)
-- [Mend](#mend)
-- [Nature’s Blessing](#natures-blessing)
-- [Open](#open)
-- [Plant Speech](#plant-speech)
-- [Prestidigitation](#prestitigitation)
-- [Spark](#spark)
-- [Spirit Sight](#spirit-sight)
 
 ## Beast Speech
 - **Tier:** Cantrip (0+)
@@ -29,7 +34,7 @@ Cantrips are also known as Tier 0 Spells.
 - **Save:** None
 - **Components:** Incantations
 
-Each time a mage learns this cantrip, they must pick a particular type of beast to which it will apply (such as canines, ursines, birds, felines, snakes, etc).  Once cast, the mage will gain the ability to converse with that type of beast for the cantrip's duration.  Interactions with these beasts follow the general rules for social interactions (regarding [reaction rolls](CoreRules.md#Charisma-and-Reactions), diplomacy and so forth).  However, it should be kept in mind that most normal beasts don’t have the same concerns or social norms.  Communication does not necessarily convey understanding.
+Each time a mage learns this cantrip, they must pick a particular type of beast to which it will apply (such as canines, ursines, birds, felines, snakes, etc).  Once cast, the mage will gain the ability to converse with that type of beast for the cantrip's duration.  Interactions with these beasts follow the general rules for social interactions (regarding [reaction rolls](CoreRules.md#Charisma%20and%20Reactions), diplomacy and so forth).  However, it should be kept in mind that most normal beasts don’t have the same concerns or social norms.  Communication does not necessarily convey understanding.
 
 *Upcasting*
 
@@ -49,7 +54,7 @@ Each time a mage learns this cantrip, they must pick a particular type of beast 
 - **Save:** Spirit 8+
 - **Components:** Incantations
 
-A mage uses this spell to influence the emotions and attitudes of the target creature.  If the target succeeds on their **saving throw**, they are unaffected but know that the caster was attempting to influence their mind with magic.  If the target fails, their emotional state moves toward the emotion selected by the caster (and may potentially cause a Morale check).  This can grant a plus or minus 1 modifier on social checks, including rolls on the [Reaction Table](CoreRules.md#Charisma-and-Reactions) and Moral checks.
+A mage uses this spell to influence the emotions and attitudes of the target creature.  If the target succeeds on their **saving throw**, they are unaffected but know that the caster was attempting to influence their mind with magic.  If the target fails, their emotional state moves toward the emotion selected by the caster (and may potentially cause a Morale check).  This can grant a plus or minus 1 modifier on social checks, including rolls on the [Reaction Table](CoreRules.md#Charisma%20and%20Reactions) and Moral checks.
 
 *Upcasting*
 
@@ -69,7 +74,7 @@ A mage uses this spell to influence the emotions and attitudes of the target cre
 - **Save:** n/a
 - Components: Gestures
 
-This cantrip creates a tiny area of dim lightning for the duration.
+This cantrip creates a tiny area of dim lighting for the duration.
 
 *Upcasting*
 
@@ -401,7 +406,7 @@ This spell acts as a barrier to rain, snow, sleet and similar weather effects; k
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-By means of this spell, the caster uses the power of a rune to conjure a small amount of a single element (approximately 1 cubic inch).  At it's minimum, this spell does negligible damage, but can produce utilitarian effects (such as using the Fire rune to ignite a torch).  Alternatively, the mage may use this as an attack (requiring a [Magical Attack](MagicalArts.md#Magical-Attacks-and-Saving-Throws) vs an unwilling target), doing 1d4 damage of the selected type.
+By means of this spell, the caster uses the power of a rune to conjure a small amount of a single element (approximately 1 cubic inch).  At it's minimum, this spell does negligible damage, but can produce utilitarian effects (such as using the Fire rune to ignite a torch).  Alternatively, the mage may use this as an attack (requiring a [Magical Attack](MagicalArts.md#Magical%20Attacks%20and%20Saving%20Throws) vs an unwilling target), doing 1d4 damage of the selected type.
 
 *Upcasting*
 

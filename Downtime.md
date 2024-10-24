@@ -1,21 +1,21 @@
 # Downtime Activities
-As an optional rule, it is possible for characters to partake in various downtime activities that will give PCs potential benefits.  The activities that may be undertaken are [Carousing](#Carousing), [Extended Rest](Combat.md#Extended-Rest), [Study](#Study), [Training](#Training), [Worship](#Worship), [Work](#Work) or [Other](#Other).  Which activity a PC chooses to partake in is up to the player in question.  Different methods can offer different boons but also come with different risks.
+As an optional rule, it is possible for characters to partake in various downtime activities that will give PCs potential benefits.  The activities that may be undertaken are [Carousing](#Carousing), [Extended Rest](Combat.md#Extended%20Rest), [Study](#Study), [Training](#Training), [Worship](#Worship), [Work](#Work) or [Other](#other%20downtime%20activities).  Which activity a PC chooses to partake in is up to the player in question.  Different methods can offer different boons but also come with different risks.
 
 It is recommended that downtime be taken in weeks and that is what the below rules assume.  If there is less time available, the GM should work out what needs to be changed and how much can be accomplished.  Only one downtime activity may be taken per week.
 
-Downtime activities are not free to perform.  **Extended Rests** only incur **Lifestyle Expense** costs.  **Carousing**, **Study**, **Training** and **Worship** each cost money on top of the Lifestyle Expense chosen by the player.  The exact amount of money spent on these activities is up to the player, taking into account the settlement type limits of the [safe haven](Combat.md#Extended-Rest) they are at (and these activities can only be pursued in a safe haven).  The more money spent, the bigger the bonus on the table coinciding with the activity taken.  What this money goes to depends on the type of activity (alcohol and gambling for carousing, training fees for training, church tithes for worship, etc).
-- [Downtime Spending](#downtime-spending)
+Downtime activities are not free to perform.  **Extended Rests** only incur **Lifestyle Expense** costs.  **Carousing**, **Study**, **Training** and **Worship** each cost money on top of the Lifestyle Expense chosen by the player.  The exact amount of money spent on these activities is up to the player, taking into account the settlement type limits of the [safe haven](Combat.md#Extended%20Rest) they are at (and these activities can only be pursued in a safe haven).  The more money spent, the bigger the bonus on the table coinciding with the activity taken.  What this money goes to depends on the type of activity (alcohol and gambling for carousing, training fees for training, church tithes for worship, etc).
+- [Downtime Spending](#downtime%20spending)
 - [Carousing](#carousing)
-	- [Carousing Results](#carousing-results)
+	- [Carousing Results](#carousing%20results)
 - [Study](#study)
-	- [Study Results](#study-results)
+	- [Study Results](#study%20results)
 - [Training](#training)
-	- [Training Results](#training-results)
+	- [Training Results](#training%20results)
 - [Worship](#worship)
-	- [Worship Results](#worship-results)
+	- [Worship Results](#worship%20results)
 - [Work](#work)
-	- [Work Results](#work-results)
-- [Other Downtime Activities](#other-downtime-activities)
+	- [Work Results](#work%20results)
+- [Other Downtime Activities](#other%20downtime%20activities)
 
 ## Downtime Spending
 | Cost    | Bonus | Minimum Settlement Size |
@@ -40,18 +40,18 @@ The character chooses to celebrate their victories (or drown their sorrows) with
 |    1  | **Insulted a Priest** -- Make a **Charisma check** vs DT 13. On a success, the church is upset and will shun you until you make a sizable donation (character level x 100sp). On a failure or if you refuse to pay, you will be given a quest that is treated as an oath sworn before an [Oathkeeper](Traits.md#Oathkeeper). |
 |    2  | **It All Got Out of Control** -- You are jailed for 1d4(pool) days on charges of disorderly conduct and disturbing the peace. You can pay a fine of 3d6x10sp to avoid jail time but you'll still have a reputation as a troublemaker. |
 |    3  | **Insulted Someone Important** -- Make a **Charisma check** vs DT 15. On a success, they will bear a grudge but are not violent. On a failure they either challenge you to a duel (if of equal or lower social status) or demand you perform a service for them. |
-|    4  | **The Drunk Was Rolled** -- You regain consciousness in a strange place with no memory of how you got there. You find you've been robbed of 3d6x10sp. If you don't have that much, roll 1d10+10 on the [Lingering Injuries](Combat.md#Lingering-Injuries) table and lose what little money you do have. |
+|    4  | **The Drunk Was Rolled** -- You regain consciousness in a strange place with no memory of how you got there. You find you've been robbed of 3d6x10sp. If you don't have that much, roll 1d10+10 on the [Lingering Injuries](Combat.md#Lingering%20Injuries) table and lose what little money you do have. |
 |    5  | **Insulted a Merchant** -- Make a **Charisma check** vs DT 13. On a success, they only charge you 10% extra on their merchandise. On a failure, they charge you an extra 1d4+1x10%. |
 |    6  | **High-Stakes Gambling** -- Make a **Charisma/Gambling check** vs DT 15. On a success, earn 2d10x10sp in winnings. On a failure, lose 2d10x10sp in losses. If you cannot afford to pay you've made an enemy. |
-|    7  | **A Daring Display** -- You decided to show off by doing something ill-advised. Roll a 1d3 to determine which ability to check: 1) Strength, 2) Constitution or 3) Dexterity. If you succeed vs a DT 13, you win and gain 1d10x10sp. If you fail, roll 1d10+10 on the [Lingering Injuries](Combat.md#Lingering-Injuries) table. |
+|    7  | **A Daring Display** -- You decided to show off by doing something ill-advised. Roll a 1d3 to determine which ability to check: 1) Strength, 2) Constitution or 3) Dexterity. If you succeed vs a DT 13, you win and gain 1d10x10sp. If you fail, roll 1d10+10 on the [Lingering Injuries](Combat.md#Lingering%20Injuries) table. |
 |    8  | **Mid-Stakes Gambling** -- Make a **Charisma/Gambling check** vs DT 13. On a success, earn 2d6x10sp in winnings. On a failure, lose 2d6x10sp in losses. If you cannot afford to pay, you've made an enemy. |
 |    9  | **Mistaken Identity** -- You are mistaken for another reveler and must pay their tab. Pay an additional 1d6x10sp or have the city watch called on you. |
-|   10  | **Drunken Brawl** -- Make a **Charisma roll** on the [Reaction Check Result](CoreRules.md#Charisma-and-Reactions) table to determine how angry your opponents still are after the fight. |
+|   10  | **Drunken Brawl** -- Make a **Charisma roll** on the [Reaction Check Result](CoreRules.md#Charisma%20and%20Reactions) table to determine how angry your opponents still are after the fight. |
 |   11  | **Low-Stakes Gambling** -- Make a **Charisma/Gambling** check vs DT 10. On a success, earn 1d6x10sp in winnings. On a failure, lose 1d6x10sp in losses. If you cannot afford to pay you've made an enemy. |
 |   12  | **Acted the Fool** -- Make a **Charisma check** vs DT 13. If you fail, you gain a reputation as a lecherous lush and have **Disadvantage** on all social interactions in this town for the next 1d4(pool) weeks. |
 |   13  | **How Much Did I Drink?** -- You wake up with a terrible hangover.  Make a **Hardiness(poison) save** vs DT 15 or gain the **Poisoned** condition for the next 3d4(pool) hours. |
-| 14-15 | **Wine and Song** -- You tried to lead the entire tavern in a medley of bawdy songs. Make a **Charisma roll** on the [Reaction Check Result](CoreRules.md#Charisma-and-Reactions) table to determine how the other patrons reacted. |
-|  16   | **Whirlwind Romance** -- Make a **Charisma roll** on the [Reaction Check Result](CoreRules.md#Charisma-and-Reactions) to determine how it worked out. |
+| 14-15 | **Wine and Song** -- You tried to lead the entire tavern in a medley of bawdy songs. Make a **Charisma roll** on the [Reaction Check Result](CoreRules.md#Charisma%20and%20Reactions) table to determine how the other patrons reacted. |
+|  16   | **Whirlwind Romance** -- Make a **Charisma roll** on the [Reaction Check Result](CoreRules.md#Charisma%20and%20Reactions) to determine how it worked out. |
 | 17-18 | **A Fine Time Was Had** -- You wake up blearily in your own bed.  Nothing gained or lost. |
 | 19-20 | **Life of the Party** -- You gain a reputation as a party animal. The next time you go carousing (if within the next month), make your carousing roll with **Advantage**. |
 |   21  | **Made a Friend** -- You impressed someone with useful skills or contacts who may be willing to help you at a future date. |
@@ -61,14 +61,14 @@ The character chooses to celebrate their victories (or drown their sorrows) with
 |   25+ | **Where Did This Come From?** -- You wake up with a random magical item. Hope it's not cursed. |
 
 ## Study
-You spend your week consulting books and sages, the quality of which is dependent on how much you choose to invest in [Downtime Spending](#Downtime-Spending).  Roll 1d20 + your **Intelligence modifier** + your **Spending Bonus** on the **Study Results** table.
+You spend your week consulting books and sages, the quality of which is dependent on how much you choose to invest in [Downtime Spending](#Downtime%20Spending).  Roll 1d20 + your **Intelligence modifier** + your **Spending Bonus** on the **Study Results** table.
 
 ### Study Results
 | Roll  | Outcome |
 |:-----:|:--------|
 |    0- | **Cursed!** -- A scroll you came across was cursed. Make a **Spirit save** vs DT 13. On a success, you avoid the curse. On a failure you have a -2 on all **ability checks** for one random ability for the next 1d4(pool) weeks. |
 |  1-2  | **Haunted!** -- The tome you are studying is haunted. The ghost has now attached itself to you. It is invisible and inaudible to everyone but you. Until you find a way to banish it, it is annoying and distracting but not directly harmful. |
-|  3-4  | **Oops!** -- Roll for a [spell mishap] even if you aren't a spellcaster. |
+|  3-4  | **Oops!** -- Roll for a [spell mishap](MagicalArts.md#mishaps) even if you aren't a spellcaster. |
 |  5-6  | **Loose Lips** -- You learn the [True Name](TrueNames.md) of one supernatural entity (demon, fae lord, demigod, dragon, etc), but accidently speak its name aloud in the process. It is likely now aware of you. |
 |  7-9  | **Heresy!** -- A member of the Great Church learns of your research and declares it blasphemous. You have **Disadvantage** on all social interaction rolls with members of the Great Church for the next 1d4(pool) weeks. |
 |   10  | **Secrets!** -- You learn the [True Name](TrueNames.md) of one supernatural entity (demon, fae lord, demigod, dragon, etc). |
@@ -77,21 +77,21 @@ You spend your week consulting books and sages, the quality of which is dependen
 |   15  | **Beyond Mortal Ken** -- You gain a lead on a possible portal to another dimension. |
 | 16-17 | **Knowledge** -- You learn something new and valuable. |
 | 18-19 | **Magical Refinement** -- You gain +2 to **Spell DT** of a single spell you already know until someone successfully saves against it. If you are not a spellcaster, treat this as result 16-17. |
-| 20-21 | **Mystical Lore** -- You come across a new spell you did not previously know. You may attempt to learn it as normal. If you are not a spellcaster, gain the [Touched by Magic](Traits.md#Touched-by-Magic) trait as a bonus trait. |
-| 22-23 | **Second Sight** -- Gain the [Sense Magic](Traits.md#Second-Sight) trait for 1d4(pool) weeks. If you already have this ability, gain **Advantage** on perception rolls when using this ability. |
-|  24+  | **Aura Reading** -- Gain the [Soul Gaze](Traits.md#Soul-Gaze) trait for 1d4(pool) weeks. If you already have this trait, gain **Advantage** on perception rolls when using this trait. |
+| 20-21 | **Mystical Lore** -- You come across a new spell you did not previously know. You may attempt to learn it as normal. If you are not a spellcaster, gain the [Touched by Magic](Traits.md#Touched%20by%20Magic) trait as a bonus trait. |
+| 22-23 | **Second Sight** -- Gain the [Second Sight](Traits.md#Second%20Sight) trait for 1d4(pool) weeks. If you already have this ability, gain **Advantage** on perception rolls when using this ability. |
+|  24+  | **Aura Reading** -- Gain the [Soul Gaze](Traits.md#Soul%20Gaze) trait for 1d4(pool) weeks. If you already have this trait, gain **Advantage** on perception rolls when using this trait. |
 
 ## Training
-You spend the week in physical training, learning to sharpen your reflexes, improve your strength or hone your endurance.  When you choose this activity, pick one physical ability (Strength, Dexterity or Constitution) whose modifier will be used for this die roll.  The quality of your trainer is represented by your [Downtime Spending](#Downtime-Spending).  Roll 1d20 + your chosen ability modifier + your **Spending Bonus** on the **Training Results** table.
+You spend the week in physical training, learning to sharpen your reflexes, improve your strength or hone your endurance.  When you choose this activity, pick one physical ability (Strength, Dexterity or Constitution) whose modifier will be used for this die roll.  The quality of your trainer is represented by your [Downtime Spending](#Downtime%20Spending).  Roll 1d20 + your chosen ability modifier + your **Spending Bonus** on the **Training Results** table.
 
 ### Training Results
 | Roll  | Outcome |
 |:-----:|:--------|
-|   1-  | **Training Injury** -- You suffer an accident. Roll 1d10+10 on the [Lingering Injuries](Combat.md#Lingering-Injuries) table. |
+|   1-  | **Training Injury** -- You suffer an accident. Roll 1d10+10 on the [Lingering Injuries](Combat.md#Lingering%20Injuries) table. |
 |  2-3  | **Worn Out** -- You overtrained and gain 1 level of [Exhaustion](Combat.md#Exhaustion) at the start of your next adventure. |
 |  4-5  | **Rivalry** -- Someone spotted you training and challenged you to a duel. |
-|  6-7  | **On One Condition** -- Your teacher only agrees to train you if you take on a mission for her. If you refuse, gain no benefits from this training roll. If you accept, learn a new [Combat Trait](Traits.md#Combat-Traits) after you complete the quest (this does not count against the normal number of traits you gain by leveling). |
-|  8-9  | **Clumsy** -- You accidentally injure your training partner. Make a **Charisma roll** on the [Reaction Check Result](CoreRules.md#Reaction-Check) table. |
+|  6-7  | **On One Condition** -- Your teacher only agrees to train you if you take on a mission for her. If you refuse, gain no benefits from this training roll. If you accept, learn a new [Combat Trait](Traits.md#Combat%20Traits) after you complete the quest (this does not count against the normal number of traits you gain by leveling). |
+|  8-9  | **Clumsy** -- You accidentally injure your training partner. Make a **Charisma roll** on the [Reaction Check Result](CoreRules.md#Reaction%20Check%20result%20table) table. |
 | 19-12 | **Jealousy** -- One or more of your fellow students is jealous of your ability. Make a **Charisma check** vs DC 13. If you pass, they simply grumble behind your back. If you fail, they'll be coming to 'teach you a lesson' at some inconvenient time. |
 | 13-15 | **Showoff** -- You've impressed several onlookers with your skill and prowess. You have **Advantage** on social rolls in this town for the next 1d4(pool) weeks. |
 | 16-17 | **Training Buddies** -- You make friends with your training partners. You can hire up to three of them as mercenary hirelings for half price for the first month. |
@@ -101,7 +101,7 @@ You spend the week in physical training, learning to sharpen your reflexes, impr
 |  24+  | **Star Pupil** -- You impress your teacher so much that they gift you with a prized weapon or item. If you are level 3 or less, it is an Excellent [quality](EncumbranceAndEquipment.md#Quality) item. If you are levels 4-6, it is Superior quality. If you are level 7+ it is Master quality. |
 
 ## Worship
-You spend the week at a holy site of your choice.  After making your tithe (see the [Downtime Spending](#Downtime-Spending) table), make a 1d20 + **Wisdom Modifier** + your **Spending Bonus** on the **Worship Results** table to determine the outcome.
+You spend the week at a holy site of your choice.  After making your tithe (see the [Downtime Spending](#Downtime%20Spending) table), make a 1d20 + **Wisdom Modifier** + your **Spending Bonus** on the **Worship Results** table to determine the outcome.
 
 ### Worship Results
 | Roll  | Outcome |
@@ -118,7 +118,7 @@ You spend the week at a holy site of your choice.  After making your tithe (see 
 | 16-17 | **Signs and Portents** -- You are given a vision of your possible death. Next time you are reduced to 0 HP, you can make a DT 10 **Wisdom check** (or spend a **Fortune Point**) to avoid that damage. |
 | 18-19 | **Loaves and Fishes** -- The next time you are down to 1 remaining ration, it miraculously multiplies to 2d4 rations. |
 |   20  | **Just a Nudge** -- The next time you would have to roll for a spell mishap, you may ignore that roll. |
-|   21  | **Blessing** -- You gain the benefits of one [Supernatural Trait](Traits.md#Supernatural-Traits) for 1d4(pool) weeks. |
+|   21  | **Blessing** -- You gain the benefits of one [Supernatural Trait](Traits.md#Supernatural%20Traits) for 1d4(pool) weeks. |
 |   22  | **Favor of the Gods** -- You gain an extra 1d3 **Fortune Points**. |
 |   23  | **Blessing of Health** -- You are immediately cured of one ailment (poison, disease, one lingering injury, all lost hit points; pick only one). If you are in perfect health, the next time you are below half HP, immediately regain HP equal to one **Hit Die** roll plus your **Wisdom modifier**. | 
 |   24+ | **Guardian Angel** -- You may call upon the aid of a servant of the gods one time only. The servant that responds cannot be of higher level than you. |

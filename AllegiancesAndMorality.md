@@ -5,20 +5,20 @@ There exists, beyond the knowledge of ordinary mortals, great powers who contest
 However, there do exist some mortals who are drawn into The Conflict.  Such people may choose to align themselves with one of its factions (also called Pantheons).  In so doing, they earn the opportunity to influence this battle and which faction gains dominance.  On the other hand, this allegiance comes with great responsibility and duty as the deities, demons and other powers leading these Pantheons will make demands upon their followers.  In return, they grant significant power, if not always the freedom to use it as their servants would wish.
 
 - [Pledging](#pledging)
-	- [Detect Allegiance](#detect-allegiance)
+	- [Detect Allegiance](#detect%20allegiance)
 	- [Animosity](#animosity)
-	- [A Life of Conflict](#a-life-of-conflict)
+	- [A Life of Conflict](#a%20life%20of%20conflict)
 	- [Empowered](#empowered)
-	- [Cosmic Champion](#cosmic-champion)
+	- [Cosmic Champion](#cosmic%20champion)
 	- [Summoned](#summoned)
-- [Changing Allegiance](#changing-allegiance)
-- [Cosmic Powers](#cosmic-powers)
-	- [List of Cosmic Powers](#list-of-cosmic-powers)
+- [Changing Allegiance](#changing%20allegiance)
+- [Cosmic Powers](#cosmic%20powers)
+	- [List of Cosmic Powers](#list%20of%20cosmic%20powers)
 		- [Chthonians](#chthonians)
 		- [Empyreans](#empyreans)
-		- [Elemental Monarchs](#elemental-monarchs)
+		- [Elemental Monarchs](#elemental%20monarchs)
 		- [Qliphotic](#qliphotic)
-		- [Old Gods](#old-gods)
+		- [Old Gods](#old%20gods)
 		- [Derlethians](#derlethians)
 
 ## Pledging
@@ -38,7 +38,7 @@ Once a character becomes a **Champion**, they gain the following features:
 Perhaps the greatest downside to joining a faction of The Conflict is the fact that it will forever control your destiny.  Never more will your character be able to settle down to enjoy the simple life.  Agents of enemy Pantheons will seek you out and your own patron will require your services.  Perhaps you will find brief periods of rest in an isolated village or in a rich aristocrat’s palace, but eventually the conflict will draw you back in.
 
 ### Empowered
-The character immediately gains an [Allegiance Trait](Traits.md#allegiance-traits).  This is in addition to the normal traits gained for leveling up.
+The character immediately gains an [Allegiance Trait](Traits.md#allegiance%20traits).  This is in addition to the normal traits gained for leveling up.
 
 ### Cosmic Champion
 Those who choose to become a **Champion** in The Conflict are natural leaders for their faction.  As a result, they gain **Advantage** on any checks to lead, inspire or persuade other active participants of the same **Allegiance** who are of equal or lower rank in their faction.
@@ -51,7 +51,7 @@ It is possible, though rare and dangerous, that a **Champion** can change her **
 
 The effects of changing **Allegiance** are as follows:  
 - She immediately loses her previous **Allegiance** (naturally) and gains the new Allegiance.  
-- She keeps any [Traits](Traits.md) that were gained as part of her previous Allegiance; though the details of those traits may change (such as changing the target of the [Rebuke [Allegiance]](Traits.md#rebuke-allegiance) trait.  
+- She keeps any [Traits](Traits.md) that were gained as part of her previous Allegiance; though the details of those traits may change (such as changing the target of the [Rebuke {Allegiance}](Traits.md#rebuke%20allegiance) trait.  
 - Finally, she will be subject to a curse enacted by her previous patron (they do not take disloyalty lightly).  The exact nature of this curse should be worked out between the player and GM and it should be both appropriate to the faction being left and impactful on the life and abilities of the character.
 
 ## Cosmic Powers

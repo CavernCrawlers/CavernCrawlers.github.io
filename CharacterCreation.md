@@ -1,30 +1,30 @@
 # Character Creation
-- [Generating Ability Scores](#generating-ability-scores)
-	- [Playing Cards](#playing-cards)
-	- [Random Rolls](#random-rolls)
+- [Generating Ability Scores](#generating%20ability%20scores)
+	- [Playing Cards](#playing%20cards)
+	- [Random Rolls](#random%20rolls)
 	- [BARFLIP](#barflip)
-	- [Ability Array](#ability-array)
-		- [Gritty Arrays](#gritty-arrays)
-		- [Heroic Arrays](#heroic-arrays)
-		- [Epic Arrays](#epic-arrays)
-	- [The Attributes](#the-attributes)
+	- [Ability Array](#ability%20array)
+		- [Gritty Arrays](#gritty%20arrays)
+		- [Heroic Arrays](#heroic%20arrays)
+		- [Epic Arrays](#epic%20arrays)
+	- [The Attributes](#the%20attributes)
 		- [Strength](#strength)
 		- [Dexterity](#dexterity)
 		- [Constitution](#constitution)
 		- [Intelligence](#intelligence)
 		- [Wisdom](#wisdom)
 		- [Charisma](#charisma)
-	- [Attribute Modifiers](#attribute-modifiers)
-- [Pick a Species](#pick-a-species)
-- [Roll for Background Occupation](#roll-for-background-occupation)
-- [Pick a Class](#pick-a-class)
-- [Pick a Trait](#pick-a-trait)
-- [Pick Languages](#pick-languages)
-- [Calculate Starting Hit Points](#calculate-starting-hit-points)
-- [Choose Starting Equipment](#choose-starting-equipment)
-- [Calculate Armor Class and Saving Throws](#calculate-armor-class-and-saving-throws)
+	- [Attribute Modifiers](#attribute%20modifiers)
+- [Pick a Species](#pick%20a%20species)
+- [Roll for Background Occupation](#roll%20for%20background%20occupation)
+- [Pick a Class](#pick%20a%20class)
+- [Pick a Trait](#pick%20a%20trait)
+- [Pick Languages](#pick%20languages)
+- [Calculate Starting Hit Points](#calculate%20starting%20hit%20points)
+- [Choose Starting Equipment](#choose%20starting%20equipment)
+- [Calculate Armor Class and Saving Throws](#calculate%20armor%20class%20and%20saving%20throws)
 - [Passions](#passions)
-- [Pick a Name, Goal and Ties](#pick-a-name-goal-and-ties)
+- [Pick a Name, Goal and Ties](#pick%20a%20name%20goal%20and%20ties)
 
 ## Generating Ability Scores
 Multiple methods of generating ability scores are offered here.  It is suggested that all players use the same method.
@@ -130,10 +130,10 @@ In fantasy gaming there are a practically limitless number of possible species t
 There are several species to choose from: [Dwarf](Dwarf.md), [Elf](Elf.md), [Goblin](Goblin.md), [Hob](Hob.md), [Human](Human.md) and [Orc](Orc.md).  Other's may exist depending on the campaign the GM is running.
 
 ## Roll for Background Career
-Roll on the [Background Career](Background.md#background-career-table) table to determine what your character did before becoming an adventurer.
+Roll on the [Background Career](Background.md#background%20career%20table) table to determine what your character did before becoming an adventurer.
 
 ## Pick a Class
-There are six character classes: [Warrior](Warrior.md), [Rogue](Rogue.md), [Mage](Mage.md), [Warrior-Rogue](Warrior-Rogue.md), [Warrior-Mage](Warrior-Mage.md) and [Rogue-Mage](Rogue-Mage.md).
+There are six character classes: [Fighter](Fighter.md), [Rogue](Rogue.md), [Spellcaster](Spellcaster.md), [Fighter-Rogue](Fighter-Rogue.md), [Fighter-Spellcaster](Fighter-Spellcaster.md) and [Rogue-Spellcaster](Rogue-Spellcaster.md).
 
 ## Pick a Trait
 All characters start with 1 [Trait](Traits.md) at level 1.  They will gain additional Traits at various levels.
@@ -165,11 +165,11 @@ Some examples of appropriate Passions are:
 - Pius
 
 Some examples of inappropriate Passions:
-- Has an honest face.  [Not really a personality trait and doesn’t have a negative connotation.]
-- Kleptomaniac [Doesn’t have a positive connotation.]
-- Blind in one eye. [Physical trait, not a personality trait.]
-- Crazy [Too broad.]
-- Lawful Good [Not well defined and covers two aspects of personality instead of one.]
+- Has an honest face.  {Not really a personality trait and doesn’t have a negative connotation.}
+- Kleptomaniac {Doesn’t have a positive connotation.}
+- Blind in one eye. {Physical trait, not a personality trait.}
+- Crazy {Too broad.}
+- Lawful Good {Not well defined and covers two aspects of personality instead of one.}
 
 ## Pick a Name, Goal and Ties
 The final steps are to give your character a thematically appropriate name, at least one short and one long-term goal and a reason why it is they're willing to risk their life along side these other adventurers.

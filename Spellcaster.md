@@ -1,16 +1,17 @@
 # Spellcaster
-- [Statistics](#statistics)
-- [Equipment](#equipment)
-- [Class Abilities](#class-abilities)
-	- [Exhausting Magic](#exhausting-magic)
-	- [Invocation Dice](#invocation-dice)
-	- [Magical Focus](#magical-focus)
-	- [Spellcasting](#spellcasting)
-	- [Sense Magic](#sense-magic)
-	- [True Name](#true-name)
-	- [Spellcaster Table](#spellcaster-table)
-	- [Spellcaster Saving Throws](#spellcaster-saving-throws)
-	- [Sample Spellcaster Builds](#sample-spellcaster-builds)
+- [Statistics](#Statistics)
+- [Equipment](#Equipment)
+- [Class Abilities](#Class%20Abilities)
+	- [Exhausting Magic](#Exhausting%20Magic)
+	- [Invocation Dice](#Invocation%20Dice)
+	- [Magical Focus](#Magical%20Focus)
+	- [Spellcasting](#Spellcasting)
+	- [Sense Magic](#Sense%20Magic)
+	- [True Name](#True%20Name)
+- [Spellcaster Table](#Spellcaster%20Table)
+	- [Spellcaster Saving Throws](#Spellcaster%20Saving%20Throws)
+- [Sample Spellcaster Builds](#Sample%20Spellcaster%20Builds)
+
 
 ## Statistics
 - **Starting HP**: 4 + CON Modifier
@@ -47,7 +48,7 @@ Being sensitive to the world of magic, you may determine if a person, place or t
 ### True Name
 As a magic-user possessing supernatural power, you have a **True Name**.  Those who know your True Name can use it against you.  By calling out your True Name, a creature gains **Advantage** on all actions taken against you, including attacks and you have **Disadvantage** on your **Invocation** checks to cast spells against them.
 
-### Spellcaster Table  
+## Spellcaster Table  
 |  Level  |  Hit<br/>Dice  |  Attack<br/>Bonus  |  Skill<br/>Bonus  |  Invocation<br/>Dice  |  Traits  |  Abilities                                                                       |
 |:-------:|:--------------:|:------------------:|:-----------------:|:---------------------:|:--------:|:---------------------------------------------------------------------------------|
 |   1     |     1d4        |  +0                |   +1              |   1d6                 |    1     |  Exhausting Magic, Magical Focus, Spellcasting (tier 1), Sense Magic, True Name  |
@@ -85,7 +86,7 @@ As a magic-user possessing supernatural power, you have a **True Name**.  Those 
 |  14   |    +9   |     +8    |  +10   |
 |  15   |   +10   |     +8    |  +11   |
 
-### Sample Spellcaster Builds
+## Sample Spellcaster Builds
 - **Menacing Sorcerer** 
  	- Tradition - Sorcery
 - **Village Witch**

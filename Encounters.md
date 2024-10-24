@@ -28,15 +28,15 @@ The environment determines the distance between the parties involved in the enco
 - Clear wilderness (plains, open water, etc): 4d6x10 yards or 1d4x10 yards if one full side is surprised.
 
 ## Initiative
-See the [Combat](Combat.md#initiatve) rules for the full details on initiative.
+See the [Combat](Combat.md#initiative) rules for the full details on initiative.
 
 ## Actions
 The players decide how their own characters will act.
 
-The GM will determine the actions of any NPCs.  Sometimes this will be obvious (a guard confronting intruders with demands for identification of person and purpose).  Other times, the GM should use the [Reaction Table](CoreRules.md#charisma-and-reactions) to determine how the NPCs respond.
+The GM will determine the actions of any NPCs.  Sometimes this will be obvious (a guard confronting intruders with demands for identification of person and purpose).  Other times, the GM should use the [Reaction Table](CoreRules.md#charisma%20and%20reactions) to determine how the NPCs respond.
 
 ### Common Actions
 Almost anything is possible during an encounter but below are a few of the most likely possibilities.
 - **Combat:** If at least one side decides to attack, proceed with the [Combat](Combat.md) rules.
-- **Evasion:** If one party decides to flee and the other pursue, proceed to either the [Dungeon Evasion](Dungeoneering.md#evasion-and-pursuit) or [Wilderness Evasion](WildernessExploration.md#evasion-and-pursuit) rules as appropriate.
+- **Evasion:** If one party decides to flee and the other pursue, proceed to either the [Dungeon Evasion](Dungeoneering.md#evasion%20and%20pursuit) or [Wilderness Evasion](WildernessExploration.md#evasion%20and%20pursuit) rules as appropriate.
 - **Parley:** If both side decide to talk, role-play out the negotiations.

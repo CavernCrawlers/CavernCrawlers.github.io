@@ -1,31 +1,31 @@
 # Core Rules
 
-- [The D20 Check](#the-d20-check)
-	- [When to Roll](#when-to-roll)
+- [The D20 Check](#the%20d20%20check)
+	- [When to Roll](#when%20to%20roll)
 	- [Modifiers](#modifiers)
-	- [Flavor Bonus](#flavor-bonus)
-	- [Advantage and Disadvantage](#advantage-and-disadvantage)
-	- [Contested Checks](#contested-checks)
-	- [Passive Checks](#passive-checks)
-	- [Saving Throws](#saving-throws)
-	- [Named Checks](#Named-Checks)
+	- [Flavor Bonus](#flavor%20bonus)
+	- [Advantage and Disadvantage](#advantage%20and%20disadvantage)
+	- [Contested Checks](#contested%20checks)
+	- [Passive Checks](#passive%20checks)
+	- [Saving Throws](#saving%20throws)
+	- [Named Checks](#Named%20Checks)
 		- [Perception](#Perception)
-- [Charisma and Reactions](#charisma-and-reactions)
-	- [Reaction Check Result Table](#reaction-check-result-table)
-- [Hazards and Challenges](#hazards-and-challenges)
+- [Charisma and Reactions](#charisma%20and%20reactions)
+	- [Reaction Check Result Table](#reaction%20check%20result%20table)
+- [Hazards and Challenges](#hazards%20and%20challenges)
 	- [Climbing](#climbing)
-		- [Long Climbs](#long-climbs)
-		- [Sheer Surfaces](#sheer-surfaces)
+		- [Long Climbs](#long%20climbs)
+		- [Sheer Surfaces](#sheer%20surfaces)
 	- [Visibility](#visibility)
-		- [Dim Lighting/Obscurement](#dim-lightingobscurement)
+		- [Dim Lighting/Obscurement](#dim%20lightingobscurement)
 		- [Darkness](#darkness)
-		- [Low-Light Vision](#low-light-vision)
+		- [Low-Light Vision](#low%20light%20vision)
 		- [Darkvision](#darkvision)
 	- [Falling](#falling)
 	- [Starvation](#starvation)
 	- [Swimming](#swimming)
 		- [Drowning](#drowning)
-	- [Wandering Monsters](#wandering-monsters)
+	- [Wandering Monsters](#wandering%20monsters)
 
 
 The earlier [Rules Synopsis](RulesSynopsis.md) provided a quick overview of the base game mechanics. In this chapter we'll go into more details about the rules and procedures for implementing them in your games.
@@ -46,7 +46,7 @@ Two or more characters working together on a single task will often have greater
 Providing a rich and exciting description of how your character accomplishes an action is worth a small  (+1 or +2) bonus on the D20 check.  Note, however, this should be a unique description; simply repeating the same description over and over is not worth a bonus.
 
 ### Advantage and Disadvantage
-In cases where multiple factors combine to make a task generally easier or harder but no hard and fast numeric modifier exists, the roll should be made either with **Advantage** or **Disadvantage**. Otherwise see the earlier primer on [Advantage and Disadvantage](RulesSynopsis.md#Advantage-and-Disadvantage) for additional details.
+In cases where multiple factors combine to make a task generally easier or harder but no hard and fast numeric modifier exists, the roll should be made either with **Advantage** or **Disadvantage**. Otherwise see the earlier primer on [Advantage and Disadvantage](RulesSynopsis.md#Advantage%20and%20Disadvantage) for additional details.
 
 ### Contested Checks
 When two individuals are working against one another, a **Contested Check** is called for.  Each party performs a **D20 Check** as described above.  Whomever has the highest total is the winner of the contest.  In the event of a tie, **Advantage** beats Normal beats **Disadvantage**.  If still tied, whomever has the highest total bonus to their roll wins.  If still tied, re-roll if a tie result does not make sense for the situation.
@@ -68,11 +68,11 @@ Unlike other D20 Checks, a **natural 1** always results in a failure on a Saving
 
 ### Named Checks
 #### Exhaustion
-This is a [Constitution](RulesSynopsis.md#ability-check) check vs a given DT.  If the check is failed, the character gains a level of [Exhaustion](Combat.md#exhaustion).
+This is a [Constitution](RulesSynopsis.md#ability%20check) check vs a given difficulty.  If the check is failed, the character gains a level of [Exhaustion](Combat.md#exhaustion).
 #### Perception
-This is a [Skilled](RulesSynopsis.md#Skilled-Check) Wisdom check involving one of the actor's senses (typically sight or hearing) that all characters are considered to be skilled in.
+This is a [Skilled](RulesSynopsis.md#Skilled%20Check) Wisdom check involving one of the actor's senses (typically sight or hearing) that all characters are considered to be skilled in.
 #### Stealth
-This is a [skilled](RulesSynopsis.md#Skilled-Check) check in which the actor attempts to remain unnoticed.  Only **Rogues** and **Rogue-Hybrids** are considered skilled in this normally.  Frequently this is resolved as a contested check vs. any potential observers perception.
+This is a [skilled](RulesSynopsis.md#Skilled%20Check) check in which the actor attempts to remain unnoticed.  Only **Rogues** and **Rogue-Hybrids** are considered skilled in this normally.  Frequently this is resolved as a contested check vs. any potential observers perception.
 #### Surprise
 This is a **Perception** check, often contested by the other side's **Dexterity/Stealth** check.  If no one is attempting to sneak up on the other, the **DT** for the check is normally 10.  Also see the [Surprise](Combat.md#suprise) rules in the Combat section.
 

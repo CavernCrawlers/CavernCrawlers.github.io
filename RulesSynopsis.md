@@ -1,25 +1,26 @@
 # Rules Synopsis
-- [D20 Checks](#d20-checks)
-	- [Ability Check](#ability-check)
-	- [Skilled Check](#skilled-check)
-	- [Attack Roll](#attack-roll)
-	- [Difficulty Targets](#difficulty-targets)
-	- [Natural Results](#natural-results)
-	- [Automatic Success and Failure](#automatic-success-and-failure)
-	- [Critical Results](#critical-results)
-	- [Advantage and Disadvantage](#advantage-and-disadvantage)
-	- [Sacrificing for Success](#sacrificing-for-success)
-	- [Repeated Attempts](#repeated-attempts)
-	- [Group Tests](#group-tests)
-- [Fortune](#fortune)
-- [Names](#names)
-- [Countdown Pools](#countdown-pools)
-	- [Countdown Pool Average Number of Rolls](#countdown-pool-average-number-of-rolls)
-- [Die Adjustments](#die-adjustments)
-- [Tags](#tags)
-	- [Damage Types](#damage-types)
-- [Time](#time)
-- [Rounding](#rounding)
+- [D20 Checks](#D20%20Checks)
+	- [Ability Check](#Ability%20Check)
+	- [Skilled Check](#Skilled%20Check)
+	- [Attack Roll](#Attack%20Roll)
+		- [Magical Attack Roll](#Magical%20Attack%20Roll)
+	- [Difficulty Targets](#Difficulty%20Targets)
+	- [Natural Results](#Natural%20Results)
+	- [Automatic Success and Failure](#Automatic%20Success%20and%20Failure)
+	- [Critical Results](#Critical%20Results)
+	- [Advantage and Disadvantage](#Advantage%20and%20Disadvantage)
+	- [Sacrificing for Success](#Sacrificing%20for%20Success)
+	- [Repeated Attempts](#Repeated%20Attempts)
+	- [Group Tests](#Group%20Tests)
+- [Fortune](#Fortune)
+- [Names](#Names)
+- [Countdown Pools](#Countdown%20Pools)
+	- [Countdown Pool Average Number of Rolls](#Countdown%20Pool%20Average%20Number%20of%20Rolls)
+- [Die Adjustments](#Die%20Adjustments)
+- [Tags](#Tags)
+	- [Damage Types](#Damage%20Types)
+- [Time](#Time)
+- [Rounding](#Rounding)
 
 ## D20 Checks
 D20 checks lie at the heart of the system.  Any time a character attempts an action with a risk and a chance of failure, a **D20 Check** is made.  There are three basic types of **D20 Check**.
@@ -44,7 +45,7 @@ Whether swinging a sword, firing an arrow or simply punching someone in the face
 &emsp;1d20 + Attack Bonus + [Strength or Dexterity] Modifier >= Armor Class
 
 #### Magical Attack Roll
-This follows the same procedure as a normal [Attack Roll](#Attack-Roll), but instead uses the caster's **Skill Bonus** and either **Intelligence**, **Wisdom** or **Charisma modifier**.
+This follows the same procedure as a normal [Attack Roll](#Attack%20Roll), but instead uses the caster's **Skill Bonus** and either **Intelligence**, **Wisdom** or **Charisma modifier**.
 
 &emsp;1d20 + Skill Bonus + [Intelligence, Wisdom or Charisma] Modifier >= Armor Class
 
@@ -53,21 +54,21 @@ Any given **D20 Check** will be compared to a Difficulty Target.  For attacks, t
 
 |   Difficulty    | Target # |
 |:---------------:|:--------:|
-|    Very Easy    |    8+    |
-|      Easy       |   10+    |
-|    Moderate     |   13+    |
+|    Very Easy    |    6+    |
+|      Easy       |    9+    |
+|    Moderate     |   12+    |
 |     Tricky      |   15+    |
 |      Hard       |   18+    |
-|    Very Hard    |   20+    |
-|     Heroic      |   23+    |
-|    Legendary    |   25+    |
+|    Very Hard    |   21+    |
+|     Heroic      |   24+    |
+|    Legendary    |   27+    |
 | Nigh Impossible |   30+    |
 
 ### Natural Results
 Occasionally, the rules will reference a “Natural Roll”.  This is the die face that is showing after the roll, without applying any modifiers.  _For example, if a warrior with a +3 bonus to hit rolls a 12 on the die, their total result is 12+3 = 15.  Their natural result is just 12._
 
 ### Automatic Success and Failure
-It is not uncommon in d20 based systems to apply an 'automatic success' and 'automatic failure' rule for **Natural Rolls** of 20 and 1 (respectively).  This system does not do that with the exception of [Saving Throws](CoreRules.md#Saving-Throws).
+It is not uncommon in d20 based systems to apply an 'automatic success' and 'automatic failure' rule for **Natural Rolls** of 20 and 1 (respectively).  This system does not do that with the exception of [Saving Throws](CoreRules.md#Saving%20Throws).
 
 ### Critical Results
 There is no Critical Failure rule in this system.

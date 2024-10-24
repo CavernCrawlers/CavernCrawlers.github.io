@@ -2,18 +2,20 @@
 Spells are the magical formula by which the power of the runes may be harnessed and directed.
 
 Within this section you will find a list of spells for use in the *Cavern Crawlers* game.  This list is by no means definitive and the GM and players should work together if they wish to bring spells from other sources into the game.
-- [Spell Descriptions](#spell-descriptions)
-	- [Tier](#tier)
-	- [Runes](#runes)
-	- [Casting Ability](#casting-ability)
-	- [Casting Time](#casting-time)
-	- [Rank](#rank)
-	- [Range](#range)
-	- [Area](#area)
-	- [Duration](#duration)
-	- [Save](#save)
-	- [Components](#components)
-- [Upcasting](#upcasting)
+- [Spell Descriptions](#Spell%20Descriptions)
+	- [Tier](#Tier)
+	- [Runes](#Runes)
+	- [Casting Ability](#Casting%20Ability)
+	- [Casting Time](#Casting%20Time)
+	- [Range](#Range)
+	- [Area](#Area)
+	- [Duration](#Duration)
+	- [Save](#Save)
+	- [Components](#Components)
+- [Upcasting](#Upcasting)
+- [Example Spells](#Example%20Spells)
+	- [Mend](#Mend)
+	- [Spark](#Spark)
 
 ## Spell Descriptions
 
@@ -75,10 +77,10 @@ This indicates how long a spell will continue to affect the target(s).  Addition
 - double the number of years for each additional step.
 
 ### Save
-This indicates if a target is allowed to make a [Saving Throw](CoreRules.md#Saving-Throws) to resist or diminish the effect.  This will be given as a saving throw type.
+This indicates if a target is allowed to make a [Saving Throw](CoreRules.md#Saving%20Throws) to resist or diminish the effect.  This will be given as a saving throw type.
 
 ### Components
-Spells will often require **Gestures**, **Incantations** or both to cast.  If any one element is missing or restricted, the spell cannot be cast and any [Invocation Roll](MagicalArts.md#the-invocation-roll) will automatically fail.
+Spells will often require **Gestures**, **Incantations** or both to cast.  If any one element is missing or restricted, the spell cannot be cast and any [Invocation Roll](MagicalArts.md#the%20invocation%20roll) will automatically fail.
 - **Gestures** require at least one free hand (though it may be holding your Magical Focus or Rune).
 - **Incantations** require the caster be able to speak freely and not be in a zone of total silence.
 
@@ -124,7 +126,7 @@ If used on an inanimate object, 1 Tiny area of material will be made whole.
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-By means of this spell, the caster uses the power of a rune to conjure a small amount of a single element (approximately 1 cubic inch).  At it's minimum, this spell does negligible damage, but can produce utilitarian effects (such as using the Fire rune to ignite a torch).  Alternatively, the mage may use this as an attack (requiring a [Magical Attack](MagicalArts.md#Magical-Attacks-and-Saving-Throws) vs an unwilling target), doing 1d4 damage of the selected type.
+By means of this spell, the caster uses the power of a rune to conjure a small amount of a single element (approximately 1 cubic inch).  At it's minimum, this spell does negligible damage, but can produce utilitarian effects (such as using the Fire rune to ignite a torch).  Alternatively, the mage may use this as an attack (requiring a [Magical Attack](MagicalArts.md#Magical%20Attacks%20and%20Saving%20Throws) vs an unwilling target), doing 1d4 damage of the selected type.
 
 *Upcasting*
 

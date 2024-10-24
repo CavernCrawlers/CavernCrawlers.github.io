@@ -1,8 +1,8 @@
 # True Names
 Any character with a connection to the supernatural must have a true name.  This includes, fae creatures (elves, dwarves, goblins, etc), demons, gods, and any character capable of using magical arts.  Characters without supernatural connections may have a true name but it is not required.
-- [The Power in the Name](#the-power-in-the-name)
-- [Who is Listening](#who-is-listening)
-- [Learning True Names](#learning-true-names)
+- [The Power in the Name](#The%20Power%20in%20the%20Name)
+- [Who is Listening](#Who%20is%20Listening)
+- [Learning True Names](#Learning%20True%20Names)
 
 ## The Power in the Name
 Calling out a being’s true name grants the speaker **Advantage** on any supernatural ability used against the named being as well as in any social interactions or contests of will against it.  It also negates any resistances the named creature may have against the speaker’s attacks and reduces immunities to resistances.  Finally, the speaker gains Advantage on any **saving throws** to resist the supernatural powers of the named creature.
@@ -19,4 +19,4 @@ In all cases, the name must be called out loud enough for the target to hear the
 Beings of great supernatural power, such as gods, arch-demons, fae lords, and the like, can potentially hear their true name uttered aloud from anywhere in the cosmos.  Exercise caution.
 
 ## Learning True Names
-This is an exercise in role playing.  Some True Names may be recorded on ancient scrolls, or written on the walls of moldering tombs.  Others may only exist in the dreams of dead gods or whatever other strange and wonderous place your GM's devious mind can think of.  Also, see the [Soul Gaze](Traits.md#Soul-Gaze) supernatural **Trait**.
+This is an exercise in role playing.  Some True Names may be recorded on ancient scrolls, or written on the walls of moldering tombs.  Others may only exist in the dreams of dead gods or whatever other strange and wonderous place your GM's devious mind can think of.  Also, see the [Soul Gaze](Traits.md#Soul%20Gaze) supernatural **Trait**.
