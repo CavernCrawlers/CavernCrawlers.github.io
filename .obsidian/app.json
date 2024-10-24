@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
+}

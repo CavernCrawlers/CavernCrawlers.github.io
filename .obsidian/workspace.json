@@ -1,0 +1,322 @@
+{
+  "main": {
+    "id": "ea86eab825da2d09",
+    "type": "split",
+    "children": [
+      {
+        "id": "609f240bf88531c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c31c15071bd006f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lifepaths/Birthright.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Birthright"
+            }
+          },
+          {
+            "id": "431c452c7c55375a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lifepaths/ChildhoodDistinction.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "ChildhoodDistinction"
+            }
+          },
+          {
+            "id": "606c67bf14de8987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lifepaths/LeavingHomeland.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "LeavingHomeland"
+            }
+          },
+          {
+            "id": "0cc12b6d408b62b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lifepaths/VillageFriend.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "VillageFriend"
+            }
+          },
+          {
+            "id": "72cafd5447a9a384",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Background.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Background"
+            }
+          },
+          {
+            "id": "c7a492e055c5f972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "draft/Skills.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Skills"
+            }
+          },
+          {
+            "id": "628f88668d603f4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EncumbranceAndEquipment.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "EncumbranceAndEquipment"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "864ae7bfda227951",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e4ac5ed5c976094",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dee14c18223e28d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c805c31e0705cd59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aa2ab1b3b7668f88",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ac5cb02070cbcc1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a10e9b0316538db8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54a0c4e1e8b868e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "lifepaths/DwarvenAdventurer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for DwarvenAdventurer"
+            }
+          },
+          {
+            "id": "ff55f83dbdcb92d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "lifepaths/DwarvenAdventurer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from DwarvenAdventurer"
+            }
+          },
+          {
+            "id": "bfbddfe1b5078760",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "da2c26201d8335aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "lifepaths/DwarvenAdventurer.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of DwarvenAdventurer"
+            }
+          },
+          {
+            "id": "8f9926ac3aa6fb0d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "c7a492e055c5f972",
+  "lastOpenFiles": [
+    "draft/RaceOgre.md",
+    "draft/Dragons.md",
+    "draft/Demons.md",
+    "templates/LifepathTemplate.md",
+    "Background.md",
+    "templates/ClassTemplate.md",
+    "Fighter.md",
+    "lifepaths/AcolyteOfTheOldGods.md",
+    "lifepaths/NovicePaladin.md",
+    "EncumbranceAndEquipment.md",
+    "Traits.md",
+    "Fighter-Spellcaster.md",
+    "lifepaths/Birthright.md",
+    "lifepaths/ElvenHighborn.md",
+    "lifepaths/DwarvenRuneCaster.md",
+    "lifepaths/NewWatchman.md",
+    "lifepaths/AdventurousTrader.md",
+    "lifepaths/DabblingDiabolist.md",
+    "lifepaths/LocalPerformer.md",
+    "Fighter-Rogue.md",
+    "lifepaths/NeophyteDruid.md",
+    "lifepaths/DwarvenExplorer.md",
+    "lifepaths/ElvenMage.md",
+    "lifepaths/ElvenRanger.md",
+    "lifepaths/HeirToALegend.md",
+    "lifepaths/HeraldOfTheNamelessGods.md",
+    "snippets/clean-embeds.css",
+    "snippets",
+    "lifepaths/lu92168me1lk.tmp",
+    "lifepaths/Lifepaths.ods",
+    "misc/SpellSpreadsheet.ods",
+    "lifepaths/lu92168me1l2.tmp",
+    "misc/lu92168me1kx.tmp",
+    "lifepaths/lu92168me1jw.tmp",
+    "lifepaths/lu92168me1ip.tmp",
+    "misc/lu92168me1hd.tmp",
+    "images/runes/Person.png",
+    "images/runes/Void.png",
+    "images/runes/Water.png",
+    "images/runes/Venom.png",
+    "images/runes/Truth.png",
+    "images/runes/Time.png",
+    "images/runes/Thought.png",
+    "images/runes/Spirit.png",
+    "images/runes/Shadow.png",
+    "images/runes/Plant.png"
+  ]
+}

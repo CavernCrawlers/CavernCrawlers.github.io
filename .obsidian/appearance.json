@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Courier",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "clean-embeds"
+  ]
+}
