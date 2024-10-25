@@ -20,7 +20,7 @@
 
 ## Animate Dead
 - **Tier:** 3 (9+)
-- **Runes:** Death
+- **Sigils** Death
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 hour
 - **Range:** Close
@@ -41,7 +41,7 @@ You touch a humanoid corpse and it rises as a zombie or skeleton under your cont
 
 ## Arcane Eruption
 - **Tier:** 3 (9+)
-- **Runes:** any Elemental rune
+- **Sigils** any Elemental sigil
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 Action
 - **Range:** Far
@@ -50,7 +50,7 @@ You touch a humanoid corpse and it rises as a zombie or skeleton under your cont
 - **Save:** Reflex 14+
 - **Components:** Gestures & Incantations
 
-This spell causes an elemental eruption of a type matching the rune used in casting the spell.  All targets within a Large area selected by the caster must make a Reflex save or take 3d8 damage.  Those who pass the save take half damage.
+This spell causes an elemental eruption of a type matching the sigil used in casting the spell.  All targets within a Large area selected by the caster must make a Reflex save or take 3d8 damage.  Those who pass the save take half damage.
 
 *Upcasting*
 
@@ -62,7 +62,7 @@ This spell causes an elemental eruption of a type matching the rune used in cast
 
 ## Arcane Lance
 - **Tier:** 3 (9+)
-- **Runes:** any Elemental rune
+- **Sigils** any Elemental sigil
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 Action
 - **Range:** Close
@@ -71,7 +71,7 @@ This spell causes an elemental eruption of a type matching the rune used in cast
 - **Save:** Reflex 14+
 - **Components:** Gestures & Incantations
 
-The caster stretches forth her hand and a lance of elemental energy matching the rune used in casting the spell streaks forth.  All targets within the line of the spell must make a Reflex save or take 3d8 damage.  Those who pass the save take half damage.
+The caster stretches forth her hand and a lance of elemental energy matching the sigil used in casting the spell streaks forth.  All targets within the line of the spell must make a Reflex save or take 3d8 damage.  Those who pass the save take half damage.
 
 *Upcasting*
 
@@ -82,7 +82,7 @@ The caster stretches forth her hand and a lance of elemental energy matching the
 
 ## Arcane Wave
 - **Tier:** 3 (9+)
-- **Runes:** any Elemental rune
+- **Sigils** any Elemental sigil
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 Action
 - **Range:** Close
@@ -91,7 +91,7 @@ The caster stretches forth her hand and a lance of elemental energy matching the
 - **Save:** Reflex 14+
 - **Components:** Gestures & Incantations
 
-The caster conjures a cone of elemental energy matching the rune used in casting the spell streaks forth.  All targets within the cone must make a Reflex save or take 3d8 damage.  Those who pass the save take half damage.
+The caster conjures a cone of elemental energy matching the sigil used in casting the spell streaks forth.  All targets within the cone must make a Reflex save or take 3d8 damage.  Those who pass the save take half damage.
 
 *Upcasting*
 
@@ -102,7 +102,7 @@ The caster conjures a cone of elemental energy matching the rune used in casting
 
 ## Circle of Protection
 - **Tier:** 3 (9+)
-- **Runes:** any
+- **Sigils** any
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Personal
@@ -111,25 +111,25 @@ The caster conjures a cone of elemental energy matching the rune used in casting
 - **Save:** Spirit 14+
 - **Components:** Gestures, Incantations & specially prepared ink or chalk worth 100sp (consumed)
 
-The caster traces out a magical circle and imbues it with the power of a rune.  This circle shields those inside from forces matching the rune(s) used in the circle's creation.  
+The caster traces out a magical circle and imbues it with the power of a sigil.  This circle shields those inside from forces matching the sigil(s) used in the circle's creation.  
 
-If the rune is Elemental, any attacks involving that element along with any creatures that have that elemental tag will be stopped at the edge of the circle unless they pass their saving throw.  The same holds true for Force runes.
+If the sigil is Elemental, any attacks involving that element along with any creatures that have that elemental tag will be stopped at the edge of the circle unless they pass their saving throw.  The same holds true for Force sigils.
 
-If the rune is a Form rune, any creature of that form cannot cross the edge of the circle, nor can they use supernatural attacks across the edge of the circle, unless they pass their saving throw.  Mundane attacks from such creatures are unaffected.
+If the sigil is a Form sigil, any creature of that form cannot cross the edge of the circle, nor can they use supernatural attacks across the edge of the circle, unless they pass their saving throw.  Mundane attacks from such creatures are unaffected.
 
 *Upcasting*
 
 | Difficulty | Effect |
 |:----------:|:-------|
 | +1         | Increase the save difficulty by +1. |
-| +2         | Add one additional rune to the circle's protection. |
+| +2         | Add one additional sigil to the circle's protection. |
 | +2         | Increase the Area 1 step. |
 | +2         | Increase the Duration 1 step. |
 
 ## Commanding Word
 - **Tier:** 3 (9+)
-- **Runes:** A form rune matching the target creature's type.
-- **Casting Ability:** Charsima
+- **Sigils** A form sigil matching the target creature's type.
+- **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Near
 - **Area:** 1 Creature
@@ -144,12 +144,12 @@ This spell allows the caster to issue a single-word command (such as "halt" or "
 | Difficulty | Effect |
 |:----------:|:-------|
 | +1         | Increase the save difficulty by +1. |
-| +2         | Increase the number of affected creatures by 1 (note that multiple runes may be required if the targeted creatures are of different types). |
+| +2         | Increase the number of affected creatures by 1 (note that multiple sigils may be required if the targeted creatures are of different types). |
 | +2         | Increase the duration 1 step. |
 
 ## Curse
 - **Tier:** 3 (9+)
-- **Runes:** A form rune matching the target creature's type.
+- **Sigils** A form sigil matching the target creature's type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 10 minutes
 - **Range:** Near
@@ -172,13 +172,13 @@ This curses the target creature with a baneful effect.  Among the possible effec
 |:----------:|:---------|
 | +1         | Increase the save difficulty by +1. |
 | +2         | Increase the range 1 step. |
-| +2         | Increase the number of targets by 1 (will require additional tokens and may require additional runes). |
+| +2         | Increase the number of targets by 1 (will require additional tokens and may require additional sigils). |
 | +2         | Add one additional effect to the curse. |
 
 
 ## Dispel Magic
 - **Tier:** 3 (9+)
-- **Runes:** Void
+- **Sigils** Void
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 Action
 - **Range:** Near
@@ -198,7 +198,7 @@ The caster picks one target they can see within range and attempts to cancel one
 
 ## Fabricate
 - **Tier:** 3 (9+)
-- **Runes:** Elemental or Form rune(s) matching the building material(s) being used
+- **Sigils** Elemental or Form sigil(s) matching the building material(s) being used
 - **Casting Ability:** Intelligence
 - **Casting Time:** 10 minutes
 - **Range:** Near
@@ -219,7 +219,7 @@ The caster turns a [Large](Spells.md#area) pile of raw materials into a single f
 
 ## Haste
 - **Tier:** 3 (9+)
-- **Runes:** Time
+- **Sigils** Time
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -240,7 +240,7 @@ The touched creature now moves at double its normal speed, gains +6 initiative, 
 
 ## Melt into Mist
 - **Tier:** 3 (9+)
-- **Runes:** Air
+- **Sigils** Air
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Personal
@@ -259,7 +259,7 @@ The caster's form dissolves into a misty cloud that may fly at 1/2 the caster's 
 
 ## Lay to Rest
 - **Tier:** 3 (9+)
-- **Runes:** Death
+- **Sigils** Death
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 Action or 10 Minutes
 - **Range:** Close
@@ -284,7 +284,7 @@ The 1 Action attack version may be used to target any undead creature, causing i
 
 ## Levitate
 - **Tier:** 3 (9+)
-- **Runes:** Air
+- **Sigils** Air
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 Minute
 - **Range:** Personal
@@ -305,7 +305,7 @@ The caster may float vertically covering up to Near distance each round.  Horizo
 
 ## Seeing Stone
 - **Tier:** 3 (9+)
-- **Runes:** Thought plus a form rune matching the target creature's type.
+- **Sigils** Thought plus a form sigil matching the target creature's type.
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 hour
 - **Range:** Far
@@ -325,7 +325,7 @@ With this ritual, the caster enchants a precious stone (worth at least 500sp) to
 
 ## Sending
 - **Tier:** 3 (9+)
-- **Runes:** Thought and a Form Rune matching the target creature's type
+- **Sigils** Thought and a Form sigil matching the target creature's type
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 minute
 - **Range:** distant
@@ -340,11 +340,11 @@ The caster may send a brief (25 words or less) mental message directly to the ta
 
 | Difficulty | Effect   |
 |:----------:|:---------|
-| +2         | Increase the number of target creature(s) by 1.  This will require additional tokens and may require additional runes. |
+| +2         | Increase the number of target creature(s) by 1.  This will require additional tokens and may require additional sigils. |
 
 ## Slow
 - **Tier:** 3 (9+)
-- **Runes:** Time
+- **Sigils** Time
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -366,7 +366,7 @@ The touched creature now moves at half its normal speed, loses -3 initiative, lo
 
 ## Speak with Dead
 - **Tier:** 3 (9+)
-- **Runes:** Death
+- **Sigils** Death
 - **Casting Ability:** Charisma
 - **Casting Time:** 10 minutes
 - **Range:** Touch
@@ -387,7 +387,7 @@ Upon touching the target corpse, the caster may ask it up to 3 questions within 
 
 ## Water Breathing
 - **Tier:** 3 (9+)
-- **Runes:** Water
+- **Sigils** Water
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 minute
 - **Range:** Touch

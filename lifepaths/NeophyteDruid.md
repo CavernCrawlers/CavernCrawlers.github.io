@@ -19,7 +19,7 @@ You are naturally philosophical and possess an animal cunning. Your Wisdom and I
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-In the middle of the night, a solemn procession of robed figures bearing firebrands strode to through the streets of the village toward your home. Their ancient authority was not to be argued with and they spirited you away into the wilderness. You become a level 1 [Spellcaster](Spellcaster.md). You gain the class abilities _Exhausting Magic_, _Invocation Dice_, _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Nature's Blessing](TierZeroSpells.md#natures-blessing) cantrip and Plant [rune](Runes.md). The tables below will tell you your other traits and spells.
+In the middle of the night, a solemn procession of robed figures bearing firebrands strode to through the streets of the village toward your home. Their ancient authority was not to be argued with and they spirited you away into the wilderness. You become a level 1 [Spellcaster](Spellcaster.md). You gain the class abilities _Exhausting Magic_, _Invocation Dice_, _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Nature's Blessing](TierZeroSpells.md#nature's%20blessing) cantrip and Plant [sigil](sigils.md). The tables below will tell you your other traits and spells.
 
 ### What else happened to you as you began your life of service?
 
@@ -76,7 +76,7 @@ In the middle of the night, a solemn procession of robed figures bearing firebra
 		<td align="left"><b>Trait</b></td>
 		<td align="left"><b>Cantrip</b></td>
 		<td align="left"><b>Spell</b></td>
-		<td align="left"><b>Runes</b></td>
+		<td align="left"><b>Sigils</b></td>
 	</tr>
 	<tr>
 		<td align="center">1</td>
@@ -140,7 +140,7 @@ In the middle of the night, a solemn procession of robed figures bearing firebra
 		<td><b>Your Druidic Clan disappeared last year under mysterious circumstances, leaving stewardship of the environs and village to you.  What happened?<br/><i>The player character to your right was there with you.</i></b></td>
 		<td align="center"><b>Ability</b></td>
 		<td><b>Spell</b></td>
-		<td><b>Rune</b></td>
+		<td><b>Sigil</b></td>
 	</tr>
 	<tr>
 		<td align="center">1</td>
@@ -236,18 +236,18 @@ In the middle of the night, a solemn procession of robed figures bearing firebra
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
 3. Note your species as [Human](human.md) and note your special abilities.
-4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
+4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Neophyte Druid begins with the following equipment: your background trappings, a backpack, traveler's clothes, a heavy cloak, a bedroll, a mess kit, a tinderbox, 10 torches, 1 week’s rations, 50ft rope, a spellbook, one light weapon and 4d6sp.  You also have whatever items you rolled in your Lifepath.
 6. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
 7. Write down your starting [cantrips](TierZeroSpells.md).
 8. Write down your starting [spells](TierOneSpells.md).
-9. Write down your starting [runes](Runes.md).  If you rolled the same rune multiple times, you may replace the duplicate(s) with different runes of the same type.
+9. Write down your starting [sigils](sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
 10. Your Base Attack Bonus comes from your class. As a level 1 Spellcaster, you have a BAB of +0.
 11. Your Skill bonus comes from your class.  As a level 1 Spellcaster, you have a SB of +1.
 12. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a Spellcaster.
 13. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-14. Your Base and Max Fortune Points are both 2 for being a Human Spellcaster.
+14. Your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2 for being a Human Spellcaster.
 15. Your starting Hit Points equal to 4 plus your Constitution Modifier.
-16. Fill in your [Saving Throws](Spellcaster.md#spellcaster-saving-throws) using the chart in the Spellcaster document.
+16. Fill in your [Saving Throws](Spellcaster.md#spellcaster%20saving%20throws) using the chart in the Spellcaster document.
 17. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
 

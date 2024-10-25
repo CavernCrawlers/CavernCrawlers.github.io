@@ -1,3 +1,31 @@
+Sanctuary
+Slow Poison
+Snake Charm
+Spiritual Weapon
+---
+Barkskin
+Feign Death
+Fire Trap
+Obscurement
+Produce Flame
+Trip
+---
+Fool's Gold
+Forget
+False Trap
+Magic Mouth
+Pyrotechnics
+Ray of Enfeeblement
+Rope Trick
+Shatter
+Stinking Cloud
+Strength
+---
+Blur
+Hypnotic Pattern
+Improved Phantasmal Force
+Misdirection
+
 # Tier 2 Spells
 - [Alter Self](#Alter%20Self)
 - [Augury](#Augury)
@@ -24,7 +52,7 @@
 
 ## Alter Self
 - **Tier:** 2 (6+)
-- **Runes:** Person
+- **Sigils** Person
 - **Casting Ability:** Intelligence
 - **Casting Time:** 10 minutes
 - **Range:** Personal
@@ -44,7 +72,7 @@ The caster uses this spell to make a single physical change to their own body.  
 
 ## Augury
 - **Tier:** 2 (6+)
-- **Runes:** Time
+- **Sigils** Time
 - **Casting Ability:** Wisdom
 - **Casting Time:** 10 minutes
 - **Range:** Personal
@@ -57,7 +85,7 @@ This spell allows the caster to gain a vague glimpse into the immediate future, 
 
 ## Blessing
 - **Tier:** 2 (6+)
-- **Runes:** A form rune matching the target creature's type.
+- **Sigils** A form sigil matching the target creature's type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 10 minutes
 - **Range:** Near
@@ -72,12 +100,12 @@ This spell grants the recipient mystical guidance and assurance.  The chosen cre
 
 | Difficulty | Effect |
 |:----------:|:-------|
-| +2         | Increase the number of targets by 1 (note that multiple runes may be required to affect creatures of different types). |
+| +2         | Increase the number of targets by 1 (note that multiple sigils may be required to affect creatures of different types). |
 | +2         | Increase the duration 1 step. |
 
 ## Blight
 - **Tier:** 2 (6+)
-- **Runes:** A form rune matching the target creature's type.
+- **Sigils** A form sigil matching the target creature's type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -94,12 +122,12 @@ For the duration of the spell, the target has Disadvantage on one specific type 
 |:----------:|:-------|
 | +1         | Increase the save difficulty by +1. |
 | +2         | Increase the range to Far. |
-| +2         | Increase the number of targets by 1 (note that multiple runes may be required to affect creatures of different types). |
+| +2         | Increase the number of targets by 1 (note that multiple sigils may be required to affect creatures of different types). |
 | +2         | Increase the duration 1 step. |
 
 ## Blind
 - **Tier:** 2 (6+)
-- **Runes:** Light, Shadow or Illusion
+- **Sigils** Light, Shadow or Illusion
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -116,12 +144,12 @@ You curse the target creature with [Blindness](Combat.md#Blinded).  A victim of 
 |:----------:|:-------|
 | +1         | Increase the save difficulty by +1. |
 | +2         | Increase the range to Far. |
-| +2         | Increase the number of targets by 1 (note that multiple runes may be required to affect creatures of different types). |
+| +2         | Increase the number of targets by 1 (note that multiple sigils may be required to affect creatures of different types). |
 | +2         | Increase the duration 1 step. |
 
 ## Catsight
 - **Tier:** 2 (6+)
-- **Runes:** Beast or Shadow
+- **Sigils** Beast or Shadow
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -142,7 +170,7 @@ For the duration of the spell, the touched creature gains [Low-Light Vision](Glo
 
 ## Deafen
 - **Tier:** 2 (6+)
-- **Runes:** Air or Illusion
+- **Sigils** Air or Illusion
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -159,12 +187,12 @@ You curse the target creature with [Deafness](Combat.md#Deafened).  A victim of 
 |:----------:|:-------|
 | +1         | Increase the save difficulty by +1. |
 | +2         | Increase the range to Far. |
-| +2         | Increase the number of targets by 1 (note that multiple runes may be required to affect creatures of different types). |
+| +2         | Increase the number of targets by 1 (note that multiple sigils may be required to affect creatures of different types). |
 | +2         | Increase the duration 1 step. |
 
 ## Detect Invisible
 - **Tier:** 2 (6+)
-- **Runes:** Truth
+- **Sigils** Truth
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -184,7 +212,7 @@ For the duration of the spell, the caster can detect the presence and location o
 
 ## Detect Thoughts
 - **Tier:** 2 (6+)
-- **Runes:** Thought & a form rune matching the target creature's type.
+- **Sigils** Thought & a form sigil matching the target creature's type.
 - **Casting Ability:** Intelligence
 - **Casting Time:** 10 minutes
 - **Range:** Personal
@@ -204,7 +232,7 @@ For the duration of this spell, the caster can touch a creature and attempt to r
 
 ## Growth
 - **Tier:** 2 (6+)
-- **Runes:** A form rune matching the target creature's type.
+- **Sigils** A form sigil matching the target creature's type.
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -226,7 +254,7 @@ The touched creature grows 1 size category.  It's natural attacks are increased 
 
 ## Heat Metal
 - **Tier:** 2 (6+)
-- **Runes:** Fire
+- **Sigils** Fire
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -248,7 +276,7 @@ This spell causes a single non-living metal object to glow red hot, potentially 
 
 ## Invisibility
 - **Tier:** 2 (6+)
-- **Runes:** Illusion
+- **Sigils** Illusion
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -269,7 +297,7 @@ This spell renders the touched creature or object invisible for the spell's dura
 
 ## Knowing
 - **Tier:** 2 (6+)
-- **Runes:** Truth plus a form rune matching the target's type (if the target is a creature).
+- **Sigils** Truth plus a form sigil matching the target's type (if the target is a creature).
 - **Casting Ability:** Wisdom
 - **Casting Time:** 10 minutes
 - **Range:** Near
@@ -282,7 +310,7 @@ This spell reveals the nature of the target to the caster.  If the target is a c
 
 ## Locate
 - **Tier:** 2 (6+)
-- **Runes:** Truth
+- **Sigils** Truth
 - **Casting Ability:** Intelligence
 - **Casting Time:** 10 minutes
 - **Range:** Near
@@ -304,7 +332,7 @@ This spell allows the caster to sense the direction, but not distance, of an obj
 
 ## Mirror Image
 - **Tier:** 2 (6+)
-- **Runes:** Illusion
+- **Sigils** Illusion
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Personal
@@ -324,7 +352,7 @@ This spell creates 1d3+1 illusory images of the caster in the same space.  All t
 
 ## Paralyze
 - **Tier:** 2 (6+)
-- **Runes:** A form rune matching the target creature's type.
+- **Sigils** A form sigil matching the target creature's type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -341,12 +369,12 @@ The target of this spell must make a Hardiness saving throw or gain the [Paralyz
 |:----------:|:-------|
 | +1         | Increase the save difficulty by +1. |
 | +2         | Increase the range to Far. |
-| +2         | Increase the number of targets by 1 (note that multiple runes may be required to affect creatures of different types). |
+| +2         | Increase the number of targets by 1 (note that multiple sigils may be required to affect creatures of different types). |
 | +2         | Increase the duration 1 step. |
 
 ## Phantasm
 - **Tier:** 2 (6+)
-- **Runes:** Illusion
+- **Sigils** Illusion
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -368,7 +396,7 @@ This spell creates a convincing visual and audio illusion from the caster's imag
 
 ## Restoration
 - **Tier:** 2 (6+)
-- **Runes:** A form rune matching the target creature type.
+- **Sigils** A form sigil matching the target creature type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -383,14 +411,14 @@ With a touch, you may relieve the target of any one of the following *temporary*
 
 | Difficulty | Effect |
 |:----------:|:-------|
-| +2         | Increase the number of targets by 1 (note that multiple runes may be required to affect creatures of different types). |
+| +2         | Increase the number of targets by 1 (note that multiple sigils may be required to affect creatures of different types). |
 | +3         | cure any one of the following *temporary* conditions: incapacitated or unconscious |
 | +6         | Difficulty +6, cure the petrified condition if it is temporary |
 | +6         | Difficulty +6, may cure any of the above listed conditions, even if it is permanent (so long as it doesn't require re-growing limbs or the like). |
 
 ## Silence
 - **Tier:** 2 (6+)
-- **Runes:** Air
+- **Sigils** Air
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -411,7 +439,7 @@ No sound can enter, exit or pass through the targeted area for the duration of t
 
 ## Smite
 - **Tier:** 2 (6+)
-- **Runes:** any Elemental
+- **Sigils** any Elemental
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -432,7 +460,7 @@ Upon casting this spell, a single weapon of the caster's choice within range bec
 
 ## Warp Wood
 - **Tier:** 2 (6+)
-- **Runes:** Plant
+- **Sigils** Plant
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -454,7 +482,7 @@ This spell causes up to 2 encumbrance of wood to warp, bend and twist.  Any weap
 
 ## Web
 - **Tier:** 2 (6+)
-- **Runes:** Beast
+- **Sigils** Beast
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near

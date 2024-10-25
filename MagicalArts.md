@@ -27,7 +27,7 @@ A magical focus is a device that aids a spellcaster in channeling and controllin
 
 While a caster has their magical focus in hand, they may re-roll a number of invocation dice equal to 1/3 their **Skill Bonus** (rounded up).  
 
-Spellcasters also frequently inscribe [runes](Runes.md) that they know into their focus so that they are immediately on-hand when casting spells.
+Spellcasters also frequently inscribe [sigils](sigils.md) that they know into their focus so that they are immediately on-hand when casting spells.
 
 ### Replacing a Focus
 A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 50sp worth of materials.
@@ -57,7 +57,7 @@ When casting a spell, the caster may choose to roll any number of **invocation d
 If a spellcaster finds themselves in need of a quick boost of magical energy, they may add their **Skill bonus** to their **Invocation Roll** by gaining 1 level of [Exhaustion](Combat.md#Exhaustion).
 
 #### Magical Focus
-Each spellcaster constructs an item as part of their apprenticeship.  This item helps the mage in focusing and controlling their magic.  A magical focus must be an item that the spellcaster holds in their hand(s) and is obviously magical in nature (often covered in runes and glyphs).  While the magical focus is in hand, the magician may reroll a number of invocation dice equal to 1/2 their Skill Bonus (rounded up).
+Each spellcaster constructs an item as part of their apprenticeship.  This item helps the mage in focusing and controlling their magic.  A magical focus must be an item that the spellcaster holds in their hand(s) and is obviously magical in nature (often covered in sigils and glyphs).  While the magical focus is in hand, the magician may reroll a number of invocation dice equal to 1/2 their Skill Bonus (rounded up).
 
 *Example: A 5th level Rogue-Spellcaster has a Skill Bonus of +3.  Each time they cast a spell, they may reroll 2 of their Invocation Dice.*
 

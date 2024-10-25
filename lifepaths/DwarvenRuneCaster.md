@@ -3,7 +3,7 @@ cssclass: clean-embeds
 ---
 # The Dwarven Rune Caster
 ## (Fighter-Spellcaster)
-Even more than others of your kin, you grew up valuing the past and keeping the stories and chants of your people. At a young age, you were apprenticed to the rune master and learned the secret magic of the dwarves.  You gain access to the [Scholar/Sage](Background.md#scholar-sage) background.
+Even more than others of your kin, you grew up valuing the past and keeping the stories and chants of your people. At a young age, you were apprenticed to the rune master and learned the secret magic of the dwarves.  You gain access to the [Wizard's Apprentice](Background.md#wizard’s%20apprentice) background.
 
 ## Childhood
 You are tough, and hold much lore in your head, but sometimes have little time for fools. Your Constitution, Intelligence, and Wisdom begin at 10, your Charisma begins at 6, and all of your other ability scores begin at 8.
@@ -20,18 +20,17 @@ You are tough, and hold much lore in your head, but sometimes have little time f
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You learned the secrets of the runes. You become a level 1 [Fighter-Spellcaster](Fighter-Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting* and *Sense Magic*. The tables below will give you all your [Knacks](Fighter-Spellcaster.md#fighter-spellcaster-knacks), [Traits](Traits.md), [Cantrips](TierZeroSpells.md) and [Runes](Runes.md).
+You learned the secrets of the runes. You become a level 1 [Fighter-Spellcaster](Fighter-Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting* and *Sense Magic*. The tables below will give you all your [Knacks](Fighter-Spellcaster.md#fighter-spellcaster%20knacks), [Traits](Traits.md), [Cantrips](TierZeroSpells.md) and [Sigils](sigils.md).
 
 ### What have you learned on your adventures so far?    
-| d6 | What did you learn best from the rune master?                                             | Ability | Cantrip     | Rune   |
-|:--:|:------------------------------------------------------------------------------------------|:-------:|:------------|:-------|
-|  1 | Patience and hard work at the forge.                                                      |  +2 WIS | Inspire     | Person |
-|  2 | The secrets of the past and the ways of dwarves, humans, and all creatures.               |  +2 INT | Mage Hand   | Air    |
-|  3 | Trickery and deceit, the traits of the fallen dwarves of the southern mountains.          |  +2 CHA | Beguilement | Person |
-|  4 | Runes which will instill confidence into the hearts of your allies and friends.           |  +2 CON | Inspire     | Person |
-|  5 | The ways of war and the defense of your own people.                                       |  +2 STR | Spark       | Fire   |
-|  6 | The history of the forgotten tombs and cities of your people, and how to find them again. |  +2 DEX | Mage Light  | Light  |  
-
+| d6 | What did you learn best from the rune master?                                             | Ability | Background | Cantrip     | Sigil  |
+|:--:|:------------------------------------------------------------------------------------------|:-------:|:-----------|:------------|:-------|
+|  1 | Patience and hard work at the forge.                                                      |  +2 WIS | Smith      | Inspire     | Person |
+|  2 | The secrets of the past and the ways of dwarves, humans, and all creatures.               |  +2 INT | Sage       | Mage Hand   | Air    |
+|  3 | Trickery and deceit, the traits of the fallen dwarves of the southern mountains.          |  +2 CHA | Mountebank | Beguilement | Person |
+|  4 | Runes which will instill confidence into the hearts of your allies and friends.           |  +2 CON | Politician | Inspire     | Person |
+|  5 | The ways of war and the defense of your own people.                                       |  +2 STR | Soldier    | Spark       | Fire   |
+|  6 | The history of the forgotten tombs and cities of your people, and how to find them again. |  +2 DEX | Sage       | Mage Light  | Light  |  
 
 <table>
 	<tr>
@@ -91,7 +90,7 @@ You learned the secrets of the runes. You become a level 1 [Fighter-Spellcaster]
 		<td><b>What was your first big hassle amongst the tall people?<br/><i>The player character to your right was there with you.</i></b></td>
 		<td align="center"><b>Ability</b></td>
 		<td align="Left"><b>Cantrip</b></td>
-		<td align="Left"><b>Rune</b></td>
+		<td align="Left"><b>Sigil</b></td>
 	</tr>
 	<tr>
 		<td align="center">1</td>
@@ -190,13 +189,13 @@ You learned the secrets of the runes. You become a level 1 [Fighter-Spellcaster]
 4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
 5. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Dwarven Rune Caster begins with the following equipment: your background trappings, a dagger, a backpack, common clothing, a tinderbox, tools for arms and armor maintenance, a light weapon, scale mail, either 2 weapons or a weapon and shield, and 4d6+5sp.  You also have the equipment rolled in the tables above.
 6. Write down your starting [cantrips](TierZeroSpells.md).
-7. Write down your starting [runes](Runes.md).  If you rolled the same rune multiple times, you may replace the duplicate(s) with different runes of the same type.
+7. Write down your starting [sigils](sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
 8. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
 9. Your Base Attack Bonus comes from your class. As a level 1 Fighter-Spellcaster, you have a BAB of +1.
 10. Your Skill bonus comes from your class.  As a level 1 Fighter-Spellcaster, you have a SB of +1.
 11. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a Fighter-Spellcaster.
 12. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-13. As a Dwarven Fighter-Spellcaster, your Base and Max Fortune Points are both 1.
+13. As a Dwarven Fighter-Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 1.
 14. Your starting Hit Points equal to 6 plus your Constitution Modifier plus 1 for being a Dwarf.
 15. Fill in your [Saving Throws](fighter-Spellcaster.md#fighter-spellcaster-saving-throws) using the chart in the Fighter-Spellcaster document.  Remember to add +2 to your Hardiness save for being a dwarf.
 16. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

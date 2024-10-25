@@ -41,7 +41,7 @@
 	- [Concentration](MagicalArts.md#Concentration)
 	- [Spell Identification](MagicalArts.md#Spell%20Identification)
 	- [Mishaps](MagicalArts.md#Mishaps)
-	- [Runes](Runes.md)
+	- [Sigils](Sigils.md)
 	- [Spells](Spells.md)
 		- [Cantrips](TierZeroSpells.md)
 		- [Tier 1](TierOneSpells.md)

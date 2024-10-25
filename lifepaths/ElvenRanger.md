@@ -19,7 +19,7 @@ You are adept at remaining hidden and finding your way in the wilderness.  Your 
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You began to wander the wilderness.  You become a level 1 [Rogue-Spellcaster](Rogue-Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting*, *Sense Magic* and the *Skulker* knack. The tables below will give you all your [Traits](Traits.md), Cantrips, Spells and Runes.
+You began to wander the wilderness.  You become a level 1 [Rogue-Spellcaster](Rogue-Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting*, *Sense Magic* and the *Skulker* knack. The tables below will give you all your [Traits](Traits.md), Cantrips, Spells and Sigils.
 
 ### What has happened to you since you became a wanderer?
 <table>
@@ -75,13 +75,13 @@ You began to wander the wilderness.  You become a level 1 [Rogue-Spellcaster](Ro
 		<td align="center"><b>Ability</b></td>
 		<td align="left"><b>Background</b></td>
 		<td align="left"><b>Cantrip</b></td>
-		<td align="left"><b>Rune</b></td>
+		<td align="left"><b>Sigil</b></td>
 	</tr>
 	<tr>
 		<td align="center">1</td>
 		<td>You learned to speak to the trees of the forest; they bend to your fae majesty.</td>
 		<td align="center">+3 CHA</td>
-		<td align="left">Forester/Ranger</td>
+		<td align="left">Forester</td>
 		<td align="left">Plant Speech</td>
 		<td align="left">Plant</td>
 	</tr>
@@ -89,7 +89,7 @@ You began to wander the wilderness.  You become a level 1 [Rogue-Spellcaster](Ro
 		<td align="center">2</td>
 		<td>As your people fell time and again in battle against foul enemies, you learned to tend them.</td>
 		<td align="center">+3 WIS</td>
-		<td align="left">Apothecary/Healer</td>
+		<td align="left">Apothecary</td>
 		<td align="left">Mend</td>
 		<td align="left">Person</td>
 	</tr>
@@ -97,7 +97,7 @@ You began to wander the wilderness.  You become a level 1 [Rogue-Spellcaster](Ro
 		<td align="center">3</td>
 		<td>The songs of trickery and faerie glamour were passed to you.</td>
 		<td align="center">+3 DEX</td>
-		<td align="left">Minstrel/Performer</td>
+		<td align="left">Entertainer</td>
 		<td align="left">Beguilement</td>
 		<td align="left">Person</td>
 	</tr>
@@ -121,7 +121,7 @@ You began to wander the wilderness.  You become a level 1 [Rogue-Spellcaster](Ro
 		<td align="center">6</td>
 		<td>When a group of hunters needs to pass by a wild beast or goblin raiding party unseen, you sing of their prowess at moving unseen.</td>
 		<td align="center">+2 WIS</td>
-		<td align="left">Hunter/Trapper</td>
+		<td align="left">Hunter</td>
 		<td align="left">Inspire</td>
 		<td align="left">Person</td>
 	</tr>
@@ -133,7 +133,7 @@ You began to wander the wilderness.  You become a level 1 [Rogue-Spellcaster](Ro
 		<td><b>When you entered the lands of humans, you soon learned how dangerous they can be. What taught you this lesson?<br/><i>The player character to your right was there with you.</i></b></td>
 		<td align="center"><b>Ability</b></td>
 		<td align="left"><b>Cantrip</b></td>
-		<td align="left"><b>Rune</b></td>
+		<td align="left"><b>Sigil</b></td>
 	</tr>
 	<tr>
 		<td align="center">1</td>
@@ -229,17 +229,17 @@ You began to wander the wilderness.  You become a level 1 [Rogue-Spellcaster](Ro
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
 3. Record your species and the [features](Elf.md#features) that come from it.
-4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
+4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Elven Ranger begins with the following equipment: your background trappings, a magical focus, a backpack, elven clothes, a elvish travelling cloak, a bedroll, a mess kit, a tinderbox, 10 torches, 1 week’s rations, 50ft silken rope, leather armor, one light weapon, one medium weapon, 4d6sp plus whatever equipment you rolled above.
 6. Write down your starting [cantrips](TierZeroSpells.md).
-7. Write down your starting [runes](Runes.md).  If you rolled the same rune multiple times, you may replace the duplicate(s) with different runes of the same type.
+7. Write down your starting [sigils](sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
 8. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
 9. Your Base Attack Bonus comes from your class. As a level 1 Rogue-Spellcaster, you have a BAB of +1.
 10. Your Skill bonus comes from your class.  As a level 1 Rogue-Spellcaster, you have a SB of +1.
 11. Your Initiative Bonus is equal your Dexterity bonus plus 1 for being a Rogue-Spellcaster.
 12. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-13. As an Elven Rogue-Spellcaster, your Base and Max Fortune Points are both 1.
+13. As an Elven Rogue-Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 1.
 14. Your starting Hit Points equal to 5 plus your Constitution Modifier.
-15. Fill in your [Saving Throws](Rogue-Spellcaster.md#rogue-spellcaster-saving-throws) using the chart in the Rogue-Spellcaster document.
+15. Fill in your [Saving Throws](Rogue-Spellcaster.md#rogue-spellcaster%20saving%20throws) using the chart in the Rogue-Spellcaster document.
 16. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
 

@@ -1,10 +1,10 @@
 # Spells
-Spells are the magical formula by which the power of the runes may be harnessed and directed.
+Spells are the magical formula by which the power of the sigils may be harnessed and directed.
 
 Within this section you will find a list of spells for use in the *Cavern Crawlers* game.  This list is by no means definitive and the GM and players should work together if they wish to bring spells from other sources into the game.
 - [Spell Descriptions](#Spell%20Descriptions)
 	- [Tier](#Tier)
-	- [Runes](#Runes)
+	- [Sigils](#Sigils)
 	- [Casting Ability](#Casting%20Ability)
 	- [Casting Time](#Casting%20Time)
 	- [Range](#Range)
@@ -24,8 +24,8 @@ All spell descriptions contain the following information.
 ### Tier
 This is the spell's Tier, which determines who may learn the spell.
 
-### Runes
-Which [runes](Runes.md) are required for the casting of the spell.
+### Sigils
+Which [sigils](Sigils.md) are required for the casting of the spell.
 
 ### Casting Ability
 This identifies which **Ability Score Modifier** (Intelligence, Wisdom or Charisma) is used to compute the **Saving Throw DT** or **Attack Modifier** of any spells you cast.
@@ -81,7 +81,7 @@ This indicates if a target is allowed to make a [Saving Throw](CoreRules.md#Savi
 
 ### Components
 Spells will often require **Gestures**, **Incantations** or both to cast.  If any one element is missing or restricted, the spell cannot be cast and any [Invocation Roll](MagicalArts.md#the%20invocation%20roll) will automatically fail.
-- **Gestures** require at least one free hand (though it may be holding your Magical Focus or Rune).
+- **Gestures** require at least one free hand (though it may be holding your Magical Focus or Sigil).
 - **Incantations** require the caster be able to speak freely and not be in a zone of total silence.
 
 ## Upcasting
@@ -91,7 +91,7 @@ Several spells allow the caster to increase the difficulty in casting the spell 
 
 ### Mend
 - **Tier:** Cantrip (0+)
-- **Runes:** A form or elemental rune matching the target type.
+- **Sigils:** A form or elemental sigil matching the target type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 Action
 - **Range:** Touch
@@ -100,7 +100,7 @@ Several spells allow the caster to increase the difficulty in casting the spell 
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-By means of this spell, the mage uses the power of a rune to heal a living creature or mend a given object.  The rune selected when casting this spell must match the target type (Person for healing a sapient being, Beast to heal an animal, Earth to mend a stone wall, etc).
+By means of this spell, the mage uses the power of a sigil to heal a living creature or mend a given object.  The sigil selected when casting this spell must match the target type (Person for healing a sapient being, Beast to heal an animal, Earth to mend a stone wall, etc).
 
 If used to heal a living being, this spell will heal the target's CON modifier (minimum 1) in HP.
 
@@ -117,7 +117,7 @@ If used on an inanimate object, 1 Tiny area of material will be made whole.
 
 ### Spark
 - **Tier:** Cantrip (0+)
-- **Runes:** any elemental rune
+- **Sigils:** any elemental sigil
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -126,7 +126,7 @@ If used on an inanimate object, 1 Tiny area of material will be made whole.
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-By means of this spell, the caster uses the power of a rune to conjure a small amount of a single element (approximately 1 cubic inch).  At it's minimum, this spell does negligible damage, but can produce utilitarian effects (such as using the Fire rune to ignite a torch).  Alternatively, the mage may use this as an attack (requiring a [Magical Attack](MagicalArts.md#Magical%20Attacks%20and%20Saving%20Throws) vs an unwilling target), doing 1d4 damage of the selected type.
+By means of this spell, the caster uses the power of a sigil to conjure a small amount of a single element (approximately 1 cubic inch).  At it's minimum, this spell does negligible damage, but can produce utilitarian effects (such as using the Fire sigil to ignite a torch).  Alternatively, the mage may use this as an attack (requiring a [Magical Attack](MagicalArts.md#Magical%20Attacks%20and%20Saving%20Throws) vs an unwilling target), doing 1d4 damage of the selected type.
 
 *Upcasting*
 

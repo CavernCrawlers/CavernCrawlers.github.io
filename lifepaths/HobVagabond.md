@@ -19,7 +19,7 @@ You were the toughest and most athletic of your people. Your Dexterity begins at
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You took to the road and you never looked back. You become a level 1 [Rogue](Rogue.md). You gain the class abilities _Fortune’s Favor_, _Rogue Skills,_ and _Sneak Attack_. The tables below will give you your [Knack](Rogue.md#rouge-knacks) and [Trait](Traits.md).
+You took to the road and you never looked back. You become a level 1 [Rogue](Rogue.md). You gain the class abilities _Fortune’s Favor_, _Rogue Skills,_ and _Sneak Attack_. The tables below will give you your [Knack](Rogue.md#rogue%20knacks) and [Trait](Traits.md).
 
 <table>
 	<tr>
@@ -56,7 +56,7 @@ You took to the road and you never looked back. You become a level 1 [Rogue](Rog
 		<td align="center">5</td>
 		<td>Your unusual size and talents made you the temporary star of their sports and games.</td>
 		<td align="center">+3 CON</td>
-		<td align="left">Entertainer</td>
+		<td align="left">Athelete (entertainer)</td>
 	</tr>
 	<tr>
 		<td align="center">6</td>
@@ -206,15 +206,15 @@ You took to the road and you never looked back. You become a level 1 [Rogue](Rog
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
 3. Note your species as [Hob](hob.md) and note your special abilities.
-4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
+4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. Jot down your class abilities, knack, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Hob Vagabond begins with the following equipment: your background trappings, a backpack, traveler's clothes, a heavy cloak, a bedroll, a mess kit, a tinderbox, 10 torches, 1 week’s rations, 50ft rope, leather armor, one light weapon, one medium weapon, lockpicks and 4d6 silver
 6. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is illiterate unless you spend a language choice on literacy or are a spellcaster.
 7. Your Base Attack Bonus comes from your class. As a level 1 rogue, you have a BAB of +1.
 8. Your Skill bonus comes from your class.  As a level 1 Rogue, you have a SB of +1.
 9. Your Initiative Bonus is equal your Dexterity bonus plus 2 for being a Rogue.
 10. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-11. Your Base and Max Fortune Points are both 3 for being a Hob Rogue.
+11. Your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 3 for being a Hob Rogue.
 12. Your starting Hit Points equal to 6 plus your Constitution Modifier.
-13. Fill in your [Saving Throws](Rogue.md#rogue-saving-throws) using the chart in the Rogue document.  Remember to add +2 to each for being a Hob.
+13. Fill in your [Saving Throws](Rogue.md#rogue%20saving%20throws) using the chart in the Rogue document.  Remember to add +2 to each for being a Hob.
 14. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
 

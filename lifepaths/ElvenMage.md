@@ -3,7 +3,7 @@ cssclass: clean-embeds
 ---
 # The Elven Mage
 ## (Spellcaster)
-Tutored from a young age in your peoples’ magic, you can call forth many wonders.  You’ve watched the rise of the younger races and are filled with a mixture of hope and dread.  You’ve gone forth into their world hoping to tame some of their recklessness yet acquire some of their vigor.  You gain access to the [Wizard's Apprentice](Background.md#wizards-apprentice) background.
+Tutored from a young age in your peoples’ magic, you can call forth many wonders.  You’ve watched the rise of the younger races and are filled with a mixture of hope and dread.  You’ve gone forth into their world hoping to tame some of their recklessness yet acquire some of their vigor.  You gain access to the [Wizard's Apprentice](Background.md#wizards%20apprentice) background.
 
 ## Childhood
 You have a gift for sorcery and diplomacy. Your Intelligence and Charisma begins at 10, and all of your other ability scores begin at 8.
@@ -19,17 +19,17 @@ You have a gift for sorcery and diplomacy. Your Intelligence and Charisma begins
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-The elven spell-weavers taught you the language of creation.  You become a level 1 [Spellcaster](Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting*, *Sense Magic*, the cantrip [Beguilement](TierZeroSpells.md#beguilment) and the Person [rune](Runes.md). The tables below will give you all your [Traits](Traits.md), Cantrips, Spells and Runes.
+The elven spell-weavers taught you the language of creation.  You become a level 1 [Spellcaster](Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting*, *Sense Magic*, the cantrip [Beguilement](TierZeroSpells.md#beguilment) and the Person [sigil](sigils.md). The tables below will give you all your [Traits](Traits.md), Cantrips, Spells and Sigils.
 
 ### What happened to you as you learned the ways of magic?
-| d6 | In addition to the ways of magic, what else did you study? | Ability | Background         |
-|:--:|:-----------------------------------------------------------|:-------:|:-------------------|
-|  1 | The history of the elven people.                           | +3 INT  | Scholar            |
-|  2 | The more subtle arts of trickery.                          | +3 DEX  | Criminal/Spy       |
-|  3 | The tending of the sick and injured.                       | +3 WIS  | Apothecary/Healer  |
-|  4 | The great tales of gods and heroes.                        | +3 INT  | Acolyte            |
-|  5 | You songs of the elven peoples.                            | +3 WIS  | Minstrel/Performer |
-|  6 | The courtly ways of the highborn.                          | +3 CHA  | Courtier           |  
+| d6 | In addition to the ways of magic, what else did you study? | Ability | Background  |
+|:--:|:-----------------------------------------------------------|:-------:|:------------|
+|  1 | The history of the elven people.                           | +3 INT  | Sage        |
+|  2 | The more subtle arts of trickery.                          | +3 DEX  | Criminal    |
+|  3 | The tending of the sick and injured.                       | +3 WIS  | Apothecary  |
+|  4 | The great tales of gods and heroes.                        | +3 INT  | Acolyte     |
+|  5 | You songs of the elven peoples.                            | +3 WIS  | Entertainer |
+|  6 | The courtly ways of the highborn.                          | +3 CHA  | Courtier    |  
 
 <table>
 	<tr>
@@ -38,7 +38,7 @@ The elven spell-weavers taught you the language of creation.  You become a level
 		<td align="center"><b>Ability</b></td>
 		<td align="left"><b>Cantrip</b></td>
 		<td align="left"><b>Spell</b></td>
-		<td align="left"><b>Runes</b></td>
+		<td align="left"><b>Sigils</b></td>
 	</tr>
 	<tr>
 		<td align="center">1</td>
@@ -97,7 +97,7 @@ The elven spell-weavers taught you the language of creation.  You become a level
 		<td align="center"><b>Ability</b></td>
 		<td align="left"><b>Trait</b></td>
 		<td align="left"><b>Spell</b></td>
-		<td align="left"><b>Rune</b></td>
+		<td align="left"><b>Sigil</b></td>
 	</tr>
 	<tr>
 		<td align="center">1</td>
@@ -199,18 +199,18 @@ The elven spell-weavers taught you the language of creation.  You become a level
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
 3. Record your species and the [features](Elf.md#features) that come from it.
-4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
+4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Elven Mage begins with the following equipment: your background trappings, a backpack, elvish robes, a spellbook, many pouches, a light weapon, 4d6sp and the equipment you rolled above.
 6. Write down your starting [cantrips](TierZeroSpells.md).
 7. Write down your starting [spells](TierOneSpells.md).
-8. Write down your starting [runes](Runes.md).  If you rolled the same rune multiple times, you may replace the duplicate(s) with different runes of the same type.
+8. Write down your starting [sigils](sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
 9. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
 10. Your Base Attack Bonus comes from your class. As a level 1 Spellcaster, you have a BAB of +0.
 11. Your Skill bonus comes from your class.  As a level 1 Spellcaster, you have a SB of +1.
 12. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a Spellcaster.
 13. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-14. As an Elven Spellcaster, your Base and Max Fortune Points are both 1.
+14. As an Elven Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 1.
 15. Your starting Hit Points equal to 4 plus your Constitution Modifier.
-16. Fill in your [Saving Throws](Spellcaster.md#spellcaster-saving-throws) using the chart in the Spellcaster document.
+16. Fill in your [Saving Throws](Spellcaster.md#spellcaster%20saving%20throws) using the chart in the Spellcaster document.
 17. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
 

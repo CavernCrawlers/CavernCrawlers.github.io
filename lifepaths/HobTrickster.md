@@ -3,7 +3,7 @@ cssclass: clean-embeds
 ---
 # The Hob Trickster
 ## (Rogue-Spellcaster)
-Ever since you were a child, you were fascinated by magic.  When the time of apprenticeship came, the village hedge-mage chose you to learn their art.  Now the time has come to make your own way in the world and put all you have learned to the test.  You have access to the [Wizard's Apprentice](Background.md#wizards-apprentice) background.
+Ever since you were a child, you were fascinated by magic.  When the time of apprenticeship came, the village hedge-mage chose you to learn their art.  Now the time has come to make your own way in the world and put all you have learned to the test.  You have access to the [Wizard’s Apprentice](Background.md#wizard’s%20apprentice) background.
 
 ## Childhood
 You were always clever and dexterous. Your Intelligence begins at 12, your Dexterity at 10, your Strength at 6, and all of your other ability scores begin at 8.
@@ -19,7 +19,7 @@ You were always clever and dexterous. Your Intelligence begins at 12, your Dexte
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You learned the arts of both trickery and true magic.  You become a level 1 [Rogue-Spellcaster](Rogue-Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting*, *Sense Magic* and the [Great Fortune](Traits.md#great-fortune) trait. The tables below will give you all your Knack, Cantrips and Runes.
+You learned the arts of both trickery and true magic.  You become a level 1 [Rogue-Spellcaster](Rogue-Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting*, *Sense Magic* and the [Great Fortune](Traits.md#great%20fortune) trait. The tables below will give you all your Knack, Cantrips and Sigils.
 
 ### What else happened to you as you came of age?
 <table>
@@ -33,7 +33,7 @@ You learned the arts of both trickery and true magic.  You become a level 1 [Rog
 		<td align="center">1</td>
 		<td>They entertained the villagers with feats of acrobatics.</td>
 		<td align="center">+3 DEX</td>
-		<td align="left">Entertainer</td>
+		<td align="left">Acrobat (entertainer)</td>
 	</tr>
 	<tr>
 		<td align="center">2</td>
@@ -74,7 +74,7 @@ You learned the arts of both trickery and true magic.  You become a level 1 [Rog
 		<td align="center"><b>Ability</b></td>
 		<td align="left"><b>Cantrip</b></td>
 		<td align="left"><b>Cantrip</b></td>
-		<td align="left"><b>Runes</b></td>
+		<td align="left"><b>Sigils</b></td>
 	</tr>
 	<tr>
 		<td align="center">1</td>
@@ -88,14 +88,16 @@ You learned the arts of both trickery and true magic.  You become a level 1 [Rog
 		<td align="center">2</td>
 		<td>Spells of trickery and deceit.</td>
 		<td align="center">+2 INT</td>
-		<td align="left">Beguilement, Hexing</td>
+		<td align="left">Beguilement</td>
+		<td align="left">Hexing</td>
 		<td align="left">Beast, Person</td>
 	</tr>
 	<tr>
 		<td align="center">3</td>
 		<td>Spells of  Divination.</td>
 		<td align="center">+2 WIS</td>
-		<td align="left">Inspire, Spirit Sight</td>
+		<td align="left">Inspire</td>
+		<td align="left">Spirit Sight</td>
 		<td align="left">Person, Spirit</td>
 	</tr>
 	<tr>
@@ -219,17 +221,17 @@ You learned the arts of both trickery and true magic.  You become a level 1 [Rog
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
 3. Record your species and the [features](Hob.md#features) that come from it.
-4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
+4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Hob Trickster begins with the following equipment: your background trappings, a magical focus, a backpack, common robes, a spellbook, many pouches, lockpicks, and a light weapon plus whatever equipment you rolled above.
 6. Write down your starting [cantrips](TierZeroSpells.md).
-7. Write down your starting [runes](Runes.md).  If you rolled the same rune multiple times, you may replace the duplicate(s) with different runes of the same type.
+7. Write down your starting [sigils](sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
 8. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
 9. Your Base Attack Bonus comes from your class. As a level 1 Rogue-Spellcaster, you have a BAB of +1.
 10. Your Skill bonus comes from your class.  As a level 1 Rogue-Spellcaster, you have a SB of +1.
 11. Your Initiative Bonus is equal your Dexterity bonus plus 1 for being a Rogue-Spellcaster.
 12. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-13. As an Hob Rogue-Spellcaster, your Base and Max Fortune Points are both 2 plus an additional 1 for the Great Fortune trait.
+13. As an Hob Rogue-Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2 plus an additional 1 for the Great Fortune trait for a total of 3.
 14. Your starting Hit Points equal to 5 plus your Constitution Modifier.
-15. Fill in your [Saving Throws](Rogue-Spellcaster.md#rogue-spellcaster-saving-throws) using the chart in the Rogue-Spellcaster document.  Remember to add +2 to all your saves for being a Hob.
+15. Fill in your [Saving Throws](Rogue-Spellcaster.md#rogue-spellcaster%20saving%20throws) using the chart in the Rogue-Spellcaster document.  Remember to add +2 to all your saves for being a Hob.
 16. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
 

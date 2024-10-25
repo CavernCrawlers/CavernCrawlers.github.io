@@ -19,7 +19,7 @@ You are wise beyond your years. Your Wisdom begins at 12, and all of your other 
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You felt the gods’ power and it changed your life. You become a level 1 [Spellcaster](Spellcaster.md). You gain the class abilities _Exhausting Magic_, _Invocation Dice_, _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Inspire](TierZeroSpells.md#inspire) cantrip and Person [rune](Runes.md). The tables below will tell you your other traits and spells.
+You felt the gods’ power and it changed your life. You become a level 1 [Spellcaster](Spellcaster.md). You gain the class abilities _Exhausting Magic_, _Invocation Dice_, _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Inspire](TierZeroSpells.md#inspire) cantrip and Person [sigil](Sigils.md). The tables below will tell you your other traits and spells.
 
 ### What else happened to you as you began your life of service?
 
@@ -29,7 +29,7 @@ You felt the gods’ power and it changed your life. You become a level 1 [Spell
 		<td><b>When you came of age, you began to hear the gods. What first caused them to speak to you?</b></td>
 		<td align="center"><b>Abilities</b></td>
 		<td align="left"><b>Cantrip</b></td>
-		<td align="left"><b>Rune</b></td>
+		<td align="left"><b>Sigil</b></td>
 	</tr>
 	<tr>
 		<td align="center">1</td>
@@ -84,7 +84,7 @@ You felt the gods’ power and it changed your life. You become a level 1 [Spell
 		<td align="left"><b>Background</b></td>
 		<td align="left"><b>Trait</b></td>
 		<td align="left"><b>Spell</b></td>
-		<td align="left"><b>Rune</b></td>
+		<td align="left"><b>Sigil</b></td>
 	</tr>
 	<tr>
 		<td align="center">1</td>
@@ -148,7 +148,7 @@ You felt the gods’ power and it changed your life. You become a level 1 [Spell
 		<td><b>When you were most in need, the gods aided you. When were you most desperate?<br><i>The PC to your right was there when it happened.</i></b></td>
 		<td align="center"><b>Ability</b></td>
 		<td><b>Spell</b></td>
-		<td><b>Rune</b></td>
+		<td><b>Sigil</b></td>
 	</tr>
 	<tr>
 		<td align="center">1</td>
@@ -244,17 +244,17 @@ You felt the gods’ power and it changed your life. You become a level 1 [Spell
 ## Fill out your sheet.
 1. Record your name, class and level.
 2. Select a background from those made available from your Lifepath, above.
-3. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
+3. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 4. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Acolyte of the Old Gods begins with the following equipment: a dagger, a backpack, practical clothes, a prayer/spell book, a holy symbol (your magical focus), a stout walking staff (quarterstaff) and 4d6+10sp
 5. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
 6. Write down your starting [cantrips](TierZeroSpells.md).
 7. Write down your starting [spells](TierONeSpells.md).
-8. Write down your starting [runes](Runes.md).  If you rolled the same rune multiple times, you may replace the duplicate(s) with different runes of the same type.
+8. Write down your starting [sigils](Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
 9. Your Base Attack Bonus comes from your class. As a level 1 Spellcaster, you have a BAB of +0.
 10. Your Skill bonus comes from your class.  As a level 1 Spellcaster, you have a SB of +1.
 11. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a Spellcaster.
 12. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-13. As a Human Spellcaster, your Base and Max Fortune Points are both 2.
+13. As a Human Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
 14. Your starting Hit Points equal to 4 plus your Constitution Modifier.
-15. Fill in your [Saving Throws](Spellcaster.md#spellcaster-saving-throws) using the chart in the Spellcaster document.
+15. Fill in your [Saving Throws](Spellcaster.md#spellcaster%20saving%20throws) using the chart in the Spellcaster document.
 16. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

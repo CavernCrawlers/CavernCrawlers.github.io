@@ -3,7 +3,7 @@ cssclass: clean-embeds
 ---
 # The Dabbling Diabolist
 ## (Spellcaster)
-Your innate curiosity got the better of you, and you ended up invoking magical forces you weren’t powerful enough to master. Something or someone came through from the world of Demons, and now it’s with you always, plotting, scheming, and promising mystical might.  You gain access to the [Cult Initiate](Background.md#cult-initiate) background.
+Your innate curiosity got the better of you, and you ended up invoking magical forces you weren’t powerful enough to master. Something or someone came through from the world of Demons, and now it’s with you always, plotting, scheming, and promising mystical might.  You gain access to the [Cult Initiate](Background.md#cult%20initiate) background.
 
 ## Childhood
 It takes a formidable ego and sense of self to truck with dark forces, accidentally or otherwise. Your Charisma begins at 12, and all of your other ability scores begin at 8.
@@ -26,7 +26,7 @@ It takes a formidable ego and sense of self to truck with dark forces, accidenta
 	</tr>
 	<tr>
 		<td align="center">1</td>
-		<td>While laboring with the blacksmith, a stranger brought in an unusual blade, emblazoned with strange runes.</td>
+		<td>While laboring with the blacksmith, a stranger brought in an unusual blade, emblazoned with strange sigils.</td>
 		<td align="center">+2</td><!--STR-->
 		<td align="center">+0</td><!--DEX-->
 		<td align="center">+0</td><!--CON-->
@@ -122,7 +122,7 @@ You would later learn that this accident released powerful magic. Unfortunately,
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-Your magical accident attracted the attention of an otherworldly spirit.  This spirit has come to you to teach you the ways of magic. You become a level 1 [Spellcaster](Spellcaster.md). You gain the class abilities _Exhausting Magic_, _Invocation Dice_, _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Hexing](TierZeroSpells.md#hexing) cantrip and Person [rune](Runes.md). The tables below will tell you your other traits and spells.
+Your magical accident attracted the attention of an otherworldly spirit.  This spirit has come to you to teach you the ways of magic. You become a level 1 [Spellcaster](Spellcaster.md). You gain the class abilities _Exhausting Magic_, _Invocation Dice_, _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Hexing](TierZeroSpells.md#hexing) cantrip and Person [sigil](Sigils.md). The tables below will tell you your other traits and spells.
 
 ### What else has your familiar taught you?
 
@@ -132,7 +132,7 @@ Your magical accident attracted the attention of an otherworldly spirit.  This s
 		<td><b>What was the next cantrip your familiar taught you?</b></td>
 		<td align="center"><b>Abilities</b></td>
 		<td align="left"><b>Cantrip</b></td>
-		<td align="left"><b>Rune</b></td>
+		<td align="left"><b>Sigil</b></td>
 	</tr>
 	<tr>
 		<td align="center">1</td>
@@ -185,7 +185,7 @@ Your magical accident attracted the attention of an otherworldly spirit.  This s
 		<td align="center"><b>Ability</b></td>
 		<td align="left"><b>Trait</b></td>
 		<td align="left"><b>Spell</b></td>
-		<td align="left"><b>Rune</b></td>
+		<td align="left"><b>Sigil</b></td>
 	</tr>
 	<tr>
 		<td align="center">1</td>
@@ -238,7 +238,7 @@ Your magical accident attracted the attention of an otherworldly spirit.  This s
 	<tr><td colspan=6><b>Please add the location where this happened to the village map.</b></td></tr>
 </table>
 
-| d6 | So far you’ve managed to walk the delicate tightrope of keeping your familiar happy/sated while curbing its more dire impulses. Still, the promise of power is great, and your familiar knows much, is the following gift worth the terrible price your familiar asks of you? | Ability | Spell | Rune |
+| d6 | So far you’ve managed to walk the delicate tightrope of keeping your familiar happy/sated while curbing its more dire impulses. Still, the promise of power is great, and your familiar knows much, is the following gift worth the terrible price your familiar asks of you? | Ability | Spell | Sigil |
 |:--:|:------------------------------------------------------------------------------------------------------------------------------------|:-------:|:------|:-----|
 |  1 | How to banish antagonistic spirits. | +2 WIS | Abjuration | Spirit |
 |  2 | How to strike terror into the hearts of your enemies. | +2 CHA | Frighten | Illusion |
@@ -305,18 +305,18 @@ Step 7: d12 Result: The demon's special attack.
 ## Fill out your sheet.
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
-3. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
+3. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 4. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Dabbling Diabolist begins with the following equipment: your background trappings, a backpack, an athame (dagger and magical focus), a book of occult lore, common robes, spellbook, many pouches, a light weapon and 4d6sp
 5. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
 6. Write down your starting [cantrips](TierZeroSpells.md).
 7. Write down your starting [spells](TierONeSpells.md).
-8. Write down your starting [runes](Runes.md).  If you rolled the same rune multiple times, you may replace the duplicate(s) with different runes of the same type.
+8. Write down your starting [sigils](Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
 9. Your Base Attack Bonus comes from your class. As a level 1 Spellcaster, you have a BAB of +0.
 10. Your Skill bonus comes from your class.  As a level 1 Spellcaster, you have a SB of +1.
 11. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a Spellcaster.
 12. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-13. Your Base and Max Fortune Points are both 2 for being a Human Spellcaster.
+13. Your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2 for being a Human Spellcaster.
 14. Your starting Hit Points equal to 4 plus your Constitution Modifier.
-15. Fill in your [Saving Throws](Spellcaster.md#spellcaster-saving-throws) using the chart in the Spellcaster document.
+15. Fill in your [Saving Throws](Spellcaster.md#spellcaster%20saving%20throws) using the chart in the Spellcaster document.
 16. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
 

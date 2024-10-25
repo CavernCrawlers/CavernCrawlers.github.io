@@ -19,17 +19,17 @@ You are quick and intelligent. Your Dexterity and Intelligence begin at 10, and 
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-Your family trained you to be a great warrior, but also taught you the arcane arts.  You become a level 1 [Fighter-Spellcaster](Fighter-Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting*, *Sense Magic*, the cantrip [Glamour](TierZeroSpells.md#glamour) and the Illusion [rune](Runes.md). The tables below will give you all your [Knacks](Fighter-Spellcaster.md#fighter-spellcaster-knacks), [Traits](Traits.md), Cantrips and Runes.
+Your family trained you to be a great warrior, but also taught you the arcane arts.  You become a level 1 [Fighter-Spellcaster](Fighter-Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting*, *Sense Magic*, the cantrip [Glamour](TierZeroSpells.md#glamour) and the Illusion [sigil](sigils.md). The tables below will give you all your [Knacks](Fighter-Spellcaster.md#fighter-spellcaster%20knacks), [Traits](Traits.md), Cantrips and Sigils.
 
 ### What have learned since your training?  
-| d6 | As a student, you had access to the ancient records of high elven magic. What did you study? | Ability        | Cantrip      | Rune   |
-|:--:|:---------------------------------------------------------------------------------------------|:--------------:|:-------------|:-------|
-|  1 | You learned to see beyond the veil.                                                          | +2 INT, +1 DEX | Spirit Sight | Spirit |
-|  2 | You studied the lore of nature.                                                              | +2 CON, +1 WIS | Plant Speech | Plant  |
-|  3 | Tricking the unwary interested you the most as a fickle young student.                       | +2 INT, +1 STR | Beguilement  | Person |
-|  4 | Uncovering that which was hidden attracted you.                                              | +2 INT, +1 CHA | Mage Light   | Light  |
-|  5 | You wanted to light the way against the enemies of your people.                              | +2 CON, +1 INT | Spark        | Light  |
-|  6 | You learned to aid those in need.                                                            | +2 WIS, +1 STR | Inspire      | Person |  
+| d6 | As a student, you had access to the ancient records of high elven magic. What did you study? | Ability        | Background | Cantrip      | Sigil  |
+|:--:|:---------------------------------------------------------------------------------------------|:--------------:|:-----------|:-------------|:-------|
+|  1 | You learned to see beyond the veil.                                                          | +2 INT, +1 DEX | Fortune Teller | Spirit Sight | Spirit |
+|  2 | You studied the lore of nature.                                                              | +2 CON, +1 WIS | Herbalist  | Plant Speech | Plant  |
+|  3 | Tricking the unwary interested you the most as a fickle young student.                       | +2 INT, +1 STR | Criminal   | Beguilement  | Person |
+|  4 | Uncovering that which was hidden attracted you.                                              | +2 INT, +1 CHA | Alchemist  | Mage Light   | Light  |
+|  5 | You wanted to light the way against the enemies of your people.                              | +2 CON, +1 INT | Soldier    | Spark        | Light  |
+|  6 | You learned to aid those in need.                                                            | +2 WIS, +1 STR | Apothecary | Inspire      | Person |  
 
 <table>
 	<tr>
@@ -178,17 +178,17 @@ Your family trained you to be a great warrior, but also taught you the arcane ar
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
 3. Record your species and the [features](Elf.md#features) that come from it.
-4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
+4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Elven High Born begins with the following equipment: your background trappings, a backpack, an elvish cloak, a spellbook, many pouches, an arcane focus, a light elven weapon and 4d6sp
 6. Write down your starting [cantrips](TierZeroSpells.md).
-7. Write down your starting [runes](Runes.md).  If you rolled the same rune multiple times, you may replace the duplicate(s) with different runes of the same type.
+7. Write down your starting [sigils](sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
 8. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
 9. Your Base Attack Bonus comes from your class. As a level 1 Fighter-Spellcaster, you have a BAB of +1.
 10. Your Skill bonus comes from your class.  As a level 1 Fighter-Spellcaster, you have a SB of +1.
 11. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a Fighter-Spellcaster.
 12. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-13. As an Elven Fighter-Spellcaster, your Base and Max Fortune Points are both 1.
+13. As an Elven Fighter-Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 1.
 14. Your starting Hit Points equal to 6 plus your Constitution Modifier.
-15. Fill in your [Saving Throws](Fighter-Spellcaster.md#fighter-spellcaster-saving-throws) using the chart in the Fighter-Spellcaster document.
+15. Fill in your [Saving Throws](Fighter-Spellcaster.md#fighter-spellcaster%20saving%20throws) using the chart in the Fighter-Spellcaster document.
 16. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
 

@@ -8,6 +8,21 @@
         "type": "tabs",
         "children": [
           {
+            "id": "43c6744766cf5dab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Background.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Background"
+            }
+          },
+          {
             "id": "c31c15071bd006f9",
             "type": "leaf",
             "state": {
@@ -68,37 +83,67 @@
             }
           },
           {
-            "id": "323c453599e9d1f9",
+            "id": "813522712454e896",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WildernessExploration.md",
-                "mode": "preview",
+                "file": "Traits.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "WildernessExploration"
+              "title": "Traits"
             }
           },
           {
-            "id": "ee15f8b28d21c148",
+            "id": "8df07c1620681362",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreRules.md",
+                "file": "EncumbranceAndEquipment.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "EncumbranceAndEquipment"
+            }
+          },
+          {
+            "id": "1896890bbe29779f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rogue.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CoreRules"
+              "title": "Rogue"
+            }
+          },
+          {
+            "id": "cd8b3d67d90e2268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lifepaths/BarbarianNamer.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "BarbarianNamer"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -255,34 +300,34 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "323c453599e9d1f9",
+  "active": "cd8b3d67d90e2268",
   "lastOpenFiles": [
-    "Dungeoneering.md",
-    "WildernessExploration.md",
-    "TrueNames.md",
-    "Traits.md",
-    "TierZeroSpells.md",
-    "TierTwoSpells.md",
-    "TierThreeSpells.md",
-    "TierOneSpells.md",
-    "TierFourSpells.md",
-    "Spells.md",
-    "Spellcaster.md",
-    "Runes.md",
-    "RulesSynopsis.md",
-    "CoreRules.md",
-    "Combat.md",
-    "Rogue-Spellcaster.md",
-    "lifepaths/VillageFriend.md",
+    "Background.md",
+    "lifepaths/BarbarianNamer.md",
+    "lifepaths/OrcDrummer.md",
+    "lifepaths/OrcBerserker.md",
+    "lifepaths/OrcHunter.md",
+    "lifepaths/GoblinMerchant.md",
+    "lifepaths/GoblinShaman.md",
+    "lifepaths/GoblinSkirmisher.md",
+    "lifepaths/YoungForester.md",
+    "EncumbranceAndEquipment.md",
     "Rogue.md",
-    "README.md",
-    "Orc.md",
-    "MagicalArts.md",
-    "Human.md",
-    "Hob.md",
-    "HirelingsAndAllies.md",
-    "Goblin.md",
-    "Glossary.md",
+    "Traits.md",
+    "Fighter.md",
+    "lifepaths/WouldBeKnight.md",
+    "Spellcaster.md",
+    "lifepaths/WitchsApprentice.md",
+    "lifepaths/VirtuousBandit.md",
+    "lifepaths/VillageHero.md",
+    "lifepaths/UntestedThief.md",
+    "lifepaths/LocalPerformer.md",
+    "templates/LifepathTemplate.md",
+    "lifepaths/StudentOfTheDarkArts.md",
+    "lifepaths/SelfTaughtMage.md",
+    "lifepaths/AcolyteOfTheOldGods.md",
+    "Sigils.md",
+    "TierZeroSpells.md",
     "snippets/clean-embeds.css",
     "snippets",
     "lifepaths/lu92168me1lk.tmp",
@@ -293,15 +338,15 @@
     "lifepaths/lu92168me1jw.tmp",
     "lifepaths/lu92168me1ip.tmp",
     "misc/lu92168me1hd.tmp",
-    "images/runes/Person.png",
-    "images/runes/Void.png",
-    "images/runes/Water.png",
-    "images/runes/Venom.png",
-    "images/runes/Truth.png",
-    "images/runes/Time.png",
-    "images/runes/Thought.png",
-    "images/runes/Spirit.png",
-    "images/runes/Shadow.png",
-    "images/runes/Plant.png"
+    "images/sigils/Person.png",
+    "images/sigils/Void.png",
+    "images/sigils/Water.png",
+    "images/sigils/Venom.png",
+    "images/sigils/Truth.png",
+    "images/sigils/Time.png",
+    "images/sigils/Thought.png",
+    "images/sigils/Spirit.png",
+    "images/sigils/Shadow.png",
+    "images/sigils/Plant.png"
   ]
 }

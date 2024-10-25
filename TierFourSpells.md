@@ -35,7 +35,7 @@ Wrath
 
 ## Arcane Eye
 - **Tier:** 4 (12+)
-- **Runes:** Truth
+- **Sigils:** Truth
 - **Casting Ability:** Wisdom
 - **Casting Time:** 10 minutes
 - **Range:** Near
@@ -56,7 +56,7 @@ By this spell, the wizard conjures an invisible "eye" through which they can see
 
 ## Confusion
 - **Tier:** 4 (12+)
-- **Runes:** Thought or Chaos
+- **Sigils** Thought or Chaos
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -86,7 +86,7 @@ Each affected creature must roll on the following table at the start of each of 
 
 ## Create Food & Water
 - **Tier:** 4 (12+)
-- **Runes:** Beast & Plant
+- **Sigils** Beast & Plant
 - **Casting Ability:** Wisdom
 - **Casting Time:** 10 minutes
 - **Range:** Close
@@ -106,7 +106,7 @@ This spell creates a 1 day supply of food & water for 6 medium-sized people.  Th
 
 ## Divination
 - **Tier:** 4 (12+)
-- **Runes:** Time & Truth
+- **Sigils** Time & Truth
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 hour
 - **Range:** Self
@@ -129,7 +129,7 @@ Each time this spell is cast within a 24-hour period increases the casting diffi
 
 ## {name}
 - **Tier:** 4 (12+)
-- **Runes:** {runes}
+- **Sigils** {runes}
 - **Casting Ability:** {ability}
 - **Casting Time:** {time}
 - **Range:** {range}

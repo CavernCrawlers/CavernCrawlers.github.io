@@ -19,7 +19,7 @@ You are nimble and hardy, but also sometimes too blunt and crass. Your Dexterity
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You studied the tricks and traps that defended the old clan holds. You become a level 1 [Figher-Rogue](Fighrer-Rogue.md). You gain the class abilities _Fortune's Favor_ and _Rogue Skills_. The tables below will give you all your [Knacks](Fighter-Rogue.md#fighter-rogue-knacks) and [Traits](Traits.md).
+You studied the tricks and traps that defended the old clan holds. You become a level 1 [Fighter-Rogue](Fighter-Rogue.md). You gain the class abilities _Fortune's Favor_ and _Rogue Skills_. The tables below will give you all your [Knacks](Fighter-Rogue.md#fighter-rogue%20knacks) and [Traits](Traits.md).
 
 ### What have you learned on your adventures so far?    
 | d6 | Your first delve into an ancient hold went awry.&nbsp; How did you escape?                                        | Ability | Trait         | Background      |
@@ -132,7 +132,7 @@ You studied the tricks and traps that defended the old clan holds. You become a 
 		<td align="center">2</td>
 		<td>A finely crafted dwarven knife.</td>
 		<td align="center">+2 CHA</td>
-		<td align="left">a rune-carved dagger</td>
+		<td align="left">a sigil-carved dagger</td>
 	</tr>
 	<tr>
 		<td align="center">3</td>
@@ -165,15 +165,15 @@ You studied the tricks and traps that defended the old clan holds. You become a 
 1. Record your name, background, class and level.
 2. Pick your background form those that have become available during your Lifepath.
 3. Record your species and the [features](Dwarf.md#features) that come from it.
-4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
+4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. Jot down your class abilities, knack, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Dwarven Explorer begins with the following equipment: your background trappings, a backpack, dark clothing, a sack, 10 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, a tinderbox, lockpicks, 50ft of rope, leather armor, 1 light weapon, 1 medium weapon and 4d6 silver.  You also have the equipment rolled in the tables above.
 6. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is illiterate unless you spend a language choice on literacy or are a spellcaster.
 7. Your Base Attack Bonus comes from your class. As a level 1 Fighter-Rogue, you have a BAB of +1.
 8. Your Skill bonus comes from your class.  As a level 1 Fighter-Rogue, you have a SB of +1.
 9. Your Initiative Bonus is equal your Dexterity bonus plus 1 for being a Fighter-Fighter.
 10. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-11. As a Dwarf Fighter-Rogue, your Base and Max Fortune Points are both 2.
+11. As a Dwarf Fighter-Rogue, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
 12. Your starting Hit Points equal to 7 plus your Constitution Modifier plus 1 for being a Dwarf.
-13. Fill in your [Saving Throws](Fighter-Rogue.md#fighter-rogue-saving-throws) using the chart in the Fighter-Rogue document.  Remember to add +2 to your Hardiness save for being a dwarf.
+13. Fill in your [Saving Throws](Fighter-Rogue.md#fighter%20rogue%20saving%20throws) using the chart in the Fighter-Rogue document.  Remember to add +2 to your Hardiness save for being a dwarf.
 14. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
 

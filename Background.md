@@ -245,7 +245,7 @@ You shaped stone for roads and buildings.
 You wandered place-to-place, doing odd jobs or begging.
 - **Trappings:** Club, Begging Bowl, 1d6sp, a contact in the local "beggar's guild".
 
-### Wizard’s Apprentice
+### Wizard's Apprentice
 You spent time learning the greater mysteries of magic.
 - **Trappings:** Staff, Book of Magical Lore, 2d6sp
 

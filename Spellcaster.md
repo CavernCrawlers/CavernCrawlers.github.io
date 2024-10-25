@@ -23,7 +23,7 @@
 
 ## Equipment
 - a Mage's Pack or Explorer's Pack
-- 1 + Charisma Modifier (minimum 1) Runes
+- 4 Sigils
 - 4d6sp
 
 ## Class Abilities
@@ -37,7 +37,7 @@ As a spellcaster, you have a number of invocation dice as indicated on the table
 ### Magical Focus
 As part of your apprenticeship, you created a unique magical focus to aid in your spellcasting.  This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held.  It also takes up 1 inventory slot.  So long as you have your Magical Focus in hand when casting a spell, you may reroll a number of invocation dice equal to 1/3 your Skill Bonus (rounded up).  A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 50sp worth of materials.
 
-Spellcasters also frequently inscribe runes that they know into their spellcasting focus so that they are immediately on-hand when casting spells.
+Spellcasters also frequently inscribe sigils that they know into their spellcasting focus so that they are immediately on-hand when casting spells.
 
 ### Spellcasting
 You can harness the power of magic.  A mage begins their career knowing two cantrips and two **Rank 1** spells.  You may not cast a spell of a Tier higher than shown in the table below.

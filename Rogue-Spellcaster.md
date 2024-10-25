@@ -26,7 +26,7 @@ cssclass: clean-embeds
 
 ## Equipment
 - a Rogue's Pack, a Mage's Pack or an Explorer's Pack
-- Charisma Modifier (minimum 1) Runes
+- 2 Sigils
 - 4d6sp
 
 ## Class Abilities

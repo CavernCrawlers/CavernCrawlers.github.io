@@ -1,3 +1,5 @@
+Predict Weather
+
 # Cantrips
 Cantrips are also known as Tier 0 Spells.
 - [Beast Speech](#Beast%20Speech)
@@ -12,7 +14,7 @@ Cantrips are also known as Tier 0 Spells.
 - [Mage Hand](#Mage%20Hand)
 - [Mage Light](#Mage%20Light)
 - [Mend](#Mend)
-- [Nature’s Blessing](#Nature%E2%80%99s%20Blessing)
+- [Nature's Blessing](#Nature's%20Blessing)
 - [Open](#Open)
 - [Plant Speech](#Plant%20Speech)
 - [Prestidigitation](#Prestidigitation)
@@ -25,7 +27,7 @@ Cantrips are also known as Tier 0 Spells.
 
 ## Beast Speech
 - **Tier:** Cantrip (0+)
-- **Runes:** Beast
+- **Sigils** Beast
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Personal
@@ -45,7 +47,7 @@ Each time a mage learns this cantrip, they must pick a particular type of beast 
 
 ## Beguilement
 - **Tier:** Cantrip (0+)
-- **Runes:** A form rune matching the type of the target creature.
+- **Sigils** A form sigil matching the type of the target creature.
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -65,7 +67,7 @@ A mage uses this spell to influence the emotions and attitudes of the target cre
 
 ## Conjure Shadow
 - **Tier:** Cantrip (0+)
-- **Runes:** Shadow
+- **Sigils** Shadow
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -85,7 +87,7 @@ This cantrip creates a tiny area of dim lighting for the duration.
 
 ## Conjure Sound
 - **Tier:** Cantrip (0+)
-- **Runes:** Air or Illusion
+- **Sigils** Air or Illusion
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -105,7 +107,7 @@ With this cantrip, a mage conjures a distinct sound within range that is no loud
 
 ## Flare
 - **Tier:** Cantrip (0+)
-- **Runes:** Light or Fire
+- **Sigils** Light or Fire
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -125,7 +127,7 @@ The mage conjures a flash of light & heat directly in front of the eyes of the t
 
 ## Glamour
 - **Tier:** Cantrip (0+)
-- **Runes:** Light or Illusion
+- **Sigils** Light or Illusion
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -145,7 +147,7 @@ This allows the mage to conjure a simple, silent and static illusion of roughly 
 
 ## Hexing
 - **Tier:** Cantrip (0+)
-- **Runes:** A form rune matching the target creature type.
+- **Sigils** A form sigil matching the target creature type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -163,11 +165,11 @@ By uttering this minor curse, the mage causes the targeted creature to have -2 o
 | +1         | Increase the saving throw difficulty by +1 |
 | +2         | Increase the duration 1 step. |
 | +2         | Increase the range 1 step |
-| +2         | Increase the number of affected creatures by 1 (may require additional runes for different creature types) |
+| +2         | Increase the number of affected creatures by 1 (may require additional sigils for different creature types) |
 
 ## Inspire
 - **Tier:** Cantrip (0+)
-- **Runes:** A form rune matching the target creature type.
+- **Sigils** A form sigil matching the target creature type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -185,11 +187,11 @@ With a touch, words of encouragement and a small investment of magic, a mage can
 | +1         | Increase the saving throw difficulty by +1 |
 | +2         | Increase the duration 1 step. |
 | +2         | Increase the range 1 step |
-| +2         | Increase the number of affected creatures by 1 (may require additional runes for different creature types) |
+| +2         | Increase the number of affected creatures by 1 (may require additional sigils for different creature types) |
 
 ## Knot
 - **Tier:** Cantrip (0+)
-- **Runes:** a form or elemental rune matching the target type
+- **Sigils** a form or elemental sigil matching the target type
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -200,16 +202,18 @@ With a touch, words of encouragement and a small investment of magic, a mage can
 
 This spell will tightly knot or tangle a rope, string or similar non-living object touched by the caster.
 
+This spell may be reversed to remove a single knot.
+
 *Upcasting*
 
 | Difficulty | Effect |
 |:----------:|:-------|
 | +2         | Increase the range 1 step (to a max of Near) |
-| +2         | Increase the number of affected objects by 1 (may require additional runes for different object types) |
+| +2         | Increase the number of affected objects by 1 (may require additional sigils for different object types) |
 
 ## Mage Hand
 - **Tier:** Cantrip (0+)
-- **Runes:** Air or Spirit
+- **Sigils** Air or Spirit
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -231,7 +235,7 @@ This cantrip conjures a translucent hand that the mage may use to manipulate sma
 
 ## Mage Light
 - **Tier:** Cantrip (0+)
-- **Runes:** Light
+- **Sigils** Light
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -251,7 +255,7 @@ By means of this cantrip, a mage causes a touched object no larger than a fist t
 
 ## Mend
 - **Tier:** 0 (cantrip)
-- **Runes:** A form or elemental rune matching the target type.
+- **Sigils** A form or elemental sigil matching the target type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 Action
 - **Range:** Touch
@@ -260,11 +264,11 @@ By means of this cantrip, a mage causes a touched object no larger than a fist t
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-By means of this spell, the mage uses the power of a rune to heal or mend a given object.  The rune selected when casting this spell must match the target type (Person for healing a sapient being, Beast to heal an animal, Earth to mend a stone wall, etc).
+By means of this spell, the mage uses the power of a sigil to heal or mend a given object.  The sigil selected when casting this spell must match the target type (Person for healing a sapient being, Beast to heal an animal, Earth to mend a stone wall, etc).
 
 If used to heal a living being, this spell will heal the target's CON modifier (minimum 1) in HP.
 
-If used on an inanimate object, 1 Tiny area of material will be made whole.  This area may be increased by 1 category per +1 rank.  Thus, to mend a cut hemp rope, the mage would apply the Plant rune at rank zero.  To mend a 10 x 10 x 5 foot section of castle wall (500 cubic feet) would require casting the spell at Rank 3 (for a Large area of effect).
+If used on an inanimate object, 1 Tiny area of material will be made whole.  This area may be increased by 1 category per +1 rank.  Thus, to mend a cut hemp rope, the mage would apply the Plant sigil at rank zero.  To mend a 10 x 10 x 5 foot section of castle wall (500 cubic feet) would require casting the spell at Rank 3 (for a Large area of effect).
 
 *Upcasting*
 
@@ -275,9 +279,9 @@ If used on an inanimate object, 1 Tiny area of material will be made whole.  Thi
 | +2         | Increase the area of an inanimate object 1 step |
 | +2         | Increase the number of targets by 1 |
 
-## Nature’s Blessing
+## Nature's Blessing
 - **Tier:** Cantrip (0+)
-- **Runes:** Plant
+- **Sigils** Plant
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -290,7 +294,7 @@ By this spell, a mage may cause any cutting or seed to root and any plant to blo
 
 ## Open
 - **Tier:** Cantrip (0+)
-- **Runes:** Air
+- **Sigils** Air
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -312,7 +316,7 @@ This spell may be reversed to close objects and secure them against forced entry
 
 ## Plant Speech
 - **Tier:** Cantrip (0+)
-- **Runes:** Plant
+- **Sigils** Plant
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Personal
@@ -325,7 +329,7 @@ This cantrip allows the caster to speak with plants of all varieties.  Unfortuna
 
 ## Prestidigitation
 - **Tier:** Cantrip (0+)
-- **Runes:** varies
+- **Sigils** varies
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Close
@@ -334,7 +338,7 @@ This cantrip allows the caster to speak with plants of all varieties.  Unfortuna
 - **Save:** none
 - **Components:** Gestures
 
-This cantrip allows the caster to perform a minor magical trick.  Any one of the following examples may be performed within range and with the listed Rune.
+This cantrip allows the caster to perform a minor magical trick.  Any one of the following examples may be performed within range and with the listed sigil.
 - *Earth:* Instantly soil a **Tiny** amount of non-living material.
 - *Fire:* Instantly light or snuff a candle, taper or similar small, easily flammable object.
 - *Fire:* Warm up a **Tiny** amount of non-living material for 1 hour.
@@ -344,9 +348,9 @@ This cantrip allows the caster to perform a minor magical trick.  Any one of the
 - *Light:* Inscribe a small, glowing mark on a non-living object or surface for 1 hour.
 - *Plant:* Spice up a **Tiny** amount of non-living material for 1 hour.
 - *Water:* Instantly clean up a **Tiny** amount of non-living material.
-- Other effects (likely requiring different runes) may be possible with GM permission.
+- Other effects (likely requiring different sigils) may be possible with GM permission.
 
-Multiple effects (up to 3) may be manifested at the same time if the caster has the needed runes.  Alternatively, the same effect may be manifested up to 3 times.
+Multiple effects (up to 3) may be manifested at the same time if the caster has the needed sigils.  Alternatively, the same effect may be manifested up to 3 times.
 
 *Upcasting*
 
@@ -357,16 +361,16 @@ Multiple effects (up to 3) may be manifested at the same time if the caster has 
 
 ## Repel Insects
 - **Tier:** Cantrip (0+)
-- **Runes:** Beast
-- **Casting Ability:** Intelligence
+- **Sigils** Beast
+- **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
-- **Range:** Self
-- **Area:** Personal
+- **Range:** Personal
+- **Area:** Self
 - **Duration:** 1 hour
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-This spell drives away insects and similar small vermin no larger than a mouse.  For the duration of this spell, such creatures will not approach nearer than Close to the caster.
+This spell drives away natural insects and similar small vermin no larger than a mouse.  For the duration of this spell, such creatures will not approach nearer than Close to the caster.
 
 *Upcasting*
 
@@ -377,11 +381,11 @@ This spell drives away insects and similar small vermin no larger than a mouse. 
 
 ## Repel Rain
 - **Tier:** Cantrip (0+)
-- **Runes:** Water
+- **Sigils** Water
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
-- **Range:** Self
-- **Area:** Personal
+- **Range:** Personal
+- **Area:** self
 - **Duration:** 1 hour
 - **Save:** none
 - **Components:** Gestures & Incantations
@@ -397,7 +401,7 @@ This spell acts as a barrier to rain, snow, sleet and similar weather effects; k
 
 ## Spark
 - **Tier:** Cantrip (0+)
-- **Runes:** any elemental rune
+- **Sigils** any elemental sigil
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -406,7 +410,7 @@ This spell acts as a barrier to rain, snow, sleet and similar weather effects; k
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-By means of this spell, the caster uses the power of a rune to conjure a small amount of a single element (approximately 1 cubic inch).  At it's minimum, this spell does negligible damage, but can produce utilitarian effects (such as using the Fire rune to ignite a torch).  Alternatively, the mage may use this as an attack (requiring a [Magical Attack](MagicalArts.md#Magical%20Attacks%20and%20Saving%20Throws) vs an unwilling target), doing 1d4 damage of the selected type.
+By means of this spell, the caster uses the power of a sigil to conjure a small amount of a single element (approximately 1 cubic inch).  At it's minimum, this spell does negligible damage, but can produce utilitarian effects (such as using the Fire sigil to ignite a torch).  Alternatively, the mage may use this as an attack (requiring a [Magical Attack](MagicalArts.md#Magical%20Attacks%20and%20Saving%20Throws) vs an unwilling target), doing 1d4 damage of the selected type.
 
 *Upcasting*
 
@@ -418,7 +422,7 @@ By means of this spell, the caster uses the power of a rune to conjure a small a
 
 ## Spirit Sight
 - **Tier:** Cantrip (0+)
-- **Runes:** Spirit
+- **Sigils** Spirit
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Personal
@@ -431,7 +435,7 @@ This cantrip allows the caster to see spirits of any type.  This does not grant 
 
 ## Unknot
 - **Tier:** Cantrip (0+)
-- **Runes:** a form or elemental rune matching the target type
+- **Sigils** a form or elemental sigil matching the target type
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -447,4 +451,4 @@ This spell will untie or untangle a rope, string or similar non-living object to
 | Difficulty | Effect |
 |:----------:|:-------|
 | +2         | Increase the range 1 step (to a max of Near) |
-| +2         | Increase the number of affected objects by 1 (may require additional runes for different object types) |
+| +2         | Increase the number of affected objects by 1 (may require additional sigils for different object types) |
