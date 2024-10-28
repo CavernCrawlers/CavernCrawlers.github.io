@@ -72,43 +72,43 @@ You joined the village watch. You become a level 1 [Fighter](Fighter.md). You ga
 		<td align="center"><b>d6</b></td>
 		<td><b>Who was the first person you saved?</b></td>
 		<td align="center"><b>Ability</b></td>
-		<td><b>Trait</b></td>
+		<td><b>Background</b></td>
 	</tr>
 	<tr>
 		<td align="center">1</td>
 		<td>You rescued the miller’s {child} when the river rose unexpectedly.</td>
 		<td align="center">+2 CON</td>
-		<td>Stout</td>
+		<td>Fisher (sailor)</td>
 	</tr>
 	<tr>
 		<td align="center">2</td>
 		<td>When a fire started in the back of the inn, you rescued the cook and helped douse the blaze.</td>
 		<td align="center">+2 WIS</td>
-		<td>Great Bravery</td>
+		<td>Laborer</td>
 	</tr>
 	<tr>
 		<td align="center">3</td>
 		<td>One of the fishers was being swindled by a trader, but you exposed the cheat.</td>
 		<td align="center">+2 INT</td>
-		<td>Alert</td>
+		<td>Merchant</td>
 	</tr>
 	<tr>
 		<td align="center">4</td>
 		<td>When {Grandmother/Grandfather} Weaver was lost on the downs, you organized the village and found {her/him}.</td>
 		<td align="center">+2 CHA</td>
-		<td>Great Leader</td>
+		<td>Forester</td>
 	</tr>
 	<tr>
 		<td align="center">5</td>
 		<td>You saved one of the village elders from a group of bandits on the road outside of town.</td>
 		<td align="center">+2 STR</td>
-		<td>Alert</td>
+		<td>Scout</td>
 	</tr>
 	<tr>
 		<td align="center">6</td>
 		<td>When the smith’s cousin wandered into the barrow downs, you were barely able to pull him from a wight’s grasp.</td>
 		<td align="center">+2 DEX</td>
-		<td>Ghost-Touched</td>
+		<td>Forester</td>
 	</tr>
 </table>
 
@@ -117,38 +117,45 @@ You joined the village watch. You become a level 1 [Fighter](Fighter.md). You ga
 		<td align="center"><b>d6</b></td>
 		<td><b>What happened the last time the village was seriously threatened?<br/><i>Your friend was there with you.</i></b></td>
 		<td align="center"><b>Ability</b></td>
+		<td><b>Trait</b></td>
 	</tr>
 	<tr>
 		<td align="center">1</td>
 		<td>Vicious raiders were trying to rob the village of its grain.<br/><i>Your friend waited all night with you in the granary, and gains +1 WIS.</i></td>
 		<td align="center">+2 WIS</td>
+		<td>Alert</td>
 	</tr>
 	<tr>
 		<td align="center">2</td>
 		<td>A group of brigands set themselves up in the inn and began to call it their new castle.<br/><i>Your friend helped gather the band of villagers that threw them into the river, and so gains +1 CHA.</i></td>
 		<td align="center">+2 CHA</td>
+		<td>Unarmed Combat</td>
 	</tr>
 	<tr>
 		<td align="center">3</td>
 		<td>When goblins began crawling out of the well, most thought the village was lost.<br/><i>Your friend climbed down with you and held the lantern, and gains +1 STR.</i></td>
 		<td align="center">+2 STR</td>
+		<td>Cat's Eyes</td>
 	</tr>
 	<tr>
 		<td align="center">4</td>
 		<td>One of the shepherds turned to murder, but no one could name the culprit.<br/><i>Your friend helped find the murder weapon and stop him before he killed again, and gains +1 INT.</i></td>
 		<td align="center">+2 INT</td>
+		<td>Alert</td>
 	</tr>
 	<tr>
 		<td align="center">5</td>
 		<td>When the war came to town, it was left to you to organize the village and hold the bridge.<br/><i>Your friend stood by your side at the front of the levy, and gains +1 CON.</i></td>
 		<td align="center">+2 CON</td>
+		<td>Great Leader</td>
 	</tr>
 	<tr>
 		<td align="center">6</td>
 		<td>A marauding monstrosity crawled its way into the village and began attacking your neighbors.<br/><i>Your friend held back the beast while you struck it down, and gains +1 STR.</i></td>
 		<td align="center">+2 STR</td>
+		<td>Great Bravery</td>
 	</tr>
-	<tr><td colspan=3><b>Please add the location where this took place to the Village map.</b></td></tr>
+	<tr><td colspan=4><b>Please add the location where this took place to the Village map.</b></td></tr>
 </table>
 
 <table>

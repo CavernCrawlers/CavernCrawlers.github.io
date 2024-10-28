@@ -247,7 +247,7 @@ You wandered place-to-place, doing odd jobs or begging.
 
 ### Wizard's Apprentice
 You spent time learning the greater mysteries of magic.
-- **Trappings:** Staff, Book of Magical Lore, 2d6sp
+- **Trappings:** Magical Focus, Book of Magical Lore, 2d6sp
 
 ### Woodcutter
 You search the forests for quality trees for building or burning into charcoal.

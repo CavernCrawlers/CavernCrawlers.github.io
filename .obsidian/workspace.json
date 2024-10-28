@@ -23,73 +23,13 @@
             }
           },
           {
-            "id": "c31c15071bd006f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lifepaths/Birthright.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Birthright"
-            }
-          },
-          {
-            "id": "431c452c7c55375a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lifepaths/ChildhoodDistinction.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "ChildhoodDistinction"
-            }
-          },
-          {
-            "id": "606c67bf14de8987",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lifepaths/LeavingHomeland.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "LeavingHomeland"
-            }
-          },
-          {
-            "id": "0cc12b6d408b62b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lifepaths/VillageFriend.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "VillageFriend"
-            }
-          },
-          {
             "id": "813522712454e896",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Traits.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
@@ -118,32 +58,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rogue.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Rogue"
-            }
-          },
-          {
-            "id": "cd8b3d67d90e2268",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lifepaths/BarbarianNamer.md",
+                "file": "Fighter-Spellcaster.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "BarbarianNamer"
+              "title": "Fighter-Spellcaster"
+            }
+          },
+          {
+            "id": "2a6f41e0015ad0cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lifepaths/OrcHunter.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "OrcHunter"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -300,34 +240,35 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "cd8b3d67d90e2268",
+  "active": "2a6f41e0015ad0cd",
   "lastOpenFiles": [
-    "Background.md",
-    "lifepaths/BarbarianNamer.md",
-    "lifepaths/OrcDrummer.md",
-    "lifepaths/OrcBerserker.md",
-    "lifepaths/OrcHunter.md",
-    "lifepaths/GoblinMerchant.md",
-    "lifepaths/GoblinShaman.md",
-    "lifepaths/GoblinSkirmisher.md",
-    "lifepaths/YoungForester.md",
     "EncumbranceAndEquipment.md",
-    "Rogue.md",
-    "Traits.md",
+    "lifepaths/OrcHunter.md",
+    "lifepaths/OrcBerserker.md",
+    "Fighter-Spellcaster.md",
+    "Background.md",
+    "lifepaths/LostBarbarian.md",
+    "lifepaths/OrcDrummer.md",
     "Fighter.md",
-    "lifepaths/WouldBeKnight.md",
-    "Spellcaster.md",
-    "lifepaths/WitchsApprentice.md",
-    "lifepaths/VirtuousBandit.md",
-    "lifepaths/VillageHero.md",
-    "lifepaths/UntestedThief.md",
-    "lifepaths/LocalPerformer.md",
-    "templates/LifepathTemplate.md",
-    "lifepaths/StudentOfTheDarkArts.md",
-    "lifepaths/SelfTaughtMage.md",
+    "AllegiancesAndMorality.md",
+    "lifepaths/VillageFriend.md",
+    "lifepaths/BarbarianNamer.md",
+    "lifepaths/DwarvenAdventurer.md",
+    "Traits.md",
+    "lifepaths/NewWatchman.md",
+    "CoreRules.md",
+    "lifepaths/LeavingHomeland.md",
+    "lifepaths/Birthright.md",
+    "lifepaths/ChildhoodDistinction.md",
+    "Fighter-Rogue.md",
     "lifepaths/AcolyteOfTheOldGods.md",
-    "Sigils.md",
-    "TierZeroSpells.md",
+    "lifepaths/GoblinRatTamer.md",
+    "lifepaths/GoblinBountyHunter.md",
+    "Rogue.md",
+    "lifepaths/GoblinMerchant.md",
+    "lifepaths/GiftedDilettante.md",
+    "Goblin.md",
+    "misc/lu724365evcn2.tmp",
     "snippets/clean-embeds.css",
     "snippets",
     "lifepaths/lu92168me1lk.tmp",
@@ -337,7 +278,6 @@
     "misc/lu92168me1kx.tmp",
     "lifepaths/lu92168me1jw.tmp",
     "lifepaths/lu92168me1ip.tmp",
-    "misc/lu92168me1hd.tmp",
     "images/sigils/Person.png",
     "images/sigils/Void.png",
     "images/sigils/Water.png",

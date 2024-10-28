@@ -92,7 +92,7 @@ Unless specified otherwise, each knack may only be taken once.
 
 **Intelligent Defense**: You are good at recognizing danger and knowing how best to avoid it. Add your **Intelligence Bonus** to your AC so long as you are not wearing medium or heavy armor.  Cannot be combined with **Distracting Defense**.
 
-**Light Footed**: Gain +10 ft movement and move at full speed with no penalty to stealth so long as you are not wearing medium or heavy armor.
+**Light Footed**: Gain +10ft movement and move at full speed with no penalty to stealth so long as you are not wearing medium or heavy armor.
 
 **Master of Disguise**: Other characters have **Disadvantage** on checks to see through your disguise and you have **Advantage** on checks to see through someone else’s disguise.
 

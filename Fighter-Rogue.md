@@ -30,7 +30,7 @@ cssclass: clean-embeds
 ## Class Abilities
 
 ### Fortune's Favor
-![Fortune's Favor](Rogue.md#fortune's%20favor)
+You have greater luck than other characters. You gain +1 to both your Base and Max Fortune Points.
 
 ### Rogue Skills
 ![Rogue Skills](Rogue.md#rogue%20skills)

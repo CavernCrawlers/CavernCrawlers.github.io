@@ -230,17 +230,18 @@ The witch chose you to be {her/his} apprentice and you began your training. You 
 1. Record your name, class and level.
 2. Record your species and whatever [features](Human.md) you gain from it.
 3. Select a background from those made available from your Lifepath, above.
-4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
-5. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Witch's Apprentice begins with the following equipment: your background trappings, a backpack, simple clothing, a spellbook, many pouches, a magical focus, a light weapon and 4d6sp.  You also have any items gained from your Lifepath.
-6. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
-7. Write down your starting [cantrips](TierZeroSpells.md).
-8. Write down your starting [spells](TierONeSpells.md).
-9. Write down your starting [sigils](sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
-10. Your Base Attack Bonus comes from your class. As a level 1 Spellcaster, you have a BAB of +0.
-11. Your Skill bonus comes from your class.  As a level 1 Spellcaster, you have a SB of +1.
-12. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a Spellcaster.
-13. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-14. As a Human Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
-15. Your starting Hit Points equal to 4 plus your Constitution Modifier.
-16. Fill in your [Saving Throws](Spellcaster.md#spellcaster%20saving%20throws) using the chart in the Spellcaster document.
-17. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
+4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
+5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
+6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Witch's Apprentice begins with the following equipment: your background trappings, a backpack, simple clothing, a spellbook, many pouches, a magical focus, a light weapon and 4d6sp.  You also have any items gained from your Lifepath.
+7. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
+8. Write down your starting [cantrips](TierZeroSpells.md).
+9. Write down your starting [spells](TierONeSpells.md).
+10. Write down your starting [sigils](sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
+11. Your Base Attack Bonus comes from your class. As a level 1 Spellcaster, you have a BAB of +0.
+12. Your Skill bonus comes from your class.  As a level 1 Spellcaster, you have a SB of +1.
+13. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a Spellcaster.
+14. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
+15. As a Human Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
+16. Your starting Hit Points equal to 4 plus your Constitution Modifier.
+17. Fill in your [Saving Throws](Spellcaster.md#spellcaster%20saving%20throws) using the chart in the Spellcaster document.
+18. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

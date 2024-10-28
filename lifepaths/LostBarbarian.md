@@ -21,7 +21,7 @@ Pick one of the campaign threats and roll on the related Character History Table
 ## Apprenticeship
 Raised in the wilds, you nevertheless made a place for yourself in the village. You become a level 1 Fighter-Rogue. You gain the class abilities _Fortune's Favor_ and _Rogue Skills_. The tables below will give you all your [Knacks](Fighter-Rogue.md#fighter-rogue%20knacks) and [Traits](Traits.md).
 
-### What will you do now that it is time to come out of hiding?
+### What have you learned?
 <table>
 	<tr>
 		<td align="center"><b>d6</b></td>

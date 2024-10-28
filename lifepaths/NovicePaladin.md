@@ -221,17 +221,18 @@ You began the path to becoming a holy knight.  You become a level 1 [Fighter-Spe
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
 3. Record your species and the [features](Human.md#features) that come from it.
-4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
-5. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Novice Paladin begins with the following equipment: your background trappings, a backpack, fine clothing, a tinderbox, tools for arms and armor maintenance, a light weapon, scale mail, either 2 weapons or a weapon and shield, your holy symbol (magical focus) and no money.
-6. Write down your starting [cantrips](TierZeroSpells.md).
-7. Write down your starting [sigils](sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
-8. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
-9. Your Base Attack Bonus comes from your class. As a level 1 Fighter-Spellcaster, you have a BAB of +1.
-10. Your Skill bonus comes from your class.  As a level 1 Fighter-Spellcaster, you have a SB of +1.
-11. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a Fighter-Spellcaster.
-12. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-13. As a Human Fighter-Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
-14. Your starting Hit Points equal to 6 plus your Constitution Modifier.
-15. Fill in your [Saving Throws](Fighter-Spellcaster.md#fighter-spellcaster%20saving%20throws) using the chart in the Fighter-Spellcaster document.
-16. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
+4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
+5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
+6. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Novice Paladin begins with the following equipment: your background trappings, a backpack, fine clothing, a tinderbox, tools for arms and armor maintenance, a light weapon, scale mail, either 2 weapons or a weapon and shield, your holy symbol (magical focus) and no money.
+7. Write down your starting [cantrips](TierZeroSpells.md).
+8. Write down your starting [sigils](sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
+9. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
+10. Your Base Attack Bonus comes from your class. As a level 1 Fighter-Spellcaster, you have a BAB of +1.
+11. Your Skill bonus comes from your class.  As a level 1 Fighter-Spellcaster, you have a SB of +1.
+12. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a Fighter-Spellcaster.
+13. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
+14. As a Human Fighter-Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
+15. Your starting Hit Points equal to 6 plus your Constitution Modifier.
+16. Fill in your [Saving Throws](Fighter-Spellcaster.md#fighter-spellcaster%20saving%20throws) using the chart in the Fighter-Spellcaster document.
+17. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
 

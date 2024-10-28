@@ -52,7 +52,7 @@ Unless otherwise noted, each trait may only be taken once.
 	- [Knife Fighting](#Knife%20Fighting)
 	- [Mage Slayer](#Mage%20Slayer)
 	- [Off-Hand Proficiency](#Off-Hand%20Proficiency)
-	- [Panther’s Grace](#Panther%E2%80%99s%20Grace)
+	- [Panther's Grace](#Panther's%20Grace)
 	- [Unarmed Combat](#Unarmed%20Combat)
 - [Spellcasting Traits](#Spellcasting%20Traits)
 	- [Familiar](#Familiar)
@@ -68,6 +68,7 @@ Unless otherwise noted, each trait may only be taken once.
 	- [Words of Power](#Words%20of%20Power)
 - [Supernatural Traits](#Supernatural%20Traits)
 	- [{Beast} Speech](#%7BBeast%7D%20Speech)
+	- [Cat's Eyes](#Cat's%20Eyes)
 	- [Child of the {Terrain}](#Child%20of%20the%20%7BTerrain%7D)
 	- [{Elemental} Caller](#%7BElemental%7D%20Caller)
 	- [Fae Touched](#Fae%20Touched)
@@ -221,7 +222,7 @@ If a creature within melee reach casts a spell, your character may use their rea
 ### Off-Hand Proficiency
 Your character may wield a medium one-handed weapon in her off-hand at the same time as she wields a medium one-handed weapon in her primary hand.  While doing so she gains a +1 bonus to both AC and to hit and may attack with either weapon.  See Fighting with Two Weapons for the normal rules.
 
-### Panther’s Grace 
+### Panther's Grace 
 When unarmored, your character receives a +3 bonus to AC. He may still bear a shield or wear magical trinkets or jewelry and gain the benefits of this Trait.
 
 ### Unarmed Combat
@@ -274,6 +275,9 @@ These are supernatural abilties that may be gained without the ability to use **
 
 ### {Beast} Speech
 Whether because of heritage, a mystical pact, or an unknown gift, your character has a great affinity with the named type of animal. She may speak with them, has a rough sense of when they are nearby, and gains **Advantage** on any **D20 Checks** involving them.  This trait may be taken multiple times, applying to a different animal type each time.
+
+### Cat's Eyes
+You gain the [Low-Light Vision](CoreRules.md#low-light%20vision) trait if you do not already have it.  If you do, you gain the [Darkvision](CoreRules.md#darkvision) trait.  If you already have Darkvision, this trait does nothing for you.
 
 ### Child of the {Terrain}
 Pick a terrain type (such as forest, desert, ocean, mountain, etc).  Your character can never become lost in this terrain except by magical means.  Additionally, sometimes the spirits of the land in this terrain whisper to her and she gains **Advantage** on any **Charisma Check** to interact with such spirits.  This trait may be taken multiple times, applying to a different terrain type each time.
