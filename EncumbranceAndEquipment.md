@@ -317,7 +317,7 @@ For convenience the following equipment packs exist as pre-build packages at a d
 | Pack            |  Cost | Contents | 
 |:----------------|------:|:---------|
 | Explorer's Pack |  50sp | backpack, practical clothes, heavy cloak, bedroll, mess kit, firestarting kit, 10 torches, 1 week’s rations, 50ft rope, leather armor, one light weapon and one medium weapon. |
-| Mage's Pack     | 100sp | backpack, common robes, spellbook, many pouches, a magical focus, and a light weapon. |
+| Mage's Pack     | 100sp | backpack, common robes, spellbook, many pouches, a magical focus, the components for writing 2 Tier 1 Spell Scrolls or brewing 2 Tier 1 Potions, and a light weapon. |
 | Rogue's Pack    |  80sp | backpack, dark clothing, sack, 10 candles, crowbar, hammer, 10 pitons, hooded lantern, 2 flasks of oil, firestarting kit, lockpicks, 50ft rope, leather armor, 1 light weapon and 1 medium weapon. |
 | Warrior's Pack  |  90sp | backpack, common clothing, firestarting kit, tools for arms and armor maintenance, a light weapon and scale mail; plus either 2 weapons or a weapon and shield. |
 

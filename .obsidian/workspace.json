@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Background.md",
+                "file": "Spellcaster.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Background"
+              "title": "Spellcaster"
             }
           },
           {
@@ -53,37 +53,37 @@
             }
           },
           {
-            "id": "1896890bbe29779f",
+            "id": "1c10c7198e760024",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fighter-Spellcaster.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Fighter-Spellcaster"
-            }
-          },
-          {
-            "id": "2a6f41e0015ad0cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lifepaths/OrcHunter.md",
+                "file": "Spells.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "OrcHunter"
+              "title": "Spells"
+            }
+          },
+          {
+            "id": "1896890bbe29779f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TierZeroSpells.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TierZeroSpells"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -240,13 +240,18 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "2a6f41e0015ad0cd",
+  "active": "1c10c7198e760024",
   "lastOpenFiles": [
+    "TierZeroSpells.md",
+    "Spells.md",
+    "Spellcaster.md",
+    "Background.md",
     "EncumbranceAndEquipment.md",
+    "TierTwoSpells.md",
+    "TierFourSpells.md",
     "lifepaths/OrcHunter.md",
     "lifepaths/OrcBerserker.md",
     "Fighter-Spellcaster.md",
-    "Background.md",
     "lifepaths/LostBarbarian.md",
     "lifepaths/OrcDrummer.md",
     "Fighter.md",
@@ -263,11 +268,6 @@
     "Fighter-Rogue.md",
     "lifepaths/AcolyteOfTheOldGods.md",
     "lifepaths/GoblinRatTamer.md",
-    "lifepaths/GoblinBountyHunter.md",
-    "Rogue.md",
-    "lifepaths/GoblinMerchant.md",
-    "lifepaths/GiftedDilettante.md",
-    "Goblin.md",
     "misc/lu724365evcn2.tmp",
     "snippets/clean-embeds.css",
     "snippets",
