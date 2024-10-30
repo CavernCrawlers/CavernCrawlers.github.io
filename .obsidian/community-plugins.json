@@ -11,5 +11,6 @@
   "copy-as-html",
   "obsidian-local-images",
   "simple-image-inserter",
-  "display-relative-path-img"
+  "display-relative-path-img",
+  "markdown-link-space-encoder"
 ]

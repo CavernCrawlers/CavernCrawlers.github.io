@@ -19,7 +19,7 @@ You are wise beyond your years. Your Wisdom begins at 12, and all of your other 
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You felt the gods’ power and it changed your life. You become a level 1 [Spellcaster](Spellcaster.md). You gain the class abilities _Exhausting Magic_, _Invocation Dice_, _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Inspire](TierZeroSpells.md#inspire) cantrip and Person [sigil](Sigils.md). The tables below will tell you your other traits and spells.
+You felt the gods’ power and it changed your life. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Exhausting Magic_, _Invocation Dice_, _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Inspire](TierZeroSpells.md#inspire) cantrip and Humanoid [sigil](Sigils.md). The tables below will tell you your other traits and spells.
 
 ### What else happened to you as you began your life of service?
 
@@ -244,7 +244,7 @@ You felt the gods’ power and it changed your life. You become a level 1 [Spell
 ## Fill out your sheet.
 1. Record your name, class and level.
 2. Select a background from those made available from your Lifepath, above.
-3. Record your species and whatever [features](Human.md) you gain from it.
+3. Record your species and whatever [features](species/Human.md) you gain from it.
 4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
 6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Acolyte of the Old Gods begins with the following equipment: a dagger, a backpack, practical clothes, a prayer/spell book, a holy symbol (your magical focus), a stout walking staff (quarterstaff) and 4d6+10sp
@@ -258,5 +258,5 @@ You felt the gods’ power and it changed your life. You become a level 1 [Spell
 14. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 15. As a Human Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
 16. Your starting Hit Points equal to 4 plus your Constitution Modifier.
-17. Fill in your [Saving Throws](Spellcaster.md#spellcaster%20saving%20throws) using the chart in the Spellcaster document.
+17. Fill in your [Saving Throws](classes/Spellcaster.md#spellcaster%20saving%20throws) using the chart in the Spellcaster document.
 18. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

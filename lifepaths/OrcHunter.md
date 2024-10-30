@@ -20,7 +20,7 @@ You are strong, tough and familiar with the wilds but not considered civilized i
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-Even though you grew up in the wilds, you eventually made a place for yourself in the village. You become a level 1 [Fighter-Rogue](fighter-rogue.md). You gain the class abilities *Fortune's Favor* and *Rogue Skills*.  The tables below will tell you your other abilities.
+Even though you grew up in the wilds, you eventually made a place for yourself in the village. You become a level 1 [Fighter-Rogue](classes/Fighter-Rogue.md). You gain the class abilities *Fortune's Favor* and *Rogue Skills*.  The tables below will tell you your other abilities.
 
 ### What have you learned in your travels?
 <table>
@@ -207,7 +207,7 @@ Even though you grew up in the wilds, you eventually made a place for yourself i
 
 ## Fill out your sheet.
 1. Record your name, class and level.
-2. Record your species and whatever [features](Orc.md) you gain from it.
+2. Record your species and whatever [features](species/Orc.md) you gain from it.
 3. Select a background from those made available from your Lifepath, above.
 4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>Orc Hunter begins with the following equipment: your background trappings, a backpack, animal hide clothes, a fur cloak, a fur bedroll, a firestarting kit, 10 torches, 1 week’s rations, 50ft rope, leather armor, one light weapon, one medium weapon and 4d6sp.  You also have any items gained from your Lifepath.
@@ -218,5 +218,5 @@ Even though you grew up in the wilds, you eventually made a place for yourself i
 10. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 11. As a Orc Fighter-Rogue, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
 12. Your starting Hit Points equal to 7 plus your Constitution Modifier.
-13. Fill in your [Saving Throws](Fighter-Rogue.md#Fighter-Rogue%20saving%20throws) using the chart in the Fighter-Rogue document.
+13. Fill in your [Saving Throws](classes/Fighter-Rogue.md#Fighter-Rogue%20saving%20throws) using the chart in the Fighter-Rogue document.
 14. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

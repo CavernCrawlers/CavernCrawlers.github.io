@@ -2,7 +2,7 @@
 
 It is believed by many that sigils represent the language the gods used in the creation of the cosmos.  This is the reason some believe that magic is solely the provenance of the gods and that mortal casters are committing blasphemy by practicing magic. Regardless of their true nature, it is sigils that empower magic.
 
-[Full spellcasters](Glossary.md#full%20class) begin play knowing 4 sigils.  [Hybrid spellcasters](Glossar.md#hybrid%20class)) begin play with just 2 sigils.  More must be discovered in play.
+[Full spellcasters](Glossary.md#full%20class) begin play knowing 4 sigils.  [Hybrid spellcasters](Glossar.md#hybrid%20class) begin play with just 2 sigils.  More must be discovered in play.
 - [Sigil List](Sigil%20List)
 - [Learning New Sigils](#Learning%20New%20Sigils)
 
@@ -126,10 +126,10 @@ This is not a comprehensive list of every sigil in existence.  These are some th
 		<td align="center" style="background-color: white"><img src="/images/sigils/Illusion.png" alt="air sigil with lines radiating from the flat edges" style="width:25%; height:auto;"></td>
 	</tr>
 	<tr>
-		<td>Person</td>
+		<td>Humanoid</td>
 		<td>Form</td>
 		<td>n/a</td>
-		<td align="center" style="background-color: white"><img src="/images/sigils/Person.png" alt="the thought run inside the beast sigil" style="width:25%; height:auto;"></td>
+		<td align="center" style="background-color: white"><img src="/images/sigils/Humanoid.png" alt="the thought sigil inside the beast sigil" style="width:25%; height:auto;"></td>
 	</tr>
 	<tr>
 		<td>Plant</td>
@@ -154,4 +154,4 @@ This is not a comprehensive list of every sigil in existence.  These are some th
 ## Learning New Sigils
 It is an exercise for the caster to locate new sigils.  This is a frequent motivation for spellcasters to adventure; locating new sigils in ancient texts, unexplored tombs and so forth.  Additionally, spellcasters may share their sigils, but (even more-so than spells), sigils are a jealously guarded secret.  No spellcaster will willingly share knowledge of a sigil without first extracting some price or service from the asker.
 
-Once a sigil has been discovered, it must be inscribed.  Typically this is on a specially prepared object; such as a stone, crystal, prepared wood, or special parchment (the exact device is up to the caster).  Many casters carve their known sigils into their [Magical Focus](MagicalArts.md#magical%20focus), so that their sigils are easily at hand when needed (this is one reason why experienced and knowledgeable mages prefer staffs).  Inscribing a sigil requires 1 hour and 50sp plus the cost of the object on which it is being inscribed.
+Once a sigil has been discovered, it must be inscribed.  Typically this is on a specially prepared object; such as a stone, crystal, prepared wood blocks, or special parchment (the exact device is up to the caster).  Many casters carve their known sigils into their [Magical Focus](MagicalArts.md#magical%20focus), so that their sigils are easily at hand when needed (this is one reason why experienced and knowledgeable mages prefer staffs; more room for sigils).  Inscribing a sigil requires 1 day and 50sp plus the cost of the object on which it is being inscribed.

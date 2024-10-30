@@ -20,7 +20,7 @@ You are intelligent and tougher than you might appear. Your Constitution and Int
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You learned secret and powerful magics. You become a level 1 [Spellcaster](spellcaster.md). You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting*, *Sense Magic*, the [Spirit Sight](TierZeroSpells.md#spirit%20sight) cantrip and the Spirit [sigil](Sigils.md).  The tables below will tell you your other abilities.
+You learned secret and powerful magics. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting*, *Sense Magic*, the [Spirit Sight](TierZeroSpells.md#spirit%20sight) cantrip and the Spirit [sigil](Sigils.md).  The tables below will tell you your other abilities.
 
 ### What happened as you studied the dark arts?
 <table>
@@ -86,7 +86,7 @@ You learned secret and powerful magics. You become a level 1 [Spellcaster](spell
 		<td align="left">Ghost-Touched</td>
 		<td align="left">Beguilement</td>
 		<td align="left">Turn Undead</td>
-		<td align="left">Person, Death</td>
+		<td align="left">Humanoid, Death</td>
 	</tr>
 	<tr>
 		<td align="center">2</td>
@@ -104,7 +104,7 @@ You learned secret and powerful magics. You become a level 1 [Spellcaster](spell
 		<td align="left">Oathkeeper</td>
 		<td align="left">Hexing</td>
 		<td align="left">Charm</td>
-		<td align="left">Person, Beast</td>
+		<td align="left">Humanoid, Beast</td>
 	</tr>
 	<tr>
 		<td align="center">4</td>
@@ -148,14 +148,14 @@ You learned secret and powerful magics. You become a level 1 [Spellcaster](spell
 		<td>While watching the wall between the worlds of the living and the dead, something reached through and dragged your friend across the divide. You remembered your studies, closed the gate, and saved your friend before it was too late.<br/><i>Your friend stood strong against the dark spirit, and gains +1 WIS.</i></td>
 		<td align="center">+2 WIS</td>
 		<td>Heal Wounds</td>
-		<td>Person</td>
+		<td>Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">2</td>
 		<td>You found and stopped a gang of tomb robbers about to loose a dread and terrible wight upon the land.<br/><i>While your magic may have laid them low, your friend got you close enough to ensorcel them, and so gains +1 DEX.</i></td>
 		<td align="center">+2 DEX</td>
 		<td>Sleep</td>
-		<td>Person</td>
+		<td>Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">3</td>
@@ -176,14 +176,14 @@ You learned secret and powerful magics. You become a level 1 [Spellcaster](spell
 		<td>A violent and bigoted witch hunter came to the village after hearing of your studies, convinced that the whole place was cursed.<br/><i>Your friend helped you scare him away and gains +1 CON.</i></td>
 		<td align="center">+2 CON</td>
 		<td>Frighten</td>
-		<td>Person</td>
+		<td>Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">6</td>
 		<td>Led by their avaricious shaman, a group of barbarians from {place} came to the village and demanded your head so that they might steal your powers.<br/><i>Your friend fought them off as you prepared a spell to put them to flight, and gains +1 INT.</i></td>
 		<td align="center">+2 INT</td>
 		<td>Frighten</td>
-		<td>Person</td>
+		<td>Humanoid</td>
 	</tr>
 	<tr><td colspan=5><b>Please add the location where this happened to the Village map.</b></td></tr>
 </table>
@@ -236,7 +236,7 @@ You learned secret and powerful magics. You become a level 1 [Spellcaster](spell
 
 ## Fill out your sheet.
 1. Record your name, class and level.
-2. Record your species and whatever [features](human.md) you gain from it.
+2. Record your species and whatever [features](species/Human.md) you gain from it.
 3. Select a background from those made available from your Lifepath, above.
 4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).

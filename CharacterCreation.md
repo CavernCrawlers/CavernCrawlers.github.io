@@ -127,13 +127,13 @@ Each attribute also has an **Attribute Modifier** that is used as a bonus (or pe
 ## Pick a Species
 In fantasy gaming there are a practically limitless number of possible species to choose from.  The list presented in these pages is just a small sample of possible species and your GM may have their own list specific to their campaign world.
 
-There are several species to choose from: [Dwarf](Dwarf.md), [Elf](Elf.md), [Goblin](Goblin.md), [Hob](Hob.md), [Human](Human.md) and [Orc](Orc.md).  Other's may exist depending on the campaign the GM is running.
+There are several species to choose from: [Dwarf](species/Dwarf.md), [Elf](species/Elf.md), [Goblin](species/Goblin.md), [Hob](species/Hob.md), [Human](species/Human.md) and [Orc](species/Orc.md).  Other's may exist depending on the campaign the GM is running.
 
 ## Roll for Background Career
 Roll on the [Background Career](Background.md#background%20career%20table) table to determine what your character did before becoming an adventurer.
 
 ## Pick a Class
-There are six character classes: [Fighter](Fighter.md), [Rogue](Rogue.md), [Spellcaster](Spellcaster.md), [Fighter-Rogue](Fighter-Rogue.md), [Fighter-Spellcaster](Fighter-Spellcaster.md) and [Rogue-Spellcaster](Rogue-Spellcaster.md).
+There are six character classes: [Fighter](classes/Fighter.md), [Rogue](classes/Rogue.md), [Spellcaster](classes/Spellcaster.md), [Fighter-Rogue](classes/Fighter-Rogue.md), [Fighter-Spellcaster](classes/Fighter-Spellcaster.md) and [Rogue-Spellcaster](classes/Rogue-Spellcaster.md).
 
 ## Pick a Trait
 All characters start with 1 [Trait](Traits.md) at level 1.  They will gain additional Traits at various levels.

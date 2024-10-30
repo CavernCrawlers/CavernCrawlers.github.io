@@ -19,7 +19,7 @@ You are naturally philosophical and possess an animal cunning. Your Wisdom and I
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-In the middle of the night, a solemn procession of robed figures bearing firebrands strode to through the streets of the village toward your home. Their ancient authority was not to be argued with and they spirited you away into the wilderness. You become a level 1 [Spellcaster](Spellcaster.md). You gain the class abilities _Exhausting Magic_, _Invocation Dice_, _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Nature's Blessing](TierZeroSpells.md#nature's%20blessing) cantrip and Plant [sigil](sigils.md). The tables below will tell you your other traits and spells.
+In the middle of the night, a solemn procession of robed figures bearing firebrands strode to through the streets of the village toward your home. Their ancient authority was not to be argued with and they spirited you away into the wilderness. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Exhausting Magic_, _Invocation Dice_, _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Nature's Blessing](TierZeroSpells.md#nature's%20blessing) cantrip and Plant [sigil](sigils.md). The tables below will tell you your other traits and spells.
 
 ### What else happened to you as you began your life of service?
 
@@ -85,7 +85,7 @@ In the middle of the night, a solemn procession of robed figures bearing firebra
 		<td align="left">Soul Gaze</td>
 		<td align="left">Beast Speech</td>
 		<td align="left">Heal Wounds</td>
-		<td align="left">Beast, Person</td>
+		<td align="left">Beast, Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">2</td>
@@ -94,7 +94,7 @@ In the middle of the night, a solemn procession of robed figures bearing firebra
 		<td align="left">Child of the Forest</td>
 		<td align="left">Plant Speech</td>
 		<td align="left">Gather Mists</td>
-		<td align="left">Person, Air</td>
+		<td align="left">Humanoid, Air</td>
 	</tr>
 	<tr>
 		<td align="center">3</td>
@@ -147,7 +147,7 @@ In the middle of the night, a solemn procession of robed figures bearing firebra
 		<td>They were replaced by a circle of strangely ancient man-sized stones in the center of your grove.<br/><i>Your friend was sleeping in the center, intact but bewildered, remembers only that there was a powerful ritual of some kind, designed to protect the village from danger, gains +1 CON.</i></td>
 		<td align="center">+2 CON</td>
 		<td>Sleep</td>
-		<td>Person</td>
+		<td>Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">2</td>
@@ -161,7 +161,7 @@ In the middle of the night, a solemn procession of robed figures bearing firebra
 		<td>You tracked them to a yawning cavern, but the trail ended abruptly. Although you seek to map the cavern to find what became of your fellows, this must wait until you are sure your lands and village are safe.<br/><i>Your friend has explored some of the cavern with you and played in them as a child and gains +1 DEX.</i></td>
 		<td align="center">+2 DEX</td>
 		<td>Leaping</td>
-		<td>Person</td>
+		<td>Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">4</td>
@@ -175,7 +175,7 @@ In the middle of the night, a solemn procession of robed figures bearing firebra
 		<td>The times are changing. The era of the younger gods is now at hand and your Clan has dispersed to the winds for protection from the zealous crusaders of these new faiths.<br/><i>Your friend helps you keep the fire of the Old Way burning for when it will be needed to cleanse the land and gains +1 INT.</i></td>
 		<td align="center">+2 INT</td>
 		<td>Frighten</td>
-		<td>Person</td>
+		<td>Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">6</td>
@@ -235,7 +235,7 @@ In the middle of the night, a solemn procession of robed figures bearing firebra
 ## Fill out your sheet.
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
-3. Note your species as [Human](human.md) and note your special abilities.
+3. Note your species as [Human](species/Human.md) and note your special abilities.
 4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Neophyte Druid begins with the following equipment: your background trappings, a backpack, traveler's clothes, a heavy cloak, a bedroll, a mess kit, a tinderbox, 10 torches, 1 week’s rations, 50ft rope, a spellbook, one light weapon and 4d6sp.  You also have whatever items you rolled in your Lifepath.
@@ -249,6 +249,6 @@ In the middle of the night, a solemn procession of robed figures bearing firebra
 14. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 15. Your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2 for being a Human Spellcaster.
 16. Your starting Hit Points equal to 4 plus your Constitution Modifier.
-17. Fill in your [Saving Throws](Spellcaster.md#spellcaster%20saving%20throws) using the chart in the Spellcaster document.
+17. Fill in your [Saving Throws](classes/Spellcaster.md#spellcaster%20saving%20throws) using the chart in the Spellcaster document.
 18. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
 

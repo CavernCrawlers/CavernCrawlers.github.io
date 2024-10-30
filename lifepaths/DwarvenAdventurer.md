@@ -19,7 +19,7 @@ You are strong and hardy, but sometimes have difficulty holding your tongue. You
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You began to seek your fortune by strength of arms. You become a level 1 [Fighter](Fighter.md). You gain the class abilities _Combat Exploits_, _Hauler_, and _Minimum Damage_. The tables below will give you all your [Knacks](Fighter.md#fighter-knacks) and [Traits](Traits.md).
+You began to seek your fortune by strength of arms. You become a level 1 [Fighter](classes/Fighter.md). You gain the class abilities _Combat Exploits_, _Hauler_, and _Minimum Damage_. The tables below will give you all your [Knacks](classes/Fighter.md#fighter-knacks) and [Traits](Traits.md).
 
 ### What have you learned on your adventures so far?    
 | d6 | What is your ambition?                                                                                                                    | Ability | Trait         | Background         |
@@ -169,7 +169,7 @@ You began to seek your fortune by strength of arms. You become a level 1 [Fighte
 
 ## Fill out your sheet.
 1. Record your name, background, class and level.
-2. Record your species and the [features](Dwarf.md#features) that come from it.
+2. Record your species and the [features](species/Dwarf.md#features) that come from it.
 3. As a Dwarf, record your [True Name](RulesSynopsis.md#names).
 4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
 5. Jot down your class abilities, knack, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Dwarven Adventurer begins with the following equipment: your background trappings, a backpack, common dwarven garb, a tinderbox, tools for arms and armor maintenance, scalemail, 1 light weapon, either 2 medium weapons or a medium weapon and shield, and 4d6sp.  You also have the equipment rolled in the tables above.
@@ -180,5 +180,5 @@ You began to seek your fortune by strength of arms. You become a level 1 [Fighte
 10. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 11. As a Dwarf, your Base and Max Fortune Points are both 1.
 12. Your starting Hit Points equal to 8 plus your Constitution Modifier plus 1 for being a Dwarf.
-13. Fill in your [Saving Throws](Fighter.md#fighter-saving-throws) using the chart in the Fighter document.  Remember to add +2 to your Hardiness save for being a dwarf.
+13. Fill in your [Saving Throws](classes/Fighter.md#fighter-saving-throws) using the chart in the Fighter document.  Remember to add +2 to your Hardiness save for being a dwarf.
 14. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

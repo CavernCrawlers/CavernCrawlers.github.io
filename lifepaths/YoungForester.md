@@ -20,7 +20,7 @@ You are agile and insightful. Your Dexterity and Wisdom begin at 10, and all of 
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-The woods called to you, and you spend most of your time away from the village now. You become a level 1 [Rogue](Rogue.md). You gain the class abilities *Fortune's Favor*, *Rogue Abilities* and *Sneak Attack*.  The tables below will tell you your other abilities.
+The woods called to you, and you spend most of your time away from the village now. You become a level 1 [Rogue](classes/Rogue.md). You gain the class abilities *Fortune's Favor*, *Rogue Abilities* and *Sneak Attack*.  The tables below will tell you your other abilities.
 
 ### What happened as you started your career?
 <table>
@@ -208,7 +208,7 @@ The woods called to you, and you spend most of your time away from the village n
 
 ## Fill out your sheet.
 1. Record your name, class and level.
-2. Record your species and whatever [features](Human.md) you gain from it.
+2. Record your species and whatever [features](species/Human.md) you gain from it.
 3. Select a background from those made available from your Lifepath, above.
 4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Young Forester begins with the following equipment: your background trappings, a backpack, practical clothes, a heavy cloak, a bedroll, a mess kit, a tinderbox, 10 torches, 1 week’s rations, 50ft rope, leather armor, one light weapon, one medium weapon and 4d6sp.  You also have any items gained from your Lifepath.
@@ -219,5 +219,5 @@ The woods called to you, and you spend most of your time away from the village n
 10. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 11. As a Human Rogue, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 4.
 12. Your starting Hit Points equal to 6 plus your Constitution Modifier.
-13. Fill in your [Saving Throws](Rogue.md#rogue%20saving%20throws) using the chart in the Rogue document.
+13. Fill in your [Saving Throws](classes/Rogue.md#rogue%20saving%20throws) using the chart in the Rogue document.
 14. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

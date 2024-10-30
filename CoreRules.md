@@ -73,6 +73,8 @@ Unlike other D20 Checks, a **natural 1** always results in a failure on a Saving
 This is a [Constitution](RulesSynopsis.md#ability%20check) check vs a given difficulty.  If the check is failed, the character gains a level of [Exhaustion](Combat.md#exhaustion).
 #### Perception
 This is a [Skilled](RulesSynopsis.md#Skilled%20Check) Wisdom check involving one of the actor's senses (typically sight or hearing) that all characters are considered to be skilled in.
+#### Search
+This is a [Skilled](RulesSynopsis.md#Skilled%20Check) Intelligence check involving one of the actor's senses (typically sight or hearing) that all characters are considered to be skilled in.
 #### Stealth
 This is a [skilled](RulesSynopsis.md#Skilled%20Check) check in which the actor attempts to remain unnoticed.  Only **Rogues** and **Rogue-Hybrids** are considered skilled in this normally.  Frequently this is resolved as a contested check vs. any potential observers perception.
 #### Surprise

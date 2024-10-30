@@ -23,7 +23,7 @@ You are hardy and quick-witted. Your Constitution and Intelligence begin at 10, 
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You learned of your secret heritage and grew to be a daring warrior mystic. You become a level 1 [Fighter-Spellcaster](fighter-spellcaster.md). You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting* and *Sense Magic*.  The tables below will tell you your other abilities.
+You learned of your secret heritage and grew to be a daring warrior mystic. You become a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md). You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting* and *Sense Magic*.  The tables below will tell you your other abilities.
 
 ### What happened as you learned of your heritage?
 <table>
@@ -41,7 +41,7 @@ You learned of your secret heritage and grew to be a daring warrior mystic. You 
 		<td align="center">+2 CON</td>
 		<td align="left">Great Fortune</td>
 		<td align="left">Beguilement</td>
-		<td align="left">Person</td>
+		<td align="left">Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">2</td>
@@ -65,7 +65,7 @@ You learned of your secret heritage and grew to be a daring warrior mystic. You 
 		<td align="center">+2 STR</td>
 		<td align="left">Great Leader</td>
 		<td align="left">Inspire</td>
-		<td align="left">Person</td>
+		<td align="left">Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">5</td>
@@ -108,7 +108,7 @@ You learned of your secret heritage and grew to be a daring warrior mystic. You 
 		<td align="center">+2 WIS, +1 CHA</td>
 		<td align="left">Apothecary</td>
 		<td align="left">Mend</td>
-		<td align="left">Person</td>
+		<td align="left">Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">3</td>
@@ -132,7 +132,7 @@ You learned of your secret heritage and grew to be a daring warrior mystic. You 
 		<td align="center">+2 STR, +1 DEX</td>
 		<td align="left">Squire</td>
 		<td align="left">Hexing</td>
-		<td align="left">Person</td>
+		<td align="left">Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">6</td>
@@ -237,7 +237,7 @@ You learned of your secret heritage and grew to be a daring warrior mystic. You 
 
 ## Fill out your sheet.
 1. Record your name, class and level.
-2. Record your species and whatever [features](Human.md) you gain from it.
+2. Record your species and whatever [features](species/Human.md) you gain from it.
 3. Select a background from those made available from your Lifepath, above.
 4. As a Spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
@@ -251,5 +251,5 @@ You learned of your secret heritage and grew to be a daring warrior mystic. You 
 13. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 14. As a Human Fighter-Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
 15. Your starting Hit Points equal to 6 plus your Constitution Modifier.
-16. Fill in your [Saving Throws](Fighter-Spellcaster.md#Fighter-Spellcaster%20saving%20throws) using the chart in the Fighter-Spellcaster document.
+16. Fill in your [Saving Throws](classes/Fighter-Spellcaster.md#Fighter-Spellcaster%20saving%20throws) using the chart in the Fighter-Spellcaster document.
 17. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

@@ -1,3 +1,6 @@
+---
+cssclass: clean-embeds
+---
 # Fighter
 - [Statistics](#statistics)
 - [Equipment](#equipment)
@@ -26,32 +29,32 @@
 ## Class Abilities
 
 ### Combat Maneuvers
-Once per turn, as part of a normal attack, you may declare a Combat Maneuver.  If the die face of your attack roll is equal to or greater than your Combat Maneuver target number, the target suffers the effects of the maneuver.  Many maneuvers, however, do allow the target to make a saving throw.  See the [Combat Maneuvers](Combat.md#combat%20maneuvers) section of the Combat document for further details.
+![](classes/ClassAbilities.md#combat%20maneuvers)
 
 ### Hauler
-You add your **Constitution Modifier** (if positive) to your **Strength Score** for determining your [Encumbrance](EncumbranceAndEquipment.md#encumbrance) limits.
+![](classes/ClassAbilities.md#hauler)
 
 ### Minimum Damage
-Fighters are experts at dealing damage.  If your attack misses the target's AC by less than your level, you still deal your attack's minimum damage to the target.
+![](classes/ClassAbilities.md#minimum%20damage)
 
-## Fighter Table
-| Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Abilities |
-|:-----:|:------------:|:----------------:|:---------------:|:------:|:------:|:----------|
-|  1    |   1d6+2      |  +1              |  +1             |  1     |  1     | Hauler, Combat Maneuver 14+, Minimum Damage |
-|  2    |   2d6+4      |  +1              |  +2             | --     | +1     | Combat Maneuver 12+ |
-|  3    |   3d6+6      |  +2              |  +2             | +1     | --     |  |
-|  4    |   4d6+8      |  +3              |  +3             | --     | --     | Combat Maneuver 11+ |
-|  5    |  5d6+10      |  +3              |  +4             | +1     | --     |  |
-|  6    |  6d6+12      |  +4              |  +4             | --     | +1     | Combat Maneuver 10+ |
-|  7    |  7d6+14      |  +5              |  +5             | +1     | --     |  |
-|  8    |  8d6+16      |  +5              |  +6             | --     | --     | Combat Maneuver 9+ |
-|  9    |  9d6+18      |  +6              |  +6             | +1     | --     |  |
-| 10    | 10d6+20      |  +6              |  +7             | --     | +1     | Combat Maneuver 8+ |
-| 11    | 10d6+22      |  +7              |  +8             | +1     | --     |  |
-| 12    | 10d6+24      |  +8              |  +8             | --     | --     | Combat Maneuver 7+ |
-| 13    | 10d6+26      |  +8              |  +9             | +1     | --     |  |
-| 14    | 10d6+28      |  +9              | +10             | --     | +1     | Combat Maneuver 6+ |
-| 15    | 10d6+30      | +10              | +10             | +1     | --     |  |
+## Fighter Table  
+|  Level  |  Hit<br/>Dice  |  Attack<br/>Bonus  |  Skill<br/>Bonus  | Combat<br/>Maneuver |  Knacks  |  Traits  |
+|:-------:|:--------------:|:------------------:|:-----------------:|:---------------:|:--------:|:--------:|
+|   1     |    1d6+2       |   +1               |   +1              |             14+ |   1      |   1      |
+|   2     |    2d6+4       |   +1               |   +2              |             13+ |  --      |  +1      |
+|   3     |    3d6+6       |   +2               |   +2              |             13+ |  +1      |  --      |
+|   4     |    4d6+8       |   +3               |   +3              |             12+ |  --      |  --      |
+|   5     |   5d6+10       |   +3               |   +4              |             11+ |  +1      |  --      |
+|   6     |   6d6+12       |   +4               |   +4              |             11+ |  --      |  +1      |
+|   7     |   7d6+14       |   +5               |   +5              |             10+ |  +1      |  --      |
+|   8     |   8d6+16       |   +5               |   +6              |              9+ |  --      |  --      |
+|   9     |   9d6+18       |   +6               |   +6              |              9+ |  +1      |  --      |
+|  10     |  10d6+20       |   +6               |   +7              |              8+ |  --      |  +1      |
+|  11     |  10d6+22       |   +7               |   +8              |              7+ |  +1      |  --      |
+|  12     |  10d6+24       |   +8               |   +8              |              7+ |  --      |  --      |
+|  13     |  10d6+26       |   +8               |   +9              |              6+ |  +1      |  --      |
+|  14     |  10d6+28       |   +9               |  +10              |              5+ |  --      |  +1      |
+|  15     |  10d6+30       |  +10               |  +10              |              5+ |  +1      |  --      |  
 
 ### Fighter Saving Throws
 | Level | Evasion | Hardiness | Spirit |
@@ -76,37 +79,37 @@ Fighters are experts at dealing damage.  If your attack misses the target's AC b
 
 Unless stated otherwise, each knack may only be taken once.
 
-**Archer**: You do not have **Disadvantage** when making attacks at Far range.
+**Archer:** ![](classes/Knacks.md#archer)
 
-**Armored**: Gain +1 AC while wearing armor.  Also reduce the damage taken from non-magical blunt, cutting and penetrating damage based on the weight of the armor worn (1 for Light, 2 for Medium or 3 for Heavy).
+**Armored**: ![](classes/Knacks.md#armored)
 
-**Berserk**: For the duration of one combat, gain +2 on **Strength Checks**, melee **Attack Rolls**, melee **Damage Rolls** and **Spirit Defense**, but suffer -4 to AC.  After the combat ends, gain a level of **Exhaustion**.  You cannot use this Knack while you have any levels of Exhaustion.
+**Berserk**: ![](classes/Knacks.md#berserk)
 
-**Cavalry**: While mounted, you gain +2 to hit and +1 AC.  Additionally, whatever creature you are mounted on gains +1 AC and +1 Evasion.
+**Cavalry**: ![](classes/Knacks.md#cavalry)
 
-**Charger**: If you perform the **charge** maneuver, add +2 to your damage rolls.
+**Charger**: ![](classes/Knacks.md#charger)
 
-**Cleave**: Immediately after one of your attacks drops a foe to 0 HP, you may make another attack.  If you have movement remaining, you may move between attacks.
+**Cleave**: ![](classes/Knacks.md#cleave)
 
-**Critical Opening**:  Reduce the required _Natural_ value for a critical hit on your attacks by 1.  This knack may be taken up to 3 times.  For instance, taking this knack twice means you would only need a natural 18+.
+**Critical Opening**:  ![](classes/Knacks.md#critical%20opening)
 
-**Deadly Blow**: Your weapon damage die increases [1 step](RulesSynopsis.md#die%20adjustments).
+**Deadly Blow**: ![](classes/Knacks.md#deadly%20blow)
 
-**Great Weapon Fighter:** When wielding a Heavy 2-handed weapon, any damage dice that show a 1 or 2 may be re-rolled.  Take the higher result.	
+**Great Damage:** ![](classes/Knacks.md#great%20damage)
 
-**Indomitable**: +1 to all **Saving Throws**.
+**Indomitable**: ![](classes/Knacks.md#indomitable)
 
-**Mighty Shot**: You may use your [Combat Maneuvers](#combat%20maneuvers) ability with ranged attacks.
+**Mighty Shot**: ![](classes/Knacks.md#might%20shot)
 
-**Precise Shot**: Ignore any cover bonuses your target has to their AC.
+**Precise Shot**: ![](classes/Knacks.md#precise%20shot)
 
-**Reckless**: When you choose to use this ability, all your attacks that **Round** have **Advantage**.  All attacks against you also have **Advantage** until the start of your next **Turn**.
+**Reckless**: ![](classes/Knacks.md#reckless)
 
-**Shield Master**: While wielding a shield, you may add your shield bonus to your **Evasion Defense** and you increase your AC bonus from shields by +1.  If this knack is taken at 1st level, your character begins play with a shield for free.
+**Shield Master**: ![](classes/Knacks.md#shield%20master)
 
-**Skirmisher**: Gain +1 **Initiative**, +5 feet movement and +1 AC vs **Attacks of Opportunity** so long as you are not wearing _heavy_ armor.
+**Skirmisher**: ![](classes/Knacks.md#skirmisher)
 
-**Weapon Specialization**:  Pick a weapon. Your character receives a +1 to hit and +2 damage bonus while wielding this weapon. If this knack is taken at 1st level, your character begins the game with this weapon for free.  This knack may be taken more than once, applying to a different weapon each time.
+**Weapon Specialization**:  ![](classes/Knacks.md#weapon%20specialization)
 
 ### Sample Fighter Builds
 - **All-Rounder**

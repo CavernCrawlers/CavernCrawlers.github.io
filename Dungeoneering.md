@@ -29,7 +29,7 @@ Constructed dungeons (as opposed to natural caverns) will frequently have doors 
 A stuck door may be forced with a **Strength** check vs an appropriate [difficulty](RulesSynopsis.md#difficulty%20targets) (most should be in the Easy/9+ to Tricky/15+ range).  If the check is failed, the party loses any chance to surprise any creatures lurking on the opposite side.  Forcing a stuck door also counts as a loud event, possibly prompting a check for [random encounters](CoreRules.md#random%20encounters).
 
 ### Locked Doors
-These may be forced in the same manner as a stuck door.  Alternatively, a character with the appropriate tools (and training helps) may attempt to pick the lock.  This is a [Skilled](RulesSynopsis.md#Skilled%20Check) **Dexterity** check vs. the lock's [difficulty](RulesSynopsis.md#difficulty%20targets).  Typically only [Rogues](Rogue.md) and [Hybrid-Rogues](Glossary.md#Hybrid%20Class) are considered skilled in this activity.
+These may be forced in the same manner as a stuck door.  Alternatively, a character with the appropriate tools (and training helps) may attempt to pick the lock.  This is a [Skilled](RulesSynopsis.md#Skilled%20Check) **Dexterity** check vs. the lock's [difficulty](RulesSynopsis.md#difficulty%20targets).  Typically only [Rogues](classes/Rogue.md) and [Hybrid-Rogues](Glossary.md#Hybrid%20Class) are considered skilled in this activity.
 
 ### Magic
 There are also spells capable of opening locked or stuck doors (such as the [Open](TierZeroSpells.md#open) cantrip).

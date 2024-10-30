@@ -20,7 +20,7 @@ You are highly intelligent and motivated. Your Intelligence and Charisma both st
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You found faith in the Great Church. You become a level 1 [Spellcaster](spellcaster.md). You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting* and *Sense Magic*.  The tables below will tell you your other abilities.
+You found faith in the Great Church. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting* and *Sense Magic*.  The tables below will tell you your other abilities.
 
 ### What happened when you chose to serve the church?
 <table>
@@ -88,28 +88,28 @@ You found faith in the Great Church. You become a level 1 [Spellcaster](spellcas
 		<td>Arianka, Goddess of Life and Creation</td>
 		<td align="center">+2 WIS</td>
 		<td align="left">Nature's Blessing, Mend</td>
-		<td align="left">Plant, Person</td>
+		<td align="left">Plant, Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">3</td>
 		<td>Solkan, Master of Battle and Honor</td>
 		<td align="center">+2 STR</td>
 		<td align="left">Inspire, Spark</td>
-		<td align="left">Person, Fire</td>
+		<td align="left">Humanoid, Fire</td>
 	</tr>
 	<tr>
 		<td align="center">4</td>
 		<td>Heru, God of the Afterlife</td>
 		<td align="center">+2 CON</td>
 		<td align="left">Hexing, Spirit Sight</td>
-		<td align="left">Person, Spirit</td>
+		<td align="left">Humanoid, Spirit</td>
 	</tr>
 	<tr>
 		<td align="center">5</td>
 		<td>Ammutensis, Goddess of Justice and Judgement</td>
 		<td align="center">+2 WIS</td>
 		<td align="left">Inspire, Mage Light</td>
-		<td align="left">Person, Light</td>
+		<td align="left">Humanoid, Light</td>
 	</tr>
 	<tr>
 		<td align="center">6</td>
@@ -135,7 +135,7 @@ You found faith in the Great Church. You become a level 1 [Spellcaster](spellcas
 		<td align="center">+2 CHA</td>
 		<td>Ghost-Touched</td>
 		<td>Abjuration, Heal Wounds</td>
-		<td>Spirit, Person</td>
+		<td>Spirit, Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">2</td>
@@ -143,7 +143,7 @@ You found faith in the Great Church. You become a level 1 [Spellcaster](spellcas
 		<td align="center">+2 WIS</td>
 		<td>Potent Magic</td>
 		<td>Calm, Enchant Weapon</td>
-		<td>Person, Light</td>
+		<td>Humanoid, Light</td>
 	</tr>
 	<tr>
 		<td align="center">3</td>
@@ -159,7 +159,7 @@ You found faith in the Great Church. You become a level 1 [Spellcaster](spellcas
 		<td align="center">+2 CON</td>
 		<td>Great Bravery</td>
 		<td>Resist Element, Heal Wounds</td>
-		<td>Fire, Person</td>
+		<td>Fire, Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">5</td>
@@ -175,7 +175,7 @@ You found faith in the Great Church. You become a level 1 [Spellcaster](spellcas
 		<td align="center">+2 CHA</td>
 		<td>Friendly Face</td>
 		<td>Charm, Magic Pouch</td>
-		<td>Person, Void</td>
+		<td>Humanoid, Void</td>
 	</tr>
 	<tr><td colspan=6><b>Please add the location where this happened to the Village map.</b></td></tr>
 </table>
@@ -227,7 +227,7 @@ You found faith in the Great Church. You become a level 1 [Spellcaster](spellcas
 
 ## Fill out your sheet.
 1. Record your name, class and level.
-2. Record your species and whatever [features](Human.md) you gain from it.
+2. Record your species and whatever [features](species/Human.md) you gain from it.
 3. Select a background from those made available from your Lifepath, above.
 4. As a Spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
@@ -242,5 +242,5 @@ You found faith in the Great Church. You become a level 1 [Spellcaster](spellcas
 14. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 15. As a Human Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
 16. Your starting Hit Points equal to 4 plus your Constitution Modifier.
-17. Fill in your [Saving Throws](Spellcaster.md#Spellcaster%20saving%20throws) using the chart in the Spellcaster document.
+17. Fill in your [Saving Throws](classes/Spellcaster.md#Spellcaster%20saving%20throws) using the chart in the Spellcaster document.
 18. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

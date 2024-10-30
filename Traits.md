@@ -301,7 +301,7 @@ Your character may infuse part of her soul into her weapon attacks (including un
 When your character witnesses an oath or makes one herself, fate binds the oath taker to see it done. Anyone who makes an oath in your character’s presence, including the character herself, must keep their word or find themselves halving all healing received and unable to regain **Fortune Points** unless they are working towards fulfilling their oath.
 
 ### Second Sight
-Your character gains the [Sense Magic](Spellcaster.md#sense%20magic) ability as if they were a Spellcaster.
+Your character gains the [Sense Magic](classes/Spellcaster.md#sense%20magic) ability as if they were a Spellcaster.
 
 ### Shapechanger
 Be it due to magic, a curse or an unnatural heritage, your character has the ability to take the shape of any one small, ordinary animal chosen at the time this trait is taken.  Doing so is very difficult and requires the expenditure of a Fortune Point. This change lasts for 1 hour per **Character Level**. Changing back earlier requires a **Difficulty 12 Spirit Save** or the expenditure of another **Fortune Point**.

@@ -39,19 +39,21 @@
 - **Range:** Near
 - **Area:** 1 spirit
 - **Duration:** Instant
-- **Save:** Spirit 10+
+- **Save:** Spirit
 - **Components:** Gestures & Incantations
 
 The spellcaster performs a rite of banishing, and attempts to send a single incorporeal spirit back to its home realm. If the target fails its saving throw it is immediately returned to its home realm. This spell only affects spirits not of the mortal world who have found their way here from another dimension.
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | Increase the save difficulty by +1 |
-| +2         | Increase the range to Far |
-| +2         | Increase the number of targets by 1 |
-| +6         | Send corporeal creatures back to their home dimension |
+At Tier 4+ this spell can send corporeal creatures back to their home dimension.
+
+| Tier    | Range | Area      |
+|:-------:|:-----:|:---------:|
+| 2 (6+)  | N     | 2 spirits |
+| 3 (9+)  | N     | 3 spirits |
+| 4 (12+) | F     | 4 spirits or 1 creature |
+| +1 (+3) | --    | +1 spirit/creature |
 
 ## Alarm
 - **Tier:** 1st (3+)
@@ -68,10 +70,11 @@ The caster touches a portal or singular object to set a magical alarm on it.  Fo
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Affect 1 additional target. |
-| +2         | Increase the duration 1 step. |
+| Tier    | Area  | Duration |
+|:-------:|:-----:|:--------:|
+| 2 (6+)  | +1 Ob | 1 D      |
+| 3 (9+)  | +2 Ob | 1 We     |
+| +1 (+3) | +1 Ob | +1 step  |
 
 ## Alter Appearance
 - **Tier:** 1st (3+)
@@ -84,16 +87,16 @@ The caster touches a portal or singular object to set a magical alarm on it.  Fo
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-With this spell, a spellcaster can change their appearance to that of another humanoid creature of roughly the same size (within the same Size Category).  The magical disguise may be seen through if with a deliberate inspection and a **Diff 12 Perception** check. 
+With this spell, a spellcaster can change their appearance to that of another humanoid creature of roughly the same size (within the same Size Category).  The magical disguise may be seen through if with a deliberate inspection and a [Perception](CoreRules.md#perception) check versus the caster's spell save difficulty. 
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | Increase the perception difficulty by +1. |
-| +2         | Increase the range 1 step (to a max of Near). |
-| +2         | Change the area of effect to 1 willing creature. |
-| +2         | Increase the duration 1 step. |
+| Tier    | Range | Area         | Duration |
+|:-------:|:-----:|:------------:|:--------:|
+| 2 (6+)  | T     | 1 creature   | 1 H (c)  |
+| 3 (9+)  | C     | 2 creatures  | 1 Wa (c) |
+| 4 (12+) | N     | 4 creatures  | 1 D (c)  |
+| +1 (+3) | --    | +2 creatures | --       |
 
 ## Arcane Arrow
 - **Tier:** 1st (3+)
@@ -106,16 +109,17 @@ With this spell, a spellcaster can change their appearance to that of another hu
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-The caster conjures an arrow of elemental energy, whose type is determined by the sigil used to cast the spell.  Once cast, the spellcaster makes a **Magical Attack** roll vs the target's **AC**.  On a successful hit, the spell does 1d6 damage of the given type.  If the arrow is not loosed before the spell's duration expires, the arrow is lost.
+The caster conjures an arrow of elemental energy, whose type is determined by the sigil used to cast the spell.  Once cast, the spellcaster makes a Magical [Magical Attack](Combat.md#Magical%20Attacks) roll vs the target's **AC**.  On a successful hit, the spell does 1d6 damage of the given type.  If the arrow is not loosed before the spell's duration expires, the arrow is lost.
 
-Additional arrows may be conjured at a rate of +1 arrow per +1 Rank. Each arrow may be targeted at a different creature and may be of any elemental sigil the mage knows.  The arrows do not need to be loosed all at the same time, though any arrows not loosed by the end of the spell's duration are lost.  Once all arrows are loosed, or the spell's duration expires, the spell ends.
+Additional arrows may be conjured at a rate of +1 arrow per +1 Tier. Each arrow may be targeted at a different creature and may be of any elemental sigil the mage knows.  The arrows do not need to be loosed all at the same time, though any arrows not loosed by the end of the spell's duration are lost.  Once all arrows are loosed, or the spell's duration expires, the spell ends.
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Increase the range to Far |
-| +2         | Conjure 1 additional arrow. Each arrow may be targeted at a different creature and may be of any elemental sigil the mage knows.  The arrows do not need to be loosed all at the same time. |
+| Tier    | Range | Duration | # Arrows |
+|:-------:|:-----:|:--------:|:--------:|
+| 2 (6+)  | N     | 10 Mi    | 2        |
+| 3 (9+)  | F     | 1 H      | 3        |
+| +1 (+3) | --    | --       | +1       |
 
 ## Beauty's Bane
 - **Tier:** 1st (3+)
@@ -125,19 +129,19 @@ Additional arrows may be conjured at a rate of +1 arrow per +1 Rank. Each arrow 
 - **Range:** Near
 - **Area:** 1 Creature
 - **Duration:** 1 hour
-- **Save:** Spirit (10+)
+- **Save:** Spirit
 - **Components:** Gestures & Incantations
 
 This curse makes the target repulsive both physically and spiritually.  The afflicted creature has **Disadvantage** on all social interaction rolls for the duration of the spell.
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | Increase the saving throw difficulty by +1 |
-| +2         | Increase the range to Far |
-| +2         | Increase the duration 1 step |
-| +2         | Target 1 additional creature (note that multiple sigils may be required to affect creatures of different types). |
+| Tier    | Range | Area  | Duration |
+|:-------:|:-----:|:-----:|:--------:|
+| 2 (6+)  | N     | 2 Cr  | 1 H      |
+| 3 (9+)  | F     | 3 Cr  | 1 Wa     |
+| 4 (12+) | F     | 4 Cr  | 1 D      |
+| +1 (+3) | --    | +1 Cr | --       |
 
 ## Calm
 - **Tier:** 1st (3+)
@@ -154,10 +158,12 @@ This calms the targeted creature's emotions and will remove the [Frightened](Com
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Increase the range 1 step (to a max of Far). |
-| +2         | Increase the number of creatures affected by +1 (note that multiple sigils may be required to affect creatures of different types). |
+| Tier    | Range | Area  |
+|:-------:|:-----:|:-----:|
+| 2 (6+)  | Cl    | 2 Cr  |
+| 3 (9+)  | N     | 4 Cr  |
+| 4 (12+) | F     | 6 Cr  |
+| +1 (+3) | --    | +2 Cr |
 
 ## Charm
 - **Tier:** 1st (3+)
@@ -167,7 +173,7 @@ This calms the targeted creature's emotions and will remove the [Frightened](Com
 - **Range:** Near
 - **Area:** 1 Creature
 - **Duration:** variable
-- **Save:** Spirit (10+)
+- **Save:** Spirit
 - **Components:** Incantations
 
 By means of this spell, the caster attempts to change the attitude of one creature toward friendship. If the target fails its saving throw, it gains the [Charmed](Combat.md#Charmed) condition in regards to the caster.  The affected creature is allowed to attempt further saving throws at certain intervals to throw off the effect.  Once a saving throw succeeds, the spell ends.  The saving throw interval is determined by the target's Charisma score:
@@ -182,10 +188,10 @@ As soon as the spell ends (or if the initial save was successful), the targeted 
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | Increase the saving throw difficulty by +1. |
-| +2         | Increase the number of creatures affected by +1 (note that multiple sigils may be required to affect creatures of different types). |
+| Tier    | Range | Area |
+| 2 (6+)  | N    | 2 Cr  |
+| 3 (9+)  | F    | 3 Cr  |
+| +1 (+3) | --   | +1 Cr |
 
 ## Detect Magic
 - **Tier:** 1 (3+)
@@ -198,13 +204,10 @@ As soon as the spell ends (or if the initial save was successful), the targeted 
 - **Save:** n/a
 - Components: Gestures, Incantations
 
-This spell enhances the caster's [Sense Magic](Spellcaster.md#sense%20magic) ability so that the can not only tell if someone or something is magical, but they can also get a sense of the nature of that magic.  With a successful [perception check](CoreRules.md#perception), the caster will know exactly which spell was cast (if they have the spell in question in their own spellbook), which sigils were used in casting the spell and they will get a rough sense of the magic's duration (minutes, hours, days, etc. up to permanent; but not specific amounts). If the perception check is failed the caster can discern the type of sigils used in the spell's casting (elemental, force or form) and whether the magic is of a Tier that they could cast.
+This spell enhances the caster's [Sense Magic](classes/Spellcaster.md#sense%20magic) ability so that they can not only tell if someone or something is magical on first sight, but they can also get a sense of the nature of that magic.  The caster will know the details of the enchantment as if they were [identifying](MagicalArts.md#spell%20identification) a spell as it was being cast.
 
-*Upcasting*
-
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Increase the duration 1 step. |
+*Upcasting*<br/>
+The spell's duration may be increased 1 step per +1 Tier.
 
 ## Enchant Weapon
 - **Tier:** 1st (3+)
@@ -221,11 +224,11 @@ By casting this spell and touching a weapon, that weapon becomes infused with th
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Increase the duration 1 step. |
-| +2         | Increase the range to Near. |
-| +2         | Increase the number of targets by 1. |
+| Tier    | Range | Area      | Duration |
+|:-------:|:-----:|:---------:|:--------:|
+| 2 (6+)  | C     | 2 Weapons | 1 H      |
+| 3 (9+)  | N     | 3 Weapons | 1 Wa     |
+| +1 (+3) | --    | +1 Weapon | +1 Step  |
 
 ## Faerie Fire
 - **Tier:** 1st (3+)
@@ -235,19 +238,18 @@ By casting this spell and touching a weapon, that weapon becomes infused with th
 - **Range:** Near
 - **Area:** 1 Creature
 - **Duration:** 1 minute (c)
-- **Save:** Spirit 10+
+- **Save:** Spirit
 - **Components:** Incantations
 
 The target of this spell must make its save or become surrounded by a surreal, ghostly, heatless light of a color of the caster's choice.  The creature now sheds light equivalent to candlelight for the duration of the spell. Such creatures cannot be hidden or obscured by darkness, nor obscured by invisibility.
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | Increase the save difficulty by +1. |
-| +2         | Increase the duration 1 step. |
-| +2         | Increase the range 1 step (to a max of Far). |
-| +2         | Increase the number of targets by 1. |
+| Tier    | Range | Area  | Duration   |
+|:-------:|:-----:|:-----:|:----------:|
+| 2 (6+)  | N     | 2 Cr  | 10 min (c) |
+| 3 (9+)  | F     | 3 Cr  | 1 H (c)    |
+| +1 (+3) | --    | +1 Cr | +1 step    |
 
 ## Feather Step
 - **Tier:** 1st (3+)
@@ -264,11 +266,11 @@ The creature touched by the caster seems to float just a hair's width above what
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Increase the duration 1 step. |
-| +2         | Increase the range 1 step (to a max of Near). |
-| +2         | Increase the number of targets by 1. |
+| Tier    | Range | Duration | Area  |
+|:-------:|:-----:|:--------:|:-----:|
+| 2 (6+)  | C     | 1 H (c)  | 2 Cr  |
+| 3 (9+)  | N     | 1 Wa (c) | 4 Cr  |
+| +1 (+3) | --    | +1 step  | +2 Cr |
 
 ## Frighten
 - **Tier:** 1st (3+)
@@ -278,18 +280,18 @@ The creature touched by the caster seems to float just a hair's width above what
 - **Range:** Near
 - **Area:** 1 Creature
 - **Duration:** 1 minute
-- **Save:** Spirit 10+
+- **Save:** Spirit
 - **Components:** Gestures & Incantations
+
 This spell afflicts the targeted creature with the [Frightened](Combat.md#Frightened) condition if it fails its saving throw.  An affected creature may attempt its save again at the end of each of its turns.
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | Increase the save difficulty by +1 |
-| +2         | Increase the duration 1 step. |
-| +2         | Increase the range to Far. |
-| +2         | Increase the number of targets by 1 (note that multiple sigils may be required to affect creatures of different types). |
+| Tier    | Range | Area  | Duration |
+|:-------:|:-----:|:-----:|:--------:|
+| 2 (6+)  | N     | 2 Cr  | 10 min   |
+| 3 (9+)  | F     | 3 Cr  | 1 Hr     |
+| +1 (+3) | --    | +1 Cr | +1 step  |
 
 ## Gather Mist/Shadows
 - **Tier:** 1st (3+)
@@ -306,12 +308,11 @@ This spell fills a 5 ft cube with impenetrable mist or shadows, blocking normal 
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Increase the range to Far. |
-| +2         | Allow the spell to also work against Darkvision. |
-| +2         | Increase the duration 1 step. |
-| +2         | Increase the area of effect 1 step. |
+| Tier    | Range | Area    | Duration | Effects           |
+|:-------:|:-----:|:-------:|:--------:|:-----------------:|
+| 2 (6+)  | N     | L       | 1 Hr     | --                |
+| 3 (9+)  | F     | H       | 1 Wa     | blocks Darkvision |
+| +1 (+3) | --    | +1 step | +1 step  | --                |
 
 ## Grasping Plants
 - **Tier:** 1st (3+)
@@ -321,7 +322,7 @@ This spell fills a 5 ft cube with impenetrable mist or shadows, blocking normal 
 - **Range:** Near
 - **Area:** Medium
 - **Duration:** 1 minutes (c)
-- **Save:** Evasion 10+
+- **Save:** Evasion
 - **Components:** Gestures & Incantations
 
 When this spell is cast, all plants in the area of effect begin writhing and moving, wrapping themselves around anything in the area.  Creatures within the area must pass an Evasion save or become [Restrained](Combat.md#restrained) for the duration.  Restrained creatures may attempt a **Strength check** vs the saving throw difficulty to break free as their Main Action.  Additionally, the target area becomes **difficult terrain** for the spell's duration.
@@ -330,12 +331,11 @@ This spell has no effect if the target area is barren of plant life.
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | Increase save difficulty by +1. |
-| +2         | Increase the range to Far. |
-| +2         | Increase the duration 1 step. |
-| +2         | Increase the area of effect 1 step. |
+| Tier    | Range | Area    | Duration   |
+|:-------:|:-----:|:-------:|:----------:|
+| 2 (6+)  | N     | L       | 10 min (c) |
+| 3 (9+)  | F     | H       | 1 Hr (c)   |
+| +1 (+3) | --    | +1 step | +1 step    |
 
 ## Gust
 - **Tier:** 1st (3+)
@@ -345,18 +345,19 @@ This spell has no effect if the target area is barren of plant life.
 - **Range:** Close
 - **Area:** Medium
 - **Duration:** instant
-- **Save:** Hardiness 10+
+- **Save:** Hardiness
 - **Components:** Gestures & Incantations
 
 This spell summons a sudden burst of wind to force targets in the area of effect back a step.  Any affected creatures that fail their saving throws are pushed back 5 feet, directly away from the caster.
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | Increase save difficulty by +1. |
-| +2         | Increase the range 1 step (to a max of Near). |
-| +2         | Increase the area of effect 1 step. |
+| Tier    | Range | Area    | Distance |
+|:-------:|:-----:|:-------:|:--------:|
+| 2 (6+)  | C     | L       | 5ft      |
+| 3 (9+)  | N     | H       | 10ft     |
+| 4 (12+) | N     | G       | 15ft     |
+| +1 (+3) | --    | +1 step | --       |
 
 ## Heal Wounds
 - **Tier:** 1st (3+)
@@ -369,17 +370,19 @@ This spell summons a sudden burst of wind to force targets in the area of effect
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-This spell allows the target to heal 1 Hit Die plus their CON Modifier in hit points instantly.
+This spell allows the target to heal 1 Hit Die plus the caster's WIS Modifier in hit points instantly.
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | increase the number of targets by 1 (note that multiple sigils may be required to affect creatures of different types). |
-| +2         | increase the number of Hit Dice rolled for healing by 1. |
-| +6         | heal any one of the following [lingering injuries](Combat.md#lingering%20injuries): minor concussion, sprain, bruised ribs |
-| +9         | Difficulty +9 - heal any one of the following lingering injuries: horrific scarring, broken ribs, internal bleeding, concussion |
-| +12        | Difficulty +12 - heal the amputation lingering injury |
+| Tier    | Healing | Other                                                                 |
+|:-------:|:-------:|:---------------------------------------------------------------------:|
+| 2 (6+)  | 2 HD    | --                                                                    |
+| 3 (9+)  | 2 HD    | Heal minor concussion, sprain and bruised ribs.                       |
+| 4 (12+) | 3 HD    | --                                                                    |
+| 5 (15+) | 3 HD    | Heal horrific scarring, broken ribs, internal bleeding and concussion |
+| 6 (18+) | 4 HD    | Heal amputations.                                                     |
+
+See the [Lingering Injury](Combat.md#lingering%20injuries) rules.
 
 ## Hypnotic Gaze
 - **Tier:** 1st (3+)
@@ -389,19 +392,19 @@ This spell allows the target to heal 1 Hit Die plus their CON Modifier in hit po
 - **Range:** Close
 - **Area:** 1 Creature
 - **Duration:** 1 minute (c)
-- **Save:** Spirit 10+
+- **Save:** Spirit
 - **Components:** Gestures & Incantations
 
 By speaking in a soothing voice and performing a complex pattern of weaving gestures, the caster attempts to lull the target into a trance-like state.  If the target fails its saving throw, it suffers the [Incapacitated](Combat.md#incapacitated) condition for the spell's duration.  Affected creatures may be shocked out of the effect as if they were asleep.  Affected creatures may re-try their saving throw at the end of each of their turns to shake off the effect.  Blind creatures are immune to this spell.
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | increase save difficulty by +1 |
-| +2         | increase the range by 1 step (to a max of Far) |
-| +2         | increase the number of targets by 1 |
-| +2         | increase the duration by 1 step |
+| Tier | Diff | Range | Area  | Duration   |
+|:----:|:----:|:-----:|:-----:|:----------:|
+| 2    | 6+   | C     | 1 Cr  | 10 min (c) |
+| 3    | 9+   | N     | 2 Cr  | --         |
+| 4    | 12+  | N     | 3 Cr  | 1 Hr (c)   |
+| +1   | +3   | --    | +1 Cr | --         |
 
 ## Leaping
 - **Tier:** 1st (3+)
@@ -414,15 +417,15 @@ By speaking in a soothing voice and performing a complex pattern of weaving gest
 - **Save:** none
 - **Components:** Incantations
 
-This spell increases the target's leaping ability by +20 feet vertically and +10 feet horizontally.  They also have **Advantage** on any Strength checks related to leaping.
+This spell increases the target's [leaping](Combat.md#move%20actions) ability by +20 feet vertically and +10 feet horizontally.  They also have **Advantage** on any checks related to leaping.
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Increase the number of targets by 1 (note that multiple sigils may be required to affect creatures of different types). |
-| +2         | Increase the duration 1 step. |
-| +2         | Increase the range to Near. |
+| Tier | Diff | Range | Area  | Duration   |
+|:----:|:----:|:-----:|:-----:|:----------:|
+| 2    | 6+   | C     | 2 Cr  | 10 min (c) |
+| 3    | 9+   | N     | 4 Cr  | 1 Hr (c)   |
+| +1   | +3   | --    | +2 Cr | --         |
 
 ## Mage Lock
 - **Tier:** 1st (3+)
@@ -435,16 +438,15 @@ This spell increases the target's leaping ability by +20 feet vertically and +10
 - **Save:** none (but see below)
 - **Components:** Gestures & Incantations
 
-By use of this spell, a mage uses their power to seal a closable opening.  The opening may still be forced with a **Strength** or **Lockpicking** check with a *difficulty* equal to the spell's *save difficulty* (10+).
+By use of this spell, a mage uses their power to seal a closable opening.  The opening may still be forced with a **Strength** or **Lockpicking** check with a *difficulty* equal to the casters's *Spell Save Difficulty*.
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | Increase the "save difficulty" by +1. |
-| +2         | Increase the number of object affected by 1. |
-| +2         | Increase the duration 1 step. |
-| +2         | Increase the range to Near. |
+| Tier | Diff | Range | Area  | Duration |
+|:----:|:----:|:-----:|:-----:|:--------:|
+| 2    | 6+   | C     | 2 Ob  | 10 min   |
+| 3    | 9+   | N     | 4 Ob  | 1 Hr     |
+| +1   | +3   | --    | +2 Ob | +1 step  |
 
 ## Magic Pouch
 - **Tier:** 1st (3+)
@@ -457,16 +459,15 @@ By use of this spell, a mage uses their power to seal a closable opening.  The o
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-A single container you touch has its carrying capacity increased by +10 slots for the duration of the spell.  Filling these extra slots does not increase the weight of the container.  Any items placed in these slots must still be able to fit through the container's opening.  When the spell's duration ends, any items in the extra slots are immediately dumped into an empty space as close to the carrier as possible.  If multiple spaces qualify, choose at random.
+A single container you touch has its carrying capacity increased by +10 slots for the duration of the spell.  Filling these extra slots does not increase the weight of the container.  Any items placed in these slots must still be able to fit through the container's opening.  When the spell's duration ends, any items in the extra slots are immediately dumped into an empty space as close to the container as possible.  If multiple spaces qualify, choose at random.
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | Increase the capacity by +5 slots. |
-| +2         | Increase the duration 1 step. |
-| +2         | Increase the range to Near. |
-| +2         | Increase the number of containers affected by 1. |
+| Tier | Diff | Range | Duration | Effect   |
+|:----:|:----:|:-----:|:--------:|:--------:|
+| 2    | 6+   | C     | 1 Wa     | 15 slots |
+| 3    | 9+   | N     | 1 D      | 20 slots |
+| +1   | +3   | --    | +1 step  | +5 slots |
 
 ## Messenger Bird
 - **Tier:** 1st (3+)
@@ -483,10 +484,12 @@ With this spell, the caster summons an ordinary bird and enchants it to deliver 
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Increase the duration 1 step (to a max of 1 Day). |
-| +2         | Increase the number of number of birds that may be summoned, and thus the number of targets to which the message may be delivered, by 1 (the messages must be identical). |
+| Tier | Diff | Duration | # Birds |
+|:----:|:----:|:--------:|:-------:|
+| 2    | 6+   | 1 Wa     | 2       |
+| +1   | +3   | +1 step  | +1      |
+
+With multiple birds, each bird may be sent to a different recipient, but the messages must be identical.
 
 ## Purify Food and Drink
 - **Tier:** 1st (3+)
@@ -516,9 +519,7 @@ For the duration of the spell, the caster can read any language but does not gai
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Increase the duration 1 step. |
+For each +1 Tier, increase the duration 1 step.
 
 ## Reflection
 - **Tier:** 1st (3+)
@@ -548,12 +549,11 @@ The target gains **resistance** to that type of damage for the spell's duration.
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Increase the range to Near. |
-| +2         | Increase the number of targets by 1. |
-| +2         | Increase the number of elements resisted by 1 (requires the appropriate additional sigils). |
-| +2         | Increase the duration 1 step. |
+| Tier | Range | Area  | Duration | # Elements |
+|:----:|:-----:|:-----:|:--------:|:----------:|
+| 2    | 6+    | 2 Cr  | 10 min   | 1          |
+| 3    | 9+    | 4 Cr  | 1 Hr     | 2          |
+| +1   | +3    | +2 Cr | +1 step  | +1         |
 
 ## Shield
 - **Tier:** 1st (3+)
@@ -570,9 +570,7 @@ This spell conjures a shimmering barrier of elemental energy between the caster 
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Increase the duration 1 step. |
+For each +1 Tier, increase the duration 1 step.
 
 ## Sleep
 - **Tier:** 1st (3+)
@@ -582,19 +580,18 @@ This spell conjures a shimmering barrier of elemental energy between the caster 
 - **Range:** Touch
 - **Area:** 1 Creature
 - **Duration:** 10 minutes
-- **Save:** Hardiness (10+)
+- **Save:** Hardiness
 - **Components:** Gestures & Incantations
 
 This spell forces the touched creature into a magical slumber, rendering them [Unconscious](Combat.md#Unconcious).  If the slumbering creature is harmed in any way, they automatically awaken.  If more gentile means are used (such as shaking or slapping), the sleeping creature may make a new Saving Throw, but no more than once per Turn.
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | Increase the saving throw difficulty by +1. |
-| +2         | Increase the range to Near. |
-| +2         | Increase the number of targets by 1 (note that multiple sigils may be required to affect creatures of different types). |
-| +2         | Increase the duration 1 step. |
+| Tier | Diff | Range | Area  | Duration |
+|:----:|:----:|:-----:|:-----:|:--------:|
+| 2    | 6+   | C     | 2 Cr  | 10 min   |
+| 3    | 9+   | N     | 3 Cr  | 1 Hr     |
+| +1   | +3   | --    | +1 Cr | +1 step  |
 
 ## Spider's Aspect
 - **Tier:** 1st (3+)
@@ -611,11 +608,11 @@ The touched creature gains the ability to cling to vertical and inverted surface
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Increase the range 1 step (to a max of Near. |
-| +2         | Increase the number of targets by 1. |
-| +2         | Increase the duration 1 step. |
+| Tier | Diff | Range | Area  | Duration |
+|:----:|:----:|:-----:|:-----:|:--------:|
+| 2    | 6+   | C     | 2 Cr  | 1 Hr (c) |
+| 3    | 9+   | N     | 4 Cr  | 1 Wa (c) |
+| +1   | +3   | --    | +2 Cr | +1 step  |
 
 ## Turn Undead
 - **Tier:** 1st (3+)
@@ -625,17 +622,14 @@ The touched creature gains the ability to cling to vertical and inverted surface
 - **Range:** Near
 - **Area:** All undead in range
 - **Duration:** 10 minutes
-- **Save:** Spirit (10+)
+- **Save:** Spirit
 - **Components:** Gestures & Incantations
 
 Any undead creature within Near range of the caster, who can see or hear the caster, must immediately make a **Spirit** saving throw or become [Frightened](Combat.md#Frightened) of the caster.  Affected creatures may repeat this saving throw at the end of each of their turns in order to overcome the effect.  Once the effect is overcome or the duration has expired, the affected creatures behave normally.
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | Increase the saving throw difficulty by +1. |
-| +2         | Increase the duration 1 step. |
+For each +1 Tier, increase the duration 1 step.
 
 ## Unseen Servant
 - **Tier:** 1st (3+)
@@ -648,14 +642,15 @@ Any undead creature within Near range of the caster, who can see or hear the cas
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-The caster summons a minor spirit to help with mundane tasks.  The summoned spirit can do simple tasks such as fetch, carry (up to 20 lbs/4 items), open doors, hold chairs, tidy and so forth.  It will continue doing a single task until the end of the spell's duration or given a new verbal command by the caster. This spirit cannot attack and all damage passes right through it with the exception of Spirit damage (and the servant only has 1 HP).  It also cannot move further from the caster than the spell's range without dissipating and ending the spell.
+The caster summons a minor spirit to help with mundane tasks.  The summoned spirit can do simple tasks such as fetch, carry (up to 20 lbs/4 items), open doors, hold chairs, tidy and so forth.  It will continue doing a single task until the end of the spell's duration or given a new verbal command by the caster. This spirit cannot attack and all damage passes right through it with the exception of Spirit damage (and the servant only has 1 HP).  It also cannot move further from the caster than the spell's range without dissipating and ending the spell.  It has a move speed of Near.
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Increase the range to Far. |
-| +2         | Increase the duration 1 step (to a max of 1 Day). |
+| Tier | Diff | Range | Duration |
+|:----:|:----:|:-----:|:--------:|
+| 2    | 6+   | N     | 1 Wa     |
+| 3    | 9+   | F     | 1 D      |
+| +1   | +3   | --    | +1 step  |
 
 ## Ventriloquism
 - **Tier:** 1st (3+)
@@ -665,14 +660,11 @@ The caster summons a minor spirit to help with mundane tasks.  The summoned spir
 - **Range:** Near
 - **Area:** self
 - **Duration:** 10 minutes
-- **Save:** Spirit (10+)
+- **Save:** Spirit
 - **Components:** Gestures & Incantations
 
 By means of this spell, the caster makes it seem as if their voice were coming from a point designated by the caster.  So long as the spell lasts, the source of the caster's voice may be moved to any point within the spell's range.  Any creatures hearing the voice may attempt a Spirit save in order to realize where the voice is truly coming from (the caster's location).
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | Increase the saving throw difficulty by +1. |
-| +2         | Increase the duration 1 step. |
+For each +1 Tier increase the duration 1 step.

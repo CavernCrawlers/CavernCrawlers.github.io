@@ -19,7 +19,7 @@ The Voice has told you many secrets, including how to best get what you want fro
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-When you came of age, the Voice became clearer and began instructing you in the ways of magic. You become a level 1 [Spellcaster](Spellcaster.md). You gain the class abilities _Exhausting Magic_, _Invocation Dice_, _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Beguilement](TierZeroSpells.md#beguilement) cantrip and Person [sigil](sigils.md). The tables below will tell you your other traits and spells.
+When you came of age, the Voice became clearer and began instructing you in the ways of magic. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Exhausting Magic_, _Invocation Dice_, _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Beguilement](TierZeroSpells.md#beguilement) cantrip and Humanoid [sigil](sigils.md). The tables below will tell you your other traits and spells.
 
 ### What else happened to you as you came of age?
 
@@ -235,7 +235,7 @@ When you came of age, the Voice became clearer and began instructing you in the 
 ## Fill out your sheet.
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
-3. Note your species as [Human](human.md) and note your special abilities.
+3. Note your species as [Human](species/Human.md) and note your special abilities.
 4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Herald of the Nameless Gods begins with the following equipment: your background trappings, a backpack, common robes, a spellbook, many pouches, a light weapon and 4d6+10sp.  You also have whatever items you rolled in your Lifepath.
@@ -249,6 +249,6 @@ When you came of age, the Voice became clearer and began instructing you in the 
 14. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 15. Your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2 for being a Human Spellcaster.
 16. Your starting Hit Points equal to 4 plus your Constitution Modifier.
-17. Fill in your [Saving Throws](Spellcaster.md#spellcaster%20saving%20throws) using the chart in the Spellcaster document.
+17. Fill in your [Saving Throws](classes/Spellcaster.md#spellcaster%20saving%20throws) using the chart in the Spellcaster document.
 18. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
 

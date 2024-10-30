@@ -20,7 +20,7 @@ You are strong and brave. Your Strength begins at 12, and all of your other abil
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-As you came of age, you began your quest to become a great knight. You become a level 1 [Fighter](Fighter.md). You gain the class abilities *Combat Maneuvers*, *Hauler* and *Minimum Damage*.  The tables below will tell you your other abilities.
+As you came of age, you began your quest to become a great knight. You become a level 1 [Fighter](classes/Fighter.md). You gain the class abilities *Combat Maneuvers*, *Hauler* and *Minimum Damage*.  The tables below will tell you your other abilities.
 
 ### How did you begin your quest?
 <table>
@@ -207,7 +207,7 @@ As you came of age, you began your quest to become a great knight. You become a 
 
 ## Fill out your sheet.
 1. Record your name, class and level.
-2. Record your species and whatever [features](Human.md) you gain from it.
+2. Record your species and whatever [features](species/Human.md) you gain from it.
 3. Select a background from those made available from your Lifepath, above.
 4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Would-Be Knight begins with the following equipment: your background trappings, a backpack, common clothing, a tinderbox, tools for arms and armor maintenance, a light weapon, scale mail; plus either 2 weapons or a weapon and shield, and 4d6sp.  You also have any items gained from your Lifepath.
@@ -218,5 +218,5 @@ As you came of age, you began your quest to become a great knight. You become a 
 10. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 11. As a Human Fighter, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
 12. Your starting Hit Points equal to 8 plus your Constitution Modifier.
-13. Fill in your [Saving Throws](Fighter.md#fighter%20saving%20throws) using the chart in the Fighter document.
+13. Fill in your [Saving Throws](classes/Fighter.md#fighter%20saving%20throws) using the chart in the Fighter document.
 14. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

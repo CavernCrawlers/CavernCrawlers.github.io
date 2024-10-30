@@ -19,7 +19,7 @@ You have a mighty bearing. Your Constitution and Charisma begin at 10, and all o
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-Raised in the wilds, you nevertheless made a place for yourself in the village. You become a level 1 Fighter-Rogue. You gain the class abilities _Fortune's Favor_ and _Rogue Skills_. The tables below will give you all your [Knacks](Fighter-Rogue.md#fighter-rogue%20knacks) and [Traits](Traits.md).
+Raised in the wilds, you nevertheless made a place for yourself in the village. You become a level 1 Fighter-Rogue. You gain the class abilities _Fortune's Favor_ and _Rogue Skills_. The tables below will give you all your [Knacks](classes/Fighter-Rogue.md#fighter-rogue%20knacks) and [Traits](Traits.md).
 
 ### What have you learned?
 <table>
@@ -206,7 +206,7 @@ Raised in the wilds, you nevertheless made a place for yourself in the village. 
 ## Fill out your sheet.
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
-3. Record your species and the [features](Human.md#features) that come from it.
+3. Record your species and the [features](species/Human.md#features) that come from it.
 4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Lost Barbarian begins with the following equipment: your background trappings, a backpack, fur or hide clothing, a bedroll, a mess kit, a tinderbox, 10 torches, 1 week’s rations, 50ft rope, leather armor, one light weapon, one medium weapon, a medium weapon or shield, medicine bag (healer's kit) and 2d4sp.  You also gain any items rolled during your Lifepath (above).
 6. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
@@ -216,6 +216,6 @@ Raised in the wilds, you nevertheless made a place for yourself in the village. 
 10. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 11. As a Human Fighter-Rogue, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 3.
 12. Your starting Hit Points equal to 7 plus your Constitution Modifier.
-13. Fill in your [Saving Throws](Fighter-Rogue.md#fighter-rogue%20saving%20throws) using the chart in the Fighter-Rogue document.
+13. Fill in your [Saving Throws](classes/Fighter-Rogue.md#fighter-rogue%20saving%20throws) using the chart in the Fighter-Rogue document.
 14. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
 

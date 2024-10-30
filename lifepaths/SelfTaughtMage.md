@@ -20,7 +20,7 @@ You were the brightest child in the village. Your Intelligence begins at 12, and
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You found the tome and began your studies. You become a level 1 [Spellcaster](spellcaster.md). You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting*, *Sense Magic*, the [Mage Light](TierZeroSpells.md#mage%20light) cantrip and the Light [sigil](Sigils.md).  The tables below will tell you your other abilities.
+You found the tome and began your studies. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting*, *Sense Magic*, the [Mage Light](TierZeroSpells.md#mage%20light) cantrip and the Light [sigil](Sigils.md).  The tables below will tell you your other abilities.
 
 ### What else happened to you as you learned magic?
 <table>
@@ -84,7 +84,7 @@ You found the tome and began your studies. You become a level 1 [Spellcaster](sp
 		<td align="center">+2 CHA</td>
 		<td align="left">Glamour</td>
 		<td align="left">Frighten</td>
-		<td align="left">Illusion, Person</td>
+		<td align="left">Illusion, Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">2</td>
@@ -116,7 +116,7 @@ You found the tome and began your studies. You become a level 1 [Spellcaster](sp
 		<td align="center">+2 CHA</td>
 		<td align="left">Beguilement</td>
 		<td align="left">Charm</td>
-		<td align="left">Beast, Person</td>
+		<td align="left">Beast, Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">6</td>
@@ -167,7 +167,7 @@ You found the tome and began your studies. You become a level 1 [Spellcaster](sp
 		<td align="center">+2 CHA</td>
 		<td>Soul Gaze</td>
 		<td>Calm</td>
-		<td>Person</td>
+		<td>Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">5</td>
@@ -183,7 +183,7 @@ You found the tome and began your studies. You become a level 1 [Spellcaster](sp
 		<td align="center">+2 CON</td>
 		<td>Tenacity</td>
 		<td>Heal Wounds</td>
-		<td>Person</td>
+		<td>Humanoid</td>
 	</tr>
 	<tr><td colspan=6><b>Please add the location where this happened to the Village map.</b></td></tr>
 </table>
@@ -235,7 +235,7 @@ You found the tome and began your studies. You become a level 1 [Spellcaster](sp
 
 ## Fill out your sheet.
 1. Record your name, class and level.
-2. Record your species and whatever [features](Human.md) you gain from it.
+2. Record your species and whatever [features](species/Human.md) you gain from it.
 3. Select a background from those made available from your Lifepath, above.
 4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
@@ -250,5 +250,5 @@ You found the tome and began your studies. You become a level 1 [Spellcaster](sp
 14. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 15. As a Human Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
 16. Your starting Hit Points equal to 4 plus your Constitution Modifier.
-17. Fill in your [Saving Throws](Spellcaster.md#spellcaster%20saving%20throws) using the chart in the Spellcaster document.
+17. Fill in your [Saving Throws](classes/Spellcaster.md#spellcaster%20saving%20throws) using the chart in the Spellcaster document.
 18. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

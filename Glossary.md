@@ -12,7 +12,7 @@ A numerical modifier that gets added to the [Attack Roll](#Attack%20Roll).  The 
 A [D20 Check](#D20%20Check) to which the characters Attack Bonus and appropriate Ability Modifier are added and compared to the target's Armor Class.
 
 ## Class
-An adventuring profession.  Either [Fighter](Fighter.md), [Rogue](Rogue.md), [Spellcaster](Spellcaster.md), [Fighter-Rogue](Fighter-Rogue.md), [Fighter-Spellcaster](Fighter-Spellcaster.md) or [Rogue-Spellcaster](Rogue-Spellcster.md).
+An adventuring profession.  Either [Fighter](classes/Fighter.md), [Rogue](classes/Rogue.md), [Spellcaster](classes/Spellcaster.md), [Fighter-Rogue](classes/Fighter-Rogue.md), [Fighter-Spellcaster](classes/Fighter-Spellcaster.md) or [Rogue-Spellcaster](Rogue-Spellcster.md).
 
 ## Concealed Door
 A type of [Hidden Door](#Hidden%20Door) that is simply obscured behind some other object.
@@ -48,7 +48,7 @@ A die used in rolling for [Hit Points](#Hit%20Points).
 A score indicating how difficult it is to kill a target.
 
 ## Hybrid Class
-This is one of three character classes that are a combination of two core classes ([Fighter-Rogue](Fighter-Rogue.md), [Fighter-Spellcaster](Fighter-Spellcaster.md) and [Rogue-Spellcaster](Rogue-Spellcaster.md))
+This is one of three character classes that are a combination of two core classes ([Fighter-Rogue](classes/Fighter-Rogue.md), [Fighter-Spellcaster](classes/Fighter-Spellcaster.md) and [Rogue-Spellcaster](classes/Rogue-Spellcaster.md))
 
 ## Level
 A measure of a character's training and experience.

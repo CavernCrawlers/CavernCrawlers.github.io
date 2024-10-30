@@ -20,7 +20,7 @@ You are intelligent and charming. Your Intelligence and Charisma begin at 10, an
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You learned a bit of everything. You become a level 1 [Rogue-Spellcaster](rogue-spellcaster.md). You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting* and *Sense Magic*.  The tables below will tell you your other abilities.
+You learned a bit of everything. You become a level 1 [Rogue-Spellcaster](classes/Rogue-Spellcaster.md). You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting* and *Sense Magic*.  The tables below will tell you your other abilities.
 
 ### What did you do with yourself in your boredom?
 <table>
@@ -133,7 +133,7 @@ You learned a bit of everything. You become a level 1 [Rogue-Spellcaster](rogue-
 		<td>A minor spirit was playing tricks on those around the castle, but you bound it to your will.<br/><i>Your friend still helps you think of the best uses for your invisible friend, and gains +1 WIS.</i></td>
 		<td align="center">+2 WIS</td>
 		<td>Hexing, Mage Hand</td>
-		<td>Person, Spirit</td>
+		<td>Humanoid, Spirit</td>
 	</tr>
 	<tr>
 		<td align="center">3</td>
@@ -147,7 +147,7 @@ You learned a bit of everything. You become a level 1 [Rogue-Spellcaster](rogue-
 		<td>A spirit whispered to you the tricks of the fae as you slept at night.<br/><i>Your friend heard the voices too and is now somewhat touched, and gains +1 CHA.</i></td>
 		<td align="center">+2 CHA</td>
 		<td>Glamour, Beguilement</td>
-		<td>Illusion, Person</td>
+		<td>Illusion, Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">5</td>
@@ -213,7 +213,7 @@ You learned a bit of everything. You become a level 1 [Rogue-Spellcaster](rogue-
 
 ## Fill out your sheet.
 1. Record your name, class and level.
-2. Record your species and whatever [features](Human.md) you gain from it.
+2. Record your species and whatever [features](species/Human.md) you gain from it.
 3. Select a background from those made available from your Lifepath, above.
 4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
@@ -227,5 +227,5 @@ You learned a bit of everything. You become a level 1 [Rogue-Spellcaster](rogue-
 13. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 14. As a Human Rogue-Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
 15. Your starting Hit Points equal to 5 plus your Constitution Modifier.
-16. Fill in your [Saving Throws](Rogue-Spellcaster.md#Rogue-Spellcaster%20saving%20throws) using the chart in the Rogue-Spellcaster document.
+16. Fill in your [Saving Throws](classes/Rogue-Spellcaster.md#Rogue-Spellcaster%20saving%20throws) using the chart in the Rogue-Spellcaster document.
 17. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

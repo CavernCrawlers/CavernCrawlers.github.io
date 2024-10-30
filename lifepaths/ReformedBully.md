@@ -20,7 +20,7 @@ You were a very tough kid, but not well liked. Your Strength begins at 12, your 
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You terrorized the other children in the village. You become a level 1 [Fighter](fighter.md). You gain the class abilities *Combat Maneuvers*, *Hauler* and *Minimum Damage*.  The tables below will tell you your other abilities.
+You terrorized the other children in the village. You become a level 1 [Fighter](classes/Fighter.md). You gain the class abilities *Combat Maneuvers*, *Hauler* and *Minimum Damage*.  The tables below will tell you your other abilities.
 
 ### What happened when you became angry and strong?
 <table>
@@ -219,7 +219,7 @@ You terrorized the other children in the village. You become a level 1 [Fighter]
 
 ## Fill out your sheet.
 1. Record your name, class and level.
-2. Record your species and the [features](Human.md) gained from it.
+2. Record your species and the [features](species/Human.md) gained from it.
 3. Select a background from those made available from your Lifepath, above.
 4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Reformed Bully begins with the following equipment: your background trappings, a backpack, peasants clothes, a heavy cloak, a bedroll, a mess kit, a tinderbox, 10 torches, 1 week’s rations, 50ft rope, leather armor, one light weapon, one medium weapon and 4d6sp.  You also have any equipment you rolled in your Lifepath.
@@ -230,5 +230,5 @@ You terrorized the other children in the village. You become a level 1 [Fighter]
 10. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 11. As a Human Fighter, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
 12. Your starting Hit Points equal to 8 plus your Constitution Modifier.
-13. Fill in your [Saving Throws](Fighter.md#Fighter%20saving%20throws) using the chart in the Fighter document.
+13. Fill in your [Saving Throws](classes/Fighter.md#Fighter%20saving%20throws) using the chart in the Fighter document.
 14. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

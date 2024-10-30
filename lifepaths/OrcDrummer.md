@@ -17,7 +17,7 @@ You were raised in the traditions of both your tribe's warriors and its priests.
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You learned the ways of battle and magic. You become a level 1 [Fighter-Spellcaster](fighter-spellcaster.md). You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus* (your drum), *Spellcasting* and *Sense Magic*.  The tables below will tell you your other abilities.
+You learned the ways of battle and magic. You become a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md). You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus* (your drum), *Spellcasting* and *Sense Magic*.  The tables below will tell you your other abilities.
 
 ### What have you learned in your life so far?
 <table>
@@ -78,14 +78,14 @@ You learned the ways of battle and magic. You become a level 1 [Fighter-Spellcas
 		<td>The Chthonians (aka, the Dark Gods of Limbo)</td>
 		<td align="center">+2 CON</td>
 		<td align="left">Conjure Shadow, Hexing</td>
-		<td align="left">Shadow, Person</td>
+		<td align="left">Shadow, Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">2</td>
 		<td>The Empyreans (aka, the Gods of Order)</td>
 		<td align="center">+2 WIS</td>
 		<td align="left">Inspire, Mage Light</td>
-		<td align="left">Person, Light</td>
+		<td align="left">Humanoid, Light</td>
 	</tr>
 	<tr>
 		<td align="center">3</td>
@@ -99,7 +99,7 @@ You learned the ways of battle and magic. You become a level 1 [Fighter-Spellcas
 		<td>The Qliphotic (aka, the Lords of Hell)</td>
 		<td align="center">+2 INT</td>
 		<td align="left">Beguilement, Hexing</td>
-		<td align="left">Person, Beast</td>
+		<td align="left">Humanoid, Beast</td>
 	</tr>
 	<tr>
 		<td align="center">5</td>
@@ -113,7 +113,7 @@ You learned the ways of battle and magic. You become a level 1 [Fighter-Spellcas
 		<td>One of the Derlethians (roll 1d8):<br>1) Atropus (the God Born Dead), 2) Kyuss (the Worm that Walks), 3) Llymic (the Hater of Light), 4) Pandorym (the Godslayer), 5) Ragnorra (Mother of Monsters), 6) Valusi (the Leviathan), 7) Zargon (the Undying), 8) Zoretha (the Cleansing Fire)</td>
 		<td align="center">+2 DEX</td>
 		<td align="left">Hexing, Spirit Sight</td>
-		<td align="left">Person, Spirit</td>
+		<td align="left">Humanoid, Spirit</td>
 	</tr>
 </table>
 
@@ -217,7 +217,7 @@ You learned the ways of battle and magic. You become a level 1 [Fighter-Spellcas
 
 ## Fill out your sheet.
 1. Record your name, class and level.
-2. Record your species and whatever [features](Orc.md) you gain from it.
+2. Record your species and whatever [features](species/Orc.md) you gain from it.
 3. Select a background from those made available from your Lifepath, above.
 4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
@@ -231,5 +231,5 @@ You learned the ways of battle and magic. You become a level 1 [Fighter-Spellcas
 13. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 14. As a Orc Fighter-Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 1.
 15. Your starting Hit Points equal to 6 plus your Constitution Modifier.
-16. Fill in your [Saving Throws](Fighter-Spellcaster.md#Fighter-Spellcaster%20saving%20throws) using the chart in the Fighter-Spellcaster document.
+16. Fill in your [Saving Throws](classes/Fighter-Spellcaster.md#Fighter-Spellcaster%20saving%20throws) using the chart in the Fighter-Spellcaster document.
 17. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

@@ -20,15 +20,15 @@ You are tough, and hold much lore in your head, but sometimes have little time f
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You learned the secrets of the runes. You become a level 1 [Fighter-Spellcaster](Fighter-Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting* and *Sense Magic*. The tables below will give you all your [Knacks](Fighter-Spellcaster.md#fighter-spellcaster%20knacks), [Traits](Traits.md), [Cantrips](TierZeroSpells.md) and [Sigils](sigils.md).
+You learned the secrets of the runes. You become a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting* and *Sense Magic*. The tables below will give you all your [Knacks](classes/Fighter-Spellcaster.md#fighter-spellcaster%20knacks), [Traits](Traits.md), [Cantrips](TierZeroSpells.md) and [Sigils](sigils.md).
 
 ### What have you learned on your adventures so far?    
 | d6 | What did you learn best from the rune master?                                             | Ability | Background | Cantrip     | Sigil  |
 |:--:|:------------------------------------------------------------------------------------------|:-------:|:-----------|:------------|:-------|
-|  1 | Patience and hard work at the forge.                                                      |  +2 WIS | Smith      | Inspire     | Person |
+|  1 | Patience and hard work at the forge.                                                      |  +2 WIS | Smith      | Inspire     | Humanoid |
 |  2 | The secrets of the past and the ways of dwarves, humans, and all creatures.               |  +2 INT | Sage       | Mage Hand   | Air    |
-|  3 | Trickery and deceit, the traits of the fallen dwarves of the southern mountains.          |  +2 CHA | Mountebank | Beguilement | Person |
-|  4 | Runes which will instill confidence into the hearts of your allies and friends.           |  +2 CON | Politician | Inspire     | Person |
+|  3 | Trickery and deceit, the traits of the fallen dwarves of the southern mountains.          |  +2 CHA | Mountebank | Beguilement | Humanoid |
+|  4 | Runes which will instill confidence into the hearts of your allies and friends.           |  +2 CON | Politician | Inspire     | Humanoid |
 |  5 | The ways of war and the defense of your own people.                                       |  +2 STR | Soldier    | Spark       | Fire   |
 |  6 | The history of the forgotten tombs and cities of your people, and how to find them again. |  +2 DEX | Sage       | Mage Light  | Light  |  
 
@@ -104,14 +104,14 @@ You learned the secrets of the runes. You become a level 1 [Fighter-Spellcaster]
 		<td>An evil, wandering knight hunted you to the village and planned to slay you for fame and glory, but you made him flee.<br/><i>Your friend was the first to warn you that the knight was coming and was almost run down by his steed, and gains +1 DEX.</i></td>
 		<td align="center">+2 DEX</td>
 		<td align="Left">Hexing</td>
-		<td align="Left">Person</td>
+		<td align="Left">Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">3</td>
 		<td>You drove a crooked merchant from the village when he would have taken advantage of honest folk.<br/><i>Your friend stopped the trader when he was caught stealing from the old {widow/widower}, and gains +1 WIS.</i></td>
 		<td align="center">+2 WIS</td>
 		<td align="Left">Hexing</td>
-		<td align="Left">Person</td>
+		<td align="Left">Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">4</td>
@@ -125,7 +125,7 @@ You learned the secrets of the runes. You become a level 1 [Fighter-Spellcaster]
 		<td>A wicked man from the western seas kidnapped one of the village children for evil purposes, but you struck him down.<br/><i>Your friend fought with his bodyguard, and gains +1 STR.</i></td>
 		<td align="center">+2 STR</td>
 		<td align="Left">Mend</td>
-		<td align="Left">Person</td>
+		<td align="Left">Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">6</td>
@@ -185,7 +185,7 @@ You learned the secrets of the runes. You become a level 1 [Fighter-Spellcaster]
 ## Fill out your sheet.
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
-3. Record your species and the [features](Dwarf.md#features) that come from it.
+3. Record your species and the [features](species/Dwarf.md#features) that come from it.
 4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
 6. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Dwarven Rune Caster begins with the following equipment: your background trappings, a dagger, a backpack, common clothing, a tinderbox, tools for arms and armor maintenance, a light weapon, scale mail, either 2 weapons or a weapon and shield, and 4d6+5sp.  You also have the equipment rolled in the tables above.
@@ -198,6 +198,6 @@ You learned the secrets of the runes. You become a level 1 [Fighter-Spellcaster]
 13. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 14. As a Dwarven Fighter-Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 1.
 15. Your starting Hit Points equal to 6 plus your Constitution Modifier plus 1 for being a Dwarf.
-16. Fill in your [Saving Throws](fighter-Spellcaster.md#fighter-spellcaster-saving-throws) using the chart in the Fighter-Spellcaster document.  Remember to add +2 to your Hardiness save for being a dwarf.
+16. Fill in your [Saving Throws](classes/Fighter-Spellcaster.md#fighter-spellcaster-saving-throws) using the chart in the Fighter-Spellcaster document.  Remember to add +2 to your Hardiness save for being a dwarf.
 17. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
 

@@ -20,7 +20,7 @@ You were always clever and agile, if a bit spindly in build.  You begin play wit
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You were trained by the bounty-hunter's guild. You become a level 1 [Rogue](rogue.md). You gain the class abilities *Fortune's Favor*, *Rogue Skills* and *Sneak Attack*.  The tables below will tell you your other abilities.
+You were trained by the bounty-hunter's guild. You become a level 1 [Rogue](classes/Rogue.md). You gain the class abilities *Fortune's Favor*, *Rogue Skills* and *Sneak Attack*.  The tables below will tell you your other abilities.
 
 ### What happened when first joined the guild?
 <table>
@@ -206,7 +206,7 @@ You were trained by the bounty-hunter's guild. You become a level 1 [Rogue](rogu
 
 ## Fill out your sheet.
 1. Record your name, class and level.
-2. Record your species and whatever [features](Goblin.md) you gain from it.
+2. Record your species and whatever [features](species/Goblin.md) you gain from it.
 3. Select a background from those made available from your Lifepath, above.
 4. As a Goblin, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
@@ -218,5 +218,5 @@ You were trained by the bounty-hunter's guild. You become a level 1 [Rogue](rogu
 11. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 12. As a Goblin Rogue, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 3.
 13. Your starting Hit Points equal to 6 plus your Constitution Modifier.
-14. Fill in your [Saving Throws](Rogue.md#Rogue%20saving%20throws) using the chart in the Rogue document.
+14. Fill in your [Saving Throws](classes/Rogue.md#Rogue%20saving%20throws) using the chart in the Rogue document.
 15. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

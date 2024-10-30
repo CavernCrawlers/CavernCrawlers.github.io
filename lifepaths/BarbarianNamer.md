@@ -20,7 +20,7 @@ You are durable and wise. Your Constitution and Wisdom begin at 10, and all of y
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You learned the secrets of your people. You become a level 1 [Spellcaster](spellcaster.md). You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting* and *Sense Magic*.  You also learn the [Beast Speech](TierZeroSpells.md#beast%20speech) cantrip and the Beast [sigil](Sigils.md).  The tables below will tell you your other abilities.
+You learned the secrets of your people. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting* and *Sense Magic*.  You also learn the [Beast Speech](TierZeroSpells.md#beast%20speech) cantrip and the Beast [sigil](Sigils.md).  The tables below will tell you your other abilities.
 
 ### What happened when you learned the ways of names?
 <table>
@@ -38,7 +38,7 @@ You learned the secrets of your people. You become a level 1 [Spellcaster](spell
 		<td align="center">+2 INT</td>
 		<td align="left">Conjure Sound</td>
 		<td align="left">Charm</td>
-		<td align="left">Air, Person</td>
+		<td align="left">Air, Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">2</td>
@@ -46,7 +46,7 @@ You learned the secrets of your people. You become a level 1 [Spellcaster](spell
 		<td align="center">+2 WIS</td>
 		<td align="left">Hexing</td>
 		<td align="left">Enchant Weapon</td>
-		<td align="left">Person, Fire</td>
+		<td align="left">Humanoid, Fire</td>
 	</tr>
 	<tr>
 		<td align="center">3</td>
@@ -62,7 +62,7 @@ You learned the secrets of your people. You become a level 1 [Spellcaster](spell
 		<td align="center">+2 WIS</td>
 		<td align="left">Inspire</td>
 		<td align="left">Heal Wounds</td>
-		<td align="left">Person, Spirit</td>
+		<td align="left">Humanoid, Spirit</td>
 	</tr>
 	<tr>
 		<td align="center">5</td>
@@ -70,7 +70,7 @@ You learned the secrets of your people. You become a level 1 [Spellcaster](spell
 		<td align="center">+2 INT</td>
 		<td align="left">Spirit Sight</td>
 		<td align="left">Abjuration</td>
-		<td align="left">Spirit, Person</td>
+		<td align="left">Spirit, Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">6</td>
@@ -78,7 +78,7 @@ You learned the secrets of your people. You become a level 1 [Spellcaster](spell
 		<td align="center">+2 WIS</td>
 		<td align="left">Nature's Blessing</td>
 		<td align="left">Charm</td>
-		<td align="left">Plant, Person</td>
+		<td align="left">Plant, Humanoid</td>
 	</tr>
 </table>
 
@@ -142,7 +142,7 @@ You learned the secrets of your people. You become a level 1 [Spellcaster](spell
 		<td align="center">+2 INT</td>
 		<td>Potent Magic</td>
 		<td>Frighten</td>
-		<td>Person</td>
+		<td>Humanoid</td>
 	</tr>
 	<tr>
 		<td align="center">2</td>
@@ -234,7 +234,7 @@ You learned the secrets of your people. You become a level 1 [Spellcaster](spell
 
 ## Fill out your sheet.
 1. Record your name, class and level.
-2. Record your species and whatever [features](Human.md) you gain from it.
+2. Record your species and whatever [features](species/Human.md) you gain from it.
 3. Select a background from those made available from your Lifepath, above.
 4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
@@ -249,5 +249,5 @@ You learned the secrets of your people. You become a level 1 [Spellcaster](spell
 14. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 15. As a Human Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
 16. Your starting Hit Points equal to 4 plus your Constitution Modifier.
-17. Fill in your [Saving Throws](Spellcaster.md#spellcaster%20saving%20throws) using the chart in the Spellcaster document.
+17. Fill in your [Saving Throws](classes/Spellcaster.md#spellcaster%20saving%20throws) using the chart in the Spellcaster document.
 18. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

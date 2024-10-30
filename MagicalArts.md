@@ -23,17 +23,23 @@ Spellcasters may also learn spells from other casters (if they can find one will
 If a spellbook is lost or destroyed, it may be recreated using the spells that the spellcaster has already prepared.  Doing so requires a specially prepared spellbook (worth at least 100sp) and takes the same cost in time and materials as learning each spell anew.
 
 ## Magical Focus
-A magical focus is a device that aids a spellcaster in channeling and controlling their magic.  This device must be easily seen, recognized and hand-held.  It also takes up 1 inventory slot.  
+A magical focus is a device that aids a spellcaster in channeling and controlling their magic.  This device must be easily seen, recognized and hand-held.  It also takes up 1 inventory slot.
 
-While a caster has their magical focus in hand, they may re-roll a number of invocation dice equal to 1/3 their **Skill Bonus** (rounded up).  
-
-Spellcasters also frequently inscribe [sigils](sigils.md) that they know into their focus so that they are immediately on-hand when casting spells.
+A spellcaster may inscribe a number of known [sigils](Sigils.md) into their Focus.  This allows the inscribed sigils to count as being on-hand so long as the caster has their Focus in-hand.  Additionally, and spells utilizing that sigil may be cast using d8s for the Invocation Dice instead of d6s.
 
 ### Replacing a Focus
-A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 50sp worth of materials.
+A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 100sp worth of materials.
+
+### Inscribing Sigils
+It takes one day plus 50sp, to inscribe a sigil into a Magical Focus.
 
 ## Preparing Spells
-A spellcaster may only cast spells they have prepared.  Cantrips are always prepared, so they can always be cast.  Spells of Rank 1 or higher take time to prepare.  A spellcasters may only prepare as many spells as their Skill Bonus plus their Intelligence Modifier. Preparing a spell takes 10 minutes times the spell's base rank.  Once a spell is prepared, it remains prepared until the caster chooses to replace it with a different spell or some event causes the mage to temporarily lose the spell.
+A spellcaster may only cast spells they have prepared.  Cantrips are always prepared, so they can always be cast.  Spells of Rank 1 or higher take time to prepare.  A spellcasters may only prepare as many spells as their Skill Bonus plus their Intelligence Modifier. Preparing a spell takes 10 minutes times the spell's tier.  Once a spell is prepared, it remains prepared until the caster chooses to replace it with a different spell or some event causes the mage to temporarily lose the spell.
+
+### Casting Unprepared Spells
+A spellcaster, so long as they have access to their spellbook, may cast unprepared spells using said spellbook.  Doing so increases the casting time of the spell ten-fold, to a minimum of 10 minutes.
+
+*For example, a character wishing to cast [Augury](TierTwoSpells.md#augury) as an unprepared spell must have their spellbook on hand.  Since the base casting time is 10 minutes, it will now take 100 minutes to cast the spell in this manner.*
 
 ## The Invocation Roll
 
@@ -42,7 +48,7 @@ A spellcaster may only cast spells they have prepared.  Cantrips are always prep
 ### Quick Summary
 - Spellcasters get an **invocation pool** of six-sided dice based on their **Level** and **Wisdom Modifier**.
 - Any number of dice may be used to cast a spell.
-- **Spell difficulty** is equal to the spell’s rank (aka level) times 4.
+- **Spell difficulty** is equal to the spell’s tier times 3.
 - Any **invocation die** that comes up as a 1 or 2 is removed from the pool (aka **expended**).
 - Some expended **invocation dice** may be recovered after a **rest**.
 
@@ -54,12 +60,12 @@ A spellcaster gets a pool of six-sided dice with which to cast their spells.  Th
 When casting a spell, the caster may choose to roll any number of **invocation dice** in order to try to meet or exceed the **spell difficulty**.  Any dice showing their ‘1’ or ‘2’ faces are **expended** from the pool (though still counted toward the casting result) and cannot be used again until **recovered**.
 
 #### Exhausting Magic
-If a spellcaster finds themselves in need of a quick boost of magical energy, they may add their **Skill bonus** to their **Invocation Roll** by gaining 1 level of [Exhaustion](Combat.md#Exhaustion).
+If a spellcaster finds themselves in need of a quick boost of magical energy, they may add their **Skill bonus** to their **Invocation Roll** by gaining 1 level of [Exhaustion](Combat.md#Exhaustion).  This may be done as a [Free Action](Combat.md#free%20actions).
 
 #### Magical Focus
-Each spellcaster constructs an item as part of their apprenticeship.  This item helps the mage in focusing and controlling their magic.  A magical focus must be an item that the spellcaster holds in their hand(s) and is obviously magical in nature (often covered in sigils and glyphs).  While the magical focus is in hand, the magician may reroll a number of invocation dice equal to 1/2 their Skill Bonus (rounded up).
+While a spellcaster has their magical focus is in hand, and if that focus has the proper sigils carved into it, the spellcaster may roll d8s instead of d6s for their invocation dice.
 
-*Example: A 5th level Rogue-Spellcaster has a Skill Bonus of +3.  Each time they cast a spell, they may reroll 2 of their Invocation Dice.*
+*Example: A 5th level Spellcaster wishes to cast the Fireball spell (Tier 3), so the difficulty is 9+.  Normally, they would roll up to 5d6 to cast the spell (probably using 3 to be on the safe side).  However, if they have the Fire sigil carved into their magical focus, they would roll d8s and thus would be reasonably safe rolling only 2 dice to cast the spell (thus reducing the chance of a [Mishap](#mishaps)).*
 
 ### Spell Difficulty
 A spell’s **difficulty** is equal to 3 times the rank at which it is cast.  **Cantrips**, being Rank 0, are difficulty zero than thus do not need an invocation roll unless cast at a higher rank.
@@ -90,14 +96,14 @@ After a [Long Rest](Combat.md#Long%20Rest), the same procedure is followed with 
 After an [Extended Rest](Combat.md#Extended%20Rest), all **invocation dice** that have been **expended** are automatically recovered.
 
 ### Magical Attacks and Saving Throws
-Once a spell has successfully been invoked, the mage may then need to make a **Magical Attack Roll**.  This is similar to a normal **Attack Roll**, but uses the mage’s **Skill Bonus** and the **Ability Modifier** of the ability called out by the Art in question.  If the Magical Attack Roll is a critical hit, it allows the mage to double one numerical trait of the magical art; typically range, area, number of targets, duration or damage.  In the case of damage, treat this the same as a [critical hit](Combat.md#Critical%20Hits) from a weapon; thus it’s not strictly a doubling.
+Once a spell has successfully been invoked, the mage may then need to make a **Magical Attack Roll**.  This is similar to a normal [Attack Roll](Combat.md#attacking%20an%20enemy), but uses the mage’s **Skill Bonus** and the **Ability Modifier** of the ability called out by the Art in question.  If the Magical Attack Roll is a critical hit, it allows the mage to double one numerical trait of the magical art; typically range, area, number of targets, duration or damage.  In the case of damage, treat this the same as a [critical hit](Combat.md#Critical%20Hits) from a weapon; thus it’s not strictly a doubling.
 
-Alternatively, a spell may require the target to make a [Saving Throw](CoreRules.md#Saving%20Throws) instead of requiring a spellcaster to make an attack roll.  In this case, the Spellcaster's **Spell DT** is the target number.  If the target succeeds on their save, the effects of the spell may be reduced or even mitigated entirely (according to the spell's description).
+Alternatively, a spell may require the target to make a [Saving Throw](CoreRules.md#Saving%20Throws) instead of requiring a spellcaster to make an attack roll.  In this case, the Spellcaster's [Spell Save Difficulty](classes/ClassAbilities.md#spellcasting) is the target number.  If the target succeeds on their save, the effects of the spell may be reduced or even mitigated entirely (according to the spell's description).
 
 ### Spell Identification
-If a mage can directly see and hear another spellcaster as they cast a spell, they may attempt a **Skilled Intelligence** check vs. the spell's **DT** in order to identify the spell being cast.  If the observing mage can only see or hear the casting mage, but not both, this check is performed at **Disadvantage**.
+If a mage can directly see and hear another spellcaster as they cast a spell, they may attempt a [Skilled](RulesSynopsis.md#skilled%20check) **Intelligence** check vs. the spell's **casting difficulty** in order to identify the spell being cast.  If the observing mage can only see or hear the casting mage, but not both, this check is performed at **Disadvantage**.
 
-If the check is successful and the mage has the spell in their spellbook, they completely identify the spell and whether or not it is being [upcast](Spells.md#Upcasting) and to what rank (though they do not know what aspects of the spell are being increased).
+If the check is successful and the mage has the spell in their spellbook, they completely identify the spell and whether or not it is being [upcast](Spells.md#Upcasting) and to what rank.
 
 If the check is successful but the mage does not have the spell in their spellbook, they will only be able to discern the following:
 1. Whether or not the spell is being cast at a rank the observing mage can cast.
@@ -106,10 +112,10 @@ If the check is successful but the mage does not have the spell in their spellbo
 
 If the check is failed, the observing mage gains no information.
 
-Characters without the ability to cast spells may not attempt this check at all.
+Characters without the [Sense Magic](classes/ClassAbilities.md#sense%20magic) ability may not attempt this check at all.
 
 ## Concentration
-Several spells require **concentration** to maintain their effects after casting.  A caster may normally only concentrate on one thing at a time.  New actions requiring concentration supersede anything the caster is already concentrating on.  If a concentrating caster takes damage, they must pass a **Concentration Check** (a type of **Spirit saving throw**) vs DT 10 or ½ the damage done (whichever is higher).  Other things may also require a concentration check, such as being thrown into a river, suddenly startled, being grappled and so on.  The GM will set the DT of the check accordingly.  Additionally, spells that take more than 1 action to cast require concentration while they are being cast.  Losing concentration causes the magical art to fail (though the declared number of invocation dice must still be rolled to see if a mishap occurs and how many are expended).
+Several spells require **concentration** to maintain their effects after casting.  A caster may normally only concentrate on one thing at a time.  New actions requiring concentration supersede anything the caster is already concentrating on.  If a concentrating caster takes damage, they must pass a **Concentration Check** (a type of **Spirit saving throw**) vs difficulty 10 or ½ the damage done (whichever is higher).  Other things may also require a concentration check, such as being thrown into a river, suddenly startled, being grappled and so on.  The GM will set the difficulty of the check accordingly.  Additionally, spells that take more than 1 action to cast require concentration while they are being cast.  Losing concentration causes the magical art to fail (though the declared number of invocation dice must still be rolled to see if a mishap occurs and how many are expended).
 
 ## Mishaps
 If two of the dice rolled at the same time come up as ‘1’s, this will result in a [Minor Magical Mishap](#Minor%20Magical%20Mishap), even if the spell casting is successful.  If three of the dice are ‘1’s, then the caster suffers a [Major Magical Mishap](#Major%20Magical%20Mishap).  If four or more dice are ‘1’s, then the caster suffers the effects of both a **minor** and a **major** spell mishap.
@@ -157,12 +163,12 @@ Note that some tables may wish to assume that spells cast when there is no time 
 |   4   | **Mage Rot:** The caster is cursed with *Mummy Rot*.                                                                                                                                                                                                                                       |
 |   5   | **Muted:** Each time the caster tries to speak, {color} bubbles come from their mouth.  The caster’s words are heard as they pop.  This effect has a 4d6(pool) round duration.  While in effect, spell difficulty is increased to 5 times the spell rank it is cast at.                    |
 |   6   | **Intoxicating Power:** The caster becomes [Intoxicated](Combat.md#Intoxicated) as if drunk on alcohol.  This effect lasts 2d4(pool) hours                                                                                                                                                 |
-|   7   | **Paranoia:** The caster becomes [Frightened](Combat.md#Frighted) of the nearest creature until the end of their next turn.                                                                                                                                                                |
-|   8   | **Aspect Alteration:** The caster must make a **Hardiness** save vs **DC 15** or be turned into an {animal}.  If transformed, they may repeat the save once each minute until they succeed and change back.  They automatically revert to their true form if reduced to 0 HP.              |
+|   7   | **Paranoia:** The caster becomes [Frightened](Combat.md#Frightened) of the nearest creature until the end of their next turn.                                                                                                                                                                |
+|   8   | **Aspect Alteration:** The caster must make a **Hardiness** save vs **diff 15** or be turned into an {animal}.  If transformed, they may repeat the save once each minute until they succeed and change back.  They automatically revert to their true form if reduced to 0 HP.              |
 |   9   | **Susceptible:** The caster and all creatures within 30 feet gain **vulnerability** to {damage type} for the next minute.                                                                                                                                                                  |
 |  10   | **Mindblast:** 1d4+1 of the caster's **Invocation Dice** are immediately **expended**.                                                                                                                                                                                                     |
 |  11   | **Silenced:** The caster loses their voice for 3d4(pool) minutes.                                                                                                                                                                                                                          |
-|  12   | **Overload:** The caster is overwhelmed by magical energy and has the [Stunned](Combat.md#Stunned) condition until they pass a **DT 15** **Hardiness** save.  They may roll the save at the end of each of their turns excepting the turn they gained this condition.                      |
+|  12   | **Overload:** The caster is overwhelmed by magical energy and has the [Stunned](Combat.md#Stunned) condition until they pass a **diff 15** **Hardiness** save.  They may roll the save at the end of each of their turns excepting the turn they gained this condition.                      |
 |  13   | **Outside Interference:**  The caster is attacked by 2d6 HD of {aberrations} (minimum 1 creature).  They appear within 1d6 times 10 feet of the caster in a random direction.  They continue their assault for 4d4(pool) rounds unless defeated.                                           |
 |  14   | **Etheric Shock:** The caster takes 3d8 lightning damage.                                                                                                                                                                                                                                  |
 | 15-20 | **Enfeeblement:** Magical energy wracks the caster’s body, draining {ability} by 1d6 points.  This effect lasts 4d4(pool) minutes                                                                                                                                                          |

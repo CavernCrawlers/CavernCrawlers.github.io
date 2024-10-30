@@ -1,4 +1,5 @@
 # Combat
+- [Time](#time)
 - [Surprise](#Surprise)
 	- [Ambush](#Ambush)
 - [Initiative](#Initiative)
@@ -119,7 +120,7 @@ A standard **Move Action** allows a creature to move up to its movement rate.  A
 ### Reactions
 **Reactions** are sudden reflex actions that may be taken outside of the normal **Turn** order.  Each creature gets one Reaction per Round.
 - **Cast:** Cast a **cantrip** or **spell** if the description states that it can be cast as a reaction.
-- **Opportunity Attack:** Make a single attack (cannot be used with extra attacks) against a creature attempting to move out of your reach without first taking the **Withdraw** action.
+- **Reflex Attack:** Make a single attack (cannot be used with extra attacks) against a creature attempting to move out of your reach without first taking the **Withdraw** action.
 - **Trigger a Readied Action:** If the set trigger occurs, take the readied action.
 
 ## Attacking an Enemy
@@ -135,11 +136,11 @@ There are two types of cover to be concerned with.  Hard Cover is an object or p
 | Type | Coverage | Modifier |
 |:-----|:--------:|:---------|
 | Hard | 100%     | Attack is Impossible |
-| Hard | 50-99%   | +5 to target's AC |
-| Hard | 25-49%   | +2 to target's AC |
-| Hard | <25%     | no modifier |
-| Soft | 50-100%  | Attack at Disadvantage |
-| Soft | <50%     | no modifier |
+| Hard | 51-99%   | +5 to target's AC |
+| Hard | 26-50%   | +2 to target's AC |
+| Hard | <=25%    | no modifier |
+| Soft | 51-100%  | +2 to target's AC |
+| Soft | <-50%    | no modifier |
 
 ### Magical Attacks
 Magical attacks follow the same rules as other attacks, but use the caster's **Skill Bonus** and either **Intelligence**, **Wisdom** or **Charisma modifier**.  See [Magical Attacks](MagicalArts.md#magical%20attacks%20and%20saving%20throws) under the Magical Arts document for further details.

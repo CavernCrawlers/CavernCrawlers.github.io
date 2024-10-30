@@ -16,5 +16,14 @@
       ],
       "key": "T"
     }
+  ],
+  "markdown-link-space-encoder:markdown-link-space-encode": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "E"
+    }
   ]
 }

@@ -52,7 +52,7 @@ Misdirection
 
 ## Alter Self
 - **Tier:** 2 (6+)
-- **Sigils** Person
+- **Sigils** Humanoid
 - **Casting Ability:** Intelligence
 - **Casting Time:** 10 minutes
 - **Range:** Personal

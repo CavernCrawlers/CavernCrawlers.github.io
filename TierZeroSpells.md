@@ -54,19 +54,19 @@ Each time a mage learns this cantrip, they must pick a particular type of beast 
 - **Range:** Near
 - **Area:** 1 Creature
 - **Duration:** 10 Minutes
-- **Save:** Spirit 8+
+- **Save:** Spirit
 - **Components:** Incantations
 
 A mage uses this spell to influence the emotions and attitudes of the target creature.  If the target succeeds on their **saving throw**, they are unaffected but know that the caster was attempting to influence their mind with magic.  If the target fails, their emotional state moves toward the emotion selected by the caster (and may potentially cause a Morale check).  This can grant a plus or minus 1 modifier on social checks, including rolls on the [Reaction Table](CoreRules.md#Charisma%20and%20Reactions) and Moral checks.
 
 *Upcasting*
 
-| Tier    | Area  | Duration | Save Diff |
-|:-------:|:-----:|:---------|:---------:|
-| 1 (3+)  | 2 Cr  | 1 H      | 10+       |
-| 2 (6+)  | 4 Cr  | 1 Wa     | 12+       |
-| 3 (9+)  | 6 Cr  | 1 D      | 14+       |
-| +1 (+3) | +2 Cr | --       | +2        |
+| Tier    | Area  | Duration |
+|:-------:|:-----:|:---------|
+| 1 (3+)  | 2 Cr  | 1 H      |
+| 2 (6+)  | 4 Cr  | 1 Wa     |
+| 3 (9+)  | 6 Cr  | 1 D      |
+| +1 (+3) | +2 Cr | --       |
 
 ## Conjure Shadow
 - **Tier:** Cantrip (0+)
@@ -77,7 +77,7 @@ A mage uses this spell to influence the emotions and attitudes of the target cre
 - **Area:** Tiny
 - **Duration:** 1 Minute
 - **Save:** n/a
-- Components: Gestures
+- **Components:** Gestures
 
 This cantrip creates a tiny area of dim lighting for the duration.
 
@@ -99,18 +99,18 @@ This cantrip creates a tiny area of dim lighting for the duration.
 - **Range:** Near
 - **Area:** n/a
 - **Duration:** 1 minute
-- **Save:** Spirit 8+
-- Components: Gestures
+- **Save:** Spirit
+- **Components:** Gestures
 
 With this cantrip, a mage conjures a distinct sound within range that is no louder than normal conversation.  The type of sound must be specific (footsteps, music, clinking coins, etc) but this cantrip may not be used for communication.  A creature who hears the sound may make a **Spirit** save in order to recognize the sound as not real.
 
 *Upcasting*
 
-| Tier    | Range | Duration | Save |
-|:-------:|:-----:|:--------:|:----:|
-| 1       | N     | 10 T     | 10+  |
-| 2       | F     | 1 H      | 12+  |
-| +1 (+3) | --    | +1 step  | +2   |
+| Tier    | Range | Duration |
+|:-------:|:-----:|:--------:|
+| 1       | N     | 10 T     |
+| 2       | F     | 1 H      |
+| +1 (+3) | --    | +1 step  |
 
 ## Flare
 - **Tier:** Cantrip (0+)
@@ -120,18 +120,18 @@ With this cantrip, a mage conjures a distinct sound within range that is no loud
 - **Range:** Near
 - **Area:** 1 Creature
 - **Duration:** instant
-- **Save:** Evasion 8+
+- **Save:** Evasion
 - Components: Gestures, Incantations
 
-The mage conjures a flash of light & heat directly in front of the eyes of the target.  If the target fails their save, they are dazzled and suffer -1 on attacks, visual perception and similar rolls until the end of their next Turn.
+The mage conjures a flash of light & heat directly in front of the eyes of the target.  If the target fails their save, they are dazzled and suffer -1 on attacks, visual perception and other sight-based rolls until the end of their next Turn.  Obviously this spell has no effect on [blind](Combat.md#blinded) targets.
 
 *Upcasting*
 
-| Tier    | Range | Area  | Save |
-|:-------:|:-----:|:-----:|:----:|
-| 1 (3+)  | N     | 2 Cr  | 10+  |
-| 2 (6+)  | F     | 4 Cr  | 12+  |
-| +1 (+3) | --    | +2 Cr | +2   |
+| Tier    | Range | Area  |
+|:-------:|:-----:|:-----:|
+| 1 (3+)  | N     | 2 Cr  |
+| 2 (6+)  | F     | 4 Cr  |
+| +1 (+3) | --    | +2 Cr |
 
 ## Glamour
 - **Tier:** Cantrip (0+)
@@ -141,20 +141,20 @@ The mage conjures a flash of light & heat directly in front of the eyes of the t
 - **Range:** Near
 - **Area:** Medium
 - **Duration:** 1 minute
-- **Save:** Spirit 8+
+- **Save:** Spirit
 - **Components:** Gestures
 
 This allows the mage to conjure a simple, silent and static illusion of roughly human size.  This illusion has no substance or weight.  Anyone observing the illusion will know it is not real with a successful **Spirit** save or upon physically interacting with it.
 
 *Upcasting*
 
-| Tier    | Range | Area | Duration | Save |
-|:-------:|:-----:|:----:|:--------:|:----:|
-| 1 (3+)  | N     | M    | 1 T      | 10+  |
-| 2 (6+)  | N     | L    | 1 H      | 12+  |
-| 3 (9+)  | F     | H    | 1 Wa     | 14+  |
-| 4 (12+) | F     | G    | 1 D      | 16+  |
-| +1 (+3) | --    | --   | +1 step  | +2   |
+| Tier    | Range | Area | Duration |
+|:-------:|:-----:|:----:|:--------:|
+| 1 (3+)  | N     | M    | 1 T      |
+| 2 (6+)  | N     | L    | 1 H      |
+| 3 (9+)  | F     | H    | 1 Wa     |
+| 4 (12+) | F     | G    | 1 D      |
+| +1 (+3) | --    | --   | +1 step  |
 
 ## Hexing
 - **Tier:** Cantrip (0+)
@@ -164,19 +164,19 @@ This allows the mage to conjure a simple, silent and static illusion of roughly 
 - **Range:** Touch
 - **Area:** 1 creature
 - **Duration:** 1 task (up to 1 hour)
-- **Save:** Spirit 8+
+- **Save:** Spirit
 - **Components:** Gestures & Incantations
 
-By uttering this minor curse, the mage causes the targeted creature to have -2 on the next roll they take for a particular action.  The action must be specified at the time of casting and must be specific (such as climb a tree, strike with a sword, haggle for a price).  As soon as the task is attempted, or if the duration expires without an attempt, the hexing fades.
+By uttering this minor curse, the mage causes the targeted creature that fails its save to have -2 on the next roll they take for a particular action.  The action must be specified at the time of casting and must be specific (such as climb a tree, strike with a sword, haggle for a price).  As soon as the task is attempted, or if the duration expires without an attempt, the hexing fades.
 
 *Upcasting*
 
-| Tier    | Range | Area  | Duration | Save |
-|:-------:|:-----:|:-----:|:--------:|:----:|
-| 1 (3+)  | C     | 2 Cr  | 1 Wa     | 10+  |
-| 2 (6+)  | N     | 4 Cr  | 1 D      | 12+  |
-| 3 (9+)  | F     | 6 Cr  | 1 We     | 14+  |
-| +1 (+3) | --    | +2 Cr | +1 Step  | +2   |
+| Tier    | Range | Area  | Duration |
+|:-------:|:-----:|:-----:|:--------:|
+| 1 (3+)  | C     | 2 Cr  | 1 Wa     |
+| 2 (6+)  | N     | 4 Cr  | 1 D      |
+| 3 (9+)  | F     | 6 Cr  | 1 We     |
+| +1 (+3) | --    | +2 Cr | +1 Step  |
 
 ## Inspire
 - **Tier:** Cantrip (0+)
@@ -234,14 +234,14 @@ This spell may be reversed to remove 1 knot from an unsecured object rope, etc.
 - **Save:** none
 - **Components:** Gestures
 
-This cantrip conjures a translucent hand that the mage may use to manipulate small objects.  Such objects may be no larger than may fit in one hand and no heavier than 10 pounds.  It may not be used to wield weapons or make attacks, nor can it perform fine manipulations (such as lockpicking or pickpocketing).  The had may travel a distance of Near in a single round.
+This cantrip conjures a translucent hand that the mage may use to manipulate small objects.  Such objects may be no larger than may fit in one hand and no heavier than 10 pounds.  It may not be used to wield weapons or make attacks, nor can it perform fine manipulations (such as lockpicking or pickpocketing).  The hand may travel a distance of Near in a single round but must remain within range of the caster.
 
 *Upcasting*
 
 | Tier    | Range | Duration | Weight | Other             |
 |:-------:|:-----:|:--------:|:------:|:------------------|
 | 1 (3+)  | N     | 1 H (c)  | 10lbs  | Fine Manipulation |
-| 2 (6+)  | F     | 1 W (c)  | 15lbs  | --                |
+| 2 (6+)  | F     | 1 Wa (c) | 15lbs  | --                |
 | +1 (+3) | --    | +1 step  | +5lbs  | --                |
 
 ## Mage Light
@@ -276,11 +276,11 @@ By means of this cantrip, a mage causes a touched object no larger than a fist t
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-By means of this spell, the mage uses the power of a sigil to heal or mend a given object.  The sigil selected when casting this spell must match the target type (Person for healing a sapient being, Beast to heal an animal, Earth to mend a stone wall, etc).
+By means of this spell, the mage uses the power of a sigil to heal or mend a given object.  The sigil selected when casting this spell must match the target type (Humanoid for healing a sapient being, Beast to heal an animal, Earth to mend a stone wall, etc).
 
 If used to heal a living being, this spell will heal 1 HP.
 
-If used on an inanimate object, 1 Tiny area of material will be made whole.  This area may be increased by 1 category per +1 rank.  Thus, to mend a cut hemp rope, the mage would apply the Plant sigil at rank zero.  To mend a 10 x 10 x 5 foot section of castle wall (500 cubic feet) would require casting the spell at Rank 3 (for a Large area of effect).
+If used on an inanimate object, 1 Tiny area of material will be made whole.  This area may be increased by 1 category per +1 rank.  Thus, to mend a cut hemp rope, the mage would apply the Plant sigil at rank zero.  To mend a 10 x 10 x 5 foot section of castle wall (500 cubic feet) would require casting the spell at Rank 3 (for a Large area of effect) using the Earth sigil.
 
 *Upcasting*
 
@@ -324,7 +324,7 @@ By this spell, a mage may cause any cutting or seed to root and any plant to blo
 
 This spell magically opens an unlocked, unobstructed object (such as a door, window or chest).  This object will stay open until some other force closes it.
 
-This spell may be reversed to close objects and secure them against forced entry.
+This spell may be reversed to close objects.
 
 *Upcasting*
 
@@ -378,7 +378,7 @@ This cantrip allows the caster to perform a minor magical trick.  Any one of the
 - *Ice:* Chill a **Tiny** amount of non-living material for 1 hour.
 - *Illusion:* Create a palm-sized illusory image in your hand that lasts for 1 round.
 - *Light:* Inscribe a small, glowing mark on a non-living object or surface for 1 hour.
-- *Plant:* Spice up a **Tiny** amount of non-living material for 1 hour.
+- *Plant:* Spice a **Tiny** amount of non-living material for 1 hour.
 - *Water:* Instantly clean up a **Tiny** amount of non-living material.
 - Other effects (likely requiring different sigils) may be possible with GM permission.
 
@@ -444,7 +444,7 @@ This spell acts as a barrier to rain, snow, sleet and similar weather effects; k
 - **Sigils** any elemental sigil
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
-- **Range:** Near
+- **Range:** Close
 - **Area:** 1 Creature/Object
 - **Duration:** Instant
 - **Save:** none

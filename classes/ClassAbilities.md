@@ -1,0 +1,49 @@
+# Class Abilities
+
+## Fighter
+
+### %%Combat Maneuvers%%
+Once per turn, as part of a normal attack, you may declare a Combat Maneuver.  If the die face of your attack roll is equal to or greater than your Combat Maneuver target number (see the table below), the target suffers the effects of the maneuver.  Many maneuvers, however, do allow the target to make a saving throw.  See the [Combat Maneuvers](Combat.md#combat%20maneuvers) section of the Combat document for further details.
+
+### %%Hauler%%
+You add your **Constitution Modifier** (if positive) to your **Strength Score** for determining your [Encumbrance](EncumbranceAndEquipment.md#encumbrance) limits.
+
+### %%Minimum Damage%%
+Fighters are experts at dealing damage.  If your attack misses the target's AC by your level your less, you still deal your attack's minimum damage to the target.
+
+## Rogue
+
+### %%Fortune's Favor%%
+You have greater luck than other characters. You gain +2 to both your Base and Max [Fortune Points](RulesSynopsis.md#fortune).
+
+### %%Lesser Fortune's Favor%%
+You have greater luck than other characters. You gain +1 to both your Base and Max [Fortune Points](RulesSynopsis.md#fortune).
+
+### %%Rogue Skills%%
+For specific [skill checks](RulesSynopsis.md#skilled%20check), Rogues gain an additional bonus beyond the normal **Skill Bonus**.
+- Climb & Sleight of Hand: +2
+- Lock-Picking, Search, Stealth & Trap Handling: +1
+
+### %%Sneak Attack%%
+When you have **Advantage** on an attack, add the listed damage on the table below to the attack.
+
+## Spellcaster
+
+### %%Magical Focus%%
+As part of your apprenticeship, you created a unique magical focus to aid in your spellcasting.  This focus may take most any form (a staff, wand, amulet or similar), but must be easily seen, recognized and hand-held.  It also takes up 1 inventory slot.  A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 100sp worth of materials.
+
+The benefit of your spellcasting focus is that you may carve a number of sigils into your focus equal to your Skill Bonus.  Any sigils carved into your focus count as being in-hand when casting a spell.  Additionally, any time you cast a spell utilizing one of those sigils, you may roll d8s instead of d6s for your Invocation Dice.  Your focus must be in-hand to gain these benefits.  It takes 1 Day and 50sp to engrave a new sigil into your focus.
+
+### %%Spellcasting%%
+You can harness the power of magic.  The table below shows the maximum tier of spell you may learn and add to your spellbook.  You may cast spells you have prepared ahead of time.  Alternatively by taking ten times the normal casting time, you may cast any spell that has been recorded in your spellbook without the need to prepare it first.
+- **Invocation Dice:**  As a spellcaster, you have a number of invocation dice as indicated on the table below plus additional dice equal to your **Wisdom Modifier**.  You may roll any number of these dice when attempting to cast a spell.
+- **Prepared Spells:**  You may prepare a number of spells equal to your number of **Invocation Dice** plus your **Intelligence Modifier**.  It takes 10 minutes times the spell's Tier to prepare a spell (cantrips do not need to be prepared).
+- **Spell Save Difficulty:** Your spells have a [saving throw](CoreRules.md#saving%20throws) difficulty equal to 10 plus your **Skill Bonus** plus an ability modifier as determined by the spell's description.
+- **Exhausting Magic:**  At the cost of 1 level of [Exhaustion](Combat.md#Exhaustion), you may add your **Skill Bonus** to your **Invocation Roll** as a [Free Action](Combat.md#free%20actions).
+- See the [Magical Arts](MagicalArts.md) and [Spells](Spells.md) documents for further details.
+
+### %%Sense Magic%%
+Being sensitive to the world of magic, you may determine if a person, place or thing is magical with a [Skilled Intelligence](RulesSynopsis.md#skilled%20check) check.  Doing so requires concentration and a full minute; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a mage is staring at them.  You can also attempt to decipher magical writing in the same way.
+
+### %%True Name%%
+As a magic-user possessing supernatural power, you have a [True Name](RulesSynopsis.md#names).  Those who know your True Name can use it against you.  By calling out your True Name, a creature gains **Advantage** on all actions taken against you, including attacks.  They also gain **Advantage** on any saving throws to resist your spells or other supernatural abilities.
