@@ -20,7 +20,7 @@ You are durable and wise. Your Constitution and Wisdom begin at 10, and all of y
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You learned the secrets of your people. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting* and *Sense Magic*.  You also learn the [Beast Speech](TierZeroSpells.md#beast%20speech) cantrip and the Beast [sigil](Sigils.md).  The tables below will tell you your other abilities.
+You learned the secrets of your people. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities *Magical Focus*, *Spellcasting* and *Sense Magic*.  You also learn the [Beast Speech](TierZeroSpells.md#beast%20speech) cantrip and the Beast [sigil](Sigils.md).  The tables below will tell you your other abilities.
 
 ### What happened when you learned the ways of names?
 <table>
@@ -234,7 +234,7 @@ You learned the secrets of your people. You become a level 1 [Spellcaster](class
 
 ## Fill out your sheet.
 1. Record your name, class and level.
-2. Record your species and whatever [features](species/Human.md) you gain from it.
+2. Record your species as [Human](species/Human.md) and whatever features you gain from it.
 3. Select a background from those made available from your Lifepath, above.
 4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).

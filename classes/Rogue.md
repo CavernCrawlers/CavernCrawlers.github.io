@@ -51,9 +51,6 @@ cssclass: clean-embeds
 | 10    | 10d6         |  +5              |  +7             | --     | +1     | +3d4 |
 | 11    | 10d6+1       |  +6              |  +8             | +1     | --     | +3d4 |
 | 12    | 10d6+2       |  +6              |  +8             | --     | --     | +4d4 |
-| 13    | 10d6+3       |  +7              |  +9             | +1     | --     | +4d4 |
-| 14    | 10d6+4       |  +7              | +10             | --     | +1     | +4d4 | 
-| 15    | 10d6+5       |  +8              | +10             | +1     | --     | +5d4 |
 
 ### Rogue Saving Throws
 | Level | Evasion | Hardiness | Spirit |
@@ -70,9 +67,6 @@ cssclass: clean-embeds
 |  10   |    +8   |     +5    |   +7   |
 |  11   |    +9   |     +6    |   +8   |
 |  12   |   +10   |     +6    |   +9   |
-|  13   |   +11   |     +7    |   +9   |
-|  14   |   +11   |     +8    |  +10   |
-|  15   |   +12   |     +8    |  +11   |
 
 ## Rogue Knacks
 
@@ -127,9 +121,6 @@ Unless specified otherwise, each knack may only be taken once.
 	- 9th Level: Quick Reflexes
 	- 10th Level: [Alert](Traits.md#alert)
 	- 11th Level: Trap Sense
-	- 13th Level: Distracting Defense or Intelligent Defense
-	- 14th Level: [Watchful](Traits.md#watchful)
-	- 15th Level: Light Footed
 - **Bard** 
 	- 1st Level: Distracting Defense, [Linguist](Traits.md#linguist)
 	- 2nd Level: [Friendly Face](Traits.md#friendly%20face)
@@ -140,9 +131,6 @@ Unless specified otherwise, each knack may only be taken once.
 	- 9th Level: Quick Reflexes
 	- 10th Level: [Charming](Traits.md#charming)
 	- 11th Level: Trap Sense
-	- 13th Level: Skulker
-	- 14th Level: [Learned](Traits.md#learned)
-	- 15th Level: Second Story Work
 - **Burglar** 
 	- 1st Level: Skulker, [Unassuming](Traits.md#unassuming)
 	- 2nd Level: [Agile](Traits.md#agile)
@@ -153,9 +141,6 @@ Unless specified otherwise, each knack may only be taken once.
 	- 9th Level: Master of Traps
 	- 10th Level: [Great Fortune](Traits.md#great%20fortune)
 	- 11th Level: Distracting Defense or Intelligent Defense
-	- 13th Level: Clue Hound
-	- 14th Level: [Merchant's Eye](Traits.md#merchants%20eye)
-	- 15th Level: Light Footed
 - **Mountebank** 
 	- 1st Level: Master of Disguise, [Friendly Face](Traits.md#friendly%20face)
 	- 2nd Level: [Actor](Traits.md#actor)
@@ -166,9 +151,6 @@ Unless specified otherwise, each knack may only be taken once.
 	- 9th Level: Code-Breaker
 	- 10th Level:  [Charming](Traits.md#charming)
 	- 11th Level: Light-Footed
-	- 13th Level: Quick Reflexes
-	- 14th Level: [Merchant's Eye](Traits.md#merchants%20eye)
-	- 15th Level: Distracting Defense
 - **Scout** 
 	- 1st Level: Watchful, [Child of the (Terrain)](Traits.md#child%20of%20the%20terrain)
 	- 2nd Level: [Survivalist](Traits.md#survivalist)
@@ -179,6 +161,3 @@ Unless specified otherwise, each knack may only be taken once.
 	- 9th Level: Clue Hound
 	- 10th Level: [Alert](Traits.md#alert)
 	- 11th Level: Assassin
-	- 13th Level: Trap Sense
-	- 14th Level: [Catch Your Breath](Traits.md#catch%20your%20breath)
-	- 15th Level: Quick Reflexes

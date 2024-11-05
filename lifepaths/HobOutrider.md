@@ -206,7 +206,7 @@ You rode far from home and left behind the life you knew. You become a level 1 F
 ## Fill out your sheet.
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
-3. Record your species and the [features](species/Hob.md#features) that come from it.
+3. Record your species as [Hob](species/Hob.md) and whatever features you gain from it.
 4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Hob Outrider begins with the following equipment: your background trappings, a backpack, traveling clothes, a heavy cloak, a bedroll, a mess kit, a tinderbox, 10 torches, 1 week’s rations, 1 week's feed, 50ft rope, leather armor, one light weapon, one medium weapon, your pony (counts as an ally) and 2d6sp.  You also gain any items rolled during your Lifepath (above).
 6. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.

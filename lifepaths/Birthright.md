@@ -6,20 +6,152 @@ Some backgrounds instruct you to roll on another table for a specific type of ba
 Items in curly braces '{}' are meant to be filled in/replaced by the player.
 
 ## %%Villager%%
-| d12 | What did your parents do in the village?                                                     | STR | DEX | CON | INT | WIS | CHA | Background                        |
-|-----|----------------------------------------------------------------------------------------------|-----|-----|-----|-----|-----|-----|-----------------------------------|
-| 1   | You are an orphan. Things were hard for you.                                                 | +1  | +1  | +1  | +1  | +1  | +0  | Wanderer                  |
-| 2   | Your {parent} was an outcast, rightfully or not.                                             | +1  | +1  | +1  | +2  | +0  | +0  | Criminal                      |
-| 3   | Your parents were fishers and you grew up by the river.                                      | +1  | +2  | +1  | +0  | +1  | +0  | Sailor |
-| 4   | Your family worked a small farm outside the village.                                         | +1  | +0  | +2  | +0  | +1  | +1  | Farmer                   |
-| 5   | Your {parent} was the local smith and you worked the bellows.                                | +2  | +1  | +1  | +0  | +0  | +1  | Smith                             |
-| 6   | You led the sheep out onto the mountain like your {parent} before you.                       | +1  | +0  | +2  | +0  | +1  | +1  | Animal Handler                    |
-| 7   | Your parents ran the local inn. You grew up meeting many travelers and hearing their tales.  | +1  | +1  | +0  | +1  | +0  | +2  | Merchant                          |
-| 8   | Your {parent} worked the loom, cutting and twisting as the Fates.                            | +0  | +2  | +0  | +1  | +1  | +1  | Artisan: Weaver                   |
-| 9   | Your {parent} kept the old stories. Your head is filled with them.                           | +0  | +0  | +0  | +2  | +2  | +1  | Sage                      |
-| 10  | Your {parent} served on the watch, and was stern but fair with child and stranger alike.     | +2  | +0  | +1  | +1  | +0  | +1  | Soldier           |
-| 11  | Your parents took you on journeys into the woods to gather herbs and berries.                | +0  | +1  | +1  | +1  | +2  | +0  | Herbalist                         |
-| 12  | Your {parent} was a local merchant. You learned to name your price and charm your customers. | +0  | +1  | +0  | +1  | +1  | +2  | Merchant                          |
+<table>
+	<tr>
+		<td align="center"><b>d12</b></td>
+		<td><b>What did your parents do in the village?</b></td>
+		<td align="center"><b>STR</b></td>
+		<td align="center"><b>DEX</b></td>
+		<td align="center"><b>CON</b></td>
+		<td align="center"><b>INT</b></td>
+		<td align="center"><b>WIS</b></td>
+		<td align="center"><b>CHA</b></td>
+		<td><b>Background</b></td>
+	</tr>
+	<tr>
+		<td align="center">1</td>
+		<td>You are an orphan. Things were hard for you.</td>
+		<td align="center">+1</td>
+		<td align="center">+1</td>
+		<td align="center">+1</td>
+		<td align="center">+1</td>
+		<td align="center">+1</td>
+		<td align="center">+0</td>
+		<td>Wanderer</td>
+	</tr>
+	<tr>
+		<td align="center">2</td>
+		<td>Your {parent} was an outcast, rightfully or not.</td>
+		<td align="center">+1</td>
+		<td align="center">+1</td>
+		<td align="center">+1</td>
+		<td align="center">+2</td>
+		<td align="center">+0</td>
+		<td align="center">+0</td>
+		<td>Criminal</td>
+	</tr>
+	<tr>
+		<td align="center">3</td>
+		<td>Your parents were fishers and you grew up by the river.</td>
+		<td align="center">+1</td>
+		<td align="center">+2</td>
+		<td align="center">+1</td>
+		<td align="center">+0</td>
+		<td align="center">+1</td>
+		<td align="center">+0</td>
+		<td>Sailor</td>
+	</tr>
+	<tr>
+		<td align="center">4</td>
+		<td>Your family worked a small farm outside the village.</td>
+		<td align="center">+1</td>
+		<td align="center">+0</td>
+		<td align="center">+2</td>
+		<td align="center">+0</td>
+		<td align="center">+1</td>
+		<td align="center">+1</td>
+		<td>Farmer</td>
+	</tr>
+	<tr>
+		<td align="center">5</td>
+		<td>Your {parent} was the local smith and you worked the bellows.</td>
+		<td align="center">+2</td>
+		<td align="center">+1</td>
+		<td align="center">+1</td>
+		<td align="center">+0</td>
+		<td align="center">+0</td>
+		<td align="center">+1</td>
+		<td>Smith</td>
+	</tr>
+	<tr>
+		<td align="center">6</td>
+		<td>You led the sheep out into the fields like your {parent} before you.</td>
+		<td align="center">+1</td>
+		<td align="center">+0</td>
+		<td align="center">+2</td>
+		<td align="center">+0</td>
+		<td align="center">+1</td>
+		<td align="center">+1</td>
+		<td>Animal Handler</td>
+	</tr>
+	<tr>
+		<td align="center">7</td>
+		<td>Your parents ran the local inn. You grew up meeting many travelers and hearing their tales.</td>
+		<td align="center">+1</td>
+		<td align="center">+1</td>
+		<td align="center">+0</td>
+		<td align="center">+1</td>
+		<td align="center">+0</td>
+		<td align="center">+2</td>
+		<td>Merchant</td>
+	</tr>
+	<tr>
+		<td align="center">8</td>
+		<td>Your {parent} worked the loom, cutting and twisting as the Fates.</td>
+		<td align="center">+0</td>
+		<td align="center">+2</td>
+		<td align="center">+0</td>
+		<td align="center">+1</td>
+		<td align="center">+1</td>
+		<td align="center">+1</td>
+		<td>Artisan: Weaver</td>
+	</tr>
+	<tr>
+		<td align="center">9</td>
+		<td>Your {parent} kept the old stories. Your head is filled with them.</td>
+		<td align="center">+0</td>
+		<td align="center">+0</td>
+		<td align="center">+0</td>
+		<td align="center">+2</td>
+		<td align="center">+2</td>
+		<td align="center">+1</td>
+		<td>Sage</td>
+	</tr>
+	<tr>
+		<td align="center">10</td>
+		<td>Your {parent} served on the watch, and was stern but fair with child and stranger alike.</td>
+		<td align="center">+2</td>
+		<td align="center">+0</td>
+		<td align="center">+1</td>
+		<td align="center">+1</td>
+		<td align="center">+0</td>
+		<td align="center">+1</td>
+		<td>Soldier</td>
+	</tr>
+	<tr>
+		<td align="center">11</td>
+		<td>Your parents took you on journeys into the woods to gather herbs and berries.</td>
+		<td align="center">+0</td>
+		<td align="center">+1</td>
+		<td align="center">+1</td>
+		<td align="center">+1</td>
+		<td align="center">+2</td>
+		<td align="center">+0</td>
+		<td>Herbalist</td>
+	</tr>
+	<tr>
+		<td align="center">12</td>
+		<td>Your {parent} was a local merchant. You learned to name your price and charm your customers.</td>
+		<td align="center">+0</td>
+		<td align="center">+1</td>
+		<td align="center">+0</td>
+		<td align="center">+1</td>
+		<td align="center">+1</td>
+		<td align="center">+2</td>
+		<td>Merchant</td>
+	</tr>
+	<tr><td colspan=9><b>Please add the location where you grew up to the Village map.</b></td></tr>
+</table>
 
 ## %%City%%
 <table>

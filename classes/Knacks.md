@@ -112,4 +112,4 @@ So long as you are conscious, you have +2 on perception rolls to spot an ambush 
 ## Hybrid
 
 ### %%Mighty Warrior%%
-Add +1 on your rolls to perform a [Combat Maneuver](classes/ClassAbilities.md#combat%20maneuvers).
+Add +1 on your Combat Mastery rolls to perform a [Combat Maneuver](classes/ClassAbilities.md#combat%20maneuvers).

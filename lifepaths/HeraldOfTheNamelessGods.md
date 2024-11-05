@@ -19,7 +19,7 @@ The Voice has told you many secrets, including how to best get what you want fro
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-When you came of age, the Voice became clearer and began instructing you in the ways of magic. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Exhausting Magic_, _Invocation Dice_, _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Beguilement](TierZeroSpells.md#beguilement) cantrip and Humanoid [sigil](sigils.md). The tables below will tell you your other traits and spells.
+When you came of age, the Voice became clearer and began instructing you in the ways of magic. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Beguilement](TierZeroSpells.md#beguilement) cantrip and Humanoid [sigil](sigils.md). The tables below will tell you your other traits and spells.
 
 ### What else happened to you as you came of age?
 

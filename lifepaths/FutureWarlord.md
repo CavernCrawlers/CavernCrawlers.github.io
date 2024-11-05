@@ -207,7 +207,7 @@ You trained to be a leader. You become a level 1 [Fighter-Rogue](classes/Fighter
 
 ## Fill out your sheet.
 1. Record your name, class and level.
-2. Record your species and whatever [features](species/Human.md) you gain from it.
+2. Record your species as [Human](species/human.md) and whatever features you gain from it.
 3. Select a background from those made available from your Lifepath, above.
 4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Future Warlord begins with the following equipment: your background trappings, the tabard of your house, a very loud horn, a signet ring, a backpack, fine clothing, a firestarting kit, tools for arms and armor maintenance, a light weapon, scale mail, either 2 weapons or a weapon and shield, and 2d6+12sp.  You also have any items gained from your Lifepath.

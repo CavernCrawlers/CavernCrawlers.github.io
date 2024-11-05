@@ -1,35 +1,50 @@
 {
   "main": {
-    "id": "22da00a73f3a17f0",
+    "id": "ea86eab825da2d09",
     "type": "split",
     "children": [
       {
-        "id": "dc9177a7aa2d7656",
+        "id": "609f240bf88531c9",
         "type": "tabs",
         "children": [
           {
-            "id": "6091eace6a0c7164",
+            "id": "43c6744766cf5dab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RulesSynopsis.md",
+                "file": "Background.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "RulesSynopsis"
+              "title": "Background"
             }
           },
           {
-            "id": "c958cfa83a5a6d6e",
+            "id": "81183cb5f225915d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lifepaths/YoungForester.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "YoungForester"
+            }
+          },
+          {
+            "id": "813522712454e896",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "CoreRules.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
@@ -38,52 +53,37 @@
             }
           },
           {
-            "id": "187d2dacf51aa9b1",
+            "id": "f7e70e561ed3d44a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat.md",
+                "file": "Traits.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Combat"
+              "title": "Traits"
             }
           },
           {
-            "id": "5c7743ce4c452122",
+            "id": "8df07c1620681362",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TierOneSpells.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "TierOneSpells"
-            }
-          },
-          {
-            "id": "a6ffe7930820c3bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MagicalArts.md",
+                "file": "EncumbranceAndEquipment.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "MagicalArts"
+              "title": "EncumbranceAndEquipment"
             }
           },
           {
-            "id": "b388ddc45d513c1c",
+            "id": "1c10c7198e760024",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -96,6 +96,21 @@
               "icon": "lucide-file",
               "title": "Spells"
             }
+          },
+          {
+            "id": "1896890bbe29779f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TierZeroSpells.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TierZeroSpells"
+            }
           }
         ],
         "currentTab": 3
@@ -104,15 +119,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c9c8bd6f15ae4255",
+    "id": "864ae7bfda227951",
     "type": "split",
     "children": [
       {
-        "id": "0841145d1cbbbe73",
+        "id": "0e4ac5ed5c976094",
         "type": "tabs",
         "children": [
           {
-            "id": "e876a3ebab6b088d",
+            "id": "6dee14c18223e28d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -124,12 +139,12 @@
             }
           },
           {
-            "id": "532473eef4f997ac",
+            "id": "c805c31e0705cd59",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Person",
+                "query": "mastery",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +156,7 @@
             }
           },
           {
-            "id": "cfe381a55dd715fc",
+            "id": "aa2ab1b3b7668f88",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -157,20 +172,20 @@
     "width": 300
   },
   "right": {
-    "id": "37adaa4e6fb17834",
+    "id": "ac5cb02070cbcc1d",
     "type": "split",
     "children": [
       {
-        "id": "6e98764c8a85b768",
+        "id": "a10e9b0316538db8",
         "type": "tabs",
         "children": [
           {
-            "id": "cedf94646c95af22",
+            "id": "54a0c4e1e8b868e5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rogue-Spellcaster.md",
+                "file": "lifepaths/DwarvenAdventurer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,25 +195,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rogue-Spellcaster"
+              "title": "Backlinks for DwarvenAdventurer"
             }
           },
           {
-            "id": "64f25de89b1864c6",
+            "id": "ff55f83dbdcb92d3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rogue-Spellcaster.md",
+                "file": "lifepaths/DwarvenAdventurer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rogue-Spellcaster"
+              "title": "Outgoing links from DwarvenAdventurer"
             }
           },
           {
-            "id": "258e930ad31f14fd",
+            "id": "bfbddfe1b5078760",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -211,29 +226,19 @@
             }
           },
           {
-            "id": "920ec2cf2ab37e20",
+            "id": "da2c26201d8335aa",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rogue-Spellcaster.md"
+                "file": "lifepaths/DwarvenAdventurer.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Rogue-Spellcaster"
+              "title": "Outline of DwarvenAdventurer"
             }
           },
           {
-            "id": "317f647d2a96b1a4",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "f75416ff16e4273b",
+            "id": "8f9926ac3aa6fb0d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -246,71 +251,72 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "5c7743ce4c452122",
+  "active": "6dee14c18223e28d",
   "lastOpenFiles": [
+    "classes/Knacks.md",
+    "Traits.md",
+    "classes/Fighter.md",
     "Combat.md",
-    "TierOneSpells.md",
-    "Spells.md",
+    "classes/ClassAbilities.md",
+    "lifepaths/AcolyteOfTheOldGods.md",
+    "lifepaths/LibreOffice/lu77164ebgjv.tmp",
+    "classes/Rogue-Spellcaster.md",
     "classes/Spellcaster.md",
-    "MagicalArts.md",
-    "Sigils.md",
-    "RulesSynopsis.md",
-    "Glossary.md",
-    "Encounters.md",
-    "Dungeoneering.md",
+    "classes/Fighter-Rogue.md",
+    "classes/Rogue.md",
+    "classes/Fighter-Spellcaster.md",
     "Downtime.md",
     "CoreRules.md",
-    "TierZeroSpells.md",
+    "Dungeoneering.md",
+    "WildernessExploration.md",
+    "RulesSynopsis.md",
+    "lifepaths/YoungForester.md",
+    "lifepaths/WouldBeKnight.md",
     "lifepaths/WitchsApprentice.md",
-    "TierTwoSpells.md",
+    "lifepaths/VirtuousBandit.md",
+    "lifepaths/VillageFriend.md",
+    "lifepaths/UntestedThief.md",
     "lifepaths/StudentOfTheDarkArts.md",
-    "draft/Skills.md",
     "lifepaths/SelfTaughtMage.md",
+    "lifepaths/ReformedBully.md",
     "lifepaths/PiousPriest.md",
-    "lifepaths/OrcDrummer.md",
-    "lifepaths/OrcBerserker.md",
-    "lifepaths/NovicePaladin.md",
-    "lifepaths/NewWatchman.md",
-    "lifepaths/NeophyteDruid.md",
-    "lifepaths/LordsSecret.md",
-    "lifepaths/HobTrickster.md",
-    "species",
+    "lifepaths/LibreOffice/lu77164ebgjj.tmp",
+    "lifepaths/LibreOffice/lu77164ebgj6.tmp",
+    "lifepaths/LibreOffice/Acolyte of the Old Gods.odt",
+    "lifepaths/LibreOffice/lu77164ebgix.tmp",
+    "lifepaths/LibreOffice",
+    "lifepaths/New folder",
     "classes",
-    "misc/SpellSpreadsheet.ods",
-    "misc",
-    "lifepaths/Lifepaths.ods",
-    "lifepaths",
-    "images/runes/Water.png",
-    "images/runes/Void.png",
-    "images/runes/Venom.png",
-    "images/runes/Truth.png",
-    "images/runes/Time.png",
-    "images/runes/Thought.png",
-    "images/runes/Spirit.png",
-    "images/runes/Shadow.png",
-    "images/runes/Plant.png",
-    "images/runes/Person.png",
-    "images/runes",
-    "images"
+    "species",
+    "misc/lu724365evcn2.tmp",
+    "images/sigils/Person.png",
+    "images/sigils/Void.png",
+    "images/sigils/Water.png",
+    "images/sigils/Venom.png",
+    "images/sigils/Truth.png",
+    "images/sigils/Time.png",
+    "images/sigils/Thought.png",
+    "images/sigils/Spirit.png",
+    "images/sigils/Shadow.png",
+    "images/sigils/Plant.png"
   ]
 }

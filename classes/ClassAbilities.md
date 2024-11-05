@@ -3,7 +3,7 @@
 ## Fighter
 
 ### %%Combat Maneuvers%%
-Once per turn, as part of a normal attack, you may declare a Combat Maneuver.  If the die face of your attack roll is equal to or greater than your Combat Maneuver target number (see the table below), the target suffers the effects of the maneuver.  Many maneuvers, however, do allow the target to make a saving throw.  See the [Combat Maneuvers](Combat.md#combat%20maneuvers) section of the Combat document for further details.
+Once per turn, as part of a normal attack, you may declare a Combat Maneuver.  If the die face of your attack roll is equal to or greater than your Combat Mastery target number (see the table below), the target suffers the effects of the maneuver.  Many maneuvers, however, do allow the target to make a saving throw.  See the [Combat Maneuvers](Combat.md#combat%20maneuvers) section of the Combat document for further details.
 
 ### %%Hauler%%
 You add your **Constitution Modifier** (if positive) to your **Strength Score** for determining your [Encumbrance](EncumbranceAndEquipment.md#encumbrance) limits.

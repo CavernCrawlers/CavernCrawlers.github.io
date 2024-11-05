@@ -164,7 +164,7 @@ You studied the tricks and traps that defended the old clan holds. You become a 
 ## Fill out your sheet.
 1. Record your name, background, class and level.
 2. Pick your background form those that have become available during your Lifepath.
-3. Record your species and the [features](species/Dwarf.md#features) that come from it.
+3. Record your species as [Dwarf](species/Dwarf.md) and whatever features you gain from it.
 4. As a Dwarf, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Jot down your class abilities, knack, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Dwarven Explorer begins with the following equipment: your background trappings, a backpack, dark clothing, a sack, 10 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, a tinderbox, lockpicks, 50ft of rope, leather armor, 1 light weapon, 1 medium weapon and 4d6 silver.  You also have the equipment rolled in the tables above.

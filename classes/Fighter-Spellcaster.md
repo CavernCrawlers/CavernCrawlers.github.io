@@ -59,9 +59,6 @@ cssclass: clean-embeds
 |   10    |    10d6        |       +5           |       +5          |          6d6           |  --      |    +1    |  --                     |
 |   11    |    10d6+2      |       +6           |       +6          |          7d6           |  --      |    --    |  --                     |
 |   12    |    10d6+4      |       +6           |       +6          |          8d6           |  --      |    --    |  4                      |
-|   13    |    10d6+6      |       +7           |       +7          |          8d6           |  +1      |    --    |  --                     |
-|   14    |    10d6+8      |       +7           |       +7          |          9d6           |  --      |    +1    |  --                     |
-|   15    |   10d6+10      |       +8           |       +8          |         10d6           |  --      |    --    |  5                      |
 
 ### Fighter-Spellcaster Saving Throws
 | Level | Evasion | Hardiness | Spirit |
@@ -78,9 +75,6 @@ cssclass: clean-embeds
 |  10   |    +7   |     +7    |   +6   |
 |  11   |    +8   |     +8    |   +7   |
 |  12   |    +9   |     +8    |   +8   |
-|  13   |    +9   |     +9    |   +8   |
-|  14   |   +10   |    +10    |   +9   |
-|  15   |   +11   |    +10    |  +10   |
 
 ## Fighter-Spellcaster Knacks
 
@@ -99,8 +93,6 @@ Unless stated otherwise, each knack may only be taken once.
 **Precise Shot**: ![](/classes/Knacks.md#precise%20shot)
 
 **Indomitable**: ![](/classes/Knacks.md#indomitable)
-
-**Mighty Warrior**: ![](/classes/Knacks.md#mighty%20warrior)
 
 **Skirmisher**: ![](/classes/Knacks.md#skirmisher)
 

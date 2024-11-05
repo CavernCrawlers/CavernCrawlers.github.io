@@ -5,5 +5,8 @@
   "strictLineBreaks": true,
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "propertiesInDocument": "source",
+  "showLineNumber": true,
+  "useTab": false
 }

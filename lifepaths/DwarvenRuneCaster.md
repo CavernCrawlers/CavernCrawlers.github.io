@@ -20,7 +20,7 @@ You are tough, and hold much lore in your head, but sometimes have little time f
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You learned the secrets of the runes. You become a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting* and *Sense Magic*. The tables below will give you all your [Knacks](classes/Fighter-Spellcaster.md#fighter-spellcaster%20knacks), [Traits](Traits.md), [Cantrips](TierZeroSpells.md) and [Sigils](sigils.md).
+You learned the secrets of the runes. You become a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md).  You gain the class abilities *Magical Focus*, *Spellcasting* and *Sense Magic*. The tables below will give you all your [Knacks](classes/Fighter-Spellcaster.md#fighter-spellcaster%20knacks), [Traits](Traits.md), [Cantrips](TierZeroSpells.md) and [Sigils](sigils.md).
 
 ### What have you learned on your adventures so far?    
 | d6 | What did you learn best from the rune master?                                             | Ability | Background | Cantrip     | Sigil  |
@@ -185,7 +185,7 @@ You learned the secrets of the runes. You become a level 1 [Fighter-Spellcaster]
 ## Fill out your sheet.
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
-3. Record your species and the [features](species/Dwarf.md#features) that come from it.
+3. Record your species as [Dwarf](species/Dwarf.md) and whatever features you gain from it.
 4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
 6. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Dwarven Rune Caster begins with the following equipment: your background trappings, a dagger, a backpack, common clothing, a tinderbox, tools for arms and armor maintenance, a light weapon, scale mail, either 2 weapons or a weapon and shield, and 4d6+5sp.  You also have the equipment rolled in the tables above.

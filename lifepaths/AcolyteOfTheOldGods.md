@@ -19,7 +19,7 @@ You are wise beyond your years. Your Wisdom begins at 12, and all of your other 
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You felt the gods’ power and it changed your life. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Exhausting Magic_, _Invocation Dice_, _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Inspire](TierZeroSpells.md#inspire) cantrip and Humanoid [sigil](Sigils.md). The tables below will tell you your other traits and spells.
+You felt the gods’ power and it changed your life. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Inspire](TierZeroSpells.md#inspire) cantrip and Humanoid [sigil](Sigils.md). The tables below will tell you your other traits and spells.
 
 ### What else happened to you as you began your life of service?
 
@@ -238,16 +238,15 @@ You felt the gods’ power and it changed your life. You become a level 1 [Spell
 		<td align="center">+2 CHA</td>
 		<td align="left">a pouch of moon stones</td>
 	</tr>
-	<tr><td colspan=4><b>Please add the above NPC to the village and describe them.</b></td></tr>
 </table>
 
 ## Fill out your sheet.
 1. Record your name, class and level.
 2. Select a background from those made available from your Lifepath, above.
-3. Record your species and whatever [features](species/Human.md) you gain from it.
+3. Record your species as [Human](species/Human.md) and whatever features you gain from it.
 4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
-6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Acolyte of the Old Gods begins with the following equipment: a dagger, a backpack, practical clothes, a prayer/spell book, a holy symbol (your magical focus), a stout walking staff (quarterstaff) and 4d6+10sp
+6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Acolyte of the Old Gods begins with the following equipment: your background trappings, a dagger, a backpack, practical clothes, a prayer/spell book, a holy symbol (your magical focus), a stout walking staff (quarterstaff) and 4d6sp
 7. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
 8. Write down your starting [cantrips](TierZeroSpells.md).
 9. Write down your starting [spells](TierONeSpells.md).

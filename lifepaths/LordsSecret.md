@@ -23,7 +23,7 @@ You are hardy and quick-witted. Your Constitution and Intelligence begin at 10, 
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You learned of your secret heritage and grew to be a daring warrior mystic. You become a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md). You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting* and *Sense Magic*.  The tables below will tell you your other abilities.
+You learned of your secret heritage and grew to be a daring warrior mystic. You become a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md). You gain the class abilities *Magical Focus*, *Spellcasting* and *Sense Magic*.  The tables below will tell you your other abilities.
 
 ### What happened as you learned of your heritage?
 <table>
@@ -237,7 +237,7 @@ You learned of your secret heritage and grew to be a daring warrior mystic. You 
 
 ## Fill out your sheet.
 1. Record your name, class and level.
-2. Record your species and whatever [features](species/Human.md) you gain from it.
+2. Note your species as [Human](species/Human.md) and note your special abilities.
 3. Select a background from those made available from your Lifepath, above.
 4. As a Spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).

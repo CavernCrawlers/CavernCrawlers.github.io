@@ -207,7 +207,7 @@ You learned some unsavory things and found your niche. You become a level 1 [Rog
 
 ## Fill out your sheet.
 1. Record your name, class and level.
-2. Record your species and whatever [features](species/Human.md) you gain from it.
+2. Note your species as [Human](species/Human.md) and note your special abilities.
 3. Select a background from those made available from your Lifepath, above.
 4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Untested Thief begins with the following equipment: your background trappings, a backpack, dark clothing, a sack, 10 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, a tinderbox, lockpicks, 50ft rope, leather armor, 1 light weapon, 1 medium weapon and 4d6sp.  You also have any items gained from your Lifepath.

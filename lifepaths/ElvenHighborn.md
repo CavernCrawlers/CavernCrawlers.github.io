@@ -19,7 +19,7 @@ You are quick and intelligent. Your Dexterity and Intelligence begin at 10, and 
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-Your family trained you to be a great warrior, but also taught you the arcane arts.  You become a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting*, *Sense Magic*, the cantrip [Glamour](TierZeroSpells.md#glamour) and the Illusion [sigil](sigils.md). The tables below will give you all your [Knacks](classes/Fighter-Spellcaster.md#fighter-spellcaster%20knacks), [Traits](Traits.md), Cantrips and Sigils.
+Your family trained you to be a great warrior, but also taught you the arcane arts.  You become a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Spellcasting*, *Sense Magic*, the cantrip [Glamour](TierZeroSpells.md#glamour) and the Illusion [sigil](sigils.md). The tables below will give you all your [Knacks](classes/Fighter-Spellcaster.md#fighter-spellcaster%20knacks), [Traits](Traits.md), Cantrips and Sigils.
 
 ### What have learned since your training?  
 | d6 | As a student, you had access to the ancient records of high elven magic. What did you study? | Ability        | Background | Cantrip      | Sigil  |
@@ -177,7 +177,7 @@ Your family trained you to be a great warrior, but also taught you the arcane ar
 ## Fill out your sheet.
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
-3. Record your species and the [features](species/Elf.md#features) that come from it.
+3. Record your species as [Elf](species/elf.md) and whatever features you gain from it.
 4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Elven High Born begins with the following equipment: your background trappings, a backpack, an elvish cloak, a spellbook, many pouches, an arcane focus, a light elven weapon and 4d6sp

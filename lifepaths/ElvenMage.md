@@ -19,7 +19,7 @@ You have a gift for sorcery and diplomacy. Your Intelligence and Charisma begins
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-The elven spell-weavers taught you the language of creation.  You become a level 1 [Spellcaster](classes/Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting*, *Sense Magic*, the cantrip [Beguilement](TierZeroSpells.md#beguilment) and the Humanoid [sigil](sigils.md). The tables below will give you all your [Traits](Traits.md), Cantrips, Spells and Sigils.
+The elven spell-weavers taught you the language of creation.  You become a level 1 [Spellcaster](classes/Spellcaster.md).  You gain the class abilities *Magical Focus*, *Spellcasting*, *Sense Magic*, the cantrip [Beguilement](TierZeroSpells.md#beguilment) and the Humanoid [sigil](sigils.md). The tables below will give you all your [Traits](Traits.md), Cantrips, Spells and Sigils.
 
 ### What happened to you as you learned the ways of magic?
 | d6 | In addition to the ways of magic, what else did you study? | Ability | Background  |
@@ -198,7 +198,7 @@ The elven spell-weavers taught you the language of creation.  You become a level
 ## Fill out your sheet.
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
-3. Record your species and the [features](species/Elf.md#features) that come from it.
+3. Record your species as [Elf](species/elf.md) and whatever features you gain from it.
 4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Elven Mage begins with the following equipment: your background trappings, a backpack, elvish robes, a spellbook, many pouches, a light weapon, 4d6sp and the equipment you rolled above.

@@ -206,7 +206,7 @@ Raised in the wilds, you nevertheless made a place for yourself in the village. 
 ## Fill out your sheet.
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
-3. Record your species and the [features](species/Human.md#features) that come from it.
+3. Note your species as [Human](species/Human.md) and note your special abilities.
 4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Lost Barbarian begins with the following equipment: your background trappings, a backpack, fur or hide clothing, a bedroll, a mess kit, a tinderbox, 10 torches, 1 week’s rations, 50ft rope, leather armor, one light weapon, one medium weapon, a medium weapon or shield, medicine bag (healer's kit) and 2d4sp.  You also gain any items rolled during your Lifepath (above).
 6. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.

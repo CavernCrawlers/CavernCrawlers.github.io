@@ -19,7 +19,7 @@ You are naturally philosophical and possess an animal cunning. Your Wisdom and I
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-In the middle of the night, a solemn procession of robed figures bearing firebrands strode to through the streets of the village toward your home. Their ancient authority was not to be argued with and they spirited you away into the wilderness. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Exhausting Magic_, _Invocation Dice_, _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Nature's Blessing](TierZeroSpells.md#nature's%20blessing) cantrip and Plant [sigil](sigils.md). The tables below will tell you your other traits and spells.
+In the middle of the night, a solemn procession of robed figures bearing firebrands strode to through the streets of the village toward your home. Their ancient authority was not to be argued with and they spirited you away into the wilderness. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Nature's Blessing](TierZeroSpells.md#nature's%20blessing) cantrip and Plant [sigil](sigils.md). The tables below will tell you your other traits and spells.
 
 ### What else happened to you as you began your life of service?
 

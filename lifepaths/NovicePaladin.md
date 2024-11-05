@@ -19,7 +19,7 @@ You are brave and pious. Your Strength and Wisdom begin at 10, and all of your o
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You began the path to becoming a holy knight.  You become a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting*, *Sense Magic*, the cantrip [Inspire](TierZeroSpells.md#inspire) and the Humanoid [sigil](sigils.md). The tables below will give you all your [Knacks](classes/Fighter-Spellcaster.md#fighter-spellcaster%20knacks), [Traits](Traits.md), Cantrips and Sigils.
+You began the path to becoming a holy knight.  You become a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md).  You gain the class abilities *Magical Focus*, *Spellcasting*, *Sense Magic*, the cantrip [Inspire](TierZeroSpells.md#inspire) and the Humanoid [sigil](sigils.md). The tables below will give you all your [Knacks](classes/Fighter-Spellcaster.md#fighter-spellcaster%20knacks), [Traits](Traits.md), Cantrips and Sigils.
 
 ### What happened when you joined the order?  
 <table>
@@ -220,7 +220,7 @@ You began the path to becoming a holy knight.  You become a level 1 [Fighter-Spe
 ## Fill out your sheet.
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
-3. Record your species and the [features](species/Human.md#features) that come from it.
+3. Note your species as [Human](species/Human.md) and note your special abilities.
 4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Novice Paladin begins with the following equipment: your background trappings, a backpack, fine clothing, a tinderbox, tools for arms and armor maintenance, a light weapon, scale mail, either 2 weapons or a weapon and shield, your holy symbol (magical focus) and no money.

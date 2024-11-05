@@ -45,7 +45,7 @@ Unless otherwise noted, each trait may only be taken once.
 	- [Summoner](#Summoner)
 	- [Warded Against {Allegiance}](#Warded%20Against%20%7BAllegiance%7D)
 - [Combat Traits](#Combat%20Traits)
-	- [Combat Mastery](#Combat%20Mastery)
+	- [Combat Dominance](#Combat%20Dominance)
 	- [Crossbow Expert](#Crossbow%20Expert)
 	- [Duelist](#Duelist)
 	- [Favored Enemy](#Favored%20Enemy)
@@ -201,7 +201,7 @@ A character cannot be of the named **Allegiance**.  Your character has **Advanta
 
 These are traits which will directly improve the combat prowess of a given character, but are not so specialized as to require one to be a **Fighter**.  As a result, characters of any class may take these traits.
 
-### Combat Mastery
+### Combat Dominance
 This character’s skill at arms is unmatched. If her level is greater than the **Hit Dice** of her strongest opponent, she gains +2 on all to-hit rolls and +2 armor class.
 
 ### Crossbow Expert
@@ -251,11 +251,11 @@ After a great deal of practice, your character has mastered a particular type of
 Your mage may **Concentrate** on 2 **Magical Arts** at the same time.  If an event will potentially break his Concentration, he must make a separate Concentration Check for each art.
 
 ### Touched by Magic
-Some have a wild, untrained gift for the **Magic Arts**; others learn just a bit and then do not continue their studies.  Pick two **Cantrips**, 1 **Spell** or 1 **Ritutal** and your character can now cast them.  She has 2 **Invocation Dice** with which to invoke these one Magical Arts. Any Magical Art cast using this trait is always cast at its base **rank**.  
+Some have a wild, untrained gift for the **Magic Arts**; others learn just a bit and then do not continue their studies.  Pick two **Cantrips** that your character can now cast.  Cantrips cast using this trait can not be upcast and this trait does **not** grant the character any Invocation Dice.
 
 This **Trait** does nothing for spellcasting classes.  
 
-This trait may be taken multiple times to learn additional magic but no additional Invocation Dice are gained.
+This trait may be taken multiple times to learn additional cantrips.
 
 ### War Wizard
 Through martial training and practice, your mage has learned how best to harness the destructive powers of magic. He may add his Ability Modifier to the damage of any **Magical Art** he casts.  The Ability Modifier used is the one named by the Magical Art itself.

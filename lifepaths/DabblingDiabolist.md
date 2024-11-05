@@ -122,7 +122,7 @@ You would later learn that this accident released powerful magic. Unfortunately,
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-Your magical accident attracted the attention of an otherworldly spirit.  This spirit has come to you to teach you the ways of magic. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Exhausting Magic_, _Invocation Dice_, _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Hexing](TierZeroSpells.md#hexing) cantrip and Humanoid [sigil](Sigils.md). The tables below will tell you your other traits and spells.
+Your magical accident attracted the attention of an otherworldly spirit.  This spirit has come to you to teach you the ways of magic. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Hexing](TierZeroSpells.md#hexing) cantrip and Humanoid [sigil](Sigils.md). The tables below will tell you your other traits and spells.
 
 ### What else has your familiar taught you?
 
@@ -305,7 +305,7 @@ Step 7: d12 Result: The demon's special attack.
 ## Fill out your sheet.
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
-3. Record your species and whatever [features](species/Human.md) you gain from it.
+3. Record your species as [Human](species/Human.md) and whatever features you gain from it.
 4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Dabbling Diabolist begins with the following equipment: your background trappings, a backpack, an athame (dagger and magical focus), a book of occult lore, common robes, spellbook, many pouches, a light weapon and 4d6sp

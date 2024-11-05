@@ -20,7 +20,7 @@ You are clever, cunning and bold.  You begin play with an Intelligence of 12, a 
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You've gathered a small load of goods and are ready to set up a stall in the village square. You become a level 1 [Rogue-Spellcaster](classes/Rogue-Spellcaster.md). You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting* and *Sense Magic*.  The tables below will tell you your other abilities.
+You've gathered a small load of goods and are ready to set up a stall in the village square. You become a level 1 [Rogue-Spellcaster](classes/Rogue-Spellcaster.md). You gain the class abilities *Magical Focus*, *Spellcasting* and *Sense Magic*.  The tables below will tell you your other abilities.
 
 ### What else happened as you began your merchant career?
 <table>
@@ -220,7 +220,7 @@ You've gathered a small load of goods and are ready to set up a stall in the vil
 
 ## Fill out your sheet.
 1. Record your name, class and level.
-2. Record your species and whatever [features](species/Goblin.md) you gain from it.
+2. Record your species as [Goblin](species/Goblin.md) and whatever features you gain from it.
 3. Select a background from those made available from your Lifepath, above.
 4. As a Spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).

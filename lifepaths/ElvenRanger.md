@@ -19,7 +19,7 @@ You are adept at remaining hidden and finding your way in the wilderness.  Your 
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You began to wander the wilderness.  You become a level 1 [Rogue-Spellcaster](classes/Rogue-Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Invocation Dice*, *Magical Focus*, *Spellcasting*, *Sense Magic* and the *Skulker* knack. The tables below will give you all your [Traits](Traits.md), Cantrips, Spells and Sigils.
+You began to wander the wilderness.  You become a level 1 [Rogue-Spellcaster](classes/Rogue-Spellcaster.md).  You gain the class abilities *Magical Focus*, *Spellcasting*, *Sense Magic* and the *Skulker* knack. The tables below will give you all your [Traits](Traits.md), Cantrips, Spells and Sigils.
 
 ### What has happened to you since you became a wanderer?
 <table>
@@ -228,7 +228,7 @@ You began to wander the wilderness.  You become a level 1 [Rogue-Spellcaster](cl
 ## Fill out your sheet.
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
-3. Record your species and the [features](species/Elf.md#features) that come from it.
+3. Record your species as [Elf](species/elf.md) and whatever features you gain from it.
 4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Elven Ranger begins with the following equipment: your background trappings, a magical focus, a backpack, elven clothes, a elvish travelling cloak, a bedroll, a mess kit, a tinderbox, 10 torches, 1 week’s rations, 50ft silken rope, leather armor, one light weapon, one medium weapon, 4d6sp plus whatever equipment you rolled above.

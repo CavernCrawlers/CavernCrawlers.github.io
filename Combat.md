@@ -200,14 +200,14 @@ When an unconscious character is revived, they must make a **Constitution check*
 
 ## Combat Maneuvers
 
-Once per turn, as part of a normal melee attack, a Fighter may declare a Combat Maneuver.  This is a special move that won't do any extra damage, but can add additional consequences to the attack (such as tripping or disarming a foe).  If the d20 face shows a number equal to or higher than the fighter's Combat Maneuvers target, the move is successfully executed.  The defender may negate the effect with a successful saving throw vs the total attack value rolled (see the below examples for details).
+Once per turn, as part of a normal melee attack, anyone with the Combat Mastery ability (such as [Fighters](classes/Fighter.md)) may declare a Combat Maneuver as part of their normal attack.  This is a special move that won't do any extra damage, but can add additional consequences to the attack (such as tripping or disarming a foe).  If the d20 face shows a number equal to or higher than the fighter's Combat Mastery target, the move is successfully executed.  Some maneuvers allow the defender to negate the effect with a successful saving throw vs the total attack value rolled (see the below examples for details).
 
-Non-fighters may also attempt **some** of these exploits (those marked with am asterisk) but the target is always 18+.
+Characters without the Combat Mastery ability may also attempt **some** of these exploits (those marked with am asterisk) but this is done **instead** of a normal attack rather than in addition.  In this case, there is no need to roll to successfully execute the maneuver, but the target will still get a saving throw.  Characters with Combat Mastery may also choose this option, if they so wish.
 
 ### Combat Maneuver Examples:
 
 #### Battle Cry
-A roar, a shout, a stream of expletives; in some way you use your voice to try to unnerve your opponent.  You must be able to speak to use this maneuver.  The target must make a Spirit save or become [Frightened](Combat.md#frightened) until the *end* of their next turn.  This has no effect on mindless creatures or other beings immune to fear.
+A roar, a shout, a stream of expletives; in some way you use voice and body language to try to unnerve your opponent.  You must be able to speak to use this maneuver.  The target must make a Spirit save or become [Frightened](Combat.md#frightened) until the *end* of their next turn.  This has no effect on mindless creatures or other beings immune to fear.
 
 #### Blind*
 From throwing sand in someone's face, to pulling their cloak hood over their eyes to slashing their brow so they bleed into their own eyes, you attempt  to impair your target's vision.  The target makes an **Evasion** save.  On a failure, the target becomes [Blinded](Combat.md#blinded) until the *end* of their next turn.  This obviously has no effect on creatures that don't use vision.
@@ -232,16 +232,22 @@ You twist your target's weapon in such a way that they must pass an **Evasion** 
 Striking at your foe's arm or hand, you attempt to weaken their ability to strike.  The target makes a **Hardiness** save.  On a failure, they suffer **Disadvantage** on their next attack.  This cannot effect creatures immune to critical hits (such as undead and amorphous monsters).
 
 #### Juke*
-You fake going one direction in order to slip past your foe by going the other way around.  The target must make an Evasion save.  On a failure, the attacker may use their movement to move through the target's space and to exit their reach without drawing an Opportunity Attack from the target.
+You fake going one direction in order to slip past your foe by going the other way around.  The target must make an **Evasion** save.  On a failure, the attacker may use their movement to move through the target's space and to exit their reach without drawing an Opportunity Attack from the target.
+
+#### Rally*
+You let out a rallying cry, perform a flashy maneuver or otherwise attempt to embolden your allies.  Any ally within Near range who can see and hear you adds your **Charisma Modifier** (minimum +1) their next morale or fear-based saving throw during this combat.  Allies who already have broken morale or are [Frightened](Combat.md#frightened) may immediately make a new save (adding your **CHA Mod**; min +1) to shake off the condition.
 
 #### Shove*
 You force your opponent to move a few steps back.  The target must make a **Hardiness** save.  On a failure, they must step back 5 feet into an open space (either straight back, back-left or back-right) and the attacker may (if they so choose), step into the previously occupied space.  If there is no open space, the target loses their balance and attacks against them have **Advantage** until the start of their next turn.  If the target is larger than the attacker, or has more than two legs, they make their save with advantage.  If they are smaller, they have disadvantage.
 
-#### Rally
-You let out a rallying cry, perform a flashy maneuver or otherwise attempt to embolden your allies.  Any ally within Near range who can see and hear you adds your **Charisma Modifier** (minimum +1) their next morale or fear-based saving throw during this combat.  Allies who already have broken morale or are [Frightened](Combat.md#frightened) may immediately make a new save (adding your **CHA Mod**; min +1) to shake off the condition.
+#### Sweep
+You attempt to swing your weapon through multiple targets at the same time.  This maneuver can only be done with medium or heavy melee weapons.  Pick 3 adjacent spaces within your melee reach.  A separate attack roll is made against each creature (friend or foe) within those spaces.  These attacks are made at -4 to hit.  If hit, a target takes damage as normal.  Characters with the Minimum Damage ability do not benefit from that ability while using this maneuver.
 
 #### Trip*
 You try to take your opponent's feet out from under them.  The target must make an **Evasion** save.  On a failure, they are knocked [Prone](Cbomat.md#prone).  If the target is larger than the attacker, or has more than two legs, they make their save with advantage.  If they are smaller, they have disadvantage.  This has no effect on flying creatures or creatures without legs.
+
+#### Wrest*
+You attempt to grab an object currently in the possession of someone else.  An attack is made at -2 and, if successful, the attacker grabs hold of the object.  The attacker then must make a **contested Strength check** for control of the object.  Whomever wins takes sole possession of the object.  In the event of a tie, both parties have a grip on the object and neither may use it and either party may attempt another STR vs STR contest as their main action on their subsequent turns.  Obviously, this maneuver requires at least 1 free hand to perform.
 
 #### Other*
 Describe some effect you wish to add to your attack.  The GM will decide what saving throw the target is allowed and the exact mechanical effects your exploit has.

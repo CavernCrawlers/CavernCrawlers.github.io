@@ -206,7 +206,7 @@ You were trained by the bounty-hunter's guild. You become a level 1 [Rogue](clas
 
 ## Fill out your sheet.
 1. Record your name, class and level.
-2. Record your species and whatever [features](species/Goblin.md) you gain from it.
+2. Record your species as [Goblin](species/Goblin.md) and whatever features you gain from it.
 3. Select a background from those made available from your Lifepath, above.
 4. As a Goblin, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).

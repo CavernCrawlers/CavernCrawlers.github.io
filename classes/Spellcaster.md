@@ -58,9 +58,6 @@ cssclass: clean-embeds
 |  10   |     10d4     |        +3        |       +7        |         10d6        |   +1   | -- |
 |  11   |    10d4+1    |        +3        |       +8        |         11d6        |   --   |  6 |
 |  12   |    10d4+2    |        +4        |       +8        |         12d6        |   --   | -- |
-|  13   |    10d4+3    |        +4        |       +9        |         13d6        |   +1   | -- |
-|  14   |    10d4+4    |        +5        |       +10       |         14d6        |   --   | -- |
-|  15   |    10d4+5    |        +5        |       +10       |         15d6        |   +1   | -- |  
 
 ### Spellcaster Saving Throws
 | Level | Evasion | Hardiness | Spirit |
@@ -77,9 +74,6 @@ cssclass: clean-embeds
 |  10   |    +7   |     +5    |   +7   |
 |  11   |    +8   |     +6    |   +8   |
 |  12   |    +8   |     +6    |   +9   |
-|  13   |    +9   |     +7    |   +9   |
-|  14   |    +9   |     +8    |  +10   |
-|  15   |   +10   |     +8    |  +11   |
 
 ## Sample Spellcaster Builds
 - **Menacing Sorcerer** 

@@ -207,9 +207,9 @@ You learned the ways of the merchant. You become a level 1 [Rogue](classes/Rogue
 ## Fill out your sheet.
 1. Record your name, class and level.
 2. Select a Background from those made available by your Lifepath (above).
-3. Record your species and the [features](species/Human.md#features) that come from it.
+3. Record your species as [Human](species/Human.md) and whatever features you gain from it.
 4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
-5. Jot down your class abilities, knack, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Adventurous Trader begins with the following equipment: a dagger, a backpack, practical clothes, a heavy cloak, a bedroll, a mess kit, a tinderbox, 10 torches, 1 week’s rations, 50ft rope, leather armor, one light weapon, one medium weapon, nice clothes, your helper (counts as an ally), a cart and mule and 200 silvers worth of goods (according to you, at least), and 10+2d6sp
+5. Jot down your class abilities, knack, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Adventurous Trader begins with the following equipment: your background trappings, a backpack, practical clothes, a heavy cloak, a bedroll, a mess kit, a tinderbox, 10 torches, 1 week’s rations, 50ft rope, leather armor, one light weapon, one medium weapon, nice clothes, your helper (counts as an ally), a cart and mule and 200 silvers worth of goods (according to you, at least), and 2d6sp in cash.
 6. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is illiterate unless you spend a language choice on literacy or are a spellcaster.
 7. Your Base Attack Bonus comes from your class. As a level 1 rogue, you have a BAB of +1.
 8. Your Skill bonus comes from your class.  As a level 1 Rogue, you have a SB of +1.
