@@ -450,7 +450,7 @@ This spell acts as a barrier to rain, snow, sleet and similar weather effects; k
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-By means of this spell, the caster uses the power of a sigil to conjure a small amount of a single element (approximately 1 cubic inch).  At it's minimum, this spell does negligible damage, but can produce utilitarian effects (such as using the Fire sigil to ignite a torch).  Alternatively, the mage may use this as an attack (requiring a [Magical Attack](MagicalArts.md#Magical%20Attacks%20and%20Saving%20Throws) vs an unwilling target), doing 1d4 damage of the selected type.
+By means of this spell, the caster uses the power of a sigil to conjure a small amount of a single element (approximately 1 cubic inch).  At it's minimum, this spell does negligible damage, but can produce utilitarian effects (such as using the Fire sigil to ignite a torch).  Alternatively, the mage may use this as an attack (requiring a [Magical Attack](magic/MagicalArts.md#Magical%20Attacks%20and%20Saving%20Throws) vs an unwilling target), doing 1d4 damage of the selected type.
 
 *Upcasting*
 

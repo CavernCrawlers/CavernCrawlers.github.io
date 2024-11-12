@@ -19,7 +19,7 @@ You are naturally philosophical and possess an animal cunning. Your Wisdom and I
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-In the middle of the night, a solemn procession of robed figures bearing firebrands strode to through the streets of the village toward your home. Their ancient authority was not to be argued with and they spirited you away into the wilderness. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Nature's Blessing](TierZeroSpells.md#nature's%20blessing) cantrip and Plant [sigil](sigils.md). The tables below will tell you your other traits and spells.
+In the middle of the night, a solemn procession of robed figures bearing firebrands strode to through the streets of the village toward your home. Their ancient authority was not to be argued with and they spirited you away into the wilderness. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Nature's Blessing](magic/TierZeroSpells.md#nature's%20blessing) cantrip and Plant [sigil](magic/Sigils.md). The tables below will tell you your other traits and spells.
 
 ### What else happened to you as you began your life of service?
 
@@ -240,9 +240,9 @@ In the middle of the night, a solemn procession of robed figures bearing firebra
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Neophyte Druid begins with the following equipment: your background trappings, a backpack, traveler's clothes, a heavy cloak, a bedroll, a mess kit, a tinderbox, 10 torches, 1 week’s rations, 50ft rope, a spellbook, one light weapon and 4d6sp.  You also have whatever items you rolled in your Lifepath.
 7. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
-8. Write down your starting [cantrips](TierZeroSpells.md).
-9. Write down your starting [spells](TierOneSpells.md).
-10. Write down your starting [sigils](sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
+8. Write down your starting [cantrips](magic/TierZeroSpells.md).
+9. Write down your starting [spells](magic/TierOneSpells.md).
+10. Write down your starting [Sigils](magic/Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
 11. Your Base Attack Bonus comes from your class. As a level 1 Spellcaster, you have a BAB of +0.
 12. Your Skill bonus comes from your class.  As a level 1 Spellcaster, you have a SB of +1.
 13. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a Spellcaster.

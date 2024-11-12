@@ -32,7 +32,7 @@ A stuck door may be forced with a **Strength** check vs an appropriate [difficul
 These may be forced in the same manner as a stuck door.  Alternatively, a character with the appropriate tools (and training helps) may attempt to pick the lock.  This is a [Skilled](RulesSynopsis.md#Skilled%20Check) **Dexterity** check vs. the lock's [difficulty](RulesSynopsis.md#difficulty%20targets).  Typically only [Rogues](classes/Rogue.md) and [Hybrid-Rogues](Glossary.md#Hybrid%20Class) are considered skilled in this activity.
 
 ### Magic
-There are also spells capable of opening locked or stuck doors (such as the [Open](TierZeroSpells.md#open) cantrip).
+There are also spells capable of opening locked or stuck doors (such as the [Open](magic/TierZeroSpells.md#open) cantrip).
 
 ### Doors Swinging Shut
 Again, most scenarios will indicate if a door will swing shut if left open.  If not explicitly called out by the scenario, assume a 7 in 10 chance that the door will swing shut if not propped open in some way.

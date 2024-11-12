@@ -207,7 +207,7 @@ The caster picks one target they can see within range and attempts to cancel one
 - **Save:** none
 - **Components:** Gestures, Incantations and the raw materials
 
-The caster turns a [Large](Spells.md#area) pile of raw materials into a single finished object.  For example, a pile of stone could be turned into a crude wall or a pile of wood could be turned into a small shack.  When the duration expires, the object reverts back to its raw materials.
+The caster turns a [Large](magic/Spells.md#area) pile of raw materials into a single finished object.  For example, a pile of stone could be turned into a crude wall or a pile of wood could be turned into a small shack.  When the duration expires, the object reverts back to its raw materials.
 
 *Upcasting*
 
@@ -314,7 +314,7 @@ The caster may float vertically covering up to Near distance each round.  Horizo
 - **Save:** none
 - **Components:** Gestures, Incantations & a 500sp gemstone
 
-With this ritual, the caster enchants a precious stone (worth at least 500sp) to show an image of what another creature sees.  Once the spell is cast, the caster must [Concentrate](MagicalArts.md#Concentration) for 10 minutes; after which the crystal will show the caster an image from the point of view of one creature within range.  Once a connection has been established, the caster may choose to change the creature whose eyes they see through as an **Action**.  The effects of this spell will be blocked by at least 2 feet of rock or a thin layer or lead, silver or gold.
+With this ritual, the caster enchants a precious stone (worth at least 500sp) to show an image of what another creature sees.  Once the spell is cast, the caster must [Concentrate](magic/MagicalArts.md#Concentration) for 10 minutes; after which the crystal will show the caster an image from the point of view of one creature within range.  Once a connection has been established, the caster may choose to change the creature whose eyes they see through as an **Action**.  The effects of this spell will be blocked by at least 2 feet of rock or a thin layer or lead, silver or gold.
 
 *Upcasting*
 

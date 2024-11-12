@@ -25,7 +25,7 @@ If a spellbook is lost or destroyed, it may be recreated using the spells that t
 ## Magical Focus
 A magical focus is a device that aids a spellcaster in channeling and controlling their magic.  This device must be easily seen, recognized and hand-held.  It also takes up 1 inventory slot.
 
-A spellcaster may inscribe a number of known [sigils](Sigils.md) into their Focus.  This allows the inscribed sigils to count as being on-hand so long as the caster has their Focus in-hand.  Additionally, and spells utilizing that sigil may be cast using d8s for the Invocation Dice instead of d6s.
+A spellcaster may inscribe a number of known [sigils](magic/Sigils.md) into their Focus.  This allows the inscribed sigils to count as being on-hand so long as the caster has their Focus in-hand.  Additionally, and spells utilizing that sigil may be cast using d8s for the Invocation Dice instead of d6s.
 
 ### Replacing a Focus
 A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 100sp worth of materials.
@@ -39,7 +39,7 @@ A spellcaster may only cast spells they have prepared.  Cantrips are always prep
 ### Casting Unprepared Spells
 A spellcaster, so long as they have access to their spellbook, may cast unprepared spells using said spellbook.  Doing so increases the casting time of the spell ten-fold, to a minimum of 10 minutes.
 
-*For example, a character wishing to cast [Augury](TierTwoSpells.md#augury) as an unprepared spell must have their spellbook on hand.  Since the base casting time is 10 minutes, it will now take 100 minutes to cast the spell in this manner.*
+*For example, a character wishing to cast [Augury](magic/TierTwoSpells.md#augury) as an unprepared spell must have their spellbook on hand.  Since the base casting time is 10 minutes, it will now take 100 minutes to cast the spell in this manner.*
 
 ## The Invocation Roll
 
@@ -103,7 +103,7 @@ Alternatively, a spell may require the target to make a [Saving Throw](CoreRules
 ### Spell Identification
 If a mage can directly see and hear another spellcaster as they cast a spell, they may attempt a [Skilled](RulesSynopsis.md#skilled%20check) **Intelligence** check vs. the spell's **casting difficulty** in order to identify the spell being cast.  If the observing mage can only see or hear the casting mage, but not both, this check is performed at **Disadvantage**.
 
-If the check is successful and the mage has the spell in their spellbook, they completely identify the spell and whether or not it is being [upcast](Spells.md#Upcasting) and to what rank.
+If the check is successful and the mage has the spell in their spellbook, they completely identify the spell and whether or not it is being [upcast](magic/Spells.md#Upcasting) and to what rank.
 
 If the check is successful but the mage does not have the spell in their spellbook, they will only be able to discern the following:
 1. Whether or not the spell is being cast at a rank the observing mage can cast.

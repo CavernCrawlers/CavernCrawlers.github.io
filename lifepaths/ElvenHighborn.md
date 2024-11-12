@@ -19,7 +19,7 @@ You are quick and intelligent. Your Dexterity and Intelligence begin at 10, and 
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-Your family trained you to be a great warrior, but also taught you the arcane arts.  You become a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Spellcasting*, *Sense Magic*, the cantrip [Glamour](TierZeroSpells.md#glamour) and the Illusion [sigil](sigils.md). The tables below will give you all your [Knacks](classes/Fighter-Spellcaster.md#fighter-spellcaster%20knacks), [Traits](Traits.md), Cantrips and Sigils.
+Your family trained you to be a great warrior, but also taught you the arcane arts.  You become a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Spellcasting*, *Sense Magic*, the cantrip [Glamour](magic/TierZeroSpells.md#glamour) and the Illusion [sigil](magic/Sigils.md). The tables below will give you all your [Knacks](classes/Fighter-Spellcaster.md#fighter-spellcaster%20knacks), [Traits](Traits.md), Cantrips and Sigils.
 
 ### What have learned since your training?  
 | d6 | As a student, you had access to the ancient records of high elven magic. What did you study? | Ability        | Background | Cantrip      | Sigil  |
@@ -174,22 +174,10 @@ Your family trained you to be a great warrior, but also taught you the arcane ar
 	</tr>
 </table>
 
-## Fill out your sheet.
-1. Record your name, class and level.
-2. Pick your background form those that have become available during your Lifepath.
-3. Record your species as [Elf](species/elf.md) and whatever features you gain from it.
-4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
-5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
-6. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Elven High Born begins with the following equipment: your background trappings, a backpack, an elvish cloak, a spellbook, many pouches, an arcane focus, a light elven weapon and 4d6sp
-7. Write down your starting [cantrips](TierZeroSpells.md).
-8. Write down your starting [sigils](sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
-9. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
-10. Your Base Attack Bonus comes from your class. As a level 1 Fighter-Spellcaster, you have a BAB of +1.
-11. Your Skill bonus comes from your class.  As a level 1 Fighter-Spellcaster, you have a SB of +1.
-12. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a Fighter-Spellcaster.
-13. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-14. As an Elven Fighter-Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 1.
-15. Your starting Hit Points equal to 6 plus your Constitution Modifier.
-16. Fill in your [Saving Throws](classes/Fighter-Spellcaster.md#fighter-spellcaster%20saving%20throws) using the chart in the Fighter-Spellcaster document.
-17. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
+## Starting Equipment
+The Elven High Born begins with the following equipment: your background trappings, a backpack, an elvish cloak, a spellbook (with 1 additional random tier 1 spell, which you cannot yet cast), a dagger, fine elvish clothing, a beautiful elven weapon (excellent [quality](EncumbranceAndEquipment.md#quality)), elven leather (excellent quality leather), 1 week's rations, and 1d6sp.  You also have the equipment rolled in the tables above.
 
+## Fill out your sheet.
+![](lifepaths/CharacterSheetInstructions#ElfFighterSpellcaster)
+
+![](classes/Fighter-Spellcaster.md#fighter-spellcaster%20table)

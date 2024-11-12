@@ -146,12 +146,12 @@ Characters failing a swim check will begin drowning.  If they had a chance to dr
 ### Random Encounters
 As characters travel, there is a chance they will come across a random encounter.  The odds of the encounter will vary by how populated the region is and they type of encounter depends on the type of region.
 
-| Population | Encounter Chance |
-|:-----------|:----------------:|
-| Sparse     | 1 in 10          |
-| Low        | 1 in 8           |
-| Moderate   | 1 in 6           |
-| High       | 1 in 4           |
+| Population | Encounter Chance | Encounter % |
+|:-----------|:----------------:|:-----------:|
+| Sparse     | 1 in 10          | 10.0%       |
+| Low        | 1 in 8           | 12.5%       |
+| Moderate   | 1 in 6           | 16.7%       |
+| High       | 1 in 4           | 25.0%       |
 
 Typically, this check is made once or twice per day in the wilderness, once per [Watch](RulesSynopsis.md#Time) in an urban environment and once every 3 to 6 [Exploration Turns](RulesSynopsis.md#Time) in a dungeon environment.
 

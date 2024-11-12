@@ -19,7 +19,7 @@ You are brave and pious. Your Strength and Wisdom begin at 10, and all of your o
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You began the path to becoming a holy knight.  You become a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md).  You gain the class abilities *Magical Focus*, *Spellcasting*, *Sense Magic*, the cantrip [Inspire](TierZeroSpells.md#inspire) and the Humanoid [sigil](sigils.md). The tables below will give you all your [Knacks](classes/Fighter-Spellcaster.md#fighter-spellcaster%20knacks), [Traits](Traits.md), Cantrips and Sigils.
+You began the path to becoming a holy knight.  You become a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md).  You gain the class abilities *Magical Focus*, *Spellcasting*, *Sense Magic*, the cantrip [Inspire](magic/TierZeroSpells.md#inspire) and the Humanoid [sigil](magic/Sigils.md). The tables below will give you all your [Knacks](classes/Fighter-Spellcaster.md#fighter-spellcaster%20knacks), [Traits](Traits.md), Cantrips and Sigils.
 
 ### What happened when you joined the order?  
 <table>
@@ -224,8 +224,8 @@ You began the path to becoming a holy knight.  You become a level 1 [Fighter-Spe
 4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Novice Paladin begins with the following equipment: your background trappings, a backpack, fine clothing, a tinderbox, tools for arms and armor maintenance, a light weapon, scale mail, either 2 weapons or a weapon and shield, your holy symbol (magical focus) and no money.
-7. Write down your starting [cantrips](TierZeroSpells.md).
-8. Write down your starting [sigils](sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
+7. Write down your starting [cantrips](magic/TierZeroSpells.md).
+8. Write down your starting [Sigils](magic/Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
 9. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
 10. Your Base Attack Bonus comes from your class. As a level 1 Fighter-Spellcaster, you have a BAB of +1.
 11. Your Skill bonus comes from your class.  As a level 1 Fighter-Spellcaster, you have a SB of +1.

@@ -2,7 +2,7 @@
 cssclass: clean-embeds
 ---
 # Spells
-Spells are the magical formula by which the power of the [sigils](Sigils.md) may be harnessed and directed.
+Spells are the magical formula by which the power of the [sigils](magic/Sigils.md) may be harnessed and directed.
 
 Within this section you will find a list of spells for use in the *Cavern Crawlers* game.  This list is by no means definitive and the GM and players should work together if they wish to bring spells from other sources into the game.
 - [Spell Descriptions](#Spell%20Descriptions)
@@ -28,7 +28,7 @@ All spell descriptions contain the following information.
 This is the spell's Tier, which determines who may learn the spell.
 
 ### Sigils
-Which [sigils](Sigils.md) are required for the casting of the spell.
+Which [sigils](magic/Sigils.md) are required for the casting of the spell.
 
 ### Casting Ability
 This identifies which **Ability Score Modifier** (Intelligence, Wisdom or Charisma) is used to compute the **Saving Throw Diff** or **Attack Modifier** of any spells you cast.
@@ -65,7 +65,7 @@ This is the area over which the magical art’s effects can be felt:<br/>
 **Other** – Has a different area of effect outlined in the magical art’s description.<br/>
 
 ### Duration
-This indicates how long a spell will continue to affect the target(s).  Additionally, spells whose duration is marked with a (c) indicate that [Concentration](MagicalArts.md#Concentration) is required to maintain the magic.
+This indicates how long a spell will continue to affect the target(s).  Additionally, spells whose duration is marked with a (c) indicate that [Concentration](magic/MagicalArts.md#Concentration) is required to maintain the magic.
 - 1 (Re)action
 - 1 (A)ction
 - 1 (Ro)und
@@ -85,7 +85,7 @@ This indicates how long a spell will continue to affect the target(s).  Addition
 This indicates if a target is allowed to make a [Saving Throw](CoreRules.md#Saving%20Throws) to resist or diminish the effect.  This will be given as a saving throw type.
 
 ### Components
-Spells will often require **Gestures**, **Incantations** or both to cast.  If any one element is missing or restricted, the spell cannot be cast and any [Invocation Roll](MagicalArts.md#the%20invocation%20roll) will automatically fail.
+Spells will often require **Gestures**, **Incantations** or both to cast.  If any one element is missing or restricted, the spell cannot be cast and any [Invocation Roll](magic/MagicalArts.md#the%20invocation%20roll) will automatically fail.
 - **Gestures** require at least one free hand (though it may be holding your Magical Focus or Sigil).
 - **Incantations** require the caster be able to speak freely and not be in a zone of total silence.
 
@@ -94,6 +94,6 @@ Several spells allow the caster to increase the Tier of the spell in return for 
 
 ## Example Spells
 
-![](TierZeroSpells.md#mend)
+![](magic/TierZeroSpells.md#mend)
 
-![](TierZeroSpells.md#spark)
+![](magic/TierZeroSpells.md#spark)

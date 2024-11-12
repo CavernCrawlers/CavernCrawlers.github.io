@@ -18,7 +18,7 @@ cssclass: clean-embeds
 ## Statistics
 - **Starting HP**: 7 + CON Modifier
 - **Hit Dice**: 1d6 + 1 + CON Modifier per level
-- **HP after Level 10:** +2 per level
+- **HP after Level 10:** +2 per level (no CON modifier)
 - **Initiative Bonus**: +1
 - **Armor Training**: Light and Medium Armor, Buckler and Shield
 - **Weapon Training**: All
@@ -35,7 +35,7 @@ cssclass: clean-embeds
 ### Rogue Skills
 ![Rogue Skills](classes/ClassAbilities.md#rogue%20skills)
 
-### At 2nd level:
+### Pick One
 Pick one of the following two abilities:
 
 #### Combat Mastery
@@ -47,34 +47,34 @@ Pick one of the following two abilities:
 ## Fighter-Rogue Table  
 |  Level  |  Hit<br/>Dice  |  Attack<br/>Bonus  |  Skill<br/>Bonus  | Combat<br/>Mastery | Sneak<br/>Attack |  Knacks  |  Traits  |
 |:-------:|:--------------:|:------------------:|:-----------------:|:------------------:|:----------------:|:--------:|:--------:|
-|     1   |    1d6+1       |       +1           |       +1          | --                 | --               |     1    |     1    |
-|     2   |    2d6+2       |       +2           |       +1          |             14+    |         +1d4     |    --    |    --    |
+|     1   |    1d6+1       |       +1           |       +1          |             15+    |         +1d3     |     1    |     1    |
+|     2   |    2d6+2       |       +1           |       +1          |             14+    |         +1d4     |    --    |    --    |
 |     3   |    3d6+3       |       +2           |       +2          |             13+    |         +1d4     |    --    |    --    |
-|     4   |    4d6+4       |       +3           |       +2          |             13+    |         +1d4     |    +1    |    --    |
+|     4   |    4d6+4       |       +2           |       +3          |             13+    |         +1d4     |    +1    |    --    |
 |     5   |    5d6+5       |       +3           |       +3          |             12+    |         +2d4     |    --    |    --    |
-|     6   |    6d6+6       |       +4           |       +3          |             12+    |         +2d4     |    --    |    +1    |
-|     7   |    7d6+7       |       +5           |       +4          |             11+    |         +2d4     |    --    |    --    |
-|     8   |    8d6+8       |       +5           |       +4          |             11+    |         +2d4     |    +1    |    --    |
-|     9   |    9d6+9       |       +6           |       +5          |             10+    |         +3d4     |    --    |    --    |
-|    10   |   10d6+10      |       +6           |       +5          |             10+    |         +3d4     |    --    |    +1    |
-|    11   |   10d6+12      |       +7           |       +6          |              9+    |         +3d4     |    --    |    --    |
-|    12   |   10d6+14      |       +7           |       +6          |              9+    |         +3d4     |    +1    |    --    |
+|     6   |    6d6+6       |       +3           |       +4          |             12+    |         +2d4     |    --    |    +1    |
+|     7   |    7d6+7       |       +4           |       +5          |             11+    |         +2d4     |    --    |    --    |
+|     8   |    8d6+8       |       +4           |       +5          |             11+    |         +2d4     |    +1    |    --    |
+|     9   |    9d6+9       |       +5           |       +6          |             10+    |         +2d4     |    --    |    --    |
+|    10   |   10d6+10      |       +5           |       +7          |              9+    |         +3d4     |    --    |    +1    |
+|    11   |   10d6+12      |       +6           |       +8          |              9+    |         +3d4     |    --    |    --    |
+|    12   |   10d6+14      |       +7           |       +8          |              9+    |         +3d4     |    +1    |    --    |
 
 ### Fighter-Rogue Saving Throws
 | Level | Evasion | Hardiness | Spirit |
 |:-----:|:-------:|:---------:|:------:|
-|   1   |    +1   |     +1    |   +1   |
+|   1   |    +1   |     +1    |   +0   |
 |   2   |    +2   |     +2    |   +1   |
-|   3   |    +3   |     +2    |   +2   |
-|   4   |    +4   |     +3    |   +3   |
-|   5   |    +4   |     +3    |   +3   |
-|   6   |    +5   |     +4    |   +4   |
+|   3   |    +3   |     +3    |   +2   |
+|   4   |    +3   |     +3    |   +3   |
+|   5   |    +4   |     +4    |   +3   |
+|   6   |    +5   |     +5    |   +4   |
 |   7   |    +6   |     +5    |   +5   |
 |   8   |    +7   |     +6    |   +5   |
-|   9   |    +7   |     +7    |   +6   |
-|  10   |    +8   |     +7    |   +6   |
+|   9   |    +8   |     +7    |   +6   |
+|  10   |    +8   |     +7    |   +7   |
 |  11   |    +9   |     +8    |   +7   |
-|  12   |   +10   |     +8    |   +8   |
+|  12   |   +10   |     +9    |   +8   |
 
 ## Fighter-Rogue Knacks
 

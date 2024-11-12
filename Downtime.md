@@ -68,7 +68,7 @@ You spend your week consulting books and sages, the quality of which is dependen
 |:-----:|:--------|
 |    0- | **Cursed!** -- A scroll you came across was cursed. Make a **Spirit save** vs DT 13. On a success, you avoid the curse. On a failure you have a -2 on all **ability checks** for one random ability for the next 1d4(pool) weeks. |
 |  1-2  | **Haunted!** -- The tome you are studying is haunted. The ghost has now attached itself to you. It is invisible and inaudible to everyone but you. Until you find a way to banish it, it is annoying and distracting but not directly harmful. |
-|  3-4  | **Oops!** -- Roll for a [spell mishap](MagicalArts.md#mishaps) even if you aren't a spellcaster. |
+|  3-4  | **Oops!** -- Roll for a [spell mishap](magic/MagicalArts.md#mishaps) even if you aren't a spellcaster. |
 |  5-6  | **Loose Lips** -- You learn the [True Name](TrueNames.md) of one supernatural entity (demon, fae lord, demigod, dragon, etc), but accidently speak its name aloud in the process. It is likely now aware of you. |
 |  7-9  | **Heresy!** -- A member of the Great Church learns of your research and declares it blasphemous. You have **Disadvantage** on all social interaction rolls with members of the Great Church for the next 1d4(pool) weeks. |
 |   10  | **Secrets!** -- You learn the [True Name](TrueNames.md) of one supernatural entity (demon, fae lord, demigod, dragon, etc). |

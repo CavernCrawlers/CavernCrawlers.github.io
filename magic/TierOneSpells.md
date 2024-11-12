@@ -204,7 +204,7 @@ As soon as the spell ends (or if the initial save was successful), the targeted 
 - **Save:** n/a
 - Components: Gestures, Incantations
 
-This spell enhances the caster's [Sense Magic](classes/Spellcaster.md#sense%20magic) ability so that they can not only tell if someone or something is magical on first sight, but they can also get a sense of the nature of that magic.  The caster will know the details of the enchantment as if they were [identifying](MagicalArts.md#spell%20identification) a spell as it was being cast.
+This spell enhances the caster's [Sense Magic](classes/Spellcaster.md#sense%20magic) ability so that they can not only tell if someone or something is magical on first sight, but they can also get a sense of the nature of that magic.  The caster will know the details of the enchantment as if they were [identifying](magic/MagicalArts.md#spell%20identification) a spell as it was being cast.
 
 *Upcasting*<br/>
 The spell's duration may be increased 1 step per +1 Tier.

@@ -8,112 +8,82 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43c6744766cf5dab",
+            "id": "344530778945b653",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Background.md",
+                "file": "lifepaths/CharacterSheetInstructions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Background"
+              "title": "CharacterSheetInstructions"
             }
           },
           {
-            "id": "81183cb5f225915d",
+            "id": "839a571aabfa240a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lifepaths/YoungForester.md",
+                "file": "lifepaths/GiftedDilettante.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "YoungForester"
+              "title": "GiftedDilettante"
             }
           },
           {
-            "id": "813522712454e896",
+            "id": "a89f4f01d7d48452",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CoreRules.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "CoreRules"
-            }
-          },
-          {
-            "id": "f7e70e561ed3d44a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Traits.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Traits"
-            }
-          },
-          {
-            "id": "8df07c1620681362",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EncumbranceAndEquipment.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "EncumbranceAndEquipment"
-            }
-          },
-          {
-            "id": "1c10c7198e760024",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spells.md",
+                "file": "classes/Spellcaster.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Spells"
+              "title": "Spellcaster"
             }
           },
           {
-            "id": "1896890bbe29779f",
+            "id": "5cb3dc712c7f53af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TierZeroSpells.md",
+                "file": "species/Human.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "TierZeroSpells"
+              "title": "Human"
+            }
+          },
+          {
+            "id": "9f2ff52b6effd819",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "classes/Fighter-Spellcaster.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Fighter-Spellcaster"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +114,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mastery",
+                "query": "passions",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,11 +135,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ac5cb02070cbcc1d",
@@ -270,44 +242,43 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "6dee14c18223e28d",
+  "active": "a89f4f01d7d48452",
   "lastOpenFiles": [
-    "classes/Knacks.md",
-    "Traits.md",
-    "classes/Fighter.md",
-    "Combat.md",
-    "classes/ClassAbilities.md",
     "lifepaths/AcolyteOfTheOldGods.md",
-    "lifepaths/LibreOffice/lu77164ebgjv.tmp",
-    "classes/Rogue-Spellcaster.md",
-    "classes/Spellcaster.md",
-    "classes/Fighter-Rogue.md",
-    "classes/Rogue.md",
     "classes/Fighter-Spellcaster.md",
+    "lifepaths/CharacterSheetInstructions.md",
+    "misc/lu16528yi3r.tmp",
+    "misc/CavernCrawlers Classes.ods",
+    "lifepaths/GiftedDilettante.md",
+    "RulesSynopsis.md",
     "Downtime.md",
     "CoreRules.md",
-    "Dungeoneering.md",
-    "WildernessExploration.md",
-    "RulesSynopsis.md",
-    "lifepaths/YoungForester.md",
-    "lifepaths/WouldBeKnight.md",
-    "lifepaths/WitchsApprentice.md",
-    "lifepaths/VirtuousBandit.md",
-    "lifepaths/VillageFriend.md",
-    "lifepaths/UntestedThief.md",
-    "lifepaths/StudentOfTheDarkArts.md",
-    "lifepaths/SelfTaughtMage.md",
-    "lifepaths/ReformedBully.md",
-    "lifepaths/PiousPriest.md",
+    "Combat.md",
+    "CharacterCreation.md",
+    "lifepaths/FutureWarlord.md",
+    "lifepaths/ElvenHighborn.md",
+    "species/Human.md",
+    "species/Elf.md",
+    "lifepaths/ElvenRanger.md",
+    "lifepaths/ElvenMage.md",
+    "lifepaths/BarbarianNamer.md",
+    "lifepaths/ApprenticeCourtSorcerer.md",
+    "lifepaths/DabblingDiabolist.md",
+    "lifepaths/DwarvenRuneCaster.md",
+    "lifepaths/DwarvenExplorer.md",
+    "lifepaths/DwarvenAdventurer.md",
+    "EncumbranceAndEquipment.md",
+    "species/Dwarf.md",
+    "classes/Fighter-Rogue.md",
+    "classes/Fighter.md",
+    "magic",
+    "lifepaths/LibreOffice/lu77164ebgjv.tmp",
     "lifepaths/LibreOffice/lu77164ebgjj.tmp",
     "lifepaths/LibreOffice/lu77164ebgj6.tmp",
     "lifepaths/LibreOffice/Acolyte of the Old Gods.odt",
     "lifepaths/LibreOffice/lu77164ebgix.tmp",
     "lifepaths/LibreOffice",
     "lifepaths/New folder",
-    "classes",
-    "species",
-    "misc/lu724365evcn2.tmp",
     "images/sigils/Person.png",
     "images/sigils/Void.png",
     "images/sigils/Water.png",

@@ -17,7 +17,7 @@ cssclass: clean-embeds
 ## Statistics
 - **Starting HP**: 8 + CON Modifier
 - **Hit Dice**: 1d6 + 2 + CON Modifier per level from 2 to 10.
-- **HP after level 10**: +2 per level.
+- **HP after level 10**: +2 per level (no CON modifier)
 - **Initiative Bonus**: +1
 - **Armor Training**: All
 - **Weapon Training**: All
@@ -59,15 +59,15 @@ cssclass: clean-embeds
 |   1   |    +1   |    +1     |   +0   |
 |   2   |    +1   |    +2     |   +1   |
 |   3   |    +2   |    +3     |   +1   |
-|   4   |    +3   |    +4     |   +2   |
-|   5   |    +4   |    +4     |   +2   |
+|   4   |    +3   |    +3     |   +2   |
+|   5   |    +4   |    +4     |   +3   |
 |   6   |    +4   |    +5     |   +3   |
 |   7   |    +5   |    +6     |   +4   |
 |   8   |    +6   |    +7     |   +4   |
 |   9   |    +6   |    +8     |   +5   |
-|  10   |    +7   |    +8     |   +5   |
+|  10   |    +7   |    +8     |   +6   |
 |  11   |    +8   |    +9     |   +6   |
-|  12   |    +9   |   +10     |   +6   |
+|  12   |    +9   |   +10     |   +7   |
 
 ## Fighter Knacks
 

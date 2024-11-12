@@ -35,12 +35,12 @@ As part of your apprenticeship, you created a unique magical focus to aid in you
 The benefit of your spellcasting focus is that you may carve a number of sigils into your focus equal to your Skill Bonus.  Any sigils carved into your focus count as being in-hand when casting a spell.  Additionally, any time you cast a spell utilizing one of those sigils, you may roll d8s instead of d6s for your Invocation Dice.  Your focus must be in-hand to gain these benefits.  It takes 1 Day and 50sp to engrave a new sigil into your focus.
 
 ### %%Spellcasting%%
-You can harness the power of magic.  The table below shows the maximum tier of spell you may learn and add to your spellbook.  You may cast spells you have prepared ahead of time.  Alternatively by taking ten times the normal casting time, you may cast any spell that has been recorded in your spellbook without the need to prepare it first.
+You can harness the power of magic.  The table below shows the maximum tier of spell you may learn and add to your spellbook.  You may cast spells you have prepared ahead of time.  Alternatively by taking ten times the normal casting time (with a 10 minute minimum), you may cast any spell that has been recorded in your spellbook without the need to prepare it first.
 - **Invocation Dice:**  As a spellcaster, you have a number of invocation dice as indicated on the table below plus additional dice equal to your **Wisdom Modifier**.  You may roll any number of these dice when attempting to cast a spell.
-- **Prepared Spells:**  You may prepare a number of spells equal to your number of **Invocation Dice** plus your **Intelligence Modifier**.  It takes 10 minutes times the spell's Tier to prepare a spell (cantrips do not need to be prepared).
-- **Spell Save Difficulty:** Your spells have a [saving throw](CoreRules.md#saving%20throws) difficulty equal to 10 plus your **Skill Bonus** plus an ability modifier as determined by the spell's description.
+- **Prepared Spells:**  You may prepare the number of spells shown on the table below plus your **Intelligence Modifier**.  It takes 10 minutes times the spell's Tier to prepare a spell (cantrips do not need to be prepared).
+- **Spell Save Difficulty:** Your spells have the [saving throw](CoreRules.md#saving%20throws) difficulty shown on the table below plus an ability modifier as determined by the spell's description.
 - **Exhausting Magic:**  At the cost of 1 level of [Exhaustion](Combat.md#Exhaustion), you may add your **Skill Bonus** to your **Invocation Roll** as a [Free Action](Combat.md#free%20actions).
-- See the [Magical Arts](MagicalArts.md) and [Spells](Spells.md) documents for further details.
+- See the [Magical Arts](magic/MagicalArts.md) and [Spells](magic/Spells.md) documents for further details.
 
 ### %%Sense Magic%%
 Being sensitive to the world of magic, you may determine if a person, place or thing is magical with a [Skilled Intelligence](RulesSynopsis.md#skilled%20check) check.  Doing so requires concentration and a full minute; so you cannot tell if something is magical simply by being in its presence and people tend to notice when a mage is staring at them.  You can also attempt to decipher magical writing in the same way.

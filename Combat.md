@@ -143,7 +143,7 @@ There are two types of cover to be concerned with.  Hard Cover is an object or p
 | Soft | <-50%    | no modifier |
 
 ### Magical Attacks
-Magical attacks follow the same rules as other attacks, but use the caster's **Skill Bonus** and either **Intelligence**, **Wisdom** or **Charisma modifier**.  See [Magical Attacks](MagicalArts.md#magical%20attacks%20and%20saving%20throws) under the Magical Arts document for further details.
+Magical attacks follow the same rules as other attacks, but use the caster's **Skill Bonus** and either **Intelligence**, **Wisdom** or **Charisma modifier**.  See [Magical Attacks](magic/MagicalArts.md#magical%20attacks%20and%20saving%20throws) under the Magical Arts document for further details.
 
 ### Fighting with Two Weapons
 In order to wield 2 weapons, the weapon in the character’s primary hand must be a light or medium one-handed weapon, and the weapon in their off-hand must be a light one-handed weapon.
@@ -172,7 +172,7 @@ As soon as a character drops to 0 HP or less, they fall [unconscious](#unconciou
 
 Next, form a d4 [Countdown Pool](RulesSynopsis.md#Countdown%20Pools) equal to their **Constitution bonus** + **Wisdom bonus** (minimum of 1).  This pool is rolled at the end of each of the character’s **Combat Turns**.  Once this **Countdown Pool** is emptied, the character dies.  Taking a hit while dying automatically removes 1 die from the pool in addition to the normal damage.  Taking a **critical hit** removes 2 dice.
 
-A character who is dying may be saved by another character attempting to stabilize them.  This is done with a **Wisdom/Healing** check vs difficulty 12 (15 if done in the middle of combat).  On a success, the character is stabilized but still has their negative HP total.  On a critical success, the patient is stabilized at 0 Hit Points.  The [Mend](TierZeroSpells.md#mend) cantrip will stabilize a dying creature as a successful healing roll.  Any healing spell of Tier 1 or higher stabilizes a dying creature as a critical success on the healing check.
+A character who is dying may be saved by another character attempting to stabilize them.  This is done with a **Wisdom/Healing** check vs difficulty 12 (15 if done in the middle of combat).  On a success, the character is stabilized but still has their negative HP total.  On a critical success, the patient is stabilized at 0 Hit Points.  The [Mend](magic/TierZeroSpells.md#mend) cantrip will stabilize a dying creature as a successful healing roll.  Any healing spell of Tier 1 or higher stabilizes a dying creature as a critical success on the healing check.
 
 Once unconscious, the character cannot be revived until they are healed back to at least 1 HP.
 

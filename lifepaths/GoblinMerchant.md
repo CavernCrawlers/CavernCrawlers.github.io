@@ -226,8 +226,8 @@ You've gathered a small load of goods and are ready to set up a stall in the vil
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Goblin Merchant begins with the following equipment: your background trappings, a backpack, traveler's clothes, a spellbook, many pouches, a magical focus, a light weapon, an empty hand-cart and 4d6sp.  You also have any items gained from your Lifepath.
 7. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
-8. Write down your starting [cantrips](TierZeroSpells.md).
-9. Write down your starting [sigils](sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
+8. Write down your starting [cantrips](magic/TierZeroSpells.md).
+9. Write down your starting [Sigils](magic/Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
 10. Your Base Attack Bonus comes from your class. As a level 1 Rogue-Spellcaster, you have a BAB of +1.
 11. Your Skill bonus comes from your class.  As a level 1 Rogue-Spellcaster, you have a SB of +1.
 12. Your Initiative Bonus is equal your Dexterity bonus plus 1 for being a Rogue-Spellcaster.

@@ -155,14 +155,14 @@ Additionally, each of your **Saving Throws** will have a **Passive Save** value 
 _For example:  Bron the Brave is a 3rd level Fighter with 14 STR, 12 CON, 10 DEX, 8 INT, 9 WIS and 10 CHA, who wears Ringmail armor and carries a shield.  His Armor Class is 10 + 3 (Ringmail) + 2 (Shield) = 15.  His Evasion Save is +2 (class) + 0 (DEX is higher than INT) = +2.  His Hardiness Save is +3 (class) + 1 (STR is higher than CON) = +4.  His Spirit Save is +1 (class) +0 (CHA is higher than WIS) = +1.  His Passive Saves are 10, 12 and 9 respectively._
 
 ## Passions
-Passions describe the things that are important to your character and can be both positive and negative.  Each character should have between 3 and 5 **Passions**, as determined by the player and approved by the GM.  A Passion should be describable in a single sentence or short phrase; if it takes more than a single line to describe a Passion, it is too complex and should be broken down into multiple Passions.  Additionally, a Passion should have both positive and negative connotations.
+Passions describe the things that are important to your character and can be both positive and negative.  Each character should have between 3 and 5 **Passions**, as determined by the player and approved by the GM.  A Passion should be describable in a single sentence or short phrase; if it takes more than a single line to describe a Passion, it is too complex and should be broken down into multiple Passions.  One tip is to phrase your passions in the manner of "I want. . .", "I will. . ." or "I won't. . .".
 
 Some examples of appropriate Passions are:
-- Devoted to family
-- Chivalric Code
-- Brutally honest
-- Philanthropic
-- Pius
+- I will protect my family at all costs.
+- I will never break the tenants of the Chivalric Code.
+- I will not lie.
+- I want to help those less fortunate than I.
+- I venerate the gods and wish to promote their worship to all.
 
 Some examples of inappropriate Passions:
 - Has an honest face.  {Not really a personality trait and doesn’t have a negative connotation.}

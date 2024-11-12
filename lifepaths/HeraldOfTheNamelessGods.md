@@ -19,7 +19,7 @@ The Voice has told you many secrets, including how to best get what you want fro
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-When you came of age, the Voice became clearer and began instructing you in the ways of magic. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Beguilement](TierZeroSpells.md#beguilement) cantrip and Humanoid [sigil](sigils.md). The tables below will tell you your other traits and spells.
+When you came of age, the Voice became clearer and began instructing you in the ways of magic. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Beguilement](magic/TierZeroSpells.md#beguilement) cantrip and Humanoid [sigil](magic/Sigils.md). The tables below will tell you your other traits and spells.
 
 ### What else happened to you as you came of age?
 
@@ -240,9 +240,9 @@ When you came of age, the Voice became clearer and began instructing you in the 
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Herald of the Nameless Gods begins with the following equipment: your background trappings, a backpack, common robes, a spellbook, many pouches, a light weapon and 4d6+10sp.  You also have whatever items you rolled in your Lifepath.
 7. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
-8. Write down your starting [cantrips](TierZeroSpells.md).
-9. Write down your starting [spells](TierOneSpells.md).
-10. Write down your starting [sigils](sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
+8. Write down your starting [cantrips](magic/TierZeroSpells.md).
+9. Write down your starting [spells](magic/TierOneSpells.md).
+10. Write down your starting [Sigils](magic/Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
 11. Your Base Attack Bonus comes from your class. As a level 1 Spellcaster, you have a BAB of +0.
 12. Your Skill bonus comes from your class.  As a level 1 Spellcaster, you have a SB of +1.
 13. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a Spellcaster.
