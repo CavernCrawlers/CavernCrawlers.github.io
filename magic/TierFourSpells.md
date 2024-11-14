@@ -5,8 +5,11 @@ Commune
 Control Water
 Dimension Door
 
+Wraithform
+
 Emotion
 Flame Strike
+Fly
 Hallucinator Terrain
 Illusory Stamina
 Improved Invisibility
@@ -142,6 +145,6 @@ Each time this spell is cast within a 24-hour period increases the casting diffi
 
 *Upcasting*
 
-| Difficulty | Effect   |
-|:----------:|:---------|
-| +#         | {effect} |
+| Tier    | Range | Area | Duration | Effect |
+|:-------:|:-----:|:----:|:--------:|:-------|
+| 5 (15+) |       |      |          |        |

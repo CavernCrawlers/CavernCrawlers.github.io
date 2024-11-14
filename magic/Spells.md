@@ -54,35 +54,36 @@ Unless otherwise noted, any spell cast at a range of **Far** or greater, that re
 
 ### Area
 This is the area over which the magical art’s effects can be felt:<br/>
-**(Se)lf** – Affects the caster only.<br/>
-**(Cr)eature/(Ob)ject** – Affects the targeted creature(s) or object(s) only.<br/>
-**(T)iny** – Affects an area no larger than 216 cubic inches (a 6x6x6 inch cube).<br/>
-**(Sm)all** – Affects an area no larger than 27 cubic feet (3x3x3 feet).<br/>
-**(M)edium** – Affects an area no larger than 125 cubic feet (5x5x5 feet).<br/>
-**(L)arge** – Affects an area up to 1,000 cubic feet (10x10x10 feet).<br/>
-**(H)uge** – Affects an area up to 8,000 cubic feet (20x20x20).<br/>
-**(G)argantuan** – Affects an area up to 6,400 cubic feet (40x40x40).<br/>
+**Self** – Affects the caster only.<br/>
+**Creature/(Ob)ject** – Affects the targeted creature(s) or object(s) only.<br/>
+**Tiny** – Affects an area no larger than 216 cubic inches (a 6x6x6 inch cube).<br/>
+**Small** – Affects an area no larger than 27 cubic feet (3x3x3 feet).<br/>
+**Medium** – Affects an area no larger than 125 cubic feet (5x5x5 feet).<br/>
+**Large** – Affects an area up to 1,000 cubic feet (10x10x10 feet).<br/>
+**Huge** – Affects an area up to 8,000 cubic feet (20x20x20).<br/>
+**Gargantuan** – Affects an area up to 6,400 cubic feet (40x40x40).<br/>
 **Other** – Has a different area of effect outlined in the magical art’s description.<br/>
 
 ### Duration
 This indicates how long a spell will continue to affect the target(s).  Additionally, spells whose duration is marked with a (c) indicate that [Concentration](magic/MagicalArts.md#Concentration) is required to maintain the magic.
-- 1 (Re)action
-- 1 (A)ction
-- 1 (Ro)und
-- 1 (Mi)nute
-- 1 Exploration (T)urn (10 minutes)
-- 1 (H)our
-- 1 (W)atch (4 hours)
-- 1 (D)ay
-- 1 (W)eek
-- 1 (F)ortnight (2 weeks)
-- 1 (Mo)nth
-- 1 (S)eason (3 months)
-- 1 (Y)ear
+- 1 Reaction
+- 1 Action
+- 1 Round
+- 1 Minute
+- 1 Exploration Turn (10 minutes)
+- 1 Hour
+- 1 Watch (4 hours)
+- 2 Watches (8 hours)
+- 1 Day
+- 1 Week
+- 1 Fortnight (2 weeks)
+- 1 Month
+- 1 Season (3 months)
+- 1 Year
 - double the number of years for each additional step.
 
 ### Save
-This indicates if a target is allowed to make a [Saving Throw](CoreRules.md#Saving%20Throws) to resist or diminish the effect.  This will be given as a saving throw type.
+This indicates if a target is allowed to make a [Saving Throw](CoreRules.md#Saving%20Throws) to resist or diminish the effect.  This will be given as a saving throw type.  The saving throw must meet or exceed the caster's Spell Save Difficulty.
 
 ### Components
 Spells will often require **Gestures**, **Incantations** or both to cast.  If any one element is missing or restricted, the spell cannot be cast and any [Invocation Roll](magic/MagicalArts.md#the%20invocation%20roll) will automatically fail.

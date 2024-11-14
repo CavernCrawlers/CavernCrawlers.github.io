@@ -170,5 +170,23 @@ Time is broken up into three broad categories: **Combat Time**, **Exploration Ti
 
 *For example, a group traveling a well-known safe road from one town to the next may take a full day’s travel.  The GM should declare this as narrative time and simply inform the group that 1 day of travel has passed.  On the other hand, if the group is traveling through a dangerous wilderness where they may be ambushed by monsters or other enemies, it’s recommended that this be treated as Exploration Time tracked in either Hours or Watches as the GM deems appropriate.  Similarly, if the group is exploring a dungeon, 10 minute Exploration Turns would be called for.*
 
+### Time Steps
+Occasionally, the rules will call for the time something takes to be moved up or down one step:
+- 1 Reaction
+- 1 Action
+- 1 Round
+- 1 Minute
+- 1 Exploration Turn (10 minutes)
+- 1 Hour
+- 1 Watch (4 hours)
+- 2 Watches (8 hours)
+- 1 Day
+- 1 Week
+- 1 Fortnight (2 weeks)
+- 1 Month
+- 1 Season (3 months)
+- 1 Year
+- double the number of years for each additional step.
+
 ## Rounding
 Unless stated otherwise, the common convention is to round decimal values of 0.5 or greater up to the nearest whole number.  Values less than 0.5 are rounded down to the nearest whole number.

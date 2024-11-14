@@ -18,8 +18,7 @@ cssclass: clean-embeds
 
 ## Statistics
 - **Starting HP**: 4 + CON Modifier
-- **Hit Dice**: 1d4 + CON Modifier per level from 2 to 10
-- **HP after level 10:** +1 per level (no CON modifier)
+- **Hit Dice**: 1d4 + CON Modifier per level
 - **Initiative Bonus**: +0
 - **Armor Training**: None
 - **Weapon Training**: Light weapons & Staffs
@@ -43,21 +42,14 @@ cssclass: clean-embeds
 ### True Name
 ![](classes/ClassAbilities.md#true%20name)
 
-## Spellcaster Table    
-| Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Invocation<br/>Dice | Traits | Max<br/>Spell<br/>Tier | Prepared<br/>Spells | Spell<br/>Save |
-|:-----:|:------------:|:----------------:|:---------------:|:-------------------:|:------:|:----------------------:|:-------------------:|:--------------:|
-|   1   |     1d4      |        +0        |       +1        |          1d6        |   1    |  1                     |  1                  | 12+            |
-|   2   |     2d4      |        +0        |       +1        |          1d6        |   --   | --                     |  2                  | 13+            |
-|   3   |     3d4      |        +1        |       +2        |          2d6        |   --   |  2                     |  3                  | 13+            |
-|   4   |     4d4      |        +1        |       +3        |          3d6        |   --   | --                     |  4                  | 14+            |
-|   5   |     5d4      |        +1        |       +3        |          3d6        |   --   |  3                     |  5                  | 15+            |
-|   6   |     6d4      |        +2        |       +4        |          4d6        |   +1   | --                     |  6                  | 15+            |
-|   7   |     7d4      |        +2        |       +5        |          5d6        |   --   |  4                     |  7                  | 16+            |
-|   8   |     8d4      |        +2        |       +5        |          5d6        |   --   | --                     |  8                  | 17+            |
-|   9   |     9d4      |        +3        |       +6        |          6d6        |   --   |  5                     |  9                  | 18+            |
-|  10   |     10d4     |        +3        |       +7        |          7d6        |   +1   | --                     | 10                  | 19+            |
-|  11   |    10d4+1    |        +3        |       +7        |          7d6        |   --   |  6                     | 11                  | 19+            |
-|  12   |    10d4+2    |        +4        |       +8        |          8d6        |   --   | --                     | 12                  | 20+            |
+## Spellcaster Table        
+|   Level   |   Hit<br/>Dice   |   Attack<br/>Bonus   |   Skill<br/>Bonus   |   Traits   |   Invocation<br/>Dice   |   Prepared<br/>Spells   |   Spell<br/>Save   |   Max<br/>Spell<br/>Tier   |
+|:----------|:-----------------|:---------------------|:--------------------|:-----------|:------------------------|:------------------------|:-------------------|:---------------------------|
+|     1     |       1d4        |          +0          |         +1          |     1      |            1d6          |    1                    |   12+              |    1                       |
+|     2     |       2d4        |          +0          |         +1          |     --     |            1d6          |    2                    |   13+              |   --                       |
+|     3     |       3d4        |          +1          |         +2          |     --     |            2d6          |    3                    |   13+              |    2                       |
+|     4     |       4d4        |          +1          |         +3          |     --     |            3d6          |    4                    |   14+              |   --                       |
+|     5     |       5d4        |          +1          |         +3          |     --     |            3d6          |    5                    |   15+              |    3                       |  
 
 ### Spellcaster Saving Throws
 | Level | Evasion | Hardiness | Spirit |
@@ -67,13 +59,6 @@ cssclass: clean-embeds
 |   3   |    +2   |     +1    |   +3   |
 |   4   |    +3   |     +2    |   +4   |
 |   5   |    +4   |     +3    |   +5   |
-|   6   |    +5   |     +3    |   +5   |
-|   7   |    +5   |     +4    |   +6   |
-|   8   |    +6   |     +4    |   +7   |
-|   9   |    +7   |     +5    |   +8   |
-|  10   |    +8   |     +6    |   +9   |
-|  11   |    +8   |     +6    |  +10   |
-|  12   |    +9   |     +7    |  +10   |
 
 ## Sample Spellcaster Builds
 - **Menacing Sorcerer** 

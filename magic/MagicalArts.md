@@ -1,7 +1,30 @@
 # The Magical Arts
 
 # Table of Contents
-
+- [Spellbooks](#Spellbooks)
+	- [Learning New Spells](#Learning%20New%20Spells)
+		- [Learning From a Mentor](#Learning%20From%20a%20Mentor)
+	- [Replacing a Spellbook](#Replacing%20a%20Spellbook)
+- [Magical Focus](#Magical%20Focus)
+	- [Replacing a Focus](#Replacing%20a%20Focus)
+	- [Inscribing Sigils](#Inscribing%20Sigils)
+- [Preparing Spells](#Preparing%20Spells)
+	- [Casting Unprepared Spells](#Casting%20Unprepared%20Spells)
+- [The Invocation Roll](#The%20Invocation%20Roll)
+	- [Quick Summary](#Quick%20Summary)
+	- [The Invocation Dice Pool](#The%20Invocation%20Dice%20Pool)
+		- [Exhausting Magic](#Exhausting%20Magic)
+		- [Magical Focus](#Magical%20Focus)
+	- [Spell Difficulty](#Spell%20Difficulty)
+	- [Invocation Dice Recovery](#Invocation%20Dice%20Recovery)
+	- [Magical Attacks and Saving Throws](#Magical%20Attacks%20and%20Saving%20Throws)
+	- [Spell Identification](#Spell%20Identification)
+- [Concentration](#Concentration)
+- [Mishaps](#Mishaps)
+	- [Minor Magical Mishap](#Minor%20Magical%20Mishap)
+	- [Major Magical Mishap](#Major%20Magical%20Mishap)
+	- [Physical Corruption](#Physical%20Corruption)
+	- [Random Elements](#Random%20Elements)
 
 ## Spellbooks
 Spellcasters record their spells and cantrips in "spellbooks".  These do not have to be literal books, but rather may be collections of scrolls, arcane formula carved into wood or most any other device the player and GM can agree on.  The primary limitation is that the spellbook be separate from the character (arcane tattoos are more of a magical item than a spellbook).  The language in which spells are written are typically a magical cipher learned from the caster's teacher and modified in their own way.  As such, deciphering someone else's spellbook can be a long and arduous process.
@@ -34,12 +57,12 @@ A focus may be replaced by constructing a new one which takes 1 week in a safe h
 It takes one day plus 50sp, to inscribe a sigil into a Magical Focus.
 
 ## Preparing Spells
-A spellcaster may only cast spells they have prepared.  Cantrips are always prepared, so they can always be cast.  Spells of Rank 1 or higher take time to prepare.  A spellcasters may only prepare as many spells as their Skill Bonus plus their Intelligence Modifier. Preparing a spell takes 10 minutes times the spell's tier.  Once a spell is prepared, it remains prepared until the caster chooses to replace it with a different spell or some event causes the mage to temporarily lose the spell.
+A spellcaster may only cast spells they have prepared.  Cantrips are always prepared, so they can always be cast.  Spells of Rank 1 or higher take time to prepare.  A spellcasters may only prepare as many spells as shown on their class table plus their Intelligence Modifier. Preparing a spell takes 10 minutes times the spell's tier.  Once a spell is prepared, it remains prepared until the caster chooses to replace it with a different spell or some event causes the mage to temporarily lose the spell.
 
 ### Casting Unprepared Spells
-A spellcaster, so long as they have access to their spellbook, may cast unprepared spells using said spellbook.  Doing so increases the casting time of the spell ten-fold, to a minimum of 10 minutes.
+A spellcaster, so long as they have access to their spellbook, may cast unprepared spells using said spellbook.  Doing so increases the casting time of the spell [1 step](RulesSynopsis.md#time%20steps), to a minimum of 10 minutes.
 
-*For example, a character wishing to cast [Augury](magic/TierTwoSpells.md#augury) as an unprepared spell must have their spellbook on hand.  Since the base casting time is 10 minutes, it will now take 100 minutes to cast the spell in this manner.*
+*For example, a character wishing to cast [Augury](magic/TierTwoSpells.md#augury) as an unprepared spell must have their spellbook on hand.  Since the base casting time is 10 minutes, it will now take 1 hour to cast the spell in this manner.*
 
 ## The Invocation Roll
 

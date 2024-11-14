@@ -3,15 +3,20 @@
 - [Arcane Eruption](#Arcane%20Eruption)
 - [Arcane Lance](#Arcane%20Lance)
 - [Arcane Wave](#Arcane%20Wave)
+- [Blacklight](#Blacklight)
 - [Circle of Protection](#Circle%20of%20Protection)
 - [Commanding Word](#Commanding%20Word)
 - [Curse](#Curse)
 - [Dispel Magic](#Dispel%20Magic)
 - [Fabricate](#Fabricate)
+- [Hallucinatory Terrain](#Hallucinatory%20Terrain)
 - [Haste](#Haste)
-- [Melt into Mist](#Melt%20into%20Mist)
 - [Lay to Rest](#Lay%20to%20Rest)
 - [Levitate](#Levitate)
+- [Melt into Mist](#Melt%20into%20Mist)
+- [Nondetection](#Nondetection)
+- [Spectral Steed](#Spectral%20Steed)
+- [Plant Shape](#Plant%20Shape)
 - [Seeing Stone](#Seeing%20Stone)
 - [Sending](#Sending)
 - [Slow](#Slow)
@@ -33,11 +38,11 @@ You touch a humanoid corpse and it rises as a zombie or skeleton under your cont
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | Increase the size of the corpse that may be targeted by 1 step. |
-| +2         | Increase the number of affected corpses by 1. |
-| +2         | Increase the duration 1 step. |
+| Tier    | Targets   | Duration | Max Corpse Size |
+|:-------:|:---------:|:--------:|:----------------|
+| 4 (12+) | 2 corpses | --       | Large           |
+| 5 (15+) | 4 corpses | 2 Wks    | --              |
+| 6 (18+) | 8 corpses | 1 Mo     | Gargantuan      |
 
 ## Arcane Eruption
 - **Tier:** 3 (9+)
@@ -47,18 +52,18 @@ You touch a humanoid corpse and it rises as a zombie or skeleton under your cont
 - **Range:** Far
 - **Area:** Large
 - **Duration:** Instant
-- **Save:** Reflex 14+
+- **Save:** Reflex
 - **Components:** Gestures & Incantations
 
 This spell causes an elemental eruption of a type matching the sigil used in casting the spell.  All targets within a Large area selected by the caster must make a Reflex save or take 3d8 damage.  Those who pass the save take half damage.
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | Increase the save difficulty by +1. |
-| +2         | Increase the Area 1 step. |
-| +2         | Increase the damage dice 1 step (to a max of d12). |
+| Tier    | Area | Damage |
+|:-------:|:----:|:------:|
+| 4 (12+) | --   | 3d10   |
+| 5 (15+) | H    | --     |
+| 6 (18+) | G    | 3d12   |
 
 ## Arcane Lance
 - **Tier:** 3 (9+)
@@ -68,17 +73,13 @@ This spell causes an elemental eruption of a type matching the sigil used in cas
 - **Range:** Close
 - **Area:** A single 5ft wide line of Far length
 - **Duration:** Instant
-- **Save:** Reflex 14+
+- **Save:** Reflex
 - **Components:** Gestures & Incantations
 
 The caster stretches forth her hand and a lance of elemental energy matching the sigil used in casting the spell streaks forth.  All targets within the line of the spell must make a Reflex save or take 3d8 damage.  Those who pass the save take half damage.
 
-*Upcasting*
-
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | Increase the save difficulty by +1. |
-| +2         | Increase the damage dice 1 step (to a max of d12). |
+*Upcasting*<br/>
+Each +1 Tier increases the damage 1 [die step](RulesSynopsis.md#Die%20Adjustments) to a maximum of d12.
 
 ## Arcane Wave
 - **Tier:** 3 (9+)
@@ -88,17 +89,34 @@ The caster stretches forth her hand and a lance of elemental energy matching the
 - **Range:** Close
 - **Area:** A cone of Near length on each side
 - **Duration:** Instant
-- **Save:** Reflex 14+
+- **Save:** Reflex
 - **Components:** Gestures & Incantations
 
 The caster conjures a cone of elemental energy matching the sigil used in casting the spell streaks forth.  All targets within the cone must make a Reflex save or take 3d8 damage.  Those who pass the save take half damage.
 
+*Upcasting*<br/>
+Each +1 Tier increases the damage 1 [die step](RulesSynopsis.md#Die%20Adjustments) to a maximum of d12.
+
+## Blacklight
+- **Tier:** 3 (9+)
+- **Sigils** Light & Shadow
+- **Casting Ability:** Intelligence
+- **Casting Time:** 1 minute
+- **Range:** Personal
+- **Area:** Large
+- **Duration:** 10 minutes (c)
+- **Save:** none
+- **Components:** Gestures & Incantations
+
+This spell creates a zone centered on the caster.  Creatures within the zone can see is if in full daylight up to the edge of the zone.  Magical darkness will still block the sight of those in the spell's area of effect.  Creatures outside the zone, cannot see into the zone as it appears to just be a large shadow.  Low-Light vision cannot penetrate this shadow and Darkvision perceives everything inside the zone as if in dim light.
+
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | Increase the save difficulty by +1. |
-| +2         | Increase the damage dice 1 step (to a max of d12). |
+| Tier    | Area | Duration |
+|:-------:|:----:|:--------:|
+| 4 (12+) | --   | 1 Hr (c) |
+| 5 (15+) | H    | --       |
+| 6 (18+) | --   | 1 Wa (c) |
 
 ## Circle of Protection
 - **Tier:** 3 (9+)
@@ -108,7 +126,7 @@ The caster conjures a cone of elemental energy matching the sigil used in castin
 - **Range:** Personal
 - **Area:** Medium
 - **Duration:** 10 minutes (c)
-- **Save:** Spirit 14+
+- **Save:** Spirit
 - **Components:** Gestures, Incantations & specially prepared ink or chalk worth 100sp (consumed)
 
 The caster traces out a magical circle and imbues it with the power of a sigil.  This circle shields those inside from forces matching the sigil(s) used in the circle's creation.  
@@ -119,12 +137,13 @@ If the sigil is a Form sigil, any creature of that form cannot cross the edge of
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | Increase the save difficulty by +1. |
-| +2         | Add one additional sigil to the circle's protection. |
-| +2         | Increase the Area 1 step. |
-| +2         | Increase the Duration 1 step. |
+| Tier    | Casting Time | Area | Duration | Effect           |
+|:-------:|:------------:|:----:|:--------:|:-----------------|
+| 4 (12+) | 5 min        | L    | 1 Hr (c) | May use 2 sigils |
+| 5 (15+) | 10 min       | H    | 1 Wa (c) | May use 3 sigils |
+| 6 (18+) | 20 min       | G    | 1 Wa     | May use 4 sigils |
+
+Casting time increases only apply when using the increased area of effect.
 
 ## Commanding Word
 - **Tier:** 3 (9+)
@@ -134,18 +153,18 @@ If the sigil is a Form sigil, any creature of that form cannot cross the edge of
 - **Range:** Near
 - **Area:** 1 Creature
 - **Duration:** 1 minute (c)
-- **Save:** Spirit 14+
+- **Save:** Spirit
 - **Components:** Gestures & Incantations
 
 This spell allows the caster to issue a single-word command (such as "halt" or "kneel") that the target creature must obey unless they succeed on a **Spirit** saving throw.  The creature may repeat their saving throw at the end of each of their turns to throw off the effect.
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +1         | Increase the save difficulty by +1. |
-| +2         | Increase the number of affected creatures by 1 (note that multiple sigils may be required if the targeted creatures are of different types). |
-| +2         | Increase the duration 1 step. |
+| Tier    | # Creatures | Duration   |
+|:-------:|:-----------:|:----------:|
+| 4 (12+) | 2 Cr        | 10 Min (c) |
+| 5 (15+) | 3 Cr        | 1 Hr (c)   |
+| 6 (18+) | 4 Cr        | 1 Wa (c)   |
 
 ## Curse
 - **Tier:** 3 (9+)
@@ -155,7 +174,7 @@ This spell allows the caster to issue a single-word command (such as "halt" or "
 - **Range:** Near
 - **Area:** 1 Creature
 - **Duration:** instant
-- **Save:** Spirit 14+
+- **Save:** Spirit
 - **Components:** Gestures, Incantations and a token of the target's (lock of hair, fingernail clippings, drop of blood, etc.)
 
 This curses the target creature with a baneful effect.  Among the possible effects are the following:
@@ -166,15 +185,15 @@ This curses the target creature with a baneful effect.  Among the possible effec
 - Must succeed on a Tricky (15+) Hardiness save to regain any levels of Exhaustion when resting.
 - Other effects at the GM's discretion.
 
+When the curse is first cast, the caster must also define a specific condition under which the curse will be broken (such as true love's kiss, bathing in a pure spring on the night of a full moon, etc) and is subject to GM approval.  This information does not have to be conveyed to the target.
+
 *Upcasting*
 
-| Difficulty | Effect   |
-|:----------:|:---------|
-| +1         | Increase the save difficulty by +1. |
-| +2         | Increase the range 1 step. |
-| +2         | Increase the number of targets by 1 (will require additional tokens and may require additional sigils). |
-| +2         | Add one additional effect to the curse. |
-
+| Tier    | Range | # Targets | # Effects |
+|:-------:|:-----:|:---------:|:---------:|
+| 4 (12+) | --    | 2 Cr      | 2         |
+| 5 (15+) | F     | 3 Cr      | --        |
+| 6 (18+) | --    | 4 Cr      | 3         |
 
 ## Dispel Magic
 - **Tier:** 3 (9+)
@@ -191,10 +210,11 @@ The caster picks one target they can see within range and attempts to cancel one
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Increase the range to Far. |
-| +2         | Increase the number of targets by +1. |
+| Tier    | Range | # Targets |
+|:-------:|:-----:|:---------:|
+| 4 (12+) | --    | 2         |
+| 5 (15+) | F     | --        |
+| 6 (18+) | --    | 4         |
 
 ## Fabricate
 - **Tier:** 3 (9+)
@@ -211,11 +231,34 @@ The caster turns a [Large](magic/Spells.md#area) pile of raw materials into a si
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Increase the range to Far. |
-| +2         | Increase the Area 1 step. |
-| +2         | Increase the Duration 1 step. |
+| Tier    | Range | Area | Duration |
+|:-------:|:-----:|:----:|:--------:|
+| 4 (12+) | --    | H    | 1 Hr     |
+| 5 (15+) | F     | --   | 1 Wa     |
+| 6 (18+) | --    | G    | 1 Day    |
+
+## Hallucinatory Terrain
+- **Tier:** 3 (9+)
+- **Sigils** Illusion plus Earth, Plant or both
+- **Casting Ability:** Intelligence
+- **Casting Time:** 10 minutes
+- **Range:** Far
+- **Area:** 120ft radius hemisphere
+- **Duration:** until touched
+- **Save:** Spirit
+- **Components:** Gestures & Incantations
+
+This spell conjures the illusion of a terrain feature (hill, copse of trees, marshland, etc) within range that is no more than 120ft in radius.  This illusion will hide any existing terrain wholly contained within its area of effect.  Any creature observing the illusion may make a Spirit save to see through it.  The illusion disappears as soon as it is touched by a sapient being.
+
+*Upcasting*
+
+| Tier    | Range | Area  | Effect                        |
+|:-------:|:-----:|:-----:|:-----------------------------:|
+| 4 (12+) | --    | 240ft | --                            |
+| 5 (15+) | S     | 480ft | --                            |
+| 6 (18+) | --    | 960ft | No longer dispelled by touch. |
+
+At Tier 6, while the illusion is no longer dispelled by touch, touching the illusion allows the toucher to automatically pass their save.
 
 ## Haste
 - **Tier:** 3 (9+)
@@ -224,7 +267,7 @@ The caster turns a [Large](magic/Spells.md#area) pile of raw materials into a si
 - **Casting Time:** 1 action
 - **Range:** Touch
 - **Area:** 1 Creature
-- **Duration:** 1 minute
+- **Duration:** 1 minute (c)
 - **Save:** none
 - **Components:** Gestures & Incantations
 
@@ -232,30 +275,11 @@ The touched creature now moves at double its normal speed, gains +6 initiative, 
 
 *Upcasting*
 
-| Difficulty | Effect   |
-|:----------:|:---------|
-| +2         | Increase the range 1 step (to a max of Near). |
-| +2         | Increase the number of targets by 1. |
-| +2         | Increase the duration 1 step. |
-
-## Melt into Mist
-- **Tier:** 3 (9+)
-- **Sigils** Air
-- **Casting Ability:** Intelligence
-- **Casting Time:** 1 minute
-- **Range:** Personal
-- **Area:** Self
-- **Duration:** 1 minute
-- **Save:** none
-- **Components:** Gestures & Incantations
-
-The caster's form dissolves into a misty cloud that may fly at 1/2 the caster's normal ground speed.  While in this form, the caster may pass through any barrier that is not air-tight.  The caster also retains their normal senses but cannot speak or cast spells.  They also gain immunity to non-magical damage, nor can they make any physical attacks.  At the end of the duration the caster reverts back to their normal form.  Care should be taken to not revert while high in the air or while passing through small cracks as such can be quite deadly.
-
-*Upcasting*
-
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Increase the duration 1 rank. |
+| Tier    | Range | # Creatures | Duration   |
+|:-------:|:-----:|:-----------:|:----------:|
+| 4 (12+) | C     | 2 Cr        | --         |
+| 5 (15+) | N     | 3 Cr        | --         |
+| 6 (18+) | --    | 4 Cr        | 10 min (c) |
 
 ## Lay to Rest
 - **Tier:** 3 (9+)
@@ -276,11 +300,11 @@ The 1 Action attack version may be used to target any undead creature, causing i
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Increase the range 1 rank. |
-| +2         | Increase the number of targets by 1. |
-| +2         | Increase the damage dice 1 step (to a max of d12). |
+| Tier    | Range | # Targets | Damage |
+|:-------:|:-----:|:---------:|:------:|
+| 4 (12+) | N     | 2         | 4d8    |
+| 5 (15+) | --    | 3         | 4d10   |
+| 6 (18+) | --    | 4         | 4d12   |
 
 ## Levitate
 - **Tier:** 3 (9+)
@@ -297,11 +321,87 @@ The caster may float vertically covering up to Near distance each round.  Horizo
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Change the range to Touch and target to 1 Creature (movement speed is still based on the caster's movement). |
-| +2         | Increase the duration 1 step. |
-| +3         | Gain true flight at a speed equal to the caster's ground move. |
+| Tier    | Range | Area | Duration | Effect                       |
+|:-------:|:-----:|:----:|:--------:|:-----------------------------|
+| 4 (12+) | C     | 1 Cr | --       | --                           |
+| 5 (15+) | --    | 2 Cr | 1 Hr (c) | True flight at ground speed. |
+| 6 (18+) | --    | 3 Cr | 1 Wa (c) | --                           |
+
+## Melt into Mist
+- **Tier:** 3 (9+)
+- **Sigils** Air
+- **Casting Ability:** Intelligence
+- **Casting Time:** 1 minute
+- **Range:** Personal
+- **Area:** Self
+- **Duration:** 1 minute
+- **Save:** none
+- **Components:** Gestures & Incantations
+
+The caster's form dissolves into a misty cloud that may fly at 1/2 the caster's normal ground speed.  While in this form, the caster may pass through any barrier that is not air-tight.  The caster also retains their normal senses but cannot speak or cast spells.  They also gain immunity to non-magical damage, nor can they make any physical attacks.  At the end of the duration the caster reverts back to their normal form.  Care should be taken to not revert while high in the air or while passing through small cracks as such can be quite deadly.
+
+*Upcasting*<br/>
+For each +1 Tier, increase the duration by [1 step](Spells.md#duration).
+
+## Nondetection
+- **Tier:** 3 (9+)
+- **Sigils** Illusion
+- **Casting Ability:** Intelligence
+- **Casting Time:** 10 minutes
+- **Range:** Touch
+- **Area:** 1 Creature
+- **Duration:** 10 minutes
+- **Save:** none (but see description)
+- **Components:** Gestures & Incantations
+
+For the duration of this spell, everything within the area of effect is hidden from all forms of magical detection, including scrying, divination, thought detection and similar effects.  If the target of this spell is a creature or object, any equipment carried by that creature or in that object is also hidden.  Additionally, the spell's area of effect moves with the target.  
+
+Any attempts to use detection magic requires the detecting mage to pass a [perception check](CoreRules.md#perception) vs the Nondetection caster's spell save difficulty.  Likewise, the Nondetection caster will sense the attempt if they pass a diff 15 perception check of their own.
+
+*Upcasting*
+
+| Tier    | Range | Area | Duration |
+|:-------:|:-----:|:----:|:--------:|
+| 4 (12+) | C     | L    | --       |
+| 5 (15+) | --    | H    | 1 Hr     |
+| 6 (18+) | N     | --   | 1 Wa     |
+
+## Spectral Steed
+- **Tier:** 3 (9+)
+- **Sigils** Spirit or Air
+- **Casting Ability:** Intelligence
+- **Casting Time:** 1 Hour
+- **Range:** Close
+- **Area:** n/a
+- **Duration:** 1 Hour (c)
+- **Save:** none
+- **Components:** Gestures, Incantations, a gold horseshoe & a bag of oats or other horse feed
+
+By means of this ritual, the caster conjures a ghostly horse into being.  This horse takes on whatever appearance the caster desires (and may even be a different type of mount, such as a camel) but its hooves make no sound.  The steed's phantasmal nature allows it to ignore difficulty terrain penalties.  This steed can carry only one rider and their carried equipment.  It has 12 HP and an AC of 11 and a move rate of Near.  If the steed is "killed" it evaporates into a cloud of incorporeal mist.
+
+*Upcasting*
+
+| Tier    | Range | # Steeds | Duration | Effect             |
+|:-------:|:-----:|:--------:|:--------:|:-------------------|
+| 4 (12+) | C     | --       | 1 Wa (c) | May walk on water. |
+| 5 (15+) | N     | 2        | 1 Wa     | May walk on air but not change altitude by more than 5 feet. |
+| 6 (18+) | --    | 4        | 1 Day    | Gains true flight. |
+
+## Plant Shape
+- **Tier:** 3 (9+)
+- **Sigils** Plant & a Form sigil matching the caster's own Form
+- **Casting Ability:** Wisdom
+- **Casting Time:** 10 min
+- **Range:** Personal
+- **Area:** Self
+- **Duration:** 1 Hour
+- **Save:** none
+- **Components:** Gestures & Incantations
+
+With this spell, the caster takes on the form of a living plant of roughly the same size as the caster.  All the casters carried gear is transformed along with the caster.  While in the form, the caster is still full aware of their surroundings with their normal senses.  The caster may cancel this spell at any time.
+
+*Upcasting*<br/>
+Each +1 Tier increases the duration [1 step](Spells.md#duration).
 
 ## Seeing Stone
 - **Tier:** 3 (9+)
@@ -318,10 +418,10 @@ With this ritual, the caster enchants a precious stone (worth at least 500sp) to
 
 *Upcasting*
 
-| Difficulty | Effect |
-|:----------:|:-------|
-| +2         | Increase the range by 1 step. |
-| +2         | Increase the duration by 1 step. |
+| Tier    | Range | Duration |
+|:-------:|:-----:|:--------:|
+| 4 (12+) | --    | 1 Day    |
+| 5 (15+) | D     | --       |
 
 ## Sending
 - **Tier:** 3 (9+)
@@ -336,11 +436,8 @@ With this ritual, the caster enchants a precious stone (worth at least 500sp) to
 
 The caster may send a brief (25 words or less) mental message directly to the target creature.  It may respond one time in kind.
 
-*Upcasting*
-
-| Difficulty | Effect   |
-|:----------:|:---------|
-| +2         | Increase the number of target creature(s) by 1.  This will require additional tokens and may require additional sigils. |
+*Upcasting*<br/>
+For each +1 Tier, double the number of recipients of the message.  Each recipient may only reply once.
 
 ## Slow
 - **Tier:** 3 (9+)
@@ -357,12 +454,11 @@ The touched creature now moves at half its normal speed, loses -3 initiative, lo
 
 *Upcasting*
 
-| Difficulty | Effect   |
-|:----------:|:---------|
-| +1         | Increase the save difficulty by +1. |
-| +2         | Increase the range 1 step (to a max of Near). |
-| +2         | Increase the number of targets by 1. |
-| +2         | Increase the duration 1 step. |
+| Tier    | Range | # Creatures | Duration   |
+|:-------:|:-----:|:-----------:|:----------:|
+| 4 (12+) | C     | 2 Cr        | --         |
+| 5 (15+) | N     | 3 Cr        | --         |
+| 6 (18+) | --    | 4 Cr        | 10 min (c) |
 
 ## Speak with Dead
 - **Tier:** 3 (9+)
@@ -379,11 +475,11 @@ Upon touching the target corpse, the caster may ask it up to 3 questions within 
 
 *Upcasting*
 
-| Difficulty | Effect   |
-|:----------:|:---------|
-| +2         | May ask 1 additional question |
-| +2         | Increase the duration 1 step (to a max of 1 hour) |
-| +3         | May ask more detailed questions, but while the target must be truthful, it is not required to be cooperative. |
+| Tier    | Duration | # Questions | Effect |
+|:-------:|:--------:|:-----------:|:-------|
+| 4 (12+) | --       | 4           | --     |
+| 5 (15+) | 10 min   | --          | May ask more detailed questions, but while the target must be truthful, it is not required to be cooperative.     |
+| 4 (12+) | 1 Hr     | 5           | --     |
 
 ## Water Breathing
 - **Tier:** 3 (9+)
@@ -396,12 +492,12 @@ Upon touching the target corpse, the caster may ask it up to 3 questions within 
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-The touched creature gains the ability to not only breath underwater but also gains a swim speed equal to its ground speed for the duration of this spell.
+The touched creature gains the ability to not only breath underwater but also gains a swim speed equal to its ground speed for the duration of this spell.  This spell also makes the target immune to the environmental effects of pressure and cold.
 
 *Upcasting*
 
-| Difficulty | Effect   |
-|:----------:|:---------|
-| +2         | Increase the range 1 step (to a max of Near). |
-| +2         | Increase the number of targets by 1. |
-| +2         | Increase the duration 1 step. |
+| Tier | Range | # Targets | Duration |
+|:----:|:-----:|:---------:|:--------:|
+| 4 (12+) | C  | 2 Cr      | 1 Wa     |
+| 5 (12+) | N  | 4 Cr      | --       |
+| 6 (18+) | -- | 6 Cr      | 1 D      |

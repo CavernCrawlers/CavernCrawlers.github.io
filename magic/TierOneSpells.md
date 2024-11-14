@@ -44,8 +44,7 @@
 
 The spellcaster performs a rite of banishing, and attempts to send a single incorporeal spirit back to its home realm. If the target fails its saving throw it is immediately returned to its home realm. This spell only affects spirits not of the mortal world who have found their way here from another dimension.
 
-*Upcasting*
-
+*Upcasting*<br/>
 At Tier 4+ this spell can send corporeal creatures back to their home dimension.
 
 | Tier    | Range | Area      |
@@ -188,10 +187,11 @@ As soon as the spell ends (or if the initial save was successful), the targeted 
 
 *Upcasting*
 
-| Tier    | Range | Area |
-| 2 (6+)  | N    | 2 Cr  |
-| 3 (9+)  | F    | 3 Cr  |
-| +1 (+3) | --   | +1 Cr |
+| Tier    | Range | Area  |
+|:-------:|:-----:|:-----:|
+| 2 (6+)  | N     | 2 Cr  |
+| 3 (9+)  | F     | 3 Cr  |
+| +1 (+3) | --    | +1 Cr |
 
 ## Detect Magic
 - **Tier:** 1 (3+)
@@ -517,9 +517,8 @@ This purification ritual causes all food and drink within the affected area to b
 
 For the duration of the spell, the caster can read any language but does not gain the ability to speak said language.  The translation is literal and so does not grant the caster the ability to understand riddles or cyphers.
 
-*Upcasting*
-
-For each +1 Tier, increase the duration 1 step.
+*Upcasting*<br/>
+For each +1 Tier, increase the duration [1 step](Spells.md#duration).
 
 ## Reflection
 - **Tier:** 1st (3+)
@@ -557,7 +556,7 @@ The target gains **resistance** to that type of damage for the spell's duration.
 
 ## Shield
 - **Tier:** 1st (3+)
-- **Sigils** Air, Earth, Ice or Water
+- **Sigils** Earth (stone), Ice, Shadow, Water, Beast (bone) or Plant (wood)
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 reaction
 - **Range:** Personal
@@ -566,11 +565,10 @@ The target gains **resistance** to that type of damage for the spell's duration.
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-This spell conjures a shimmering barrier of elemental energy between the caster and her foes.  For the duration of the spell, the caster gains +3 AC.
+This spell conjures a barrier of elemental substance between the caster and her foes.  For the duration of the spell, the caster gains +3 AC.
 
-*Upcasting*
-
-For each +1 Tier, increase the duration 1 step.
+*Upcasting*<br/>
+For each +1 Tier, increase the duration 1 [step](magic/Spells.md#duration).
 
 ## Sleep
 - **Tier:** 1st (3+)
@@ -627,9 +625,8 @@ The touched creature gains the ability to cling to vertical and inverted surface
 
 Any undead creature within Near range of the caster, who can see or hear the caster, must immediately make a **Spirit** saving throw or become [Frightened](Combat.md#Frightened) of the caster.  Affected creatures may repeat this saving throw at the end of each of their turns in order to overcome the effect.  Once the effect is overcome or the duration has expired, the affected creatures behave normally.
 
-*Upcasting*
-
-For each +1 Tier, increase the duration 1 step.
+*Upcasting*<br/>
+For each +1 Tier, increase the duration [1 step](Spells.md#duration).
 
 ## Unseen Servant
 - **Tier:** 1st (3+)
@@ -665,6 +662,5 @@ The caster summons a minor spirit to help with mundane tasks.  The summoned spir
 
 By means of this spell, the caster makes it seem as if their voice were coming from a point designated by the caster.  So long as the spell lasts, the source of the caster's voice may be moved to any point within the spell's range.  Any creatures hearing the voice may attempt a Spirit save in order to realize where the voice is truly coming from (the caster's location).
 
-*Upcasting*
-
-For each +1 Tier increase the duration 1 step.
+*Upcasting*<br/>
+For each +1 Tier increase the duration [1 step](Spells.md#duration).

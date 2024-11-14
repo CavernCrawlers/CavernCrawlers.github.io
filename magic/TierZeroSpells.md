@@ -304,6 +304,8 @@ If used on an inanimate object, 1 Tiny area of material will be made whole.  Thi
 
 By this spell, a mage may cause any cutting or seed to root and any plant to bloom.
 
+*Upcasting*
+
 | Tier    | Range | Area  |
 |:-------:|:-----:|:-----:|
 | 1 (3+)  | C     | 2 Ob  |
@@ -410,12 +412,12 @@ This spell drives away natural insects and similar small vermin no larger than a
 
 *Upcasting*
 
-| Tier    | Range | Area  | Duration |
-|:-------:|:-----:|:-----:|:--------:|
-| 1 (3+)  | T     | 1 Cr  | 1 H      |
-| 2 (6+)  | C     | 2 Cr  | 1 Wa     |
-| 3 (9+)  | N     | 4 Cr  | 1 Wa     |
-| +1 (+3) | --    | +2 Cr | 1 Day    |
+| Tier    | Area  | Duration |
+|:-------:|:-----:|:--------:|
+| 1 (3+)  | L     | 1 H      |
+| 2 (6+)  | --    | 1 Wa     |
+| 3 (9+)  | H     | 1 Wa     |
+| +1 (+3) | G     | 1 Day    |
 
 ## Repel Rain
 - **Tier:** Cantrip (0+)
@@ -432,12 +434,12 @@ This spell acts as a barrier to rain, snow, sleet and similar weather effects; k
 
 *Upcasting*
 
-| Tier    | Range | Area  | Duration |
-|:-------:|:-----:|:-----:|:--------:|
-| 1 (3+)  | T     | 1 Cr  | 1 H      |
-| 2 (6+)  | C     | 2 Cr  | 1 Wa     |
-| 3 (9+)  | N     | 4 Cr  | 1 Wa     |
-| +1 (+3) | --    | +2 Cr | 1 Day    |
+| Tier    | Area  | Duration |
+|:-------:|:-----:|:--------:|
+| 1 (3+)  | L     | 1 H      |
+| 2 (6+)  | --    | 1 Wa     |
+| 3 (9+)  | H     | 1 Wa     |
+| +1 (+3) | G     | 1 Day    |
 
 ## Spark
 - **Tier:** Cantrip (0+)

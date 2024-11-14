@@ -18,7 +18,6 @@ cssclass: clean-embeds
 ## Statistics
 - **Starting HP**: 7 + CON Modifier
 - **Hit Dice**: 1d6 + 1 + CON Modifier per level
-- **HP after Level 10:** +2 per level (no CON modifier)
 - **Initiative Bonus**: +1
 - **Armor Training**: Light and Medium Armor, Buckler and Shield
 - **Weapon Training**: All
@@ -44,21 +43,14 @@ Pick one of the following two abilities:
 #### Sneak Attack
 ![Sneak Attack](classes/ClassAbilities.md#sneak%20attack)
 
-## Fighter-Rogue Table  
-|  Level  |  Hit<br/>Dice  |  Attack<br/>Bonus  |  Skill<br/>Bonus  | Combat<br/>Mastery | Sneak<br/>Attack |  Knacks  |  Traits  |
-|:-------:|:--------------:|:------------------:|:-----------------:|:------------------:|:----------------:|:--------:|:--------:|
-|     1   |    1d6+1       |       +1           |       +1          |             15+    |         +1d3     |     1    |     1    |
-|     2   |    2d6+2       |       +1           |       +1          |             14+    |         +1d4     |    --    |    --    |
-|     3   |    3d6+3       |       +2           |       +2          |             13+    |         +1d4     |    --    |    --    |
-|     4   |    4d6+4       |       +2           |       +3          |             13+    |         +1d4     |    +1    |    --    |
-|     5   |    5d6+5       |       +3           |       +3          |             12+    |         +2d4     |    --    |    --    |
-|     6   |    6d6+6       |       +3           |       +4          |             12+    |         +2d4     |    --    |    +1    |
-|     7   |    7d6+7       |       +4           |       +5          |             11+    |         +2d4     |    --    |    --    |
-|     8   |    8d6+8       |       +4           |       +5          |             11+    |         +2d4     |    +1    |    --    |
-|     9   |    9d6+9       |       +5           |       +6          |             10+    |         +2d4     |    --    |    --    |
-|    10   |   10d6+10      |       +5           |       +7          |              9+    |         +3d4     |    --    |    +1    |
-|    11   |   10d6+12      |       +6           |       +8          |              9+    |         +3d4     |    --    |    --    |
-|    12   |   10d6+14      |       +7           |       +8          |              9+    |         +3d4     |    +1    |    --    |
+## Fighter-Rogue Table    
+|   Level   |   Hit<br/>Dice   |   Attack<br/>Bonus   |   Skill<br/>Bonus   |   Knacks   |   Traits   |  Combat<br/>Mastery  |  Sneak<br/>Attack  |
+|:----------|:-----------------|:---------------------|:--------------------|:-----------|:-----------|:---------------------|:-------------------|
+|      1    |     1d6+1        |        +1            |        +1           |      1     |      1     |              15+     |          +1d3      |
+|      2    |     2d6+2        |        +1            |        +1           |     --     |     --     |              14+     |          +1d4      |
+|      3    |     3d6+3        |        +2            |        +2           |     --     |     --     |              13+     |          +1d4      |
+|      4    |     4d6+4        |        +2            |        +3           |     +1     |     --     |              13+     |          +1d4      |
+|      5    |     5d6+5        |        +3            |        +3           |     --     |     --     |              12+     |          +2d4      |  
 
 ### Fighter-Rogue Saving Throws
 | Level | Evasion | Hardiness | Spirit |
@@ -68,13 +60,6 @@ Pick one of the following two abilities:
 |   3   |    +3   |     +3    |   +2   |
 |   4   |    +3   |     +3    |   +3   |
 |   5   |    +4   |     +4    |   +3   |
-|   6   |    +5   |     +5    |   +4   |
-|   7   |    +6   |     +5    |   +5   |
-|   8   |    +7   |     +6    |   +5   |
-|   9   |    +8   |     +7    |   +6   |
-|  10   |    +8   |     +7    |   +7   |
-|  11   |    +9   |     +8    |   +7   |
-|  12   |   +10   |     +9    |   +8   |
 
 ## Fighter-Rogue Knacks
 
@@ -83,6 +68,8 @@ Unless stated otherwise, each knack may only be taken once.
 **Archer**: ![](classes/Knacks.md#archer)
 
 **Assassin**:  ![](classes/Knacks.md#assassin)
+
+**Berserk:** ![](classes/Knacks.md#berserk)
 
 **Cavalry**: ![](classes/Knacks.md#cavalry)
 
@@ -103,6 +90,8 @@ Unless stated otherwise, each knack may only be taken once.
 **Precise Shot**: ![](classes/Knacks.md#precise%20shot)
 
 **Quick Reflexes**: ![](classes/Knacks.md#quick%20reflexes)
+
+**Reckless:** ![](classes/Knacks.md#reckless)
 
 **Skirmisher**: ![](classes/Knacks.md#skirmisher)
 

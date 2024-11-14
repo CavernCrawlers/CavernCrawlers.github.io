@@ -15,8 +15,7 @@ cssclass: clean-embeds
 
 ## Statistics
 - **Starting HP**: 6 + CON Modifier
-- **Hit Dice**: 1d6 + CON Modifier per level from 2 to 10
-- **HP after Level 10:** +1 per level (no CON modifier)
+- **Hit Dice**: 1d6 + CON Modifier per level
 - **Initiative Bonus**: +2
 - **Armor Training**: Light Armor and Bucklers
 - **Weapon Training**: Light and Medium weapons.
@@ -44,13 +43,6 @@ cssclass: clean-embeds
 |  3    |  3d6         |  +2              |  +2             | +1     | --     | +1d4 |
 |  4    |  4d6         |  +2              |  +3             | --     | --     | +2d4 |
 |  5    |  5d6         |  +3              |  +4             | +1     | --     | +2d4 |
-|  6    |  6d6         |  +3              |  +5             | --     | +1     | +2d4 |
-|  7    |  7d6         |  +4              |  +5             | +1     | --     | +2d4 |
-|  8    |  8d6         |  +4              |  +6             | --     | --     | +3d4 |
-|  9    |  9d6         |  +5              |  +7             | +1     | --     | +3d4 |
-| 10    | 10d6         |  +5              |  +8             | --     | +1     | +3d4 |
-| 11    | 10d6+1       |  +6              |  +8             | +1     | --     | +3d4 |
-| 12    | 10d6+2       |  +6              |  +9             | --     | --     | +4d4 |
 
 ### Rogue Saving Throws
 | Level | Evasion | Hardiness | Spirit |
@@ -60,13 +52,6 @@ cssclass: clean-embeds
 |   3   |    +3   |     +2    |   +2   |
 |   4   |    +3   |     +2    |   +3   |
 |   5   |    +4   |     +3    |   +3   |
-|   6   |    +5   |     +4    |   +4   |
-|   7   |    +6   |     +4    |   +5   |
-|   8   |    +7   |     +5    |   +6   |
-|   9   |    +8   |     +5    |   +6   |
-|  10   |    +8   |     +6    |   +7   |
-|  11   |    +9   |     +7    |   +8   |
-|  12   |   +10   |     +7    |   +9   |
 
 ## Rogue Knacks
 
@@ -116,48 +101,23 @@ Unless specified otherwise, each knack may only be taken once.
 	- 2nd Level: [Actor](Traits.md#actor)
 	- 3rd Level: Assassin
 	- 5th Level: Master of Disguise
-	- 6th Level: [Panther's Grace](Traits.md#panthers%20grace)
-	- 7th Level: Skulker
-	- 9th Level: Quick Reflexes
-	- 10th Level: [Alert](Traits.md#alert)
-	- 11th Level: Trap Sense
 - **Bard** 
 	- 1st Level: Distracting Defense, [Linguist](Traits.md#linguist)
-	- 2nd Level: [Friendly Face](Traits.md#friendly%20face)
+	- 2nd Level: [Charming](Traits.md#charming)
 	- 3rd Level: Code-Breaker
 	- 5th Level: Watchful
-	- 6th Level: [Actor](Traits.md#actor)
-	- 7th Level: Light Footed
-	- 9th Level: Quick Reflexes
-	- 10th Level: [Charming](Traits.md#charming)
-	- 11th Level: Trap Sense
 - **Burglar** 
 	- 1st Level: Skulker, [Unassuming](Traits.md#unassuming)
 	- 2nd Level: [Agile](Traits.md#agile)
 	- 3rd Level: Second Story Work
 	- 5th Level: Master of Locks
-	- 6th Level: [Always Prepared](Traits.md#always%20prepared)
-	- 7th Level: Trap Sense
-	- 9th Level: Master of Traps
-	- 10th Level: [Great Fortune](Traits.md#great%20fortune)
-	- 11th Level: Distracting Defense or Intelligent Defense
 - **Mountebank** 
 	- 1st Level: Master of Disguise, [Friendly Face](Traits.md#friendly%20face)
 	- 2nd Level: [Actor](Traits.md#actor)
 	- 3rd Level: Counterfeiter
 	- 5th Level: Watchful
-	- 6th Level: [Linguist](Traits.md#linguist)
-	- 7th Level: Sleight of Hand Expert
-	- 9th Level: Code-Breaker
-	- 10th Level:  [Charming](Traits.md#charming)
-	- 11th Level: Light-Footed
 - **Scout** 
 	- 1st Level: Watchful, [Child of the (Terrain)](Traits.md#child%20of%20the%20terrain)
 	- 2nd Level: [Survivalist](Traits.md#survivalist)
 	- 3rd Level: Skulker
-	- 5th Level: Distracting Defense or Intelligent Defense
-	- 6th Level: [Unassuming](Traits.md#unassuming)
-	- 7th Level: Light-Footed
-	- 9th Level: Clue Hound
-	- 10th Level: [Alert](Traits.md#alert)
-	- 11th Level: Assassin
+	- 5th Level: Light-Footed
