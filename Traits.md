@@ -1,7 +1,7 @@
 # Traits
-Traits help set individual characters apart from one another, even if they are of the same species, class and general background.  Each trait represents some specific inborn ability or special training unique to that character.  They are different from Knacks in that they have no class requirements.
+Traits help set individual characters apart from one another, even if they are of the same species, class and general [background](Background.md).  Each trait represents some specific inborn ability or special training unique to that character.  They are different from Knacks in that they have no class requirements.
 
-Each class abilties table shows when characters gain Traits.
+Each class abilities table shows when characters gain Traits.
 
 Traits are broken into multiple distinct types: General, Allegiance, Combat, Spellcasting and Supernatural.
 
@@ -98,45 +98,43 @@ Your character is always on the lookout for danger.  She gains +1 **Initiative**
 Your character often has unusual but helpful objects at hand. He may spend a **Fortune Point** to have any item he might have reasonably procured along the way and which could fit in his bag.
 
 ### Animal Companion
+You gain a +2 bonus on all [reaction rolls](CoreRules.md#Charisma%20and%20Reactions) involving [natural, fae or giant](RulesSynopsis.md#tags) animals.  You may take one as an [Ally](HirelingsAndAllies.md#allies) so long as it's HD do not exceed your level.  If you start play with this Trait, you may select a normal animal to be your companion at the start of play (so long as it complies with the above restrictions).  As you grow in power, so to will your companion, gaining their own experience in the same manner as any other Ally.  It is up to the GM to adjudicate when they have amassed enough XP to gain a new HD, but typically aggressive (or trained in combat) animals should level up as a [fighter](Fighter.md) while more docile animals should level up as a [Rogue](Rogue.md).  Upon gaining additional HD, the beast may gain additional bonuses to hit and on saving throws (similar to other beasts of similar HD).  It is up to the GM whether any additional abilities may be gained.
 
 ### Armor Training (light, medium or heavy)
-Your character understands how to move in a particular weight of armor effectively.  They must have light armor training before they can take medium.  They must have medium armor training before they can take heavy.
+Your character understands how to move in a particular weight of armor effectively.  They must have light armor training before they can take medium.  They must have medium armor training before they can take heavy.  Without this Trait (or equivalent [Class Ability](Classes.md)), a character suffers Disadvantage on any [Physical Checks](RulesSynopsis.md#ability%20check) while wearing armor they have not been trained for.
 
 ### Brawny
 Your character gains a +2 bonus on non-combat checks involving Strength.
 
 ### Broad Skills
-Your character may roll for a 2nd [Background Career](Background.md).  If the same career is rolled a 2nd time either re-roll (if desired) or replace this trait with the [Journeyman](#journeyman) trait for the duplicated career.
+Your character may roll for a 2nd [Background Career](Background.md).  If the same career is rolled a 2nd time re-roll.
 
 ### Catch Your Breath
-Your character can recover 1 level of **Exhaustion** with a **Short Rest**.
+Your character can recover 1 level of [Exhaustion](Combat.md#exhaustion) with a [Short Rest](Combat.md#short%20rest).
 
 ### Charming
 Your character gains a +2 bonus on non-combat checks involving Charisma.
 
 ### Die Hard
-Your character's death **Countdown Pool** is made up of d6s instead of d4s.
+Your character's [Death Pool](RulesSynopsis.md#the%20death%20pool) is made up of d6s instead of d4s.
 
 ### Fast Healer
-You roll an additional **Hit Die** when rolling for recovered **Hit Points** after your character takes a **Short** or **Long Rest**.
+You roll an additional [Hit Die](Glossary.md#hit%20die) when rolling for recovered **Hit Points** after your character takes a [Short](Combat.md#short%20rest) or [Long Rest](Combat.md#long%20rest).
 
 ### Friendly Face 
 Your character’s good nature and handsome face cause strangers to trust her more than they otherwise would. She gains **Advantage** on all **Charisma Checks** with strangers.
 
 ### Great Bravery
-While this character certainly becomes frightened, he will not back down because of fear. He is immune to the **Frightened** condition.
+While this character certainly becomes frightened, he will not back down because of fear. He is immune to the [Frightened](Combat.md#frightened) condition.
 
 ### Great Fortune
-Your character's starting and max **Fortune Point** values increase by 1 each.  This trait may be taken twice.
+Your character's starting and max [Fortune Point](RulesSynopsis.md#fortune) values increase by 1 each.  This trait may be taken twice.
 
 ### Great Leader 
-Like the heroes of past ages, your character character commands respect by their bearing alone. By spending a **Fortune Point**, they can give all of their companions within **near** range who can see and hear them +2 to all of their rolls during the next **Round**.
+Like the heroes of past ages, your character character commands respect by their bearing alone. By spending a [Fortune Point](RulesSynopsis.md#fortune), they can give all of their companions within [near](Combat.md#range%20bands) or [close](Combat.md#range%20bands) range who can see and hear them +2 to all of their rolls during the next **Round**.
 
 ### Healer
-Your character is a gifted practitioner of medicine.  When caring for someone who is healing, their rate of HP recovery is increased by +1 HP per HD.  Additionally, she has **Advantage** when attempting to **stabilize** a **dying** character.
-
-### Journeyman
-Your character has spent more time training in their background career.  Your career improves from Apprentice(+0) to Journeyman(+2).
+Your character is a gifted practitioner of medicine.  When caring for someone who is healing, their rate of HP recovery is increased by a number of HP equal to the patient's HD.  The patient also has **Advantage** on rolls to recover from disease, poison and [lingering injuries](Combat.md#lingering%20injuries).  Additionally, she has **Advantage** when attempting to stabilize a [dying](Combat.md#death%20and%20dying) character.
 
 ### Learned
 Your character gains a +2 bonus on non-combat checks involving Intelligence.
@@ -144,14 +142,11 @@ Your character gains a +2 bonus on non-combat checks involving Intelligence.
 ### Linguist
 Due to study and a gift for languages, your character knows three additional languages.  This trait may be taken multiple times, gaining three new languages each time.
 
-### Master
-Your character has spent enough time training in their background career to be considered a master at their craft.  Your career improves from Journeyman(+2) to Master (+4).
-
 ### Merchant’s Eye 
-Your character has a gift for appraising objects of various sorts. Under ordinary circumstances, he automatically knows the approximate value of any item.
+Your character has a gift for appraising objects of various sorts. Under ordinary circumstances, he automatically knows the approximate value of any item.  If a roll is deemed necessary, the character makes it as a [Skilled](RulesSynopsis.md#skilled%20check) check.  If it is already a Skilled check for the character (such as being of the [Merchant](Background.md#merchant) background), they have **Advantage** on appraisal checks.
 
 ### Second Wind
-A brief moment’s respite is all your character needs to be ready to get back into the fight. They may spend a **Fortune Point** and take 1 minute to rest and gain the benefits of a **Short Rest**.  This does not count against their daily short rest limit.
+A brief moment’s respite is all your character needs to be ready to get back into the fight. They may spend a [Fortune Point](RulesSynopsis.md#fortune) and take 1 minute to rest and gain the benefits of a [Short Rest](Combat.md#short%20rest).  This does not count against their daily short rest limit.
 
 ### Self Improvement
 Raise one of your character’s **Ability Scores** by 2 points, or two Ability Scores by 1 point each.  No Ability Score may be raised above 18 in this fashion.  This trait may be taken multiple times.
@@ -163,7 +158,7 @@ Your character gains a +2 bonus on non-combat checks involving Constitution.
 Your character learns an additional **Knack** from her class.
 
 ### Survivalist
-Your character is at home in the wilds. She can always find enough food and water for herself, though still must make foraging or hunting tests to feed others. This trait has no effect when in the harshest of conditions, such as a scalding desert or a Dark Lord’s blighted domain.
+Your character is at home in the wilds. She can always find enough food and water for herself, though still must make [foraging or hunting tests](WildernessExploration.md#foraging%20and%20hunting) to feed others. This trait has no effect when in the harshest of conditions, such as a scalding desert or a Dark Lord’s blighted domain.
 
 Additionally, she is skilled in activities such as tracking, animal trapping, fishing and so forth.
 
@@ -171,10 +166,10 @@ Additionally, she is skilled in activities such as tracking, animal trapping, fi
 Some heroes don’t know when to quit and will stay in the fight against all odds. Your character gains an additional **Hit Point** per level, including any past levels if this **Trait** is chosen later in the character’s career.
 
 ### Unassuming
-Your character has an uncanny knack for escaping notice. At the beginning of any encounter he may spend a **Fortune Point** to be automatically hidden without any roll, provided that the surroundings would allow it.
+Your character has an uncanny knack for escaping notice. At the beginning of any encounter he may spend a [Fortune Point](RulesSynopsis.md#fortune) to be automatically hidden without any roll, provided that the surroundings would allow it.
 
 ### Very Helpful
-When your character **Helps** another, double the bonus they grant to the ability check.
+When your character [Helps](CoreRules.md#helping) another, double the bonus they grant to the ability check.
 
 ### Weapon Training
 Your character gains proficiency with an additional class of weapons.  This trait may be taken multiple times.
@@ -186,7 +181,7 @@ Your character gains a +2 bonus on non-combat checks involving Wisdom.
 Each of these traits requires a character to have sworn [Allegiance](AllegiancesAndMorality.md) to a [Cosmic Power](AllegiancesAndMorality.md#Cosmic%20Powers) before they can be taken.
 
 ### Breaker of {Allegiance}
-A character cannot be of the named **Allegiance** when taking this trait.  Their blows are filled with the power of their cosmic patron and thus grant +2 to hit and damage against creatures of the named Allegiance and also count as magical for **resistance** and **immunity** purposes.  After scoring a hit against a creature of the named Allegiance, this character may spend a **Fortune Point** to have their attack automatically do maximum damage.  This trait may be taken multiple times, applying to a different Allegiance each time.
+A character cannot be of the named **Allegiance** when taking this trait.  Their blows are filled with the power of their cosmic patron and thus grant +2 to hit and damage against creatures of the named Allegiance and also count as magical for **resistance** and **immunity** purposes.  After scoring a hit against a creature of the named Allegiance, this character may spend a [Fortune Point](RulesSynopsis.md#fortune) to have their attack automatically do maximum damage.  This trait may be taken multiple times, applying to a different Allegiance each time.
 
 ### Rebuke {Allegiance}
 A character cannot be of the named **Allegiance** when taking this trait.  Your character’s very presence is an anathema to supernatural creatures of the named Allegiance.  She may use her action to attempt to drive off supernatural creatures of the named Allegiance.  She makes a **Charisma Check**, adding in her **Character Level** as a bonus.  Any creatures able to see and hear her must make a **Spirit Saving Throw** using the check's total as the **DT**.  If the creature's total is lower than the DT it becomes **Frightened** of your character for the next minute.  If the Charisma check was also a critical success, those creature are **Routed** for the next 24 hours.  Any creature whose Spirit Save is equal to or higher than the DT becomes immune to this ability from your character for the next 24 hours, unless she spends a Fortune Point.  This trait may be taken multiple times, applying to a different Allegiance each time.
@@ -199,7 +194,7 @@ A character cannot be of the named **Allegiance**.  Your character has **Advanta
 
 ## Combat Traits
 
-These are traits which will directly improve the combat prowess of a given character, but are not so specialized as to require one to be a **Fighter**.  As a result, characters of any class may take these traits.
+These are traits which will directly improve the combat prowess of a given character, but are not so specialized as to require one to be a **[Fighter](classes/Fighter.md)**.  As a result, characters of any class may take these traits.
 
 ### Combat Dominance
 This character’s skill at arms is unmatched. If her level is greater than the **Hit Dice** of her strongest opponent, she gains +2 on all to-hit rolls and +2 armor class.
@@ -264,10 +259,10 @@ Through martial training and practice, your mage has learned how best to harness
 This mage may spend a **Fortune Point** to regain a number of lost **Invocation Dice** equal to the highest of her **Intelligence**, **Wisdom** or **Charisma** modifiers upon completing a **Short Rest**.
 
 ### With But a Wave
-The caster picks two spells or cantrips they already know. These spells no longer require the caster be able to [Incant](magic/Spells.md#components) when casting them.
+The caster picks two [spells](magic/Spells.md) or cantrips they already know. These [spells](magic/Spells.md) no longer require the caster be able to [Incant](magic/Spells.md#components) when casting them.
 
 ### Words of Power
-The caster picks two spells or cantrips they already know. These spells no longer require the caster be able to [Gesture](magic/Spells.md#components) when casting them.
+The caster picks two [spells](magic/Spells.md) or cantrips they already know. These [spells](magic/Spells.md) no longer require the caster be able to [Gesture](magic/Spells.md#components) when casting them.
 
 ## Supernatural Traits
 

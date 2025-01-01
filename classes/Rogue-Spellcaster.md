@@ -14,20 +14,22 @@ cssclass: clean-embeds
 - [Rogue-Spellcaster Table](#Rogue-Spellcaster%20Table)
 	- [Rogue-Spellcaster Saving Throws](#Rogue-Spellcaster%20Saving%20Throws)
 - [Rogue-Spellcaster Knacks](#Rogue-Spellcaster%20Knacks)
-	- [Sample Rogue-Spellcaster Builds](#Sample%20Rogue-Spellcaster%20Builds)
+- [Sample Rogue-Spellcaster Builds](#Sample%20Rogue-Spellcaster%20Builds)
 
+---
 ## Statistics
 - **Starting HP**: 5
 - **Hit Dice**: 1d5 per level
-- **Initiative Bonus**: +1
 - **Armor Training**: Light armor
 - **Weapon Training**: Light and Medium weapons
 
+---
 ## Equipment
 - a Rogue's Pack, a Mage's Pack or an Explorer's Pack
-- 2 Sigils
+- 2 [Sigils](magic/Sigils.md)
 - 4d6sp
 
+---
 ## Class Abilities
 
 ### Magical Focus
@@ -42,14 +44,15 @@ cssclass: clean-embeds
 ### True Name
 ![](classes/ClassAbilities.md#true%20name)
 
+---
 ## Rogue-Spellcaster Table    
-|  Level  |  Hit<br/>Dice  |  Attack<br/>Bonus  |  Skill<br/>Bonus  |  Knacks  |  Traits  |  Invocation<br/>Dice  |  Prepared<br/>Spells  |  Spell<br/>Save  |  Max<br/>Spell<br/>Tier  |
-|:--------|:---------------|:-------------------|:------------------|:---------|:---------|:----------------------|:----------------------|:-----------------|:-------------------------|
-|    1    |  1d5           |  +0                |  +1               |   1      |   1      |   0d6                 |   0                   |  11+             |  cantrips                |
-|    2    |  2d5           |  +1                |  +2               |  --      |  --      |   1d6                 |   1                   |  12+             |  1                       |
-|    3    |  3d5           |  +1                |  +2               |  --      |  --      |   1d6                 |   2                   |  13+             |  --                      |
-|    4    |  4d5           |  +2                |  +3               |  +1      |  --      |   2d6                 |   3                   |  13+             |  --                      |
-|    5    |  5d5           |  +2                |  +4               |  --      |  --      |   3d6                 |   4                   |  14+             |  2                       |  
+| Level | Hit<br/>Dice | Attack<br/>Bonus | Initiative<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Invocation<br/>Dice | Prepared<br/>[Spells](magic/Spells.md) | Spell<br/>Save | Max<br/>Spell<br/>Tier |
+|:-----:|:------------:|:----------------:|:--------------------:|:---------------:|:------:|:------:|:-------------------:|:-------------------:|:--------------:|:-----------------------|
+|   1   | 1d5          | +0               | +0                   | +1              |  1     |  1     |  0d6                |  0                  | 11+            | cantrips               |
+|   2   | 2d5          | +1               | +1                   | +2              | --     | --     |  1d6                |  1                  | 12+            | 1                      |
+|   3   | 3d5          | +1               | +1                   | +2              | --     | --     |  1d6                |  2                  | 13+            | --                     |
+|   4   | 4d5          | +2               | +2                   | +3              | +1     | --     |  2d6                |  3                  | 13+            | --                     |
+|   5   | 5d5          | +2               | +2                   | +4              | --     | --     |  3d6                |  4                  | 14+            | 2                      |  
 
 ### Rogue-Spellcaster Saving Throws
 | Level | Evasion | Hardiness | Spirit |
@@ -60,6 +63,7 @@ cssclass: clean-embeds
 |   4   |    +3   |     +2    |   +4   |
 |   5   |    +4   |     +3    |   +4   |
 
+---
 ## Rogue-Spellcaster Knacks
 
 Unless stated otherwise, each knack may only be taken once.
@@ -84,7 +88,8 @@ Unless stated otherwise, each knack may only be taken once.
 
 **Watchful**: ![](classes/Knacks.md#watchful)
 
-### Sample Rogue-Spellcaster Builds
+---
+## Sample Rogue-Spellcaster Builds
 - **Shadow** 
 	- Knack – Skulker
 	- Trait - [Unassuming](Traits.md#unassuming)

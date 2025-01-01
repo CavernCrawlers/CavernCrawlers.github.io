@@ -10,4 +10,4 @@ You do not automatically fall unconscious when reduced below 1 hit point.  Inste
 
 ### Decipher MagicDecipher MagicDecipher Magic%%
 **Prerequisite:** [Code-Breaker](Knacks.md#code-breaker)
-You may decipher magical text in the same manner as deciphering a code or unknown language.  The Code-Breaker bonus also applies to this check.  Additionally, if you decipher a spell scroll, you may attempt to cast the spell(s) on that scroll as if you were a Spellcaster, but you must pass a **Skilled Intelligence** check vs a diff equal to 9 plus 2 times the spell's tier (the difficulty on a Tier 3 spell scroll would be 15).
+You may decipher magical text in the same manner as deciphering a code or unknown language.  The Code-Breaker bonus also applies to this check.  Additionally, if you decipher a spell scroll, you may attempt to cast the spell(s) on that scroll as if you were a [Spellcaster](classes/Spellcaster.md), but you must pass a **Skilled Intelligence** check vs a diff equal to 9 plus 2 times the spell's tier (the difficulty on a Tier 3 spell scroll would be 15).

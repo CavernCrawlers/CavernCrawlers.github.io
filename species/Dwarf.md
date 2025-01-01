@@ -8,9 +8,10 @@ Dwarves are a stocky fae species averaging around 4 to 5 feet in height, yet wei
 - **Speed:** 30 ft
 - **Tags:** Humanoid, Fae (earth)
 
+---
 ## Features
 ### Dust of Ages
-The age of the dwarf is long since past. A Dwarf’s Base and Max **Fortune Points** are reduced by 1 (to a minimum 1 **Max Fortune**).
+The age of the dwarf is long since past. A Dwarf’s Base and Max [Fortune Points](RulesSynopsis.md#fortune) are reduced by 1 (to a minimum 1 **Max Fortune**).
 ### Enduring as Stone
 Dwarves have endurance beyond that of humans.  They gain +1 HP per level and roll **Hit Dice** with **Advantage** when resting and healing.
 ### Fortitude of Iron

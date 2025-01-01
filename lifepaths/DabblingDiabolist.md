@@ -2,7 +2,7 @@
 cssclass: clean-embeds
 ---
 # The Dabbling Diabolist
-## (Spellcaster)
+## ([Spellcaster](classes/Spellcaster.md))
 Your innate curiosity got the better of you, and you ended up invoking magical forces you weren’t powerful enough to master. Something or someone came through from the world of Demons, and now it’s with you always, plotting, scheming, and promising mystical might.  You gain access to the [Cult Initiate](Background.md#cult%20initiate) background.
 
 ## Childhood
@@ -122,7 +122,7 @@ You would later learn that this accident released powerful magic. Unfortunately,
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-Your magical accident attracted the attention of an otherworldly spirit.  This spirit has come to you to teach you the ways of magic. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Hexing](magic/TierZeroSpells.md#hexing) cantrip and Humanoid [sigil](magic/Sigils.md). The tables below will tell you your other traits and spells.
+Your magical accident attracted the attention of an otherworldly spirit.  This spirit has come to you to teach you the ways of magic. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Hexing](magic/TierZeroSpells.md#hexing) cantrip and Humanoid [sigil](magic/Sigils.md). The tables below will tell you your other [traits](Traits.md) and [spells](magic/Spells.md).
 
 ### What else has your familiar taught you?
 

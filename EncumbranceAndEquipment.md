@@ -200,7 +200,7 @@ Like other items, armor quality can vary.  It is generally recommended that any 
 - **1H**: Requires the use of 1 hand.
 - **Category**: This is the armor category noted for proficiency purposes 
 	- (L)ight, (M)edium, (H)eavy, (B)uckler and (S)hield.
-- **Encumbering**: Reduces movement by 5ft (for Medium armor) or 10ft (for Heavy armor).  Also for every 1 minute of intense activity (such as combat), make a Constitution check vs DT 13 (Medium) or 15 (Heavy) or gain 1 level of Exhaustion.
+- **Encumbering**: Reduces movement by 5ft (for Medium armor) or 10ft (for Heavy armor).  Also for every 1 minute of intense activity (such as [combat](Combat.md)), make a Constitution check vs DT 13 (Medium) or 15 (Heavy) or gain 1 level of Exhaustion.
 - **Noisy**: Imposes Disadvantage on stealth checks.
 - **DEX Mod**: This is the amount of your **Dexterity Modifier** (round up) that may be added to your AC.  If your Dexterity modifier is negative, always apply the full value.
 
@@ -234,6 +234,8 @@ It takes time to don (put on) or doff (take off) armor.  You only benefit from a
 |  Heavy             |  10 minutes  |  5 minutes  |
 |  Buckler / Shield  |  1 action    |   1 action  |  
 
+#### Armor Training
+A character may have been trained in the proper wearing and movement for Light, Medium and Heavy armor through either a Class Ability or [Trait](Traits.md#Armor%20Training%20(light,%20medium%20or%20heavy)).  While wearing armor they have not been trained in, a character will suffer Disadvantage on all their [Physical Checks](RulesSynopsis.md#Ability%20Check).
 
 ### Gear
 This is a list of common adventuring gear, much of which can be found in various general stores throughout the land.  Some specialized items (such as acid, alchemist’s fire, poisons and the like) will only be available at specialty shops like alchemy shops, herbalists and so forth.

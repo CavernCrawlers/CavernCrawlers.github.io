@@ -19,6 +19,8 @@
 		- [Critical Hits](#Critical%20Hits)
 		- [Death and Dying](#Death%20and%20Dying)
 		- [Lingering Injuries](#Lingering%20Injuries)
+		- [ ] Resistance
+		- [ ] Immunity
 - [Combat Maneuvers](#Combat%20Maneuvers)
 	- [Combat Maneuver Examples:](#Combat%20Maneuver%20Examples:)
 		- [Battle Cry](#Battle%20Cry)
@@ -48,7 +50,7 @@
 	- [Prone](#Prone)
 	- [Restrained](#Restrained)
 	- [Stunned](#Stunned)
-	- [Unconcious](#Unconcious)
+	- [Unconscious](#Unconcious)
 - [Exhaustion](#Exhaustion)
 - [Healing and Recovery](#Healing%20and%20Recovery)
 	- [Short Rest](#Short%20Rest)
@@ -96,7 +98,7 @@ Following is a list of commonly used Main Actions.  This is not a complete list,
 - **Dash:** Take an extra move action.
 - **Defend:**  A Defending character gains +2 to **AC** and **Evasion** saving throws until the start of their next Combat Turn.
 - **Escape:**  Escape a grapple by winning an opposed **Strength** or **Dexterity** check against the grappler’s **Strength** or **Dexterity**.
-- **Help:** Assist another creature in performing an action.  If the action aligns with your **Class** or **Background** the acting creature gains +2 to their action.  If the action doesn't align with your class or background, you can still Help if the action is in service to one of your **Passions**, but you must pay 1 **Fortune Point** to render assistance.
+- **Help:** Assist another creature in performing an action.  If the action aligns with your **Class** or **[Background](Background.md)** the acting creature gains +2 to their action.  If the action doesn't align with your class or [background](Background.md), you can still Help if the action is in service to one of your **Passions**, but you must pay 1 **Fortune Point** to render assistance.
 - **Prepare:**  Choose a **Main Action** you will take in response to a set trigger.  Taking the triggered action uses up your **Reaction**.  Preparing a spell or cantrip requires **Concentration**.
 - **Protect:** Choose an adjacent ally to defend.  The protecting character gains +2 to their **AC**.  If an enemy chooses to attack the protected character, the protecting character may make an **Opportunity Attack** against the attacker.  Additionally, if the protected character is hit, the protecting character may choose to take the hit for them.
 - **Overrun:** Move through an opponent’s space once by winning an opposed **Strength** check.  You have **Advantage** on this check if you are at least one size category larger than your opponent.  You have **Disadvantage** if you are at least one size category smaller.
@@ -128,7 +130,14 @@ Attacking an enemy requires making a successful [Attack Roll](RulesSynopsis.md#A
 
 ### Ranged Attacks
 Attacks made at **Far** range have **Disadvantage** on the attack roll.<br/>
-Ranged weapons (including spells) with a max range of **Far** or greater, will attack at **Disadvantage** if used within **Close** range.
+Ranged weapons (including [spells](magic/Spells.md)) with a max range of **Far** or greater, will attack at **Disadvantage** if used within **Close** range.
+
+#### Range Bands
+- **(C)lose**: 0-5 feet - Weapons with a range of **Far** have **Disadvantage** at this range.
+- **(N)ear**: 6-30 feet - Attacks made from beyond Near range have **Disadvantage**.
+- **(F)ar**: 31-150 feet - Attacks made at this range have **Disadvantage** unless the character has the [Archer](classes/Knacks.md#archer) knack.
+- **(S)ight**: Within Line of Sight (**LoS**).  Only siege weapons and magic attack at this range.
+- **(D)istant**: Beyond perception.  Only magic may attack at this range.
 
 #### Cover
 There are two types of cover to be concerned with.  Hard Cover is an object or piece of terrain capable of physically stopping the attack (such as a stone wall or wooden palisade).  Soft Cover simply obscures the target, but will not physically stop the attack (such as fog, brush or shadows).
@@ -141,6 +150,9 @@ There are two types of cover to be concerned with.  Hard Cover is an object or p
 | Hard | <=25%    | no modifier |
 | Soft | 51-100%  | +2 to target's AC |
 | Soft | <-50%    | no modifier |
+
+#### Firing Into Melee
+If one or more combatants are engaged at **Close** [range](#range%20bands), they are considered to be in melee.  If a ranged attack is made against someone in melee, they are counted as having 50% [hard cover](#cover) and if the attack misses by 2 or less, one of the other creatures in melee with the target creature will be hit at random.
 
 ### Magical Attacks
 Magical attacks follow the same rules as other attacks, but use the caster's **Skill Bonus** and either **Intelligence**, **Wisdom** or **Charisma modifier**.  See [Magical Attacks](magic/MagicalArts.md#magical%20attacks%20and%20saving%20throws) under the Magical Arts document for further details.
@@ -200,7 +212,7 @@ When an unconscious character is revived, they must make a **Constitution check*
 
 ## Combat Maneuvers
 
-Once per turn, as part of a normal melee attack, anyone with the Combat Mastery ability (such as [Fighters](classes/Fighter.md)) may declare a Combat Maneuver as part of their normal attack.  This is a special move that won't do any extra damage, but can add additional consequences to the attack (such as tripping or disarming a foe).  If the d20 face shows a number equal to or higher than the fighter's Combat Mastery target, the move is successfully executed.  Some maneuvers allow the defender to negate the effect with a successful saving throw vs the total attack value rolled (see the below examples for details).
+Once per turn, as part of a normal melee attack, anyone with the Combat Mastery ability (such as [Fighters](classes/Fighter.md)) may declare a Combat Maneuver as part of their normal attack.  This is a special move that won't do any extra damage, but can add additional consequences to the attack (such as tripping or disarming a foe).  If the d20 face shows a number equal to or higher than the [fighter](classes/Fighter.md)'s Combat Mastery target, the move is successfully executed.  Some maneuvers allow the defender to negate the effect with a successful saving throw vs the total attack value rolled (see the below examples for details).
 
 Characters without the Combat Mastery ability may also attempt **some** of these exploits (those marked with am asterisk) but this is done **instead** of a normal attack rather than in addition.  In this case, there is no need to roll to successfully execute the maneuver, but the target will still get a saving throw.  Characters with Combat Mastery may also choose this option, if they so wish.
 
@@ -211,6 +223,9 @@ A roar, a shout, a stream of expletives; in some way you use voice and body lang
 
 #### Blind*
 From throwing sand in someone's face, to pulling their cloak hood over their eyes to slashing their brow so they bleed into their own eyes, you attempt  to impair your target's vision.  The target makes an **Evasion** save.  On a failure, the target becomes [Blinded](Combat.md#blinded) until the *end* of their next turn.  This obviously has no effect on creatures that don't use vision.
+
+#### Charge*
+- [ ] Rules for charging.
 
 #### Disarm
 You twist your target's weapon in such a way that they must pass an **Evasion** save or it falls from their grasp.  Note that this only works on hand-held weapons, not natural weapons.  Weapons held in two hands make this save with **Advantage**.  If the save is failed, roll 1d10 to see where the target's weapon lands:
@@ -340,7 +355,7 @@ A short rest is a 10-minute breather after which a character may regain a few hi
 ### Long Rest
 A long rest is at least 8 hours of uninterrupted sleep or light activity.  At the end of a long rest, a character heals back a number of hit points equal to 1 **hit die** plus their **Constitution Score**.  If they are under medical care, add the caretaker’s skill bonus to the total if they are trained in healing.  Additionally, a character maintaining a **Wealthy** or higher [lifestyle](EncumbranceAndEquipment.md#Lifestyle%20Expenses) adds a second hit die to the amount of hit points regained.
 
-_For example, Merrick is a 5th level fighter with a 16 Constitution.  At the end of a short rest, he can regain 1d6 + 4 hit points (1d6+2 for his hit die plus another 2 for his constitution modifier).  At the end of a Long Rest with a superior quality meal while staying in a superior quality room at an inn, he’ll regain 2d6+4 (2 hit dice because of the wealthy lifestyle) + 16 (constitution score) hit points._
+_For example, Merrick is a 5th level [fighter](classes/Fighter.md) with a 16 Constitution.  At the end of a short rest, he can regain 1d6 + 4 hit points (1d6+2 for his hit die plus another 2 for his constitution modifier).  At the end of a Long Rest with a superior quality meal while staying in a superior quality room at an inn, he’ll regain 2d6+4 (2 hit dice because of the wealthy lifestyle) + 16 (constitution score) hit points._
 
 Additionally, any characters completing a long rest will recover one rank of [Exhaustion](#Exhaustion).  When their exhaustion rank reaches 0, they are no longer **Exhausted**.
 
@@ -355,7 +370,7 @@ An Extended Rest requires a full week’s rest at a **Safe Haven**.  A Safe Have
 
 At the end of an Extended Rest a character regains all **Hit Points**, recovers all ranks of [Exhaustion](#Exhaustion) and has advantage on any rolls to recover from [Lingering Injuries](#Lingering%20Injuries).
 
-No other **Downtime Activities** can be taken during an Extended Rest; your character is taking a week off to rest and recuperate.  
+No other **[Downtime](Downtime.md) Activities** can be taken during an Extended Rest; your character is taking a week off to rest and recuperate.  
 
 If an Extended Rest is interrupted, but the character has managed at least a full 8 hours of rest, they will gain the benefits of a [Long Rest](#Long%20Rest).
 

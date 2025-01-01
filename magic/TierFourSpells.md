@@ -1,36 +1,29 @@
 # Tier 4 Spells
 
-Cloudkill
-Commune
-Control Water
-Dimension Door
+Create Water
+
+Summon Animals
+Temperature Control
 
 Wraithform
-
 Emotion
-Flame Strike
 Fly
-Hallucinator Terrain
 Illusory Stamina
 Improved Invisibility
 Massmorph
 Minor Creation
-Misty Step
-Passwall
 Phantasmal Killer
-Pillar of Salt
-Polymorph
 Rainbow Pattern
-Regenerate
-Resilient Sphere
 Shadow Monsters
 Solid Fog
-Sticks to Snakes
-Stoneskin
-Summon Animals
-Telekinesis
-Temperature Control
 Veil of Abandonment
+
+Misty Step
+Passwall
+Pillar of Salt
+Polymorph
+Resilient Sphere
+Sticks to Snakes
 Wall of Fire
 Wall of Force
 Wall of Ice
@@ -38,7 +31,7 @@ Wrath
 
 ## Arcane Eye
 - **Tier:** 4 (12+)
-- **Sigils:** Truth
+- **[Sigils](magic/Sigils.md):** Truth
 - **Casting Ability:** Wisdom
 - **Casting Time:** 10 minutes
 - **Range:** Near
@@ -59,7 +52,7 @@ By this spell, the wizard conjures an invisible "eye" through which they can see
 
 ## Confusion
 - **Tier:** 4 (12+)
-- **Sigils** Thought or Chaos
+- **[Sigils](magic/Sigils.md):** Thought & Chaos
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -89,7 +82,7 @@ Each affected creature must roll on the following table at the start of each of 
 
 ## Create Food & Water
 - **Tier:** 4 (12+)
-- **Sigils** Beast & Plant
+- **[Sigils](magic/Sigils.md):** Beast & Plant
 - **Casting Ability:** Wisdom
 - **Casting Time:** 10 minutes
 - **Range:** Close
@@ -109,7 +102,7 @@ This spell creates a 1 day supply of food & water for 6 medium-sized people.  Th
 
 ## Divination
 - **Tier:** 4 (12+)
-- **Sigils** Time & Truth
+- **[Sigils](magic/Sigils.md):** Time & Truth
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 hour
 - **Range:** Self
@@ -132,7 +125,7 @@ Each time this spell is cast within a 24-hour period increases the casting diffi
 
 ## {name}
 - **Tier:** 4 (12+)
-- **Sigils** {runes}
+- **[Sigils](magic/Sigils.md):** {runes}
 - **Casting Ability:** {ability}
 - **Casting Time:** {time}
 - **Range:** {range}

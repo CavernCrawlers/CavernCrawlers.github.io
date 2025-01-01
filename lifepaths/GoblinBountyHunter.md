@@ -3,7 +3,7 @@ cssclasses:
   - clean-embeds
 ---
 # The Goblin Bounty Hunter
-## (Rogue)
+## ([Rogue](classes/Rogue.md))
 You made your living tracking down people for pay.  You've since decided to make your own life rather than serving at the beck and call of others.  You gain access to the [Criminal](Background.md#criminal) background.
 
 ## Childhood
@@ -20,7 +20,7 @@ You were always clever and agile, if a bit spindly in build.  You begin play wit
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You were trained by the bounty-hunter's guild. You become a level 1 [Rogue](classes/Rogue.md). You gain the class abilities *Fortune's Favor*, *Rogue Skills* and *Sneak Attack*.  The tables below will tell you your other abilities.
+You were trained by the bounty-hunter's guild. You become a level 1 [Rogue](classes/Rogue.md). You gain the class abilities *Fortune's Favor*, *[Rogue](classes/Rogue.md) Skills* and *Sneak Attack*.  The tables below will tell you your other abilities.
 
 ### What happened when first joined the guild?
 <table>
@@ -62,7 +62,7 @@ You were trained by the bounty-hunter's guild. You become a level 1 [Rogue](clas
 	</tr>
 	<tr>
 		<td align="center">6</td>
-		<td>A sly and cunning goblin who specialized in bounties among the aristocracy.</td>
+		<td>A sly and cunning [goblin](species/Goblin.md) who specialized in bounties among the aristocracy.</td>
 		<td align="center">+3 CHA</td>
 		<td align="left">Courtier</td>
 	</tr>
@@ -208,15 +208,15 @@ You were trained by the bounty-hunter's guild. You become a level 1 [Rogue](clas
 1. Record your name, class and level.
 2. Record your species as [Goblin](species/Goblin.md) and whatever features you gain from it.
 3. Select a background from those made available from your Lifepath, above.
-4. As a Goblin, record your [True Name](RulesSynopsis.md#names).
+4. As a [Goblin](species/Goblin.md), record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Goblin Assassin begins with the following equipment: your background trappings, a backpack, dark clothing, a sack, 10 candles, a set of manacles, 1 week's rations, a hooded lantern, 2 flasks of oil, a firestarting kit, lockpicks, 50ft rope, leather armor, 1 light weapon, 1 medium weapon and 4d6sp.  You also have any items gained from your Lifepath.
-7. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
-8. Your Base Attack Bonus comes from your class. As a level 1 Rogue, you have a BAB of +1.
-9. Your Skill bonus comes from your class.  As a level 1 Rogue, you have a SB of +1.
-10. Your Initiative Bonus is equal your Dexterity bonus plus 3 for being a Rogue.
+7. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a [spellcaster](classes/Spellcaster.md).
+8. Your Base Attack Bonus comes from your class. As a level 1 [Rogue](classes/Rogue.md), you have a BAB of +1.
+9. Your Skill bonus comes from your class.  As a level 1 [Rogue](classes/Rogue.md), you have a SB of +1.
+10. Your Initiative Bonus is equal your Dexterity bonus plus 3 for being a [Rogue](classes/Rogue.md).
 11. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-12. As a Goblin Rogue, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 3.
+12. As a [Goblin](species/Goblin.md) [Rogue](classes/Rogue.md), your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 3.
 13. Your starting Hit Points equal to 6 plus your Constitution Modifier.
-14. Fill in your [Saving Throws](classes/Rogue.md#Rogue%20saving%20throws) using the chart in the Rogue document.
+14. Fill in your [Saving Throws](classes/Rogue.md#Rogue%20saving%20throws) using the chart in the [Rogue](classes/Rogue.md) document.
 15. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

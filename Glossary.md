@@ -1,6 +1,6 @@
 # Glossary
 ## Ability Check
-A [D20 Check](#D20%20Check) to which an Ability Modifier is added to the D20 roll.
+A [D20 Check](#D20%20Check) to which an Ability Modifier is added to the D20 roll.  <div>See [Ability Check](RulesSynopsis.md#ability%20check) and [D20 Check](CoreRules.md#the%20d20%20check).</div>
 
 ## Advantage
 Rolling the dice twice and taking the better result.
@@ -20,8 +20,11 @@ A type of [Hidden Door](#Hidden%20Door) that is simply obscured behind some othe
 ## Concentration
 This is the act of concentrating on a spell (or other activity that requires intense concentration).  Concentration may be lost by the character taking damage or other possible distractions.
 
+## Condition
+A state that (typically) negatively effects a given character.  See [conditions](Combat.md#conditions) in the [Combat](Combat.md) chapter.
+
 ## Core Class
-This is one of the three core (aka single) classes: [Fighter](#Fighter.md), [Rogue](#Rogue.md) and [Spellcaster](#Spellcaster.md).
+This is one of the three core (aka single) [classes](classes/Classes.md): [Fighter](#Fighter.md), [Rogue](#Rogue.md) and [Spellcaster](#Spellcaster.md).
 
 ## D20 Check
 Any check involving rolling a D20 plus modifiers and comparing the total to a [Difficulty Target](#Difficulty%20Target).
@@ -34,6 +37,9 @@ The target number that must be met or exceeded when making a [D20 Check](#D20%20
 
 ## Disadvantage
 Rolling the dice twice and taking the worse result.
+
+## Exhaustion
+A [condition](Combat.md#exhaustion) representing the character fatiguing and becoming less and less capable the more tired they get.
 
 ## Full Class
 See [Core Class](#core%20class).
@@ -48,7 +54,13 @@ A die used in rolling for [Hit Points](#Hit%20Points).
 A score indicating how difficult it is to kill a target.
 
 ## Hybrid Class
-This is one of three character classes that are a combination of two core classes ([Fighter-Rogue](classes/Fighter-Rogue.md), [Fighter-Spellcaster](classes/Fighter-Spellcaster.md) and [Rogue-Spellcaster](classes/Rogue-Spellcaster.md))
+This is one of three character [classes](classes/Classes.md) that are a combination of two core [classes](classes/Classes.md) ([Fighter-Rogue](classes/Fighter-Rogue.md), [Fighter-Spellcaster](classes/Fighter-Spellcaster.md) and [Rogue-Spellcaster](classes/Rogue-Spellcaster.md))
+
+## Initiative Bonus
+The value added to the character's Dexterity when calculating Initiative for a [combat](Combat.md) round.
+
+## Knack
+A special ability selected from a list of such abilities available to certain [classes](classes/Classes.md).
 
 ## Level
 A measure of a character's training and experience.
@@ -59,11 +71,17 @@ Allows a creature to see in dim lighting conditions as if it were bright light, 
 ## Mental Check
 An [Ability Check](#Ability%20Check) involving either **Intelligence**, **Wisdom** or **Charisma**.
 
+## Morale
+- [ ] Description of morale.
+
 ## Perception Check
 A type of [Skilled check](#Skilled%20Check) involving one of the actor's senses (typically sight or hearing) based on **Wisdom**.
 
 ## Physical Check
 An [Ability Check](#Ability%20Check) involving either **Strength**, **Dexterity** or **Constitution**.
+
+## Saving Throw Bonus
+A bonus added to your roll when making the named type of [saving throw](CoreRules.md#saving%20throws).
 
 ## Secret Door
 A type of [Hidden Door](#Hidden%20Door) that is disguised to be part of the environment.
@@ -73,3 +91,6 @@ A numerical bonus that is added to the D20 roll when performing a [Skilled Check
 
 ## Skilled Check
 An [Ability Check](#Ability%20Check) to which the character's [Skill Bonus](#Skill%20Bonus) may be added.
+
+## Trait
+A specially ability available to all [classes](classes/Classes.md) at certain level ups.

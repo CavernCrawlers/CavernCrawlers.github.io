@@ -2,7 +2,7 @@
 cssclass: clean-embeds
 ---
 # The Novice Paladin
-## (Fighter-Spellcaster)
+## ([Fighter-Spellcaster](classes/Fighter-Spellcaster.md))
 An order of devout knights has accepted you into its ranks, and you have sworn to protect the weak and oppose darkness.  Your gods bless your blade and gives you great prowess in battle. While you have been vested by this order, you are still a novice, and now must prove yourself to them. You gain access to the [Squire](Background.md#squire) background.
 
 ## Childhood
@@ -19,7 +19,7 @@ You are brave and pious. Your Strength and Wisdom begin at 10, and all of your o
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You began the path to becoming a holy knight.  You become a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md).  You gain the class abilities *Magical Focus*, *Spellcasting*, *Sense Magic*, the cantrip [Inspire](magic/TierZeroSpells.md#inspire) and the Humanoid [sigil](magic/Sigils.md). The tables below will give you all your [Knacks](classes/Fighter-Spellcaster.md#fighter-spellcaster%20knacks), [Traits](Traits.md), Cantrips and Sigils.
+You began the path to becoming a holy knight.  You become a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md).  You gain the class abilities *Magical Focus*, *Spellcasting*, *Sense Magic*, the cantrip [Inspire](magic/TierZeroSpells.md#inspire) and the Humanoid [sigil](magic/Sigils.md). The tables below will give you all your [Knacks](classes/Fighter-Spellcaster.md#fighter-spellcaster%20knacks), [Traits](Traits.md), Cantrips and [Sigils](magic/Sigils.md).
 
 ### What happened when you joined the order?  
 <table>
@@ -225,14 +225,14 @@ You began the path to becoming a holy knight.  You become a level 1 [Fighter-Spe
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Novice Paladin begins with the following equipment: your background trappings, a backpack, fine clothing, a tinderbox, tools for arms and armor maintenance, a light weapon, scale mail, either 2 weapons or a weapon and shield, your holy symbol (magical focus) and no money.
 7. Write down your starting [cantrips](magic/TierZeroSpells.md).
-8. Write down your starting [Sigils](magic/Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
+8. Write down your starting [Sigils](magic/Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different [sigils](magic/Sigils.md) of the same type.
 9. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
-10. Your Base Attack Bonus comes from your class. As a level 1 Fighter-Spellcaster, you have a BAB of +1.
-11. Your Skill bonus comes from your class.  As a level 1 Fighter-Spellcaster, you have a SB of +1.
-12. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a Fighter-Spellcaster.
+10. Your Base Attack Bonus comes from your class. As a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md), you have a BAB of +1.
+11. Your Skill bonus comes from your class.  As a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md), you have a SB of +1.
+12. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a [Fighter-Spellcaster](classes/Fighter-Spellcaster.md).
 13. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-14. As a Human Fighter-Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
+14. As a [Human](species/Human.md) [Fighter-Spellcaster](classes/Fighter-Spellcaster.md), your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
 15. Your starting Hit Points equal to 6 plus your Constitution Modifier.
-16. Fill in your [Saving Throws](classes/Fighter-Spellcaster.md#fighter-spellcaster%20saving%20throws) using the chart in the Fighter-Spellcaster document.
+16. Fill in your [Saving Throws](classes/Fighter-Spellcaster.md#fighter-spellcaster%20saving%20throws) using the chart in the [Fighter-Spellcaster](classes/Fighter-Spellcaster.md) document.
 17. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
 

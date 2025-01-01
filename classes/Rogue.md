@@ -13,17 +13,19 @@ cssclass: clean-embeds
 - [Rogue Knacks](#Rogue%20Knacks)
 	- [Sample Rogue Builds](#Sample%20Rogue%20Builds)
 
+---
 ## Statistics
 - **Starting HP**: 6 + CON Modifier
 - **Hit Dice**: 1d6 + CON Modifier per level
-- **Initiative Bonus**: +2
 - **Armor Training**: Light Armor and Bucklers
 - **Weapon Training**: Light and Medium weapons.
 
+---
 ## Equipment
-- a Rogue's Pack or Explorer's Pack
+- a [Rogue's Pack](EncumbranceAndEquipment#equipment%20packs) or [Explorer's Pack](EncumbranceAndEquipment#equipment%20packs)
 - 4d6sp
 
+---
 ## Class Abilities
 
 ### Fortune's Favor
@@ -35,14 +37,15 @@ cssclass: clean-embeds
 ### Sneak Attack
 ![](classes/ClassAbilities.md#sneak%20attack)
 
+---
 ## Rogue Table
-| Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Sneak<br/>Attack |
-|:-----:|:------------:|:----------------:|:---------------:|:------:|:------:|:----------|
-|  1    |  1d6         |  +1              |  +1             |  1     |  1     | +1d4 |
-|  2    |  2d6         |  +1              |  +2             | --     | +1     | +1d4 |
-|  3    |  3d6         |  +2              |  +2             | +1     | --     | +1d4 |
-|  4    |  4d6         |  +2              |  +3             | --     | --     | +2d4 |
-|  5    |  5d6         |  +3              |  +4             | +1     | --     | +2d4 |
+| Level | Hit<br/>Dice | Attack<br/>Bonus | Initiative<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Sneak<br/>Attack |
+|:-----:|:------------:|:----------------:|:--------------------:|:---------------:|:------:|:------:|:----------|
+|  1    |  1d6         |  +1              | +0                   |  +1             |  1     |  1     | +1d4 |
+|  2    |  2d6         |  +1              | +1                   |  +2             | --     | +1     | +1d4 |
+|  3    |  3d6         |  +2              | +1                   |  +2             | +1     | --     | +1d4 |
+|  4    |  4d6         |  +2              | +2                   |  +3             | --     | --     | +2d4 |
+|  5    |  5d6         |  +3              | +2                   |  +4             | +1     | --     | +2d4 |
 
 ### Rogue Saving Throws
 | Level | Evasion | Hardiness | Spirit |
@@ -53,13 +56,12 @@ cssclass: clean-embeds
 |   4   |    +3   |     +2    |   +3   |
 |   5   |    +4   |     +3    |   +3   |
 
+---
 ## Rogue Knacks
 
 Unless specified otherwise, each knack may only be taken once.
 
 **Assassin**: ![](classes/Knacks.md#assassin)
-
-**Clue Hound**: ![](classes/Knacks.md#clue%20hound)
 
 **Code-breaker**: ![](classes/Knacks.md#code-breaker)
 
@@ -95,7 +97,8 @@ Unless specified otherwise, each knack may only be taken once.
 
 **Watchful**: ![](classes/Knacks.md#watchful)
 
-### Sample Rogue Builds
+---
+## Sample Rogue Builds
 - **Assassin** 
 	- 1st Level: Poisoner, [Unassuming](Traits.md#unassuming)
 	- 2nd Level: [Actor](Traits.md#actor)

@@ -3,7 +3,7 @@ cssclasses:
   - clean-embeds
 ---
 # The {Lord's/Lady's} Secret
-## (Fighter-Spellcaster)
+## ([Fighter-Spellcaster](classes/Fighter-Spellcaster.md))
 {description}  
 You gain access to the [Courtier](Background.md#courtier) background.
 
@@ -244,12 +244,12 @@ You learned of your secret heritage and grew to be a daring warrior mystic. You 
 6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The {Lord's/Lady's} Secret begins with the following equipment: your background trappings, a backpack, noble clothing, a firestarting kit, tools for arms and armor maintenance, a light weapon, scale mail, a medium weapon, a spellbook and 2d6+12sp.  You also have any items gained from your Lifepath.
 7. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
 8. Write down your starting [cantrips](magic/TierZeroSpells.md).
-9. Write down your starting [Sigils](magic/Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
-10. Your Base Attack Bonus comes from your class. As a level 1 Fighter-Spellcaster, you have a BAB of +1.
-11. Your Skill bonus comes from your class.  As a level 1 Fighter-Spellcaster, you have a SB of +1.
-12. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a Fighter-Spellcaster.
+9. Write down your starting [Sigils](magic/Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different [sigils](magic/Sigils.md) of the same type.
+10. Your Base Attack Bonus comes from your class. As a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md), you have a BAB of +1.
+11. Your Skill bonus comes from your class.  As a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md), you have a SB of +1.
+12. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a [Fighter-Spellcaster](classes/Fighter-Spellcaster.md).
 13. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-14. As a Human Fighter-Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
+14. As a [Human](species/Human.md) [Fighter-Spellcaster](classes/Fighter-Spellcaster.md), your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
 15. Your starting Hit Points equal to 6 plus your Constitution Modifier.
-16. Fill in your [Saving Throws](classes/Fighter-Spellcaster.md#Fighter-Spellcaster%20saving%20throws) using the chart in the Fighter-Spellcaster document.
+16. Fill in your [Saving Throws](classes/Fighter-Spellcaster.md#Fighter-Spellcaster%20saving%20throws) using the chart in the [Fighter-Spellcaster](classes/Fighter-Spellcaster.md) document.
 17. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

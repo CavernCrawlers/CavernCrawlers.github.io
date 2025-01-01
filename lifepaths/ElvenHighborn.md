@@ -2,7 +2,7 @@
 cssclass: clean-embeds
 ---
 # The Elven Highborn
-## (Fighter-Spellcaster)
+## ([Fighter-Spellcaster](classes/Fighter-Spellcaster.md))
 Your people are scarce now, most having gone far away from the troubled lands of humans. Your family stayed, however, your mother acting as the leader of a small elven enclave which remained, secluded from humans. You have left that enclave now, and must find your way among strange people.  You gain access to the [Noble](Background.md#noble) background.
 
 ## Childhood
@@ -19,7 +19,7 @@ You are quick and intelligent. Your Dexterity and Intelligence begin at 10, and 
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-Your family trained you to be a great warrior, but also taught you the arcane arts.  You become a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Spellcasting*, *Sense Magic*, the cantrip [Glamour](magic/TierZeroSpells.md#glamour) and the Illusion [sigil](magic/Sigils.md). The tables below will give you all your [Knacks](classes/Fighter-Spellcaster.md#fighter-spellcaster%20knacks), [Traits](Traits.md), Cantrips and Sigils.
+Your family trained you to be a great warrior, but also taught you the arcane arts.  You become a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md).  You gain the class abilities *Exhausting Magic*, *Spellcasting*, *Sense Magic*, the cantrip [Glamour](magic/TierZeroSpells.md#glamour) and the Illusion [sigil](magic/Sigils.md). The tables below will give you all your [Knacks](classes/Fighter-Spellcaster.md#fighter-spellcaster%20knacks), [Traits](Traits.md), Cantrips and [Sigils](magic/Sigils.md).
 
 ### What have learned since your training?  
 | d6 | As a student, you had access to the ancient records of high elven magic. What did you study? | Ability        | Background | Cantrip      | Sigil  |

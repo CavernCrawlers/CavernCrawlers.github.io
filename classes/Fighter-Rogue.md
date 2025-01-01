@@ -13,19 +13,21 @@ cssclass: clean-embeds
 - [Fighter-Rogue Table](#Fighter-Rogue%20Table)
 	- [Fighter-Rogue Saving Throws](#Fighter-Rogue%20Saving%20Throws)
 - [Fighter-Rogue Knacks](#Fighter-Rogue%20Knacks)
-	- [Sample Fighter-Rogue Builds](#Sample%20Fighter-Rogue%20Builds)
+- [Sample Fighter-Rogue Builds](#Sample%20Fighter-Rogue%20Builds)
 
+---
 ## Statistics
 - **Starting HP**: 7 + CON Modifier
 - **Hit Dice**: 1d6 + 1 + CON Modifier per level
-- **Initiative Bonus**: +1
 - **Armor Training**: Light and Medium Armor, Buckler and Shield
 - **Weapon Training**: All
 
+---
 ## Equipment
-- a Rogue's Pack, a Warrior's Pack or an Explorer's Pack
+- a [Rogue's Pack](EncumbranceAndEquipment#equipment%20packs), a [Warrior's Pack](EncumbranceAndEquipment#equipment%20packs) or an [Explorer's Pack](EncumbranceAndEquipment#equipment%20packs)
 - 4d6sp
 
+---
 ## Class Abilities
 
 ### Fortune's Favor
@@ -43,14 +45,15 @@ Pick one of the following two abilities:
 #### Sneak Attack
 ![Sneak Attack](classes/ClassAbilities.md#sneak%20attack)
 
+---
 ## Fighter-Rogue Table    
-|   Level   |   Hit<br/>Dice   |   Attack<br/>Bonus   |   Skill<br/>Bonus   |   Knacks   |   Traits   |  Combat<br/>Mastery  |  Sneak<br/>Attack  |
-|:----------|:-----------------|:---------------------|:--------------------|:-----------|:-----------|:---------------------|:-------------------|
-|      1    |     1d6+1        |        +1            |        +1           |      1     |      1     |              15+     |          +1d3      |
-|      2    |     2d6+2        |        +1            |        +1           |     --     |     --     |              14+     |          +1d4      |
-|      3    |     3d6+3        |        +2            |        +2           |     --     |     --     |              13+     |          +1d4      |
-|      4    |     4d6+4        |        +2            |        +3           |     +1     |     --     |              13+     |          +1d4      |
-|      5    |     5d6+5        |        +3            |        +3           |     --     |     --     |              12+     |          +2d4      |  
+| Level | Hit<br/>Dice | Attack<br/>Bonus | Initiative<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Combat<br/>Mastery | Sneak<br/>Attack |
+|:-----:|:------------:|:----------------:|:--------------------:|:---------------:|:------:|:------:|:------------------:|:----------------:|
+|    1  |   1d6+1      |      +1          | +0                   |      +1         |    1   |    1   |             15+    |         +1d3     |
+|    2  |   2d6+2      |      +1          | +1                   |      +1         |   --   |   --   |             14+    |         +1d4     |
+|    3  |   3d6+3      |      +2          | +1                   |      +2         |   --   |   --   |             13+    |         +1d4     |
+|    4  |   4d6+4      |      +2          | +2                   |      +3         |   +1   |   --   |             13+    |         +1d4     |
+|    5  |   5d6+5      |      +3          | +2                   |      +3         |   --   |   --   |             12+    |         +2d4     |  
 
 ### Fighter-Rogue Saving Throws
 | Level | Evasion | Hardiness | Spirit |
@@ -61,6 +64,7 @@ Pick one of the following two abilities:
 |   4   |    +3   |     +3    |   +3   |
 |   5   |    +4   |     +4    |   +3   |
 
+---
 ## Fighter-Rogue Knacks
 
 Unless stated otherwise, each knack may only be taken once.
@@ -99,13 +103,14 @@ Unless stated otherwise, each knack may only be taken once.
 
 **Weapon Specialization**:  ![](classes/Knacks.md#weapon%20specialization)
 
-### Sample Fighter-Rogue Builds
+---
+## Sample Fighter-Rogue Builds
 - **Ranger** 
-	- Knack – Skirmisher or Archer
-	- Trait - [Survivalist](Traits.md#survivalist)
+    - 1st Level: Skirmisher or Archer, and [Survivalist](Traits.md#survivalist)
+	- 4th Level: Watchful
 - **Swashbuckler** 
-	- Knack – Weapon Specialization (rapier)
-	- Trait - [Duelist](Traits.md#duelist)
+    - 1st Level: Weapon Specialization (rapier), [Duelist](Traits.md#duelist)
+    - 4th Level: Skirmisher
 - **Thug** 
-	- Knack – Charger
-	- Trait - [Knife Fighting](Traits.md#knife%20fighting)
+    - 1st Level: Charger, [Knife Fighting](Traits.md#knife%20fighting)
+    - 4th Level: Cleave

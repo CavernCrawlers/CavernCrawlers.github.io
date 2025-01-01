@@ -33,7 +33,7 @@
 
 ## Abjuration
 - **Tier:** 1st (3+)
-- **Sigils** Spirit
+- **[Sigils](magic/Sigils.md):** Spirit
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -56,7 +56,7 @@ At Tier 4+ this spell can send corporeal creatures back to their home dimension.
 
 ## Alarm
 - **Tier:** 1st (3+)
-- **Sigils** Thought
+- **[Sigils](magic/Sigils.md):** Thought
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -77,7 +77,7 @@ The caster touches a portal or singular object to set a magical alarm on it.  Fo
 
 ## Alter Appearance
 - **Tier:** 1st (3+)
-- **Sigils** Illusion
+- **[Sigils](magic/Sigils.md):** Illusion
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Personal
@@ -99,7 +99,7 @@ With this spell, a spellcaster can change their appearance to that of another hu
 
 ## Arcane Arrow
 - **Tier:** 1st (3+)
-- **Sigils** any elemental
+- **[Sigils](magic/Sigils.md):** any elemental
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -122,7 +122,7 @@ Additional arrows may be conjured at a rate of +1 arrow per +1 Tier. Each arrow 
 
 ## Beauty's Bane
 - **Tier:** 1st (3+)
-- **Sigils** A form sigil matching the target creature type.
+- **[Sigils](magic/Sigils.md):** A form sigil matching the target creature type.
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 minute
 - **Range:** Near
@@ -144,7 +144,7 @@ This curse makes the target repulsive both physically and spiritually.  The affl
 
 ## Calm
 - **Tier:** 1st (3+)
-- **Sigils** A form sigil matching the target creature type.
+- **[Sigils](magic/Sigils.md):** A form sigil matching the target creature type.
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -166,7 +166,7 @@ This calms the targeted creature's emotions and will remove the [Frightened](Com
 
 ## Charm
 - **Tier:** 1st (3+)
-- **Sigils** A form sigil matching the target creature type.
+- **[Sigils](magic/Sigils.md):** A form sigil matching the target creature type.
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -195,7 +195,7 @@ As soon as the spell ends (or if the initial save was successful), the targeted 
 
 ## Detect Magic
 - **Tier:** 1 (3+)
-- **Sigils** Truth
+- **[Sigils](magic/Sigils.md):** Truth
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Personal
@@ -211,7 +211,7 @@ The spell's duration may be increased 1 step per +1 Tier.
 
 ## Enchant Weapon
 - **Tier:** 1st (3+)
-- **Sigils** Any elemental
+- **[Sigils](magic/Sigils.md):** Any elemental
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -232,7 +232,7 @@ By casting this spell and touching a weapon, that weapon becomes infused with th
 
 ## Faerie Fire
 - **Tier:** 1st (3+)
-- **Sigils** Light or Illusion
+- **[Sigils](magic/Sigils.md):** Light or Illusion
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -253,7 +253,7 @@ The target of this spell must make its save or become surrounded by a surreal, g
 
 ## Feather Step
 - **Tier:** 1st (3+)
-- **Sigils** Air
+- **[Sigils](magic/Sigils.md):** Air
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -274,7 +274,7 @@ The creature touched by the caster seems to float just a hair's width above what
 
 ## Frighten
 - **Tier:** 1st (3+)
-- **Sigils** A sigil matching the target creature type.
+- **[Sigils](magic/Sigils.md):** A sigil matching the target creature type.
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -295,7 +295,7 @@ This spell afflicts the targeted creature with the [Frightened](Combat.md#Fright
 
 ## Gather Mist/Shadows
 - **Tier:** 1st (3+)
-- **Sigils** Air, Illusion or Shadow
+- **[Sigils](magic/Sigils.md):** Air, Illusion or Shadow
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -316,7 +316,7 @@ This spell fills a 5 ft cube with impenetrable mist or shadows, blocking normal 
 
 ## Grasping Plants
 - **Tier:** 1st (3+)
-- **Sigils** Plant
+- **[Sigils](magic/Sigils.md):** Plant
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -339,7 +339,7 @@ This spell has no effect if the target area is barren of plant life.
 
 ## Gust
 - **Tier:** 1st (3+)
-- **Sigils** Air
+- **[Sigils](magic/Sigils.md):** Air
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Close
@@ -361,7 +361,7 @@ This spell summons a sudden burst of wind to force targets in the area of effect
 
 ## Heal Wounds
 - **Tier:** 1st (3+)
-- **Sigils** A form or elemental sigil matching the target creature type.
+- **[Sigils](magic/Sigils.md):** A form or elemental sigil matching the target creature type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -386,7 +386,7 @@ See the [Lingering Injury](Combat.md#lingering%20injuries) rules.
 
 ## Hypnotic Gaze
 - **Tier:** 1st (3+)
-- **Sigils** Illusion
+- **[Sigils](magic/Sigils.md):** Illusion
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Close
@@ -408,7 +408,7 @@ By speaking in a soothing voice and performing a complex pattern of weaving gest
 
 ## Leaping
 - **Tier:** 1st (3+)
-- **Sigils** A sigil matching the target creature type.
+- **[Sigils](magic/Sigils.md):** A sigil matching the target creature type.
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -429,7 +429,7 @@ This spell increases the target's [leaping](Combat.md#move%20actions) ability by
 
 ## Mage Lock
 - **Tier:** 1st (3+)
-- **Sigils** Earth, Ice, Order or Plant (depending on the "construction" of the lock)
+- **[Sigils](magic/Sigils.md):** Earth, Ice, Order or Plant (depending on the "construction" of the lock)
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -450,7 +450,7 @@ By use of this spell, a mage uses their power to seal a closable opening.  The o
 
 ## Magic Pouch
 - **Tier:** 1st (3+)
-- **Sigils** Void
+- **[Sigils](magic/Sigils.md):** Void
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -471,7 +471,7 @@ A single container you touch has its carrying capacity increased by +10 slots fo
 
 ## Messenger Bird
 - **Tier:** 1st (3+)
-- **Sigils** Beast
+- **[Sigils](magic/Sigils.md):** Beast
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 minute
 - **Range:** Personal
@@ -493,7 +493,7 @@ With multiple birds, each bird may be sent to a different recipient, but the mes
 
 ## Purify Food and Drink
 - **Tier:** 1st (3+)
-- **Sigils** Beast, Plant or Water (depending on food/drink type)
+- **[Sigils](magic/Sigils.md):** Beast, Plant or Water (depending on food/drink type)
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 minute
 - **Range:** Near
@@ -506,7 +506,7 @@ This purification ritual causes all food and drink within the affected area to b
 
 ## Read Language
 - **Tier:** 1st (3+)
-- **Sigils** Truth
+- **[Sigils](magic/Sigils.md):** Truth
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Personal
@@ -522,7 +522,7 @@ For each +1 Tier, increase the duration [1 step](Spells.md#duration).
 
 ## Reflection
 - **Tier:** 1st (3+)
-- **Sigils** Illusion
+- **[Sigils](magic/Sigils.md):** Illusion
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Close
@@ -535,7 +535,7 @@ This spell conjures a one-way reflective surface in front of the caster.  Anyone
 
 ## Resist Element
 - **Tier:** 1st (3+)
-- **Sigils** Elemental sigil(s) matching the element(s) to be resisted or the opposing elemental sigil
+- **[Sigils](magic/Sigils.md):** Elemental sigil(s) matching the element(s) to be resisted or the opposing elemental sigil
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 reaction
 - **Range:** Touch
@@ -556,7 +556,7 @@ The target gains **resistance** to that type of damage for the spell's duration.
 
 ## Shield
 - **Tier:** 1st (3+)
-- **Sigils** Earth (stone), Ice, Shadow, Water, Beast (bone) or Plant (wood)
+- **[Sigils](magic/Sigils.md):** Earth (stone), Ice, Shadow, Water, Beast (bone) or Plant (wood)
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 reaction
 - **Range:** Personal
@@ -572,7 +572,7 @@ For each +1 Tier, increase the duration 1 [step](magic/Spells.md#duration).
 
 ## Sleep
 - **Tier:** 1st (3+)
-- **Sigils** A sigil matching the target creature type.
+- **[Sigils](magic/Sigils.md):** A sigil matching the target creature type.
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -593,7 +593,7 @@ This spell forces the touched creature into a magical slumber, rendering them [U
 
 ## Spider's Aspect
 - **Tier:** 1st (3+)
-- **Sigils** Beast
+- **[Sigils](magic/Sigils.md):** Beast
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -614,7 +614,7 @@ The touched creature gains the ability to cling to vertical and inverted surface
 
 ## Turn Undead
 - **Tier:** 1st (3+)
-- **Sigils** Light, Life or Death.
+- **[Sigils](magic/Sigils.md):** Light, Life or Death.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -630,7 +630,7 @@ For each +1 Tier, increase the duration [1 step](Spells.md#duration).
 
 ## Unseen Servant
 - **Tier:** 1st (3+)
-- **Sigils** Spirit
+- **[Sigils](magic/Sigils.md):** Spirit
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Near
@@ -651,7 +651,7 @@ The caster summons a minor spirit to help with mundane tasks.  The summoned spir
 
 ## Ventriloquism
 - **Tier:** 1st (3+)
-- **Sigils** Air or Illusion
+- **[Sigils](magic/Sigils.md):** Air or Illusion
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Near

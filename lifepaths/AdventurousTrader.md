@@ -2,7 +2,7 @@
 cssclass: clean-embeds
 ---
 # The Adventurous Trader
-## (Rogue)
+## ([Rogue](classes/Rogue.md))
 You always dreamed of taking to the road, selling your wares, and making your fortune. Recently, you actually managed to come into possession of some goods, a cart, and a trusty mule. With a helpful ally by your side, your plan is to take to the road, help the village, and become a wealthy merchant.  You gain access to the [Merchant](Background.md#merchant) background.
 
 ## Childhood
@@ -19,7 +19,7 @@ You are savvy and charming. Your Intelligence and Charisma begin at 10, and all 
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You learned the ways of the merchant. You become a level 1 [Rogue](classes/Rogue.md). You gain the class abilities _Fortune’s Favor_, _Rogue Skills,_ and _Sneak Attack_. The tables below will give you all your [Knacks](classes/Rogue.md#rogue%20knacks) and [Traits](Traits.md).
+You learned the ways of the merchant. You become a level 1 [Rogue](classes/Rogue.md). You gain the class abilities _Fortune’s Favor_, _[Rogue](classes/Rogue.md) Skills,_ and _Sneak Attack_. The tables below will give you all your [Knacks](classes/Rogue.md#rogue%20knacks) and [Traits](Traits.md).
 
 <table>
 	<tr>

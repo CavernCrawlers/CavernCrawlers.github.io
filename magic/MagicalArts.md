@@ -27,11 +27,11 @@
 	- [Random Elements](#Random%20Elements)
 
 ## Spellbooks
-Spellcasters record their spells and cantrips in "spellbooks".  These do not have to be literal books, but rather may be collections of scrolls, arcane formula carved into wood or most any other device the player and GM can agree on.  The primary limitation is that the spellbook be separate from the character (arcane tattoos are more of a magical item than a spellbook).  The language in which spells are written are typically a magical cipher learned from the caster's teacher and modified in their own way.  As such, deciphering someone else's spellbook can be a long and arduous process.
+Spellcasters record their [spells](magic/Spells.md) and cantrips in "spellbooks".  These do not have to be literal books, but rather may be collections of scrolls, arcane formula carved into wood or most any other device the player and GM can agree on.  The primary limitation is that the spellbook be separate from the character (arcane tattoos are more of a magical item than a spellbook).  The language in which [spells](magic/Spells.md) are written are typically a magical cipher learned from the caster's teacher and modified in their own way.  As such, deciphering someone else's spellbook can be a long and arduous process.
 
-A typical spellbook can hold up to 100 pages worth of spells.
-### Learning New Spells
-New spells take hours, days, weeks or sometimes months to properly learn.  While learning a new spell, the mage may take part in no other form of [downtime activity](Downtime.md); all their working hours being consumed with study and preparation.
+A typical spellbook can hold up to 100 pages worth of [spells](magic/Spells.md).
+### Learning New [Spells](magic/Spells.md)
+New [spells](magic/Spells.md) take hours, days, weeks or sometimes months to properly learn.  While learning a new spell, the mage may take part in no other form of [downtime activity](Downtime.md); all their working hours being consumed with study and preparation.
 
 When learning a new spell, it must be recorded in the mage’s spellbook.  Each cantrip takes up a ½ page, while each spell takes up a number of pages equal to its base **Rank**.  For each page a spell takes up, it also takes 10 hours and 100sp worth of study and materials to properly learn and record the spell (cantrips take 5 hours and 50sp).
 
@@ -40,27 +40,27 @@ Once the calculated learning time has passed, the mage makes an **Intelligence**
 Whenever a mage gains access to a new **Spell Rank**, they may pick any one spell that they are qualified to cast and learn it automatically (without going through the normal learning process).
 
 #### Learning From a Mentor
-Spellcasters may also learn spells from other casters (if they can find one willing to teach their jealously guarded secrets).  The teacher is assumed to be taking the [Help](Combat.md#Main%20Actions) action in regards to the student learning the spell.  This also halves the amount of time required to learn the spell (though the material cost remains the same).
+Spellcasters may also learn [spells](magic/Spells.md) from other casters (if they can find one willing to teach their jealously guarded secrets).  The teacher is assumed to be taking the [Help](Combat.md#Main%20Actions) action in regards to the student learning the spell.  This also halves the amount of time required to learn the spell (though the material cost remains the same).
 
 ### Replacing a Spellbook
-If a spellbook is lost or destroyed, it may be recreated using the spells that the spellcaster has already prepared.  Doing so requires a specially prepared spellbook (worth at least 100sp) and takes the same cost in time and materials as learning each spell anew.
+If a spellbook is lost or destroyed, it may be recreated using the [spells](magic/Spells.md) that the spellcaster has already prepared.  Doing so requires a specially prepared spellbook (worth at least 100sp) and takes the same cost in time and materials as learning each spell anew.
 
 ## Magical Focus
 A magical focus is a device that aids a spellcaster in channeling and controlling their magic.  This device must be easily seen, recognized and hand-held.  It also takes up 1 inventory slot.
 
-A spellcaster may inscribe a number of known [sigils](magic/Sigils.md) into their Focus.  This allows the inscribed sigils to count as being on-hand so long as the caster has their Focus in-hand.  Additionally, and spells utilizing that sigil may be cast using d8s for the Invocation Dice instead of d6s.
+A spellcaster may inscribe a number of known [sigils](magic/Sigils.md) into their Focus.  This allows the inscribed [sigils](magic/Sigils.md) to count as being on-hand so long as the caster has their Focus in-hand.  Additionally, and [spells](magic/Spells.md) utilizing that sigil may be cast using d8s for the Invocation Dice instead of d6s.
 
 ### Replacing a Focus
 A focus may be replaced by constructing a new one which takes 1 week in a safe haven and 100sp worth of materials.
 
-### Inscribing Sigils
+### Inscribing [Sigils](magic/Sigils.md)
 It takes one day plus 50sp, to inscribe a sigil into a Magical Focus.
 
 ## Preparing Spells
-A spellcaster may only cast spells they have prepared.  Cantrips are always prepared, so they can always be cast.  Spells of Rank 1 or higher take time to prepare.  A spellcasters may only prepare as many spells as shown on their class table plus their Intelligence Modifier. Preparing a spell takes 10 minutes times the spell's tier.  Once a spell is prepared, it remains prepared until the caster chooses to replace it with a different spell or some event causes the mage to temporarily lose the spell.
+A spellcaster may only cast [spells](magic/Spells.md) they have prepared.  Cantrips are always prepared, so they can always be cast.  [Spells](magic/Spells.md) of Rank 1 or higher take time to prepare.  A spellcasters may only prepare as many [spells](magic/Spells.md) as shown on their class table plus their Intelligence Modifier. Preparing a spell takes 10 minutes times the spell's tier.  Once a spell is prepared, it remains prepared until the caster chooses to replace it with a different spell or some event causes the mage to temporarily lose the spell.
 
-### Casting Unprepared Spells
-A spellcaster, so long as they have access to their spellbook, may cast unprepared spells using said spellbook.  Doing so increases the casting time of the spell [1 step](RulesSynopsis.md#time%20steps), to a minimum of 10 minutes.
+### Casting Unprepared [Spells](magic/Spells.md)
+A spellcaster, so long as they have access to their spellbook, may cast unprepared [spells](magic/Spells.md) using said spellbook.  Doing so increases the casting time of the spell [1 step](RulesSynopsis.md#time%20steps), to a minimum of 10 minutes.
 
 *For example, a character wishing to cast [Augury](magic/TierTwoSpells.md#augury) as an unprepared spell must have their spellbook on hand.  Since the base casting time is 10 minutes, it will now take 1 hour to cast the spell in this manner.*
 
@@ -76,7 +76,7 @@ A spellcaster, so long as they have access to their spellbook, may cast unprepar
 - Some expended **invocation dice** may be recovered after a **rest**.
 
 ### The Invocation Dice Pool
-A spellcaster gets a pool of six-sided dice with which to cast their spells.  The total number of dice in the pool is based on the character’s **Class** and **Level** plus additional dice equal to their **Wisdom Modifier**.
+A spellcaster gets a pool of six-sided dice with which to cast their [spells](magic/Spells.md).  The total number of dice in the pool is based on the character’s **Class** and **Level** plus additional dice equal to their **Wisdom Modifier**.
 
 *Example: A 5th level Spellcaster with a 16 Wisdom (+2 modifier) has a pool of 7d6 **Invocation Dice**.*
 
@@ -86,7 +86,7 @@ When casting a spell, the caster may choose to roll any number of **invocation d
 If a spellcaster finds themselves in need of a quick boost of magical energy, they may add their **Skill bonus** to their **Invocation Roll** by gaining 1 level of [Exhaustion](Combat.md#Exhaustion).  This may be done as a [Free Action](Combat.md#free%20actions).
 
 #### Magical Focus
-While a spellcaster has their magical focus is in hand, and if that focus has the proper sigils carved into it, the spellcaster may roll d8s instead of d6s for their invocation dice.
+While a spellcaster has their magical focus is in hand, and if that focus has the proper [sigils](magic/Sigils.md) carved into it, the spellcaster may roll d8s instead of d6s for their invocation dice.
 
 *Example: A 5th level Spellcaster wishes to cast the Fireball spell (Tier 3), so the difficulty is 9+.  Normally, they would roll up to 5d6 to cast the spell (probably using 3 to be on the safe side).  However, if they have the Fire sigil carved into their magical focus, they would roll d8s and thus would be reasonably safe rolling only 2 dice to cast the spell (thus reducing the chance of a [Mishap](#mishaps)).*
 
@@ -105,7 +105,7 @@ A spell’s **difficulty** is equal to 3 times the rank at which it is cast.  **
 
 *Example: A character casting Magic Missile at **rank** 3 must beat a spell difficulty of 9 (3x3).*
 
-If a spell’s **difficulty** is not met, the spell is not cast.  However, the mage may choose to continue casting the spell.  This requires that the mage reserve the dice already used in casting the spell and [Concentrate](Combat.md#Concentrating) long enough to satisfy the spell’s **casting time** again.  Once this time increment has passed, the mage may choose to roll additional **invocation dice** and add their total to the **spellcasting roll**.  In this way, more difficult spells can be cast over multiple “rounds”.
+If a spell’s **difficulty** is not met, the spell is not cast.  However, the mage may choose to continue casting the spell.  This requires that the mage reserve the dice already used in casting the spell and [Concentrate](Combat.md#Concentrating) long enough to satisfy the spell’s **casting time** again.  Once this time increment has passed, the mage may choose to roll additional **invocation dice** and add their total to the **spellcasting roll**.  In this way, more difficult [spells](magic/Spells.md) can be cast over multiple “rounds”.
 
 *Example: The above 5th level Spellcaster with a 16 Wisdom is attempting to cast a Fireball at **rank** 3 (difficulty 9).  They choose to be conservative and roll only 3 dice, rolling a ‘1’, '3' and ‘4’, for a total of 8.  As the total is less than the **difficulty**, the spell is not cast.  The character chooses to continue the casting. This means they are now **concentrating** and they set aside the 3 dice already rolled, leaving 4 left unallocated in their **invocation pool**.  On their next round (since Fireball has a **casting time** of 1 **action**), they choose to roll one more die, getting another ‘1’.  This brings their total to 9, successfully casting the spell.  The two ‘1’s are now **expended**, and the other three committed dice are now released.  This leaves the caster with 5 dice in their **invocation pool**.  Note that no [Mishap](#Mishaps) roll is made because the two '1's occurred on two separate rolls.*
 
@@ -138,12 +138,12 @@ If the check is failed, the observing mage gains no information.
 Characters without the [Sense Magic](classes/ClassAbilities.md#sense%20magic) ability may not attempt this check at all.
 
 ## Concentration
-Several spells require **concentration** to maintain their effects after casting.  A caster may normally only concentrate on one thing at a time.  New actions requiring concentration supersede anything the caster is already concentrating on.  If a concentrating caster takes damage, they must pass a **Concentration Check** (a type of **Spirit saving throw**) vs difficulty 10 or ½ the damage done (whichever is higher).  Other things may also require a concentration check, such as being thrown into a river, suddenly startled, being grappled and so on.  The GM will set the difficulty of the check accordingly.  Additionally, spells that take more than 1 action to cast require concentration while they are being cast.  Losing concentration causes the magical art to fail (though the declared number of invocation dice must still be rolled to see if a mishap occurs and how many are expended).
+Several [spells](magic/Spells.md) require **concentration** to maintain their effects after casting.  A caster may normally only concentrate on one thing at a time.  New actions requiring concentration supersede anything the caster is already concentrating on.  If a concentrating caster takes damage, they must pass a **Concentration Check** (a type of **Spirit saving throw**) vs difficulty 10 or ½ the damage done (whichever is higher).  Other things may also require a concentration check, such as being thrown into a river, suddenly startled, being grappled and so on.  The GM will set the difficulty of the check accordingly.  Additionally, [spells](magic/Spells.md) that take more than 1 action to cast require concentration while they are being cast.  Losing concentration causes the magical art to fail (though the declared number of invocation dice must still be rolled to see if a mishap occurs and how many are expended).
 
 ## Mishaps
 If two of the dice rolled at the same time come up as ‘1’s, this will result in a [Minor Magical Mishap](#Minor%20Magical%20Mishap), even if the spell casting is successful.  If three of the dice are ‘1’s, then the caster suffers a [Major Magical Mishap](#Major%20Magical%20Mishap).  If four or more dice are ‘1’s, then the caster suffers the effects of both a **minor** and a **major** spell mishap.
 
-Note that some tables may wish to assume that spells cast when there is no time pressure (thus the caster can take as long as they want) are assumed to be rolled a single die at a time.  As a result, no mishap can occur, though dice can still be expended as normal.
+Note that some tables may wish to assume that [spells](magic/Spells.md) cast when there is no time pressure (thus the caster can take as long as they want) are assumed to be rolled a single die at a time.  As a result, no mishap can occur, though dice can still be expended as normal.
 
 ### Minor Magical Mishap
 | d30   | Mishap                                                                                                                                                                                                                                                                                                |

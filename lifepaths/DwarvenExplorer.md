@@ -2,7 +2,7 @@
 cssclass: clean-embeds
 ---
 # The Dwarven Explorer
-## (Fighter-Rogue)
+## ([Fighter-Rogue](classes/Fighter-Rogue.md))
 As a youth, you were told stories of the great dwarven holds of old.  Now, as a young adventurer, you wish to see them for yourself.  You have set out into the world with the goal of seeking out the ancient clanholds, liberating their treasures and perhaps even freeing them from whatever evils have befallen them.
 
 ## Childhood

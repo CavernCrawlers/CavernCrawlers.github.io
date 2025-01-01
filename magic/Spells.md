@@ -27,7 +27,7 @@ All spell descriptions contain the following information.
 ### Tier
 This is the spell's Tier, which determines who may learn the spell.
 
-### Sigils
+### [Sigils](magic/Sigils.md)
 Which [sigils](magic/Sigils.md) are required for the casting of the spell.
 
 ### Casting Ability

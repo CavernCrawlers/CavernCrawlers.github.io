@@ -2,7 +2,7 @@
 cssclass: clean-embeds
 ---
 # The Elven Mage
-## (Spellcaster)
+## ([Spellcaster](classes/Spellcaster.md))
 Tutored from a young age in your peoples’ magic, you can call forth many wonders.  You’ve watched the rise of the younger races and are filled with a mixture of hope and dread.  You’ve gone forth into their world hoping to tame some of their recklessness yet acquire some of their vigor.  You gain access to the [Wizard's Apprentice](Background.md#wizards%20apprentice) background.
 
 ## Childhood
@@ -19,7 +19,7 @@ You have a gift for sorcery and diplomacy. Your Intelligence and Charisma begins
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-The elven spell-weavers taught you the language of creation.  You become a level 1 [Spellcaster](classes/Spellcaster.md).  You gain the class abilities *Magical Focus*, *Spellcasting*, *Sense Magic*, the cantrip [Beguilement](magic/TierZeroSpells.md#beguilment) and the Humanoid [sigil](magic/Sigils.md). The tables below will give you all your [Traits](Traits.md), Cantrips, Spells and Sigils.
+The elven spell-weavers taught you the language of creation.  You become a level 1 [Spellcaster](classes/Spellcaster.md).  You gain the class abilities *Magical Focus*, *Spellcasting*, *Sense Magic*, the cantrip [Beguilement](magic/TierZeroSpells.md#beguilment) and the Humanoid [sigil](magic/Sigils.md). The tables below will give you all your [Traits](Traits.md), Cantrips, [Spells](magic/Spells.md) and [Sigils](magic/Sigils.md).
 
 ### What happened to you as you learned the ways of magic?
 | d6 | In addition to the ways of magic, what else did you study? | Ability | Background  |

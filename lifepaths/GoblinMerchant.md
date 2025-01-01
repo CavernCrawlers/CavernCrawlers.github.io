@@ -3,7 +3,7 @@ cssclasses:
   - clean-embeds
 ---
 # The Goblin Merchant
-## (Rogue-Spellcaster)
+## ([Rogue-Spellcaster](classes/Rogue-Spellcaster.md))
 You've always had a talent for making deals and getting the better end of them.  You decided to use this natural talent and became a wandering merchant.  You came to the village because you wanted to experience other cultures and species and profit off them all.  You gain access to the [Merchant](Background.md#merchant) background.
 
 ## Childhood
@@ -54,7 +54,7 @@ You've gathered a small load of goods and are ready to set up a stall in the vil
 	</tr>
 	<tr>
 		<td align="center">4</td>
-		<td>You were apprenticed to the best goblin smith in your clan.  Your skill with making deals was even better than your talent with hammer and tong.</td>
+		<td>You were apprenticed to the best [goblin](species/Goblin.md) smith in your clan.  Your skill with making deals was even better than your talent with hammer and tong.</td>
 		<td align="center">+3 DEX</td>
 		<td align="left">Smith</td>
 		<td align="left">Charming</td>
@@ -222,17 +222,17 @@ You've gathered a small load of goods and are ready to set up a stall in the vil
 1. Record your name, class and level.
 2. Record your species as [Goblin](species/Goblin.md) and whatever features you gain from it.
 3. Select a background from those made available from your Lifepath, above.
-4. As a Spellcaster, record your [True Name](RulesSynopsis.md#names).
+4. As a [Spellcaster](classes/Spellcaster.md), record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
-6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Goblin Merchant begins with the following equipment: your background trappings, a backpack, traveler's clothes, a spellbook, many pouches, a magical focus, a light weapon, an empty hand-cart and 4d6sp.  You also have any items gained from your Lifepath.
-7. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
+6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The [Goblin](species/Goblin.md) Merchant begins with the following equipment: your background trappings, a backpack, traveler's clothes, a spellbook, many pouches, a magical focus, a light weapon, an empty hand-cart and 4d6sp.  You also have any items gained from your Lifepath.
+7. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a [spellcaster](classes/Spellcaster.md).
 8. Write down your starting [cantrips](magic/TierZeroSpells.md).
-9. Write down your starting [Sigils](magic/Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
-10. Your Base Attack Bonus comes from your class. As a level 1 Rogue-Spellcaster, you have a BAB of +1.
-11. Your Skill bonus comes from your class.  As a level 1 Rogue-Spellcaster, you have a SB of +1.
-12. Your Initiative Bonus is equal your Dexterity bonus plus 1 for being a Rogue-Spellcaster.
+9. Write down your starting [Sigils](magic/Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different [sigils](magic/Sigils.md) of the same type.
+10. Your Base Attack Bonus comes from your class. As a level 1 [Rogue-Spellcaster](classes/Rogue-Spellcaster.md), you have a BAB of +1.
+11. Your Skill bonus comes from your class.  As a level 1 [Rogue-Spellcaster](classes/Rogue-Spellcaster.md), you have a SB of +1.
+12. Your Initiative Bonus is equal your Dexterity bonus plus 1 for being a [Rogue-Spellcaster](classes/Rogue-Spellcaster.md).
 13. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-14. As a Goblin Rogue-Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 1.
+14. As a [Goblin](species/Goblin.md) [Rogue-Spellcaster](classes/Rogue-Spellcaster.md), your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 1.
 15. Your starting Hit Points equal to 5 plus your Constitution Modifier.
-16. Fill in your [Saving Throws](classes/Rogue-Spellcaster.md#Rogue-Spellcaster%20saving%20throws) using the chart in the Rogue-Spellcaster document.
+16. Fill in your [Saving Throws](classes/Rogue-Spellcaster.md#Rogue-Spellcaster%20saving%20throws) using the chart in the [Rogue-Spellcaster](classes/Rogue-Spellcaster.md) document.
 17. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

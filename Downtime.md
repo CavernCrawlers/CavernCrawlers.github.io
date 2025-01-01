@@ -68,7 +68,7 @@ You spend your week consulting books and sages, the quality of which is dependen
 |:-----:|:--------|
 |    0- | **Cursed!** -- A scroll you came across was cursed. Make a **Spirit save** vs DT 13. On a success, you avoid the curse. On a failure you have a -2 on all **ability checks** for one random ability for the next 1d4(pool) weeks. |
 |  1-2  | **Haunted!** -- The tome you are studying is haunted. The ghost has now attached itself to you. It is invisible and inaudible to everyone but you. Until you find a way to banish it, it is annoying and distracting but not directly harmful. |
-|  3-4  | **Oops!** -- Roll for a [spell mishap](magic/MagicalArts.md#mishaps) even if you aren't a spellcaster. |
+|  3-4  | **Oops!** -- Roll for a [spell mishap](magic/MagicalArts.md#mishaps) even if you aren't a [spellcaster](classes/Spellcaster.md). |
 |  5-6  | **Loose Lips** -- You learn the [True Name](TrueNames.md) of one supernatural entity (demon, fae lord, demigod, dragon, etc), but accidently speak its name aloud in the process. It is likely now aware of you. |
 |  7-9  | **Heresy!** -- A member of the Great Church learns of your research and declares it blasphemous. You have **Disadvantage** on all social interaction rolls with members of the Great Church for the next 1d4(pool) weeks. |
 |   10  | **Secrets!** -- You learn the [True Name](TrueNames.md) of one supernatural entity (demon, fae lord, demigod, dragon, etc). |
@@ -76,8 +76,8 @@ You spend your week consulting books and sages, the quality of which is dependen
 | 13-14 | **Call to Adventure** -- You gain a lead on a dungeon, ruin, lair or other potential adventuring site. |
 |   15  | **Beyond Mortal Ken** -- You gain a lead on a possible portal to another dimension. |
 | 16-17 | **Knowledge** -- You learn something new and valuable. |
-| 18-19 | **Magical Refinement** -- You gain +2 to **Spell DT** of a single spell you already know until someone successfully saves against it. If you are not a spellcaster, treat this as result 16-17. |
-| 20-21 | **Mystical Lore** -- You come across a new spell you did not previously know. You may attempt to learn it as normal. If you are not a spellcaster, gain the [Touched by Magic](Traits.md#Touched%20by%20Magic) trait as a bonus trait. |
+| 18-19 | **Magical Refinement** -- You gain +2 to **Spell DT** of a single spell you already know until someone successfully saves against it. If you are not a [spellcaster](classes/Spellcaster.md), treat this as result 16-17. |
+| 20-21 | **Mystical Lore** -- You come across a new spell you did not previously know. You may attempt to learn it as normal. If you are not a [spellcaster](classes/Spellcaster.md), gain the [Touched by Magic](Traits.md#Touched%20by%20Magic) trait as a bonus trait. |
 | 22-23 | **Second Sight** -- Gain the [Second Sight](Traits.md#Second%20Sight) trait for 1d4(pool) weeks. If you already have this ability, gain **Advantage** on perception rolls when using this ability. |
 |  24+  | **Aura Reading** -- Gain the [Soul Gaze](Traits.md#Soul%20Gaze) trait for 1d4(pool) weeks. If you already have this trait, gain **Advantage** on perception rolls when using this trait. |
 
@@ -90,14 +90,14 @@ You spend the week in physical training, learning to sharpen your reflexes, impr
 |   1-  | **Training Injury** -- You suffer an accident. Roll 1d10+10 on the [Lingering Injuries](Combat.md#Lingering%20Injuries) table. |
 |  2-3  | **Worn Out** -- You overtrained and gain 1 level of [Exhaustion](Combat.md#Exhaustion) at the start of your next adventure. |
 |  4-5  | **Rivalry** -- Someone spotted you training and challenged you to a duel. |
-|  6-7  | **On One Condition** -- Your teacher only agrees to train you if you take on a mission for her. If you refuse, gain no benefits from this training roll. If you accept, learn a new [Combat Trait](Traits.md#Combat%20Traits) after you complete the quest (this does not count against the normal number of traits you gain by leveling). |
+|  6-7  | **On One Condition** -- Your teacher only agrees to train you if you take on a mission for her. If you refuse, gain no benefits from this training roll. If you accept, learn a new [Combat Trait](Traits.md#Combat%20Traits) after you complete the quest (this does not count against the normal number of [traits](Traits.md) you gain by leveling). |
 |  8-9  | **Clumsy** -- You accidentally injure your training partner. Make a **Charisma roll** on the [Reaction Check Result](CoreRules.md#Reaction%20Check%20result%20table) table. |
 | 19-12 | **Jealousy** -- One or more of your fellow students is jealous of your ability. Make a **Charisma check** vs DC 13. If you pass, they simply grumble behind your back. If you fail, they'll be coming to 'teach you a lesson' at some inconvenient time. |
 | 13-15 | **Showoff** -- You've impressed several onlookers with your skill and prowess. You have **Advantage** on social rolls in this town for the next 1d4(pool) weeks. |
 | 16-17 | **Training Buddies** -- You make friends with your training partners. You can hire up to three of them as mercenary hirelings for half price for the first month. |
 | 18-19 | **Patronage** -- You impress a rich potential patron. The next quest you undertake for pay will pay out double. |
 | 20-21 | **A Word to the Wise** -- Your teacher gives you expert advice. Gain +1 **Fortune Point**. |
-| 22-23 | **Breakthrough!** -- You learn a new [Trait](Traits.md). This does not count against the **Traits** you normally gain from leveling. |
+| 22-23 | **Breakthrough!** -- You learn a new [Trait](Traits.md). This does not count against the **[Traits](Traits.md)** you normally gain from leveling. |
 |  24+  | **Star Pupil** -- You impress your teacher so much that they gift you with a prized weapon or item. If you are level 3 or less, it is an Excellent [quality](EncumbranceAndEquipment.md#Quality) item. If you are levels 4-6, it is Superior quality. If you are level 7+ it is Master quality. |
 
 ## Worship
@@ -126,7 +126,7 @@ You spend the week at a holy site of your choice.  After making your tithe (see 
 <sub>* Failure to meet these obligations results in the character being subject to the penalties of failing to fulfill an oath sworn before someone with the [Oathkeeper](Traits.md#Oathkeeper) trait.</sub>
 
 ## Work
-Your character employs their **Background** skill or some other monetizable skill to earn money.  Make a **Skilled check** for the skill in question and consult the **Work Results** table.  Note that practicing certain professions without being a guild member or various illegal activities may result in legal troubles for the character.
+Your character employs their **[Background](Background.md)** skill or some other monetizable skill to earn money.  Make a **Skilled check** for the skill in question and consult the **Work Results** table.  Note that practicing certain professions without being a guild member or various illegal activities may result in legal troubles for the character.
 
 ### Work Results
 |  Roll | Outcome |

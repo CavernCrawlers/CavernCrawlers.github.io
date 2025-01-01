@@ -2,7 +2,7 @@
 cssclass: clean-embeds
 ---
 # The Dwarven Rune Caster
-## (Fighter-Spellcaster)
+## ([Fighter-Spellcaster](classes/Fighter-Spellcaster.md))
 Even more than others of your kin, you grew up valuing the past and keeping the stories and chants of your people. At a young age, you were apprenticed to the rune master and learned the secret magic of the dwarves.  You gain access to the [Wizard's Apprentice](Background.md#wizard’s%20apprentice) background.
 
 ## Childhood

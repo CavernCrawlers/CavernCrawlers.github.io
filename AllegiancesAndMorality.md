@@ -38,7 +38,7 @@ Once a character becomes a **Champion**, they gain the following features:
 Perhaps the greatest downside to joining a faction of The Conflict is the fact that it will forever control your destiny.  Never more will your character be able to settle down to enjoy the simple life.  Agents of enemy Pantheons will seek you out and your own patron will require your services.  Perhaps you will find brief periods of rest in an isolated village or in a rich aristocrat’s palace, but eventually the conflict will draw you back in.
 
 ### Empowered
-The character immediately gains an [Allegiance Trait](Traits.md#allegiance%20traits).  This is in addition to the normal traits gained for leveling up.
+The character immediately gains an [Allegiance Trait](Traits.md#allegiance%20traits).  This is in addition to the normal [traits](Traits.md) gained for leveling up.
 
 ### Cosmic Champion
 Those who choose to become a **Champion** in The Conflict are natural leaders for their faction.  As a result, they gain **Advantage** on any checks to lead, inspire or persuade other active participants of the same **Allegiance** who are of equal or lower rank in their faction.
@@ -51,7 +51,7 @@ It is possible, though rare and dangerous, that a **Champion** can change her **
 
 The effects of changing **Allegiance** are as follows:  
 - She immediately loses her previous **Allegiance** (naturally) and gains the new Allegiance.  
-- She keeps any [Traits](Traits.md) that were gained as part of her previous Allegiance; though the details of those traits may change (such as changing the target of the [Rebuke {Allegiance}](Traits.md#rebuke%20allegiance) trait.  
+- She keeps any [Traits](Traits.md) that were gained as part of her previous Allegiance; though the details of those [traits](Traits.md) may change (such as changing the target of the [Rebuke {Allegiance}](Traits.md#rebuke%20allegiance) trait.  
 - Finally, she will be subject to a curse enacted by her previous patron (they do not take disloyalty lightly).  The exact nature of this curse should be worked out between the player and GM and it should be both appropriate to the faction being left and impactful on the life and abilities of the character.
 
 ## Cosmic Powers

@@ -8,6 +8,7 @@ Humans are the most common species in all the world, and can be found in most an
 - **Speed:** 30 ft
 - **Tags:** Humanoid
 
+---
 ## Features
 #### Intrepid
-A Human’s Base and Max **Fortune Points** are each increased by 1.
+A Human’s Base and Max [Fortune Points](RulesSynopsis.md#fortune) are each increased by 1.

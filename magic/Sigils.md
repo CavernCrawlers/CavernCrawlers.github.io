@@ -152,6 +152,6 @@ This is not a comprehensive list of every sigil in existence.  These are some th
 </table>
 
 ## Learning New Sigils
-It is an exercise for the caster to locate new sigils.  This is a frequent motivation for spellcasters to adventure; locating new sigils in ancient texts, unexplored tombs and so forth.  Additionally, spellcasters may share their sigils, but (even more-so than spells), sigils are a jealously guarded secret.  No spellcaster will willingly share knowledge of a sigil without first extracting some price or service from the asker.
+It is an exercise for the caster to locate new sigils.  This is a frequent motivation for spellcasters to adventure; locating new sigils in ancient texts, unexplored tombs and so forth.  Additionally, spellcasters may share their sigils, but (even more-so than [spells](magic/Spells.md)), sigils are a jealously guarded secret.  No spellcaster will willingly share knowledge of a sigil without first extracting some price or service from the asker.
 
 Once a sigil has been discovered, it must be inscribed.  Typically this is on a specially prepared object; such as a stone, crystal, prepared wood blocks, or special parchment (the exact device is up to the caster).  Many casters carve their known sigils into their [Magical Focus](magic/MagicalArts.md#magical%20focus), so that their sigils are easily at hand when needed (this is one reason why experienced and knowledgeable mages prefer staffs; more room for sigils).  Inscribing a sigil requires 1 day and 50sp plus the cost of the object on which it is being inscribed.

@@ -31,7 +31,7 @@
 
 ## Alter Self
 - **Tier:** 2 (6+)
-- **Sigils** Humanoid
+- **[Sigils](magic/Sigils.md):** Humanoid
 - **Casting Ability:** Intelligence
 - **Casting Time:** 10 minutes
 - **Range:** Personal
@@ -52,7 +52,7 @@ The caster uses this spell to make a single physical change to their own body.  
 
 ## Armor of the Mage
 - **Tier:** 2 (6+)
-- **Sigils** Earth (stone), Ice, Shadow, Water, Beast (bone) or Plant (wood)
+- **[Sigils](magic/Sigils.md):** Earth (stone), Ice, Shadow, Water, Beast (bone) or Plant (wood)
 - **Casting Ability:** WIS
 - **Casting Time:** 1 min
 - **Range:** Personal
@@ -73,7 +73,7 @@ The caster conjures a suit of armor made from the substance matching the sigil u
 
 ## Augury
 - **Tier:** 2 (6+)
-- **Sigils** Time
+- **[Sigils](magic/Sigils.md):** Time
 - **Casting Ability:** Wisdom
 - **Casting Time:** 10 minutes
 - **Range:** Personal
@@ -86,7 +86,7 @@ This spell allows the caster to gain a vague glimpse into the immediate future, 
 
 ## Blessing
 - **Tier:** 2 (6+)
-- **Sigils** A form sigil matching the target creature's type.
+- **[Sigils](magic/Sigils.md):** A form sigil matching the target creature's type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 10 minutes
 - **Range:** Near
@@ -107,7 +107,7 @@ This spell grants the recipient mystical guidance and assurance.  The chosen cre
 
 ## Blight
 - **Tier:** 2 (6+)
-- **Sigils** A form sigil matching the target creature's type.
+- **[Sigils](magic/Sigils.md):** A form sigil matching the target creature's type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -129,7 +129,7 @@ For the duration of the spell, the target has Disadvantage on one specific type 
 
 ## Blind
 - **Tier:** 2 (6+)
-- **Sigils** Light, Shadow or Illusion
+- **[Sigils](magic/Sigils.md):** Light, Shadow or Illusion
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -150,7 +150,7 @@ You curse the target creature with [Blindness](Combat.md#Blinded).  A victim of 
 
 ## Catsight
 - **Tier:** 2 (6+)
-- **Sigils** Beast or Shadow
+- **[Sigils](magic/Sigils.md):** Beast or Shadow
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -171,7 +171,7 @@ For the duration of the spell, the touched creature's eyes become slitted like a
 
 ## Deafen
 - **Tier:** 2 (6+)
-- **Sigils** Air or Illusion
+- **[Sigils](magic/Sigils.md):** Air or Illusion
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -192,7 +192,7 @@ You curse the target creature with [Deafness](Combat.md#Deafened).  A victim of 
 
 ## Detect Invisible
 - **Tier:** 2 (6+)
-- **Sigils** Truth
+- **[Sigils](magic/Sigils.md):** Truth
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -213,7 +213,7 @@ For the duration of the spell, the caster can detect the presence and location o
 
 ## Detect Thoughts
 - **Tier:** 2 (6+)
-- **Sigils** Thought & a form sigil matching the target creature's type.
+- **[Sigils](magic/Sigils.md):** Thought & a form sigil matching the target creature's type.
 - **Casting Ability:** Intelligence
 - **Casting Time:** 10 minutes
 - **Range:** Personal
@@ -226,7 +226,7 @@ For the duration of this spell, the caster can touch a creature and attempt to r
 
 ## Enchantment of Enhancement
 - **Tier:** 2 (6+)
-- **Sigils** a Form rune matching the target creature's type
+- **[Sigils](magic/Sigils.md):** a Form rune matching the target creature's type
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 Minute
 - **Range:** Touch
@@ -247,7 +247,7 @@ With this spell, the caster imbues the touched target with magical vigor.  One a
 
 ## Growth
 - **Tier:** 2 (6+)
-- **Sigils** A form sigil matching the target creature's type.
+- **[Sigils](magic/Sigils.md):** A form sigil matching the target creature's type.
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -268,7 +268,7 @@ The touched creature grows 1 size category.  The damage of it's natural attacks 
 
 ## Heat Metal
 - **Tier:** 2 (6+)
-- **Sigils** Fire
+- **[Sigils](magic/Sigils.md):** Fire
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -290,7 +290,7 @@ This spell causes a single non-living metal object to glow red hot, potentially 
 
 ## Hypnotic Pattern
 - **Tier:** 2 (6+)
-- **Sigils** Illusion or Light
+- **[Sigils](magic/Sigils.md):** Illusion or Light
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Personal
@@ -303,7 +303,7 @@ The caster conjures an intricate pattern of dancing colors and lights in an area
 
 ## Invisibility
 - **Tier:** 2 (6+)
-- **Sigils** Illusion
+- **[Sigils](magic/Sigils.md):** Illusion
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -324,7 +324,7 @@ This spell renders the touched creature or object invisible for the spell's dura
 
 ## Knowing
 - **Tier:** 2 (6+)
-- **Sigils** Truth plus a form sigil matching the target's type (if the target is a creature).
+- **[Sigils](magic/Sigils.md):** Truth plus a form sigil matching the target's type (if the target is a creature).
 - **Casting Ability:** Wisdom
 - **Casting Time:** 10 minutes
 - **Range:** Near
@@ -337,7 +337,7 @@ This spell reveals the nature of the target to the caster.  If the target is a c
 
 ## Locate
 - **Tier:** 2 (6+)
-- **Sigils** Truth
+- **[Sigils](magic/Sigils.md):** Truth
 - **Casting Ability:** Intelligence
 - **Casting Time:** 10 minutes
 - **Range:** Near
@@ -358,7 +358,7 @@ This spell allows the caster to sense the direction, but not distance, of an obj
 
 ## Magic Mouth
 - **Tier:** 2 (6+)
-- **Sigils** Illusion
+- **[Sigils](magic/Sigils.md):** Illusion
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -374,7 +374,7 @@ For each +1 Tier, increase the number of times the mouth may be triggered by 1. 
 
 ## Mirror Image
 - **Tier:** 2 (6+)
-- **Sigils** Illusion
+- **[Sigils](magic/Sigils.md):** Illusion
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Personal
@@ -395,7 +395,7 @@ This spell creates 1d3+1 illusory images of the caster.  All the duplicate image
 
 ## Noxious Vapors
 - **Tier:** 2 (6+)
-- **Sigils** Air
+- **[Sigils](magic/Sigils.md):** Air
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -421,7 +421,7 @@ A strong wind will dissipate the cloud, rendering it harmless.
 
 ## Paralyze
 - **Tier:** 2 (6+)
-- **Sigils** A form sigil matching the target creature's type.
+- **[Sigils](magic/Sigils.md):** A form sigil matching the target creature's type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -442,7 +442,7 @@ The target of this spell must make a Hardiness saving throw or gain the [Paralyz
 
 ## Phantasm
 - **Tier:** 2 (6+)
-- **Sigils** Illusion
+- **[Sigils](magic/Sigils.md):** Illusion
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -463,7 +463,7 @@ This spell creates a convincing visual and audio illusion from the caster's imag
 
 ## Restoration
 - **Tier:** 2 (6+)
-- **Sigils** A form sigil matching the target creature type.
+- **[Sigils](magic/Sigils.md):** A form sigil matching the target creature type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -485,7 +485,7 @@ With a touch, you may relieve the target of any one of the following *temporary*
 
 ## Silence
 - **Tier:** 2 (6+)
-- **Sigils** Air
+- **[Sigils](magic/Sigils.md):** Air
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -506,7 +506,7 @@ No sound can enter, exit or pass through the targeted area for the duration of t
 
 ## Smite
 - **Tier:** 2 (6+)
-- **Sigils** any Elemental
+- **[Sigils](magic/Sigils.md):** any Elemental
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -528,7 +528,7 @@ Upon casting this spell, a single weapon of the caster's choice within range bec
 
 ## Spirit Weapon
 - **Tier:** 2 (6+)
-- **Sigils** Spirit
+- **[Sigils](magic/Sigils.md):** Spirit
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -549,7 +549,7 @@ The caster of this spell infuses a melee weapon in their possession with the pow
 
 ## Warp Wood
 - **Tier:** 2 (6+)
-- **Sigils** Plant
+- **[Sigils](magic/Sigils.md):** Plant
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -570,7 +570,7 @@ This spell causes up to 2 encumbrance of wood to warp, bend and twist.  Any weap
 
 ## Web
 - **Tier:** 2 (6+)
-- **Sigils** Beast
+- **[Sigils](magic/Sigils.md):** Beast
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -591,7 +591,7 @@ This spell conjures a gigantic web of thick, clinging strands of webbing as if w
 
 ## Withering Ray
 - **Tier:** 2 (6+)
-- **Sigils** a Form rune matching the creature type of the target
+- **[Sigils](magic/Sigils.md):** a Form rune matching the creature type of the target
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near

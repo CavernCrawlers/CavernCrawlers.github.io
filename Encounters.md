@@ -37,6 +37,6 @@ The GM will determine the actions of any NPCs.  Sometimes this will be obvious (
 
 ### Common Actions
 Almost anything is possible during an encounter but below are a few of the most likely possibilities.
-- **Combat:** If at least one side decides to attack, proceed with the [Combat](Combat.md) rules.
+- **[Combat](Combat.md):** If at least one side decides to attack, proceed with the [Combat](Combat.md) rules.
 - **Evasion:** If one party decides to flee and the other pursue, proceed to either the [Dungeon Evasion](Dungeoneering.md#evasion%20and%20pursuit) or [Wilderness Evasion](WildernessExploration.md#evasion%20and%20pursuit) rules as appropriate.
 - **Parley:** If both side decide to talk, role-play out the negotiations.

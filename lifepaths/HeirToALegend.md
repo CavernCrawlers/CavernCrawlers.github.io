@@ -2,7 +2,7 @@
 cssclass: clean-embeds
 ---
 # The Heir to a Legend
-## (Fighter-Rogue)
+## ([Fighter-Rogue](classes/Fighter-Rogue.md))
 Your father has always told you stories of how great a hero he was. Many of the other villagers scoff at his stories and pity you for being raised by such a liar, but you know that he is true and honest. Now you have his weapons and you will make a name for yourself to make him proud.  You gain access to the [Soldier](Background.md#soldier) background.
 
 ## Childhood
@@ -19,7 +19,7 @@ You are athletic and adventurous. Your Strength and Dexterity begin at 10, and a
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You came of age and began to seek your own legend. You become a level 1 Fighter-Rogue. You gain the class abilities _Fortune's Favor_ and _Rogue Skills_. The tables below will give you all your [Knacks](classes/Fighter-Rogue.md#fighter-rogue%20knacks) and [Traits](Traits.md).
+You came of age and began to seek your own legend. You become a level 1 [Fighter-Rogue](classes/Fighter-Rogue.md). You gain the class abilities _Fortune's Favor_ and _Rogue Skills_. The tables below will give you all your [Knacks](classes/Fighter-Rogue.md#fighter-rogue%20knacks) and [Traits](Traits.md).
 
 ### What else happened to you as you came of age?
 <table>
@@ -209,13 +209,13 @@ You came of age and began to seek your own legend. You become a level 1 Fighter-
 3. Record your species as [Human](species/Human.md) and whatever features you gain from it.
 4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. Jot down your class abilities, knack, trait and starting equipment (as well as any other pieces of gear you may want to buy).<br/>The Heir to a Legend begins with the following equipment: your background trappings, a backpack, common clothing, a tinderbox, tools for arms and armor maintenance, a light weapon, leather armor, either 2 weapons or a weapon and shield, a single platinum piece, 4d6 silver.  You also gain any items rolled during your Lifepath (above).
-6. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
-7. Your Base Attack Bonus comes from your class. As a level 1 Fighter-Rogue, you have a BAB of +1.
+6. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a [spellcaster](classes/Spellcaster.md).
+7. Your Base Attack Bonus comes from your class. As a level 1 [Fighter-Rogue](classes/Fighter-Rogue.md), you have a BAB of +1.
 8. Your Skill bonus comes from your class.  As a level 1 Figher-Rogue, you have a SB of +1.
-9. Your Initiative Bonus is equal your Dexterity bonus plus 1 for being a Fighter-Rogue.
+9. Your Initiative Bonus is equal your Dexterity bonus plus 1 for being a [Fighter-Rogue](classes/Fighter-Rogue.md).
 10. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-11. As a Human Fighter-Rogue, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 3.
+11. As a [Human](species/Human.md) [Fighter-Rogue](classes/Fighter-Rogue.md), your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 3.
 12. Your starting Hit Points equal to 7 plus your Constitution Modifier.
-13. Fill in your [Saving Throws](classes/Fighter-Rogue.md#fighter-rogue%20saving%20throws) using the chart in the Fighter-Rogue document.
+13. Fill in your [Saving Throws](classes/Fighter-Rogue.md#fighter-rogue%20saving%20throws) using the chart in the [Fighter-Rogue](classes/Fighter-Rogue.md) document.
 14. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
 

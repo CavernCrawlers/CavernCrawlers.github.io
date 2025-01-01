@@ -10,9 +10,10 @@ Hobs mature at the same rate as humans but live slightly longer, some reaching a
 - **Speed:** 30 ft
 - **Tags:** Humanoid
 
+---
 ## Features
 ### Hob Spirit
-Hobs raise the spirits of even the most downtrodden and are valued by all their companions. The Hob himself receives +2 to all **Saving Throws**. Furthermore, all allies receive +1 to their **Saving Throws** so long as they can see and hear him.
+Hobs raise the spirits of even the most downtrodden and are valued by all their companions. As a Hob, you receive a +2 to all **Saving Throws**. Furthermore, all allies receive +1 to their **Saving Throws** so long as they can see and hear you.
 ### Small Stature
 Being small hurts in a fight. You are a small creature and have **Disadvantage** wielding any weapon with the Heavy property, or when wielding a Versatile weapon one-handed.
 

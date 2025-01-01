@@ -2,7 +2,7 @@
 cssclass: clean-embeds
 ---
 # The Dwarven Adventurer
-## (Fighter)
+## ([Fighter](classes/Fighter.md))
 The lands of your own people in the hills and mountains are no longer a home for you. You have journeyed to the lands of humans to find your fortune and make your own way. Somehow, you have made strange friends in places where you expected to find only foes. And more importantly you found treasure.
 
 ## Childhood
@@ -28,7 +28,7 @@ You began to seek your fortune by strength of arms. You become a level 1 [Fighte
 |  2 | Great tales will be told of your battles.                                                                                                 |  +2 STR | Great Bravery | Minstrel/Performer |
 |  3 | To found a prosperous home in which to start a family.                                                                                    |  +2 WIS | Tenacity      | Miner              |
 |  4 | You hold in your memory the locations of the entrances to several lost elven tombs and you wish to see their famed glory.                 |  +2 INT | Learned       | Scholar/Sage       |
-|  5 | There are many forgotten dwarf holds in the mountains, riddled with traps and monsters. You wish to reclaim them for the dwarven peoples. |  +2 DEX | Alert         | Navigator/Scout    |
+|  5 | There are many forgotten [dwarf](species/Dwarf.md) holds in the mountains, riddled with traps and monsters. You wish to reclaim them for the dwarven peoples. |  +2 DEX | Alert         | Navigator/Scout    |
 |  6 | You plan to settle down after you have enough money for your own workshop.                                                                |  +2 CHA | Journeyman    | Artisan            |  
 
 <table>

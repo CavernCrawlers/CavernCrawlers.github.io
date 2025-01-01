@@ -2,7 +2,7 @@
 cssclass: clean-embeds
 ---
 # The Neophyte Druid
-## (Spellcaster)
+## ([Spellcaster](classes/Spellcaster.md))
 The wilderness is a wild, untamed place. Though you grew up in the marginally civilized confines of the village, you demonstrated a gift that set you apart from the other children. You were selected to be taught the Old Ways of Nature, a force that was ancient when the eldest gods were conceived.  You may choose the [Forester](Background.md#forester) background.
 
 ## Childhood
@@ -19,7 +19,7 @@ You are naturally philosophical and possess an animal cunning. Your Wisdom and I
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-In the middle of the night, a solemn procession of robed figures bearing firebrands strode to through the streets of the village toward your home. Their ancient authority was not to be argued with and they spirited you away into the wilderness. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Nature's Blessing](magic/TierZeroSpells.md#nature's%20blessing) cantrip and Plant [sigil](magic/Sigils.md). The tables below will tell you your other traits and spells.
+In the middle of the night, a solemn procession of robed figures bearing firebrands strode to through the streets of the village toward your home. Their ancient authority was not to be argued with and they spirited you away into the wilderness. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Nature's Blessing](magic/TierZeroSpells.md#nature's%20blessing) cantrip and Plant [sigil](magic/Sigils.md). The tables below will tell you your other [traits](Traits.md) and [spells](magic/Spells.md).
 
 ### What else happened to you as you began your life of service?
 
@@ -236,19 +236,19 @@ In the middle of the night, a solemn procession of robed figures bearing firebra
 1. Record your name, class and level.
 2. Pick your background form those that have become available during your Lifepath.
 3. Note your species as [Human](species/Human.md) and note your special abilities.
-4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
+4. As a [spellcaster](classes/Spellcaster.md), record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Neophyte Druid begins with the following equipment: your background trappings, a backpack, traveler's clothes, a heavy cloak, a bedroll, a mess kit, a tinderbox, 10 torches, 1 week’s rations, 50ft rope, a spellbook, one light weapon and 4d6sp.  You also have whatever items you rolled in your Lifepath.
-7. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
+7. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a [spellcaster](classes/Spellcaster.md).
 8. Write down your starting [cantrips](magic/TierZeroSpells.md).
 9. Write down your starting [spells](magic/TierOneSpells.md).
-10. Write down your starting [Sigils](magic/Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
-11. Your Base Attack Bonus comes from your class. As a level 1 Spellcaster, you have a BAB of +0.
-12. Your Skill bonus comes from your class.  As a level 1 Spellcaster, you have a SB of +1.
-13. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a Spellcaster.
+10. Write down your starting [Sigils](magic/Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different [sigils](magic/Sigils.md) of the same type.
+11. Your Base Attack Bonus comes from your class. As a level 1 [Spellcaster](classes/Spellcaster.md), you have a BAB of +0.
+12. Your Skill bonus comes from your class.  As a level 1 [Spellcaster](classes/Spellcaster.md), you have a SB of +1.
+13. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a [Spellcaster](classes/Spellcaster.md).
 14. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-15. Your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2 for being a Human Spellcaster.
+15. Your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2 for being a [Human](species/Human.md) [Spellcaster](classes/Spellcaster.md).
 16. Your starting Hit Points equal to 4 plus your Constitution Modifier.
-17. Fill in your [Saving Throws](classes/Spellcaster.md#spellcaster%20saving%20throws) using the chart in the Spellcaster document.
+17. Fill in your [Saving Throws](classes/Spellcaster.md#spellcaster%20saving%20throws) using the chart in the [Spellcaster](classes/Spellcaster.md) document.
 18. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.
 

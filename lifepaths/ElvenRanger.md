@@ -2,7 +2,7 @@
 cssclass: clean-embeds
 ---
 # The Elven Ranger
-## (Rogue-Spellcaster)
+## ([Rogue-Spellcaster](classes/Rogue-Spellcaster.md))
 You are a remnant of one of the hidden communities of wood elves. The forests are your home, and you wander freely within them, watching communities of humans, tracking destructive raiders, and protecting the wild places of the world. Now you live near a human town and have taken a liking to several of the locals.  You have access to the [Forester](Background.md#forester) background.
 
 ## Childhood
@@ -19,7 +19,7 @@ You are adept at remaining hidden and finding your way in the wilderness.  Your 
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You began to wander the wilderness.  You become a level 1 [Rogue-Spellcaster](classes/Rogue-Spellcaster.md).  You gain the class abilities *Magical Focus*, *Spellcasting*, *Sense Magic* and the *Skulker* knack. The tables below will give you all your [Traits](Traits.md), Cantrips, Spells and Sigils.
+You began to wander the wilderness.  You become a level 1 [Rogue-Spellcaster](classes/Rogue-Spellcaster.md).  You gain the class abilities *Magical Focus*, *Spellcasting*, *Sense Magic* and the *Skulker* knack. The tables below will give you all your [Traits](Traits.md), Cantrips, [Spells](magic/Spells.md) and [Sigils](magic/Sigils.md).
 
 ### What has happened to you since you became a wanderer?
 <table>

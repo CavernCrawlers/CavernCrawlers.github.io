@@ -40,12 +40,15 @@
 	- [Wizard’s Apprentice](#wizard's%20apprentice)
 	- [Woodcutter](#woodcutter)
 
+---
 ## Background Career
-Everyone did something before they became an adventurer. Roll (1d100) or select from the [Background Career Table](#background%20career%20table) to determine what it was your character did before being thrust into a life of adventure. This will determine some of your character's starting equipment.  Your character is automatically proficient with any weapon provided by their background occupation, but not the entire weapon group.
+Everyone did something before they became an adventurer. Roll (1d100) or select from the [Background Career Table](#background%20career%20table) to determine what it was your character did before being thrust into a life of adventure. This will determine some of your character's starting equipment.  Your character is automatically proficient with any weapon provided by their background occupation, but not the entire [weapon weight class](EncumbranceAndEquipment.md#weight).
 
+---
 ## Using Background Careers
-Your character is automatically consider proficient at the Apprentice (+0) level with any activities related to their background career.  This may be improved through the use of [Traits](Traits.md).
+Your character is automatically considered [skilled](RulesSynopsis.md#skilled%20check) with any activities related to their background career, the same as they are for their class.
 
+---
 ## Background Career Table  
 The column used for the roll should be chosen based on the culture in which your character was raised.
 
@@ -88,6 +91,7 @@ The column used for the roll should be chosen based on the culture in which your
 |  Wanderer                                |  97-99        |  97-99  |   96-98  |  96-99         |
 |  Wizard's Apprentice                     |  100          |  100    |  99-100  |  100           |  
 
+---
 ## Focused Backgrounds
 In some cases it is not appropriate to have access to the full list of backgrounds.  The following table gives some examples of more focused lists.
 
@@ -106,148 +110,220 @@ In some cases it is not appropriate to have access to the full list of backgroun
 | 11  | Sailor              | Squire              | Stonemason          | Fisher (sailor) | Sage               | Smith              | Fisher (sailor) |
 | 12  | Wizard’s Apprentice | Wizard’s Apprentice | Wizard’s Apprentice | Vagrant       | Smith              | Stonemason         | Wanderer       |
 
-
+---
 ## Background Career Descriptions
+
+<hr style="border:1px solid grey;"/>
 
 ### Acolyte
 Feeling the call of the gods, you sought to join the clergy.  Pick an appropriate religion (for examples, see the [Great Church](AllegiancesAndMorality.md#Empyreans) and the [Old Faith](AllegiancesAndMorality.md#Old%20Gods)).
 - **Trappings:** Quarterstaff, Holy Symbol, Prayer Book/Wheel, 2d6sp
 
+<hr style="border:1px solid grey;"/>
+
 ### Alchemist
-You brewed chemical concoctions for those who could afford them.
+You brewed chemical concoctions for those who could afford them. You are automatically literate without needing to spend a language pick.
 - **Trappings:** Quarterstaff, Alchemy Kit, 2d6sp
+
+<hr style="border:1px solid grey;"/>
 
 ### Animal Handler
 You know animals. In fact, you probably like them better than you like most people.
 - **Trappings:** Whip, Rope, Grooming Kit, a Mule/Donkey, 1d6sp
 
+<hr style="border:1px solid grey;"/>
+
 ### Apothecary
 You learned how to tend the sick, bind wounds, set bones and correct other ailments.
 - **Trappings:** Dagger, Healer's Kit, Soap, 2d6sp
+
+<hr style="border:1px solid grey;"/>
 
 ### Artisan
 You are a trained craftsperson; such as a leatherworker, cartwright, shipwright or similar.
 - **Trappings:** Dagger, Artisan's Tools for your profession, a letter of introduction from your former teacher, 2d6sp
 
+<hr style="border:1px solid grey;"/>
+
 ### Barrister
-You are versed in the law and how to represent both peasants and nobles before the courts.
+You are versed in the law and how to represent both peasants and nobles before the courts.  You are automatically literate without needing to spend a language pick.
 - **Trappings:** Dagger, Quill, Ink, Parchment (10 sheets), Book (laws), 2d6sp
+
+<hr style="border:1px solid grey;"/>
 
 ### Butcher
 You know how to safely butcher, store and prepare meat of various types.
 - **Trappings:** Cleaver, A bundle of 7 days' rations (mostly dried meats), 2d6sp
 
+<hr style="border:1px solid grey;"/>
+
 ### Clerk
 You know how to both read and write and how to draft contracts and other legal documents.  You gain literacy without having to spend a language choice on it.
 - **Trappings:** Dagger, Quill, Ink, Parchment (10 pages), 2d6sp
+
+<hr style="border:1px solid grey;"/>
 
 ### Courtier
 You were a court functionary, attendant or some other personage known to the nobility though you are not of noble birth.
 - **Trappings:** Dagger, Excellent Quality Clothing, 3d6sp
 
+<hr style="border:1px solid grey;"/>
+
 ### Criminal
 You're well acquainted with the seedy underbelly of society.
 - **Trappings:** Dagger, Crowbar or Disguise Kit, 2d6sp
+
+<hr style="border:1px solid grey;"/>
 
 ### Cult Initiate
 You were once initiated into a forbidden cult of worship (for examples see the [Chthonian](AllegiancesAndMorality.md#Chthonians), [Elemental](AllegiancesAndMorality.md#Elemental%20Monarchs), [Qliphotic](AllegiancesAndMorality.md#Qliphotic) or [Derlethian](AllegiancesAndMorality.md#Derlethians) cults).
 - **Trappings:** Athame (dagger), Book (cult lore), 2d6sp
 
+<hr style="border:1px solid grey;"/>
+
 ### Entertainer
 You sang, played an instrument, danced or performed in some other way for the entertainment of others.
 - **Trappings:** Dagger, Musical Instrument (or other performance tool), 2d6sp
+
+<hr style="border:1px solid grey;"/>
 
 ### Farmer
 You tended the land, understanding soil and seed.
 - **Trappings:** Pitchfork, a chicken (or other small farm animal), 2d6sp
 
+<hr style="border:1px solid grey;"/>
+
 ### Forester
 You roamed the forests, watching for poachers and outlaws.
 - **Trappings:** Shortbow, 3d4 Arrows, 3 days rations, 1d6sp
+
+<hr style="border:1px solid grey;"/>
 
 ### Fortune Teller
 Whether by astrology, palmistry, cards or some other means, you predicted peoples' futures.
 - **Trappings:** Dagger, a fortune-telling device (cards, carved stones, astrological charts, etc), 2d6sp
 
+<hr style="border:1px solid grey;"/>
+
 ### Gambler
 Games of chance are your bread and butter.
 - Starting Equipment: Dagger, a game of chance (cards, dice, etc), 3d6sp
+
+<hr style="border:1px solid grey;"/>
 
 ### Herbalist
 You know plants and their uses.
 - **Trappings:** Dagger, Herbs (healer's kit), 2d6sp
 
+<hr style="border:1px solid grey;"/>
+
 ### Hermit
 You lived far from others -- either in a sheltered community like a monastery or entirely alone.
 - **Trappings:** Quarterstaff, Prayer Book/Wheel, 2d6sp
+
+<hr style="border:1px solid grey;"/>
 
 ### Hunter
 You hunted animals for their meat and fur.
 - **Trappings:** Shortbow and 3d4 arrows or a Spear, Hunting Trap, 2d6sp
 
+<hr style="border:1px solid grey;"/>
+
 ### Jeweler
 You worked on fine gems and jewelry.
 - **Trappings:** Dagger, Jeweler's Tools, a small gem worth 2d6+10sp
+
+<hr style="border:1px solid grey;"/>
 
 ### Laborer
 You performed hard manual labor.
 - **Trappings:** A Shovel or similar tool, 2d6sp.
 
+<hr style="border:1px solid grey;"/>
+
 ### Merchant
 You traded goods with anyone with coin or barter.
 - **Trappings:** Dagger, 4d6sp
+
+<hr style="border:1px solid grey;"/>
 
 ### Miner
 You worked the mines, digging up precious stones and metals.
 - **Trappings:** Miner's Pick, Bundle of 3 Torches, 2d6sp.
 
+<hr style="border:1px solid grey;"/>
+
 ### Mountebank
 You made a living by tricking people into giving you money for false promises or counterfeit goods.
 - **Trappings:** Dagger, tools for the con of your choice (bottles of colored liquid, weighted dice, marked cards or the like), 2d6sp
+
+<hr style="border:1px solid grey;"/>
 
 ### Noble
 You were born into or somehow else became a member of the aristocracy.
 - **Trappings:** an [Excellent quality](EncumbranceAndEquipment.md#quality) weapon, Signet Ring, Superior Quality Clothes, 3d6sp
 
+<hr style="border:1px solid grey;"/>
+
 ### Politician
-You served a mayor's office, village council or similar group of leaders.
+You served a mayor's office, village council or similar group of leaders. You are automatically literate without needing to spend a language pick.
 - **Trappings:** Dagger, Quill, Ink, 10 sheets of parchment, 2d6sp
 
+<hr style="border:1px solid grey;"/>
+
 ### Sage
-You studied either in a formal university or apprenticed to a sage.
+You studied either in a formal university or apprenticed to a sage. You are automatically literate without needing to spend a language pick.
 - **Trappings:** Dagger, Quill, Ink, 10 sheets of parchment, Book of Lore (pick one subject), 1d6sp
+
+<hr style="border:1px solid grey;"/>
 
 ### Sailor
 You earned a living on the water (whether river, lake or sea).
 - **Trappings:** Belaying Pin (club), Rope (50 ft), 2d6sp
 
+<hr style="border:1px solid grey;"/>
+
 ### Scout
 You know the wilderness and how to lead others through it.
 - **Trappings:** 2 light weapons, Bundle of 7 days rations, 1d6sp
+
+<hr style="border:1px solid grey;"/>
 
 ### Smith
 You labored at the forge, shaping metal.
 - **Trappings:** Smith’s Hammer, Leather Apron, 2d6sp
 
+<hr style="border:1px solid grey;"/>
+
 ### Soldier
 You fought for a living, literally.
 - **Trappings:** A uniform, a light or medium weapon worth no more than 15sp, 2d6sp
+
+<hr style="border:1px solid grey;"/>
 
 ### Squire
 You were apprenticed to a knight.
 - **Trappings:** a light or medium melee weapon, Tabard, 10sp
 
+<hr style="border:1px solid grey;"/>
+
 ### Stonemason
 You shaped stone for roads and buildings.
 - **Trappings:** Sledge Hammer, Stonemason's Tools, 2d6sp
+
+<hr style="border:1px solid grey;"/>
 
 ### Wanderer
 You wandered place-to-place, doing odd jobs or begging.
 - **Trappings:** Club, Begging Bowl, 1d6sp, a contact in the local "beggar's guild".
 
+<hr style="border:1px solid grey;"/>
+
 ### Wizard's Apprentice
-You spent time learning the greater mysteries of magic.
+You spent time learning the greater mysteries of magic. You are automatically literate without needing to spend a language pick.
 - **Trappings:** Magical Focus, Book of Magical Lore, 2d6sp
+
+<hr style="border:1px solid grey;"/>
 
 ### Woodcutter
 You search the forests for quality trees for building or burning into charcoal.

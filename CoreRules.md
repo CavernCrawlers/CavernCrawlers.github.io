@@ -31,6 +31,8 @@ The earlier [Rules Synopsis](RulesSynopsis.md) provided a quick overview of the 
 	- [Swimming](#Swimming)
 		- [Drowning](#Drowning)
 	- [Random Encounters](#Random%20Encounters)
+	- Poison
+	- Disease
 
 ## The D20 Check
 The core mechanic of this system is the **D20 Check**.  There are three broad types of D20 check: the **Ability Check**, the **Skilled Check** and the **Attack Roll**.  An Ability Check is the roll of a 20-sided die, modified by the character's relevant **Ability Modifier** and then compared to a target difficulty.  Skilled Checks and Attack Rolls can be consider sub-types of the Ability Check, which add in a character's **Skill Modifier** or **Attack Bonus** (respectively).
@@ -42,7 +44,7 @@ Add D20 Check should only be called for when there is both doubt as to the actio
 Situational arithmetic modifiers should generally be applied to the target DT rather than the die roll itself.  Typically these will range from +5 (for an exceptionally difficult task) to -5 (for an exceptionally easy task) with +3 to -3 being much more common.
 
 ### Helping
-Two or more characters working together on a single task will often have greater chances of success than a single character acting alone.  In such a scenario, first determine which character will actually be rolling for the check; this is the "actor".  Anyone else involved is a "helper".  If the helper can relate the check to their **class** or **background**, the actor may add +2 to the **D20 check**.  If neither a helper's class or background apply, but one of their **passions** does, the helper may spend a **Fortune Point** to grant the actor a +2.  After the first helper, any subsequent helpers only add +1 to the check (with the same criteria) up to a maximum of doubling the actor's **Skill Bonus**.
+Two or more characters working together on a single task will often have greater chances of success than a single character acting alone.  In such a scenario, first determine which character will actually be rolling for the check; this is the "actor".  Anyone else involved is a "helper".  If the helper can relate the check to their **class** or **[background](Background.md)**, the actor may add +2 to the **D20 check**.  If neither a helper's class or [background](Background.md) apply, but one of their **passions** does, the helper may spend a **Fortune Point** to grant the actor a +2.  After the first helper, any subsequent helpers only add +1 to the check (with the same criteria) up to a maximum of doubling the actor's **Skill Bonus**.
 
 ### Flavor Bonus
 Providing a rich and exciting description of how your character accomplishes an action is worth a small  (+1 or +2) bonus on the D20 check.  Note, however, this should be a unique description; simply repeating the same description over and over is not worth a bonus.
@@ -69,16 +71,20 @@ Saving throws are a specialized type of **D20 Check**.  The saving throw modifie
 Unlike other D20 Checks, a **natural 1** always results in a failure on a Saving Throw and a **natural 20** is always a success.
 
 ### Named Checks
+#### Deception
+- [ ] Describe deception checks.
 #### Exhaustion
 This is a [Constitution](RulesSynopsis.md#ability%20check) check vs a given difficulty.  If the check is failed, the character gains a level of [Exhaustion](Combat.md#exhaustion).
 #### Perception
 This is a [Skilled](RulesSynopsis.md#Skilled%20Check) Wisdom check involving one of the actor's senses (typically sight or hearing) that all characters are considered to be skilled in.
+#### Persuasion
+- [ ] describe persuasion checks.
 #### Search
 This is a [Skilled](RulesSynopsis.md#Skilled%20Check) Intelligence check involving one of the actor's senses (typically sight or hearing) that all characters are considered to be skilled in.
 #### Stealth
 This is a [skilled](RulesSynopsis.md#Skilled%20Check) check in which the actor attempts to remain unnoticed.  Only **Rogues** and **Rogue-Hybrids** are considered skilled in this normally.  Frequently this is resolved as a contested check vs. any potential observers perception.
 #### Surprise
-This is a **Perception** check, often contested by the other side's **Dexterity/Stealth** check.  If no one is attempting to sneak up on the other, the **DT** for the check is normally 10.  Also see the [Surprise](Combat.md#suprise) rules in the Combat section.
+This is a **Perception** check, often contested by the other side's **Dexterity/Stealth** check.  If no one is attempting to sneak up on the other, the **DT** for the check is normally 10.  Also see the [Surprise](Combat.md#suprise) rules in the [Combat](Combat.md) section.
 
 ## Charisma and Reactions
 A **Reaction Check** is made upon the PCs meeting an NPC or group of NPCs for the first time and how they may react is uncertain.  Unlike other D20 Checks, this is not a simple pass/fail test.  Instead the D20 is rolled and the spokesperson's **Charisma Modifier** is added to the roll.  If the NPC group is inclined to be hostile, the roll is made with **Dissadvantage**.  If they are already inclined to be friendly, the roll is made with **Advantage**.  Most groups are neutral and this will simply be a standard roll.  Compare the total rolled to the table below.
@@ -155,4 +161,4 @@ As characters travel, there is a chance they will come across a random encounter
 
 Typically, this check is made once or twice per day in the wilderness, once per [Watch](RulesSynopsis.md#Time) in an urban environment and once every 3 to 6 [Exploration Turns](RulesSynopsis.md#Time) in a dungeon environment.
 
-Player-character activities, especially those generating loud noise (combat, arguments, etc), will potentially increase the frequency of this check.  Conversely, other activities (like moving with stealth), will reduce the frequency.
+Player-character activities, especially those generating loud noise ([combat](Combat.md), arguments, etc), will potentially increase the frequency of this check.  Conversely, other activities (like moving with stealth), will reduce the frequency.

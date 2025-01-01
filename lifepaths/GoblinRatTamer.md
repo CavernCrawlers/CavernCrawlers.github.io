@@ -3,7 +3,7 @@ cssclasses:
   - clean-embeds
 ---
 # Goblin Rat Tamer
-## (Fighter-Rogue)
+## ([Fighter-Rogue](classes/Fighter-Rogue.md))
 You raised and trained the giant rats your clan used the same way other cultures use hounds.  You gain access to the [Animal Handler](Background.md#animal%20handler) background.
 
 ## Childhood
@@ -209,15 +209,15 @@ You spent much time in the rat pens, which is fine.  You liked your rats more th
 1. Record your name, class and level.
 2. Record your species as [Goblin](species/Goblin.md) and whatever features you gain from it.
 3. Select a background from those made available from your Lifepath, above.
-4. As a Goblin, record your [True Name](RulesSynopsis.md#names).
+4. As a [Goblin](species/Goblin.md), record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>Goblin Rat Tamer begins with the following equipment: your background trappings, a backpack, goblin garb, a heavy cloak, a bedroll, a mess kit, a firestarting kit, 10 torches, 1 week’s rations, 50ft rope, leather armor, a whip, one medium weapon, 1 week's rat feed, and 2d6sp.  You also have any items gained from your Lifepath.
-7. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
-8. Your Base Attack Bonus comes from your class. As a level 1 Fighter-Rogue, you have a BAB of +1.
-9. Your Skill bonus comes from your class.  As a level 1 Fighter-Rogue, you have a SB of +1.
-10. Your Initiative Bonus is equal your Dexterity bonus plus 1 for being a Fighter-Rogue.
+7. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a [spellcaster](classes/Spellcaster.md).
+8. Your Base Attack Bonus comes from your class. As a level 1 [Fighter-Rogue](classes/Fighter-Rogue.md), you have a BAB of +1.
+9. Your Skill bonus comes from your class.  As a level 1 [Fighter-Rogue](classes/Fighter-Rogue.md), you have a SB of +1.
+10. Your Initiative Bonus is equal your Dexterity bonus plus 1 for being a [Fighter-Rogue](classes/Fighter-Rogue.md).
 11. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-12. As a Goblin Fighter-Rogue, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
+12. As a [Goblin](species/Goblin.md) [Fighter-Rogue](classes/Fighter-Rogue.md), your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
 13. Your starting Hit Points equal to 7 plus your Constitution Modifier.
-14. Fill in your [Saving Throws](classes/Fighter-Rogue.md#Fighter-Rogue%20saving%20throws) using the chart in the Fighter-Rogue document.
+14. Fill in your [Saving Throws](classes/Fighter-Rogue.md#Fighter-Rogue%20saving%20throws) using the chart in the [Fighter-Rogue](classes/Fighter-Rogue.md) document.
 15. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

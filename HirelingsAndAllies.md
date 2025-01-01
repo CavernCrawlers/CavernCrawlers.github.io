@@ -26,6 +26,9 @@ A **Hireling** who attains a **Loyalty** of Elite or higher is a potential candi
 | +8 to +9       | Fanatic    |
 | >= +10         | Unwavering |
 
+## Morale
+- [ ] Rules for moral checks or a reference to another part of the rules.
+
 ## Retaining Hirelings
 See the [Services](EncumbranceAndEquipment.md#services) table for information on typical **Hireling** costs.
 

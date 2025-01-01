@@ -3,7 +3,7 @@
 	- [Leveling Table](#leveling%20table)
 
 ## Experience and Levels
-All classes level up using the same experience table.  Note that level 0 is an optional level for those groups wishing to start their campaign with a character “funnel” or “gauntlet”.  If wanting to start at level 1 (or any higher level, for that matter), simply assume the requisite experience has already been acquired.  Thus, when starting at 1st level, all characters will start play with 0 xp; if starting at 3rd level, all characters would start at 4,000 xp.
+All [classes](classes/Classes.md) level up using the same experience table.  Note that level 0 is an optional level for those groups wishing to start their campaign with a character “funnel” or “gauntlet”.  If wanting to start at level 1 (or any higher level, for that matter), simply assume the requisite experience has already been acquired.  Thus, when starting at 1st level, all characters will start play with 0 xp; if starting at 3rd level, all characters would start at 4,000 xp.
 
 The primary means of gaining experience points is through the completion of **quests**.  Unlike many other OSR games, there is no XP award for individual monsters slain or treasure gathered.  Instead the player characters will choose or be assigned a quest with a clearly defined goal.  Once that goal has been achieved and the quest completed, the GM will award all participating PCs an amount of XP based on how difficult the quest was.
 

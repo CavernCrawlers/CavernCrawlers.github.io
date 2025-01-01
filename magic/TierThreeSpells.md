@@ -25,7 +25,7 @@
 
 ## Animate Dead
 - **Tier:** 3 (9+)
-- **Sigils** Death
+- **[Sigils](magic/Sigils.md):** Death
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 hour
 - **Range:** Close
@@ -46,7 +46,7 @@ You touch a humanoid corpse and it rises as a zombie or skeleton under your cont
 
 ## Arcane Eruption
 - **Tier:** 3 (9+)
-- **Sigils** any Elemental sigil
+- **[Sigils](magic/Sigils.md):** any Elemental sigil
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 Action
 - **Range:** Far
@@ -67,7 +67,7 @@ This spell causes an elemental eruption of a type matching the sigil used in cas
 
 ## Arcane Lance
 - **Tier:** 3 (9+)
-- **Sigils** any Elemental sigil
+- **[Sigils](magic/Sigils.md):** any Elemental sigil
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 Action
 - **Range:** Close
@@ -83,7 +83,7 @@ Each +1 Tier increases the damage 1 [die step](RulesSynopsis.md#Die%20Adjustment
 
 ## Arcane Wave
 - **Tier:** 3 (9+)
-- **Sigils** any Elemental sigil
+- **[Sigils](magic/Sigils.md):** any Elemental sigil
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 Action
 - **Range:** Close
@@ -99,7 +99,7 @@ Each +1 Tier increases the damage 1 [die step](RulesSynopsis.md#Die%20Adjustment
 
 ## Blacklight
 - **Tier:** 3 (9+)
-- **Sigils** Light & Shadow
+- **[Sigils](magic/Sigils.md):** Light & Shadow
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Personal
@@ -120,7 +120,7 @@ This spell creates a zone centered on the caster.  Creatures within the zone can
 
 ## Circle of Protection
 - **Tier:** 3 (9+)
-- **Sigils** any
+- **[Sigils](magic/Sigils.md):** any
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Personal
@@ -131,7 +131,7 @@ This spell creates a zone centered on the caster.  Creatures within the zone can
 
 The caster traces out a magical circle and imbues it with the power of a sigil.  This circle shields those inside from forces matching the sigil(s) used in the circle's creation.  
 
-If the sigil is Elemental, any attacks involving that element along with any creatures that have that elemental tag will be stopped at the edge of the circle unless they pass their saving throw.  The same holds true for Force sigils.
+If the sigil is Elemental, any attacks involving that element along with any creatures that have that elemental tag will be stopped at the edge of the circle unless they pass their saving throw.  The same holds true for Force [sigils](magic/Sigils.md).
 
 If the sigil is a Form sigil, any creature of that form cannot cross the edge of the circle, nor can they use supernatural attacks across the edge of the circle, unless they pass their saving throw.  Mundane attacks from such creatures are unaffected.
 
@@ -139,15 +139,15 @@ If the sigil is a Form sigil, any creature of that form cannot cross the edge of
 
 | Tier    | Casting Time | Area | Duration | Effect           |
 |:-------:|:------------:|:----:|:--------:|:-----------------|
-| 4 (12+) | 5 min        | L    | 1 Hr (c) | May use 2 sigils |
-| 5 (15+) | 10 min       | H    | 1 Wa (c) | May use 3 sigils |
-| 6 (18+) | 20 min       | G    | 1 Wa     | May use 4 sigils |
+| 4 (12+) | 5 min        | L    | 1 Hr (c) | May use 2 [sigils](magic/Sigils.md) |
+| 5 (15+) | 10 min       | H    | 1 Wa (c) | May use 3 [sigils](magic/Sigils.md) |
+| 6 (18+) | 20 min       | G    | 1 Wa     | May use 4 [sigils](magic/Sigils.md) |
 
 Casting time increases only apply when using the increased area of effect.
 
 ## Commanding Word
 - **Tier:** 3 (9+)
-- **Sigils** A form sigil matching the target creature's type.
+- **[Sigils](magic/Sigils.md):** A form sigil matching the target creature's type.
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -168,7 +168,7 @@ This spell allows the caster to issue a single-word command (such as "halt" or "
 
 ## Curse
 - **Tier:** 3 (9+)
-- **Sigils** A form sigil matching the target creature's type.
+- **[Sigils](magic/Sigils.md):** A form sigil matching the target creature's type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 10 minutes
 - **Range:** Near
@@ -197,7 +197,7 @@ When the curse is first cast, the caster must also define a specific condition u
 
 ## Dispel Magic
 - **Tier:** 3 (9+)
-- **Sigils** Void
+- **[Sigils](magic/Sigils.md):** Void
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 Action
 - **Range:** Near
@@ -218,7 +218,7 @@ The caster picks one target they can see within range and attempts to cancel one
 
 ## Fabricate
 - **Tier:** 3 (9+)
-- **Sigils** Elemental or Form sigil(s) matching the building material(s) being used
+- **[Sigils](magic/Sigils.md):** Elemental or Form sigil(s) matching the building material(s) being used
 - **Casting Ability:** Intelligence
 - **Casting Time:** 10 minutes
 - **Range:** Near
@@ -239,7 +239,7 @@ The caster turns a [Large](magic/Spells.md#area) pile of raw materials into a si
 
 ## Hallucinatory Terrain
 - **Tier:** 3 (9+)
-- **Sigils** Illusion plus Earth, Plant or both
+- **[Sigils](magic/Sigils.md):** Illusion plus Earth, Plant or both
 - **Casting Ability:** Intelligence
 - **Casting Time:** 10 minutes
 - **Range:** Far
@@ -262,7 +262,7 @@ At Tier 6, while the illusion is no longer dispelled by touch, touching the illu
 
 ## Haste
 - **Tier:** 3 (9+)
-- **Sigils** Time
+- **[Sigils](magic/Sigils.md):** Time
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -283,7 +283,7 @@ The touched creature now moves at double its normal speed, gains +6 initiative, 
 
 ## Lay to Rest
 - **Tier:** 3 (9+)
-- **Sigils** Death
+- **[Sigils](magic/Sigils.md):** Death
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 Action or 10 Minutes
 - **Range:** Close
@@ -308,7 +308,7 @@ The 1 Action attack version may be used to target any undead creature, causing i
 
 ## Levitate
 - **Tier:** 3 (9+)
-- **Sigils** Air
+- **[Sigils](magic/Sigils.md):** Air
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 Minute
 - **Range:** Personal
@@ -329,7 +329,7 @@ The caster may float vertically covering up to Near distance each round.  Horizo
 
 ## Melt into Mist
 - **Tier:** 3 (9+)
-- **Sigils** Air
+- **[Sigils](magic/Sigils.md):** Air
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Personal
@@ -345,7 +345,7 @@ For each +1 Tier, increase the duration by [1 step](Spells.md#duration).
 
 ## Nondetection
 - **Tier:** 3 (9+)
-- **Sigils** Illusion
+- **[Sigils](magic/Sigils.md):** Illusion
 - **Casting Ability:** Intelligence
 - **Casting Time:** 10 minutes
 - **Range:** Touch
@@ -368,7 +368,7 @@ Any attempts to use detection magic requires the detecting mage to pass a [perce
 
 ## Spectral Steed
 - **Tier:** 3 (9+)
-- **Sigils** Spirit or Air
+- **[Sigils](magic/Sigils.md):** Spirit or Air
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 Hour
 - **Range:** Close
@@ -389,7 +389,7 @@ By means of this ritual, the caster conjures a ghostly horse into being.  This h
 
 ## Plant Shape
 - **Tier:** 3 (9+)
-- **Sigils** Plant & a Form sigil matching the caster's own Form
+- **[Sigils](magic/Sigils.md):** Plant & a Form sigil matching the caster's own Form
 - **Casting Ability:** Wisdom
 - **Casting Time:** 10 min
 - **Range:** Personal
@@ -405,7 +405,7 @@ Each +1 Tier increases the duration [1 step](Spells.md#duration).
 
 ## Seeing Stone
 - **Tier:** 3 (9+)
-- **Sigils** Thought plus a form sigil matching the target creature's type.
+- **[Sigils](magic/Sigils.md):** Thought plus a form sigil matching the target creature's type.
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 hour
 - **Range:** Far
@@ -425,7 +425,7 @@ With this ritual, the caster enchants a precious stone (worth at least 500sp) to
 
 ## Sending
 - **Tier:** 3 (9+)
-- **Sigils** Thought and a Form sigil matching the target creature's type
+- **[Sigils](magic/Sigils.md):** Thought and a Form sigil matching the target creature's type
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 minute
 - **Range:** distant
@@ -441,7 +441,7 @@ For each +1 Tier, double the number of recipients of the message.  Each recipien
 
 ## Slow
 - **Tier:** 3 (9+)
-- **Sigils** Time
+- **[Sigils](magic/Sigils.md):** Time
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -462,7 +462,7 @@ The touched creature now moves at half its normal speed, loses -3 initiative, lo
 
 ## Speak with Dead
 - **Tier:** 3 (9+)
-- **Sigils** Death
+- **[Sigils](magic/Sigils.md):** Death
 - **Casting Ability:** Charisma
 - **Casting Time:** 10 minutes
 - **Range:** Touch
@@ -483,7 +483,7 @@ Upon touching the target corpse, the caster may ask it up to 3 questions within 
 
 ## Water Breathing
 - **Tier:** 3 (9+)
-- **Sigils** Water
+- **[Sigils](magic/Sigils.md):** Water
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 minute
 - **Range:** Touch

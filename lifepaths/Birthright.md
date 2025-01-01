@@ -1,7 +1,7 @@
 # Birthright
 The following tables describe the environment in which you were raised. Each grants a list of ability modifiers as well as a potential [Background Career](Background.md) for your character.  Other tables in your Lifepath may also grant Background Career options.  At the end of character creation, you will select just one of the backgrounds available to your character.
 
-Some backgrounds instruct you to roll on another table for a specific type of background (Poor, Wild, Trade, etc).  Those tables may be found in the [Focused Backgrounds](Background.md#focused%20background) section of the Background document.
+Some backgrounds instruct you to roll on another table for a specific type of [background](Background.md) (Poor, Wild, Trade, etc).  Those tables may be found in the [Focused Backgrounds](Background.md#focused%20background) section of the Background document.
 
 Items in curly braces '{}' are meant to be filled in/replaced by the player.
 

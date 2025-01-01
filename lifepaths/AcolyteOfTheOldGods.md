@@ -2,7 +2,7 @@
 cssclass: clean-embeds
 ---
 # The Acolyte of the Old Gods
-## (Spellcaster)
+## ([Spellcaster](classes/Spellcaster.md))
 While your childhood was that of an ordinary villager, something miraculous happened when you came of age. After a dramatic event, you felt the call of the old gods, and now worship them openly, as your ancestors did. One of these ancient deities shows you particular favor, and you now do their work amongst your people.  You gain access to the [Acolyte](Background.md#acolyte) background.
 
 ## Childhood
@@ -19,7 +19,7 @@ You are wise beyond your years. Your Wisdom begins at 12, and all of your other 
 Pick one of the campaign threats and roll on the related Character History Table.
 
 ## Apprenticeship
-You felt the gods’ power and it changed your life. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Inspire](magic/TierZeroSpells.md#inspire) cantrip and Humanoid [sigil](magic/Sigils.md). The tables below will tell you your other traits and spells.
+You felt the gods’ power and it changed your life. You become a level 1 [Spellcaster](classes/Spellcaster.md). You gain the class abilities _Magical Focus_, _Spellcasting_ and _Sense Magic_.  You also learn the [Inspire](magic/TierZeroSpells.md#inspire) cantrip and Humanoid [sigil](magic/Sigils.md). The tables below will tell you your other [traits](Traits.md) and [spells](magic/Spells.md).
 
 ### What else happened to you as you began your life of service?
 

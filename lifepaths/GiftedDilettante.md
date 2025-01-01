@@ -3,7 +3,7 @@ cssclasses:
   - clean-embeds
 ---
 # The Gifted Dilettante
-## (Rogue-Spellcaster)
+## ([Rogue-Spellcaster](classes/Rogue-Spellcaster.md))
 You are not the eldest in your family. You are not the greatest warrior of your many siblings, or a diligent student of the arcane arts. Rather, you have a broad range of abilities, a sharp mind, and a winning smile. You’ve also dabbled in some things you probably shouldn’t have. You know a bit of everything, and are rather bored with your situation. You gain access to the [Politician](Background.md#politician) background.
 
 ## Childhood
@@ -215,17 +215,17 @@ You learned a bit of everything. You become a level 1 [Rogue-Spellcaster](classe
 1. Record your name, class and level.
 2. Record your species as [Human](species/Human.md) and whatever features you gain from it.
 3. Select a background from those made available from your Lifepath, above.
-4. As a spellcaster, record your [True Name](RulesSynopsis.md#names).
+4. As a [spellcaster](classes/Spellcaster.md), record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Gifted Dilettante begins with the following equipment: your background trappings, a dagger, a light or medium weapon, leather armor, a very attractive cloak, pouches full of oddments, your spellbook, your magical focus and 2d6+12sp.  You also have any items gained from your Lifepath.
-7. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
+7. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a [spellcaster](classes/Spellcaster.md).
 8. Write down your starting [cantrips](magic/TierZeroSpells.md).
-9. Write down your starting [Sigils](magic/Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different sigils of the same type.
-10. Your Base Attack Bonus comes from your class. As a level 1 Rogue-Spellcaster, you have a BAB of +1.
-11. Your Skill bonus comes from your class.  As a level 1 Rogue-Spellcaster, you have a SB of +1.
-12. Your Initiative Bonus is equal your Dexterity bonus plus 1 for being a Rogue-Spellcaster.
+9. Write down your starting [Sigils](magic/Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different [sigils](magic/Sigils.md) of the same type.
+10. Your Base Attack Bonus comes from your class. As a level 1 [Rogue-Spellcaster](classes/Rogue-Spellcaster.md), you have a BAB of +1.
+11. Your Skill bonus comes from your class.  As a level 1 [Rogue-Spellcaster](classes/Rogue-Spellcaster.md), you have a SB of +1.
+12. Your Initiative Bonus is equal your Dexterity bonus plus 1 for being a [Rogue-Spellcaster](classes/Rogue-Spellcaster.md).
 13. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
-14. As a Human Rogue-Spellcaster, your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
+14. As a [Human](species/Human.md) [Rogue-Spellcaster](classes/Rogue-Spellcaster.md), your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2.
 15. Your starting Hit Points equal to 5 plus your Constitution Modifier.
-16. Fill in your [Saving Throws](classes/Rogue-Spellcaster.md#Rogue-Spellcaster%20saving%20throws) using the chart in the Rogue-Spellcaster document.
+16. Fill in your [Saving Throws](classes/Rogue-Spellcaster.md#Rogue-Spellcaster%20saving%20throws) using the chart in the [Rogue-Spellcaster](classes/Rogue-Spellcaster.md) document.
 17. Record the ‘to hit’ and ‘damage’ statistics for any [weapons](EncumbranceAndEquipment.md#weapons) you think you might use. Your to hit bonus for a normal melee weapon is your BAB plus your Strength bonus and for a normal missile weapon is your BAB plus your Dexterity bonus. For Finesse and Thrown weapons, you add your BAB and the higher of your Strength or Dexterity bonuses.

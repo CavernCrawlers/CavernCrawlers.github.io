@@ -11,20 +11,21 @@ cssclass: clean-embeds
 - [Fighter Table](#fighter%20table)
 	- [Fighter Saving Throws](#fighter%20saving%20throws)
 - [Fighter Knacks](#fighter%20knacks)
-	- [Sample Fighter Builds](#sample%20fighter%20builds)
+- [Sample Fighter Builds](#sample%20fighter%20builds)
 
-
+---
 ## Statistics
 - **Starting HP**: 8 + CON Modifier
 - **Hit Dice**: 1d6 + 2 + CON Modifier per level
-- **Initiative Bonus**: +1
 - **Armor Training**: All
 - **Weapon Training**: All
 
+---
 ## Equipment
-- a Warrior's Pack or an Explorer's Pack
+- a [Warrior's Pack](EncumbranceAndEquipment.md#equipment%20packs) or an [Explorer's Pack](EncumbranceAndEquipment.md#equipment%20packs)
 - 4d6sp
 
+---
 ## Class Abilities
 
 ### Combat Mastery
@@ -36,14 +37,15 @@ cssclass: clean-embeds
 ### Minimum Damage
 ![](classes/ClassAbilities.md#minimum%20damage)
 
+---
 ## Fighter Table    
-| Level | Hit<br/>Dice | Attack<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Combat<br/>Mastery |
-|:-----:|:------------:|:----------------:|:---------------:|:------:|:------:|:------------------:|
-|  1    |   1d6+2      |  +1              |  +1             |  1     |  1     |            14+     |
-|  2    |   2d6+4      |  +1              |  +2             | --     | +1     |            13+     |
-|  3    |   3d6+6      |  +2              |  +2             | +1     | --     |            13+     |
-|  4    |   4d6+8      |  +3              |  +3             | --     | --     |            12+     |
-|  5    |  5d6+10      |  +3              |  +4             | +1     | --     |            11+     |  
+| Level | Hit<br/>Dice | Attack<br/>Bonus | Initiative<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Combat<br/>Mastery |
+|:-----:|:------------:|:----------------:|:--------------------:|:---------------:|:------:|:------:|:------------------:|
+|  1    |   1d6+2      |  +1              | +0                   |  +1             |  1     |  1     |            14+     |
+|  2    |   2d6+4      |  +1              | +1                   |  +2             | --     | +1     |            13+     |
+|  3    |   3d6+6      |  +2              | +1                   |  +2             | +1     | --     |            13+     |
+|  4    |   4d6+8      |  +3              | +2                   |  +3             | --     | --     |            12+     |
+|  5    |  5d6+10      |  +3              | +2                   |  +4             | +1     | --     |            11+     |  
 
 ### Fighter Saving Throws
 | Level | Evasion | Hardiness | Spirit |
@@ -54,6 +56,7 @@ cssclass: clean-embeds
 |   4   |    +3   |    +3     |   +2   |
 |   5   |    +4   |    +4     |   +3   |
 
+---
 ## Fighter Knacks
 
 Unless stated otherwise, each knack may only be taken once.
@@ -90,7 +93,8 @@ Unless stated otherwise, each knack may only be taken once.
 
 **Weapon Specialization**:  ![](classes/Knacks.md#weapon%20specialization)
 
-### Sample Fighter Builds
+---
+## Sample Fighter Builds
 - **All-Rounder**
 	- 1st Level: Deadly Blow, [Superior Training](Traits.md#Superior%20Training) -> Armored
 	- 2nd Level: [Die Hard](Traits.md#Die%20Hard)

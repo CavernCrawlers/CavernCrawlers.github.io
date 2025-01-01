@@ -32,7 +32,7 @@ See also [Time](RulesSynopsis.md#Time) in the Rules Synopsis document.
 If the party is traveling in well-known lands along a known route, there is no chance of their getting lost barring supernatural effects.
 
 ## Getting Lost
-With a river, road or similar land-feature to follow, there is no chance of a party getting lost in the wilderness.  When travelling cross-country without such an aid, the GM should make a **Wisdom** check for the character best suited to wilderness exploration.  The character's **skill bonus** should be taken into account if they have an appropriate **background profession** (such as ranger/forester or hunter).  The **DT** of the check depends on the terrain being traveled:
+With a river, road or similar land-feature to follow, there is no chance of a party getting lost in the wilderness.  When travelling cross-country without such an aid, the GM should make a **Wisdom** check for the character best suited to wilderness exploration.  The character's **skill bonus** should be taken into account if they have an appropriate **[background](Background.md) profession** (such as ranger/forester or hunter).  The **DT** of the check depends on the terrain being traveled:
 - Clear with many landmarks: 9+
 - Obscured or few landmarks (hills, forest, etc): 12+
 - Heavily obscured or obscured with few landmarks (jungle, swamp, desert, ice fields): 15+
@@ -95,7 +95,7 @@ On open and flat terrain, the party can typically see for about 3 miles in any d
 - 6: stationary
 
 ## Evasion and Pursuit
-In dense terrain (jungle, swamp, etc) follow the [Evasion and Pursuit](Dungeoneering.md#evasin%20and%20pursuit) rules under Dungeoneering.
+In dense terrain (jungle, swamp, etc) follow the [Evasion and Pursuit](Dungeoneering.md#evasin%20and%20pursuit) rules under [Dungeoneering](Dungeoneering.md).
 
 In open terrain (such as plains, hills, sparse forest, etc) follow this procedure:
 - If one side has the advantage of [Surprise](Combat.md#suprise), it may automatically flee without the other side getting the chance to pursue (they may not event be aware of the fleeing side).

@@ -14,21 +14,23 @@ cssclass: clean-embeds
 - [Fighter-Spellcaster Table](#Fighter-Spellcaster%20Table)
 	- [Fighter-Spellcaster Saving Throws](#Fighter-Spellcaster%20Saving%20Throws)
 - [Fighter-Spellcaster Knacks](#Fighter-Spellcaster%20Knacks)
-	- [Sample Fighter-Spellcaster Builds](#Sample%20Fighter-Spellcaster%20Builds)
+- [Sample Fighter-Spellcaster Builds](#Sample%20Fighter-Spellcaster%20Builds)
 
+---
 ## Statistics
 - **Starting HP**: 6 + CON Modifier
 - **Hit Dice**: 1d6 + CON Modifier per level
-- **Initiative Bonus**: +0
 - **Armor Training**: Light and Medium Armor, Buckler and Shield
 - **Weapon Training**: Light and Medium weapons
 
+---
 ## Equipment
-- an Explorer's Pack
+- an [Explorer's Pack](EncumbranceAndEquipment.md#equipment%20packs)
 - a Spellbook
-- 2 Sigils
+- 2 [Sigils](sigils.md)
 - 4d6sp
 
+---
 ## Class Abilities
 
 ### Magical Focus
@@ -43,14 +45,15 @@ cssclass: clean-embeds
 ### True Name
 ![True Name](classes/ClassAbilities.md#true%20name)
 
+---
 ## Fighter-Spellcaster Table    
-|  Level  |  Hit<br/>Dice  |  Attack<br/>Bonus  |  Skill<br/>Bonus  |  Knacks  |  Traits  |  Invocation<br/>Dice  |  Prepared<br/>Spells  |  Spell<br/>Save  |  Max<br/>Spell<br/>Tier  |
-|:--------|:---------------|:-------------------|:------------------|:---------|:---------|:----------------------|:----------------------|:-----------------|:-------------------------|
-|    1    |     1d6        |       +1           |       +1          |  1       |     1    |          0d6          |   0                   |  11+             |  Cantrip                 |
-|    2    |     2d6        |       +1           |       +1          |  --      |    --    |          1d6          |   1                   |  12+             |  1                       |
-|    3    |     3d6        |       +2           |       +2          |  --      |    --    |          1d6          |   2                   |  13+             |  --                      |
-|    4    |     4d6        |       +2           |       +3          |  +1      |    --    |          2d6          |   3                   |  13+             |  --                      |
-|    5    |     5d6        |       +2           |       +3          |  --      |    --    |          3d6          |   4                   |  14+             |  2                       |  
+| Level | Hit<br/>Dice | Attack<br/>Bonus | Initiative<br/>Bonus | Skill<br/>Bonus | Knacks | Traits | Invocation<br/>Dice | Prepared<br/>Spells | Spell<br/>Save | Max<br/>Spell<br/>Tier |
+|:-----:|:------------:|:----------------:|:--------------------:|:---------------:|:------:|:------:|:-------------------:|:-------------------:|:--------------:|:----------------------:|
+|   1   |    1d6       |      +1          | +0                   |      +1         |  1     |    1   |         0d6         |  0                  | 11+            | Cantrip                |
+|   2   |    2d6       |      +1          | +1                   |      +1         | --     |   --   |         1d6         |  1                  | 12+            | 1                      |
+|   3   |    3d6       |      +2          | +1                   |      +2         | --     |   --   |         1d6         |  2                  | 13+            | --                     |
+|   4   |    4d6       |      +2          | +2                   |      +3         | +1     |   --   |         2d6         |  3                  | 13+            | --                     |
+|   5   |    5d6       |      +2          | +2                   |      +3         | --     |   --   |         3d6         |  4                  | 14+            | 2                      |  
 
 ### Fighter-Spellcaster Saving Throws
 | Level | Evasion | Hardiness | Spirit |
@@ -61,6 +64,7 @@ cssclass: clean-embeds
 |   4   |    +3   |     +3    |   +3   |
 |   5   |    +4   |     +4    |   +4   |
 
+---
 ## Fighter-Spellcaster Knacks
 
 Unless stated otherwise, each knack may only be taken once.
@@ -83,7 +87,8 @@ Unless stated otherwise, each knack may only be taken once.
 
 **Weapon Specialization**:  ![](/classes/Knacks.md#weapon%20specialization)
 
-### Sample Fighter-Spellcaster Builds
+---
+## Sample Fighter-Spellcaster Builds
 - **Spellblade**
 	- Tradition: Wizardry
 - **Warlock**

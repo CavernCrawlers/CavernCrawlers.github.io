@@ -9,7 +9,7 @@
 		- [Human](species/Human.md)
 		- [Orc](species/Orc.md)
 	- [Background Occupation](Background.md)
-	- Classes
+	- [Classes](classes/Classes.md)
 		- [Fighter](classes/Fighter.md)
 		- [Rogue](classes/Rogue.md)
 		- [Spellcaster](classes/Spellcaster.md)

@@ -15,19 +15,20 @@ cssclass: clean-embeds
 	- [Spellcaster Saving Throws](#Spellcaster%20Saving%20Throws)
 - [Sample Spellcaster Builds](#Sample%20Spellcaster%20Builds)
 
-
+---
 ## Statistics
 - **Starting HP**: 4 + CON Modifier
 - **Hit Dice**: 1d4 + CON Modifier per level
-- **Initiative Bonus**: +0
 - **Armor Training**: None
 - **Weapon Training**: Light weapons & Staffs
 
+---
 ## Equipment
-- a Mage's Pack
-- 4 Sigils
+- a [Mage's Pack](EncumbranceAndEquipment.md#equipment%20packs)
+- 4 [Sigils](Sigils.md)
 - 4d6sp
 
+---
 ## Class Abilities
 
 ### Magical Focus
@@ -42,14 +43,15 @@ cssclass: clean-embeds
 ### True Name
 ![](classes/ClassAbilities.md#true%20name)
 
+---
 ## Spellcaster Table        
-|   Level   |   Hit<br/>Dice   |   Attack<br/>Bonus   |   Skill<br/>Bonus   |   Traits   |   Invocation<br/>Dice   |   Prepared<br/>Spells   |   Spell<br/>Save   |   Max<br/>Spell<br/>Tier   |
-|:----------|:-----------------|:---------------------|:--------------------|:-----------|:------------------------|:------------------------|:-------------------|:---------------------------|
-|     1     |       1d4        |          +0          |         +1          |     1      |            1d6          |    1                    |   12+              |    1                       |
-|     2     |       2d4        |          +0          |         +1          |     --     |            1d6          |    2                    |   13+              |   --                       |
-|     3     |       3d4        |          +1          |         +2          |     --     |            2d6          |    3                    |   13+              |    2                       |
-|     4     |       4d4        |          +1          |         +3          |     --     |            3d6          |    4                    |   14+              |   --                       |
-|     5     |       5d4        |          +1          |         +3          |     --     |            3d6          |    5                    |   15+              |    3                       |  
+| Level | Hit<br/>Dice | Attack<br/>Bonus | Initiative<br/>Bonus | Skill<br/>Bonus | Traits | Invocation<br/>Dice | Prepared<br/>Spells | Spell<br/>Save | Max<br/>Spell<br/>Tier |
+|:-----:|:------------:|:----------------:|:--------------------:|:---------------:|:------:|:-------------------:|:-------------------:|:--------------:|:----------------------:|
+|   1   |     1d4      |        +0        | +0                   |       +1        |   1    |          1d6        |  1                  | 12+            |  1                     |
+|   2   |     2d4      |        +0        | +1                   |       +1        |   --   |          1d6        |  2                  | 13+            | --                     |
+|   3   |     3d4      |        +1        | +1                   |       +2        |   --   |          2d6        |  3                  | 13+            |  2                     |
+|   4   |     4d4      |        +1        | +2                   |       +3        |   --   |          3d6        |  4                  | 14+            | --                     |
+|   5   |     5d4      |        +1        | +2                   |       +3        |   --   |          3d6        |  5                  | 15+            |  3                     |  
 
 ### Spellcaster Saving Throws
 | Level | Evasion | Hardiness | Spirit |
@@ -60,6 +62,7 @@ cssclass: clean-embeds
 |   4   |    +3   |     +2    |   +4   |
 |   5   |    +4   |     +3    |   +5   |
 
+---
 ## Sample Spellcaster Builds
 - **Menacing Sorcerer** 
  	- Tradition - Sorcery

@@ -1,5 +1,21 @@
 Predict Weather
 
+Air
+Earth
+Fire
+Ice
+Lightning
+Venom
+Chaos
+Death
+Life
+Order
+Time
+Thought
+Humanoid
+Truth
+Void
+
 # Cantrips
 Cantrips are also known as Tier 0 Spells.
 - [Beast Speech](#Beast%20Speech)
@@ -25,7 +41,7 @@ Cantrips are also known as Tier 0 Spells.
 
 ## Beast Speech
 - **Tier:** Cantrip (0+)
-- **Sigils** Beast
+- **[Sigils](magic/Sigils.md):** Beast
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Personal
@@ -48,7 +64,7 @@ Each time a mage learns this cantrip, they must pick a particular type of beast 
 
 ## Beguilement
 - **Tier:** Cantrip (0+)
-- **Sigils** A form sigil matching the type of the target creature.
+- **[Sigils](magic/Sigils.md):** A form sigil matching the type of the target creature.
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -70,7 +86,7 @@ A mage uses this spell to influence the emotions and attitudes of the target cre
 
 ## Conjure Shadow
 - **Tier:** Cantrip (0+)
-- **Sigils** Shadow
+- **[Sigils](magic/Sigils.md):** Shadow
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -93,7 +109,7 @@ This cantrip creates a tiny area of dim lighting for the duration.
 
 ## Conjure Sound
 - **Tier:** Cantrip (0+)
-- **Sigils** Air or Illusion
+- **[Sigils](magic/Sigils.md):** Illusion
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -114,7 +130,7 @@ With this cantrip, a mage conjures a distinct sound within range that is no loud
 
 ## Flare
 - **Tier:** Cantrip (0+)
-- **Sigils** Light or Fire
+- **[Sigils](magic/Sigils.md):** Light
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -123,7 +139,7 @@ With this cantrip, a mage conjures a distinct sound within range that is no loud
 - **Save:** Evasion
 - Components: Gestures, Incantations
 
-The mage conjures a flash of light & heat directly in front of the eyes of the target.  If the target fails their save, they are dazzled and suffer -1 on attacks, visual perception and other sight-based rolls until the end of their next Turn.  Obviously this spell has no effect on [blind](Combat.md#blinded) targets.
+The mage conjures a flash of light directly in front of the eyes of the target.  If the target fails their save, they are dazzled and suffer -1 on attacks, visual perception and other sight-based rolls until the end of their next Turn.  Obviously this spell has no effect on [blind](Combat.md#blinded) targets.
 
 *Upcasting*
 
@@ -135,7 +151,7 @@ The mage conjures a flash of light & heat directly in front of the eyes of the t
 
 ## Glamour
 - **Tier:** Cantrip (0+)
-- **Sigils** Light or Illusion
+- **[Sigils](magic/Sigils.md):** Illusion
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -158,7 +174,7 @@ This allows the mage to conjure a simple, silent and static illusion of roughly 
 
 ## Hexing
 - **Tier:** Cantrip (0+)
-- **Sigils** A form sigil matching the target creature type.
+- **[Sigils](magic/Sigils.md):** A form sigil matching the target creature type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -180,7 +196,7 @@ By uttering this minor curse, the mage causes the targeted creature that fails i
 
 ## Inspire
 - **Tier:** Cantrip (0+)
-- **Sigils** A form sigil matching the target creature type.
+- **[Sigils](magic/Sigils.md):** A form sigil matching the target creature type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -202,7 +218,7 @@ With a touch, words of encouragement and a small investment of magic, a mage can
 
 ## Knot
 - **Tier:** Cantrip (0+)
-- **Sigils** a form or elemental sigil matching the target type
+- **[Sigils](magic/Sigils.md):** a form or elemental sigil matching the target type
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -225,7 +241,7 @@ This spell may be reversed to remove 1 knot from an unsecured object rope, etc.
 
 ## Mage Hand
 - **Tier:** Cantrip (0+)
-- **Sigils** Air or Spirit
+- **[Sigils](magic/Sigils.md):** Spirit
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -246,7 +262,7 @@ This cantrip conjures a translucent hand that the mage may use to manipulate sma
 
 ## Mage Light
 - **Tier:** Cantrip (0+)
-- **Sigils** Light
+- **[Sigils](magic/Sigils.md):** Light
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -267,7 +283,7 @@ By means of this cantrip, a mage causes a touched object no larger than a fist t
 
 ## Mend
 - **Tier:** 0 (cantrip)
-- **Sigils** A form or elemental sigil matching the target type.
+- **[Sigils](magic/Sigils.md):** A form or elemental sigil matching the target type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 Action
 - **Range:** Touch
@@ -293,7 +309,7 @@ If used on an inanimate object, 1 Tiny area of material will be made whole.  Thi
 
 ## Nature's Blessing
 - **Tier:** Cantrip (0+)
-- **Sigils** Plant
+- **[Sigils](magic/Sigils.md):** Plant
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -315,7 +331,7 @@ By this spell, a mage may cause any cutting or seed to root and any plant to blo
 
 ## Open
 - **Tier:** Cantrip (0+)
-- **Sigils** Air
+- **[Sigils](magic/Sigils.md):** Air??
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -340,7 +356,7 @@ This spell may be reversed to close objects.
 
 ## Plant Speech
 - **Tier:** Cantrip (0+)
-- **Sigils** Plant
+- **[Sigils](magic/Sigils.md):** Plant
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Personal
@@ -363,7 +379,7 @@ This cantrip allows the caster to speak with plants of all varieties.  Unfortuna
 
 ## Prestidigitation
 - **Tier:** Cantrip (0+)
-- **Sigils** varies
+- **[Sigils](magic/Sigils.md):** varies
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Close
@@ -382,9 +398,9 @@ This cantrip allows the caster to perform a minor magical trick.  Any one of the
 - *Light:* Inscribe a small, glowing mark on a non-living object or surface for 1 hour.
 - *Plant:* Spice a **Tiny** amount of non-living material for 1 hour.
 - *Water:* Instantly clean up a **Tiny** amount of non-living material.
-- Other effects (likely requiring different sigils) may be possible with GM permission.
+- Other effects (likely requiring different [sigils](magic/Sigils.md)) may be possible with GM permission.
 
-Multiple effects (up to 3) may be manifested at the same time if the caster has the needed sigils.  Alternatively, the same effect may be manifested up to 3 times.
+Multiple effects (up to 3) may be manifested at the same time if the caster has the needed [sigils](magic/Sigils.md).  Alternatively, the same effect may be manifested up to 3 times.
 
 *Upcasting*
 
@@ -399,7 +415,7 @@ Max Duration for any effect is 1 Day.
 
 ## Repel Insects
 - **Tier:** Cantrip (0+)
-- **Sigils** Beast
+- **[Sigils](magic/Sigils.md):** Beast
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Personal
@@ -421,7 +437,7 @@ This spell drives away natural insects and similar small vermin no larger than a
 
 ## Repel Rain
 - **Tier:** Cantrip (0+)
-- **Sigils** Water
+- **[Sigils](magic/Sigils.md):** Water
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Personal
@@ -443,7 +459,7 @@ This spell acts as a barrier to rain, snow, sleet and similar weather effects; k
 
 ## Spark
 - **Tier:** Cantrip (0+)
-- **Sigils** any elemental sigil
+- **[Sigils](magic/Sigils.md):** any elemental sigil
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Close
@@ -466,7 +482,7 @@ By means of this spell, the caster uses the power of a sigil to conjure a small 
 
 ## Spirit Sight
 - **Tier:** Cantrip (0+)
-- **Sigils** Spirit
+- **[Sigils](magic/Sigils.md):** Spirit
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Personal
