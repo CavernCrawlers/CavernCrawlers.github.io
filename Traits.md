@@ -115,6 +115,9 @@ Your character can recover 1 level of [Exhaustion](Combat.md#exhaustion) with a 
 ### Charming
 Your character gains a +2 bonus on non-combat checks involving Charisma.
 
+### Contortionist
+Your character makes rolls to escape restraints with [Advantage](CoreRules.md#Advantage%20and%20Disadvantage).
+
 ### Die Hard
 Your character's [Death Pool](RulesSynopsis.md#the%20death%20pool) is made up of d6s instead of d4s.
 
@@ -195,6 +198,9 @@ A character cannot be of the named **Allegiance**.  Your character has **Advanta
 ## Combat Traits
 
 These are traits which will directly improve the combat prowess of a given character, but are not so specialized as to require one to be a **[Fighter](classes/Fighter.md)**.  As a result, characters of any class may take these traits.
+
+### Blind Fighting
+This character does not suffer the [Blinded](Combat.md#blinded) condition against opponent's at [Close](Combat.md#range%20bands) range.
 
 ### Combat Dominance
 This character’s skill at arms is unmatched. If her level is greater than the **Hit Dice** of her strongest opponent, she gains +2 on all to-hit rolls and +2 armor class.

@@ -63,6 +63,8 @@ Unless specified otherwise, each knack may only be taken once.
 
 **Assassin**: ![](classes/Knacks.md#assassin)
 
+**Blackjack**: ![](classes/Knacks.md#blackjack)
+
 **Code-breaker**: ![](classes/Knacks.md#code-breaker)
 
 **Counterfeiter**: ![](classes/Knacks.md#counterfeiter)

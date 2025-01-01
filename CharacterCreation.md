@@ -88,6 +88,9 @@ Each column on this table adds up to 72 points (12 per ability).
 
 Each column on this table adds up to 78 points (13 per ability).
 
+### Lifepath
+The [Lifepath](Lifepaths.md) method not only generates your starting attribute scores, it also generates a character backstory that will tie the character to the setting and the other party members.
+
 ### The Attributes
 #### Strength
 The measure of a character’s raw physical power.  This is used in feats of might, such as lifting a heavy boulder or smashing open a locked door.  A character’s raw Strength score is also their [Stowed Encumbrance](EncumbranceAndEquipment.md#encumbrance) limit and half this score is their [Ready Encumbrance](EncumbranceAndEquipment.md#encumbrance) limit.

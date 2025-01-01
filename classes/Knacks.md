@@ -1,15 +1,15 @@
-1# Knacks
+# Knacks
 
 ## Fighter
 
 ### %%Archer%%
-You do not have **Disadvantage** when making attacks at Far range.
+You do not have **[Disadvantage](CoreRules.md#advantage%20and%20disadvantage)** when making attacks at [Far range](Combat.md#range%20bands).
 
 ### %%Armored%%
 So long as you are wearing [armor](EncumbranceAndEquipment.md#armor), reduce the damage taken from blunt, cutting and penetrating damage based on the weight of the [armor](EncumbranceAndEquipment.md#armor) worn (1 for Light, 2 for Medium or 3 for Heavy).
 
 ### %%Berserk%%
-For the duration of one [combat](Combat.md), gain +2 on **[Strength Checks](RulesSynopsis.md#ability%20check)**, melee **[Attack Rolls](RulesSynopsis.md#attack%20roll)**, melee **[Damage Rolls](Combat.md#damage)** and **[Spirit Saves](CoreRules.md#saving%20throws)**, but suffer -4 to [AC](RulesSynopsis.md#attack%20roll).  After the [combat](Combat.md) ends, gain a level of [Exhaustion](Combat.md#exhaustion).  You cannot use this Knack while you have any levels of Exhaustion.
+For the duration of one [combat](Combat.md), gain +2 on **[Strength Checks](RulesSynopsis.md#ability%20check)**, melee **[Attack Rolls](RulesSynopsis.md#attack%20roll)**, melee **[Damage Rolls](Combat.md#damage)** and **[Spirit Saves](CoreRules.md#saving%20throws)**.  On the down side, you suffer -4 to [AC](RulesSynopsis.md#attack%20roll), cannot use ranged attacks (except [hurlants](EncumbranceAndEquipment#weapon%20properties)) and cannot [concentrate](Combat.md#concentrating).  After the [combat](Combat.md) ends, gain a level of [Exhaustion](Combat.md#exhaustion).  You cannot use this Knack while you have any levels of Exhaustion.
 
 ### %%Cavalry%%
 While mounted, you gain +2 on [checks](CoreRules.md#the%20d20%20check) to remain mounted, +2 [to hit](Combat.md#attacking%20an%20enemy) and +1 [AC](RulesSynopsis.md#attack%20roll).  Additionally, whatever creature you are mounted on gains +1 [AC](RulesSynopsis.md#attack%20roll), +1 [Evasion](CoreRules.md#saving%20throws) and +1 [Morale](HirelingsAndAllies.md#morale).
@@ -18,7 +18,7 @@ While mounted, you gain +2 on [checks](CoreRules.md#the%20d20%20check) to remain
 If you perform the **[charge](Combat.md#charge*)** [maneuver](Combat.md#combat%20maneuvers), add +2 to your [damage rolls](Combat.md#damage).
 
 ### %%Cleave%%
-Immediately after one of your attacks drops a foe to 0 HP, you may make another attack.  If you have movement remaining, you may move between attacks.
+Immediately after one of your attacks drops a foe to [0 HP](Combat.md#death%20and%20dying), you may make another attack.  If you have movement remaining, you may move between attacks.
 
 ### %%Critical Opening%%
 Reduce the required [Natural](RulesSynopsis.md#Natural%20Results) value for a [Critical Hit](Combat.md#critical%20hits) on your attacks by 1.  This knack may be taken up to 3 times.  For instance, taking this knack twice means you would only need a natural 18+ to score a critical hit.
@@ -36,7 +36,7 @@ You gain +1 to all **[Saving Throws](CoreRules.md#saving%20throws)**.
 You may use your [Combat Maneuvers](classes/ClassAbilities.md#combat%20maneuvers) ability with [ranged attacks](Combat.md#ranged%20attacks).
 
 ### %%Precise Shot%%
-Ignore any to-hit penalty based on your target's [cover](Combat.md#cover).  Additionally, you take no penalty for firing at [Close range](Combat.md#range%20bands) or into melee (and do not risk hitting your friends).
+Ignore any to-hit penalty based on your target's [cover](Combat.md#cover).  Additionally, you take no penalty for firing at [Close range](Combat.md#range%20bands) or [into melee](Combat.md#firing%20into%20melee) (and do not risk hitting your friends).
 
 ### %%Reckless%%
 When you choose to use this ability, all your [attacks](Combat.md#attacking%20an%20enemy) that [Round](Combat.md#time) have [Advantage](CoreRules.md#Advantage%20and%20Disadvantage).  All attacks against you also have **Advantage** until the start of your next [Turn](Combat.md#time).
@@ -54,6 +54,9 @@ Pick a weapon (such as shortsword, battle axe, long bow, etc). Your character re
 
 ### %%Assassin%%
 Your [Sneak Attack](classes/ClassAbilities.md#sneak%20attack) dice increase [1 step](RulesSynopsis.md#die%20adjustments).
+
+### %%Blackjack%%
+When attacking a humanoid victim not wearing a helmet while you have [Advantage](CoreRules.md#advantage%20and%20disadvantage) on your attack, you can attempt to knock them out with a suitable "non-lethal" attack (blackjack, weapon pommel, etc).  The victim will take 1d4 bludgeoning damage and must make a [Hardiness save](CoreRules.md#saving%20throws) vs. your attack total or fall [unconscious](Combat.md#unconscious) for [2d4(pool)](RulesSynopsis.md#countdown%20pools) [Rounds](Combat.md#time).
 
 ### %%Code-Breaker%%
 You have +2 on [checks](CoreRules.md#the%20d20%20check) to decipher secret codes and unknown languages.

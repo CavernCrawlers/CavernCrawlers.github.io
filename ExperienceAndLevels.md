@@ -3,12 +3,15 @@
 	- [Leveling Table](#leveling%20table)
 
 ## Experience and Levels
-All [classes](classes/Classes.md) level up using the same experience table.  Note that level 0 is an optional level for those groups wishing to start their campaign with a character “funnel” or “gauntlet”.  If wanting to start at level 1 (or any higher level, for that matter), simply assume the requisite experience has already been acquired.  Thus, when starting at 1st level, all characters will start play with 0 xp; if starting at 3rd level, all characters would start at 4,000 xp.
+All [classes](classes/Classes.md) level up using the same experience table.  Note that level 0 is an optional level for those groups wishing to start their campaign with an ordeal (also known in other systems as a “funnel” or “gauntlet”).  If wanting to start at level 1 (or any higher level, for that matter), simply assume the minimum requisite experience has already been acquired.  Thus, when starting at 1st level, all characters will start play with 0 xp; if starting at 3rd level, all characters would start at 4,000 xp.
 
 The primary means of gaining experience points is through the completion of **quests**.  Unlike many other OSR games, there is no XP award for individual monsters slain or treasure gathered.  Instead the player characters will choose or be assigned a quest with a clearly defined goal.  Once that goal has been achieved and the quest completed, the GM will award all participating PCs an amount of XP based on how difficult the quest was.
 
 ### Leveling Up
 Once a character has accumulated enough experience points to reach the next level, the character will level up the next time they complete at least a [Long Rest](Combat.md#Long%20Rest) in a [Safe Haven](Combat.md#Extended%20Rest).  Upon completion of the rest, the character gains all the benefits of their new level.
+
+#### Rolling Hit Dice
+At each level up, a PC will roll their entire pool of Hit Dice (including Constitution Modifiers) and compare that to their current HP total.  If the new total is higher, then the new total becomes their new HP value.  If  the new value is equal to or lower than their current value, their HP increases by +1.
 
 ### Leveling Table
 The table below shows how many **experience points** are needed to achieve each level.  Additionally, the **skill bonus** for both single-class and hybrid-class characters is provided.

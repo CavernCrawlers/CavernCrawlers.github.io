@@ -26,7 +26,7 @@ Each of the 6 available classes are described in the following format:
 ### {Class} Abilities
 The default abilities that every member of this class is trained in.
 ### {Class} Table & {Class} Saving Throws
-A table listing the available [Hit Dice](Glossary.md#hit%20die), [Attack Bonus](Glossary.md#attack%20bonus), [Initiative Bonus](Glossary.md#initiative%20bonus), [Skill Bonus](Glossary.md#skill%20bonus), [Knacks](Glossary.md#knack), [Traits](Glossary.md#trait), [Saving Throw Bonuses](Glossary.md#saving%20throw%20bonus) and other abilities gained at each level up.
+A table listing the available [Hit Dice](Glossary.md#hit%20die), [Attack Bonus](Glossary.md#attack%20bonus), [Initiative Bonus](Glossary.md#initiative%20bonus), [Skill Bonus](Glossary.md#skill%20bonus), [Knacks](Glossary.md#knack), [Traits](Glossary.md#trait), [Saving Throw Bonuses](Glossary.md#saving%20throw%20bonus) and other abilities gained at each [level up](ExperienceAndLevels.md#leveling%20up).
 ### {Class} Knacks
 If there are [Knacks](Glossary.md#knack) available to this class, they will be described here.
 ### Sample {Class} Builds

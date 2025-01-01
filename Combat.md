@@ -128,6 +128,9 @@ A standard **Move Action** allows a creature to move up to its movement rate.  A
 ## Attacking an Enemy
 Attacking an enemy requires making a successful [Attack Roll](RulesSynopsis.md#Attack%20Roll) vs the target's **AC**.
 
+### Melee Attacks
+Melee attacks may only be made against targets within [Close](#range%20bands) range, or within the [reach](EncumbranceAndEquipment.md#weapon%20properties) of your melee weapon.
+
 ### Ranged Attacks
 Attacks made at **Far** range have **Disadvantage** on the attack roll.<br/>
 Ranged weapons (including [spells](magic/Spells.md)) with a max range of **Far** or greater, will attack at **Disadvantage** if used within **Close** range.
@@ -327,15 +330,15 @@ Describe some effect you wish to add to your attack.  The GM will decide what sa
 - Ranged attacks from non-adjacent attackers have **Disadvantage** to hit a prone target.
 ### Restrained
 - Speed is reduced to 0 and cannot benefit from speed boosts.
-- Attacks against the restrained crature have **Advantage**.
+- Attacks against the restrained creature have **Advantage**.
 - The restrained creatures attacks are made with **Disadvantage**.
 ### Stunned
 - Is [incapacitated](#incapacitated).
 - Cannot move.
 - Can only speak slowly and hesitantly.
 - Auto-fail any **Evasion** or **Hardiness** saving throw as well as any **STR** or **DEX** checks.
-- Attacks against the stunned crature have **Advantage**.
-### Unconcious
+- Attacks against the stunned creature have **Advantage**.
+### Unconscious
 - Falls [prone](#prone).
 - Is [paralyzed](#paralyzed).
 - Is unaware of surroundings.

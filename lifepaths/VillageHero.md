@@ -2,7 +2,7 @@
 cssclasses:
   - clean-embeds
 ---
-# The Village Hero
+# The Village Hero(in)
 ## ([Fighter](classes/Fighter.md))
 While you are still young, you have made quite the name for yourself in the village. The common folk look to you to solve their problems and protect them from dangers.  You gain access to the [Farmer](Background.md#farmer) background.
 

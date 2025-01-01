@@ -13,7 +13,7 @@
 12. Write down your starting [sigils](magic/Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different [sigils](magic/Sigils.md) of the same type.
 13. As a level 1 [Spellcaster](classes/Spellcaster.md), your Attack Bonus is +0.
 14. As a level 1 [Spellcaster](classes/Spellcaster.md), you have a Skill Bonus of +1.
-15. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a [Spellcaster](classes/Spellcaster.md).
+15. Your Initiative Bonus is equal your Dexterity plus 0.
 16. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 17. As a [Human](species/Human.md) [Spellcaster](classes/Spellcaster.md), your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2 (this already includes the Intrepid bonus).
 18. Your starting Hit Points are equal to 4 plus your Constitution Modifier.
@@ -31,7 +31,7 @@
 8. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be the local "common" languages and another will be your native language. Your character is not automatically literate.
 12. As a level 1 [Rogue](classes/Rogue.md), your Attack Bonus is +1.
 13. As a level 1 [Rogue](classes/Rogue.md), you have a Skill Bonus of +1.
-14. Your Initiative Bonus is equal your Dexterity bonus plus 2 for being a [Rogue](classes/Rogue.md).
+14. Your Initiative Bonus is equal your Dexterity plus 0.
 15. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 16. As a [Human](species/Human.md) [Rogue](classes/Rogue.md), your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 4 (this already includes the Intrepid and Fortune's Favor bonuses).
 17. Your starting Hit Points are equal to 6 plus your Constitution Modifier.
@@ -49,7 +49,7 @@
 8. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be the local "common" languages and another will be your native language. Your character is not automatically literate.
 12. As a level 1 [Fighter-Rogue](classes/Fighter-Rogue.md), your Attack Bonus is +1.
 13. As a level 1 [Fighter-Rogue](classes/Fighter-Rogue.md), you have a Skill Bonus of +1.
-14. Your Initiative Bonus is equal your Dexterity bonus plus 1 for being a [Fighter-Rogue](classes/Fighter-Rogue.md).
+14. Your Initiative Bonus is equal your Dexterity plus 0.
 15. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 16. As a [Human](species/Human.md) [Fighter-Rogue](classes/Fighter-Rogue.md), your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 3 (this already includes the Intrepid and Fortune's Favor bonuses).
 17. Your starting Hit Points are equal to 7 plus your Constitution Modifier.
@@ -68,7 +68,7 @@
 8. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be the local "common" languages and another will be your native language. Your character is not automatically literate.
 12. As a level 1 [Fighter](classes/Fighter.md), your Attack Bonus is +1.
 13. As a level 1 [Fighter](classes/Fighter.md), you have a Skill Bonus of +1.
-14. Your Initiative Bonus is equal your Dexterity bonus plus 1 for being a [Fighter](classes/Fighter.md).
+14. Your Initiative Bonus is equal your Dexterity plus 0.
 15. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 16. As a [Dwarf](species/Dwarf.md) [Fighter](classes/Fighter.md), your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 1 (this already includes the Dust of Ages modifier).
 17. Your starting Hit Points are equal to 9 plus your Constitution Modifier (this already includes the Enduring as Stone bonus).
@@ -87,7 +87,7 @@
 8. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be the local "common" languages and another will be your native language. Your character is not automatically literate.
 12. As a level 1 [Fighter-Rogue](classes/Fighter-Rogue.md), your Attack Bonus is +1.
 13. As a level 1 [Fighter-Rogue](classes/Fighter-Rogue.md), you have a Skill Bonus of +1.
-14. Your Initiative Bonus is equal your Dexterity bonus plus 1 for being a [Fighter-Rogue](classes/Fighter-Rogue.md).
+14. Your Initiative Bonus is equal your Dexterity plus 0.
 15. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 16. As a [Dwarf](species/Dwarf.md) [Fighter-Rogue](classes/Fighter-Rogue.md), your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2 (this already includes the Dust of Ages and Fortune's Favor modifiers).
 17. Your starting Hit Points are equal to 8 plus your Constitution Modifier (this already includes the Enduring as Stone bonus).
@@ -108,7 +108,7 @@
 11. Write down your starting [sigils](magic/Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different [sigils](magic/Sigils.md) of the same type.
 12. As a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md), your Attack Bonus is +1.
 13. As a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md), you have a Skill Bonus of +1.
-14. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a [Fighter-Spellcaster](classes/Fighter-Spellcaster.md).
+14. Your Initiative Bonus is equal your Dexterity plus 0.
 15. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 16. As a [Dwarf](species/Dwarf.md) [Fighter-Spellcaster](classes/Fighter-Spellcaster.md), your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 1 (this already includes the Dust of Ages modifier).
 17. Your starting Hit Points are equal to 7 plus your Constitution Modifier (this already includes the Enduring as Stone bonus).
@@ -129,7 +129,7 @@
 11. Write down your starting [sigils](magic/Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different [sigils](magic/Sigils.md) of the same type.
 12. As a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md), your Attack Bonus is +1.
 13. As a level 1 [Fighter-Spellcaster](classes/Fighter-Spellcaster.md), you have a Skill Bonus of +1.
-14. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a [Fighter-Spellcaster](classes/Fighter-Spellcaster.md).
+14. Your Initiative Bonus is equal your Dexterity plus 0.
 15. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 16. As an [Elf](species/Elf.md) [Fighter-Spellcaster](classes/Fighter-Spellcaster.md), your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 1 (this already includes the Autumn Folk modifier).
 17. Your starting Hit Points are equal to 6 plus your Constitution Modifier.
@@ -151,7 +151,7 @@
 11. Write down your starting [sigils](magic/Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different [sigils](magic/Sigils.md) of the same type.
 12. As a level 1 [Spellcaster](classes/Spellcaster.md), your Attack Bonus is +0.
 13. As a level 1 [Spellcaster](classes/Spellcaster.md), you have a Skill Bonus of +1.
-14. Your Initiative Bonus is equal your Dexterity bonus plus 0 for being a [Spellcaster](classes/Spellcaster.md).
+14. Your Initiative Bonus is equal your Dexterity plus 0.
 15. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 16. As an [Elf](species/Elf.md) [Spellcaster](classes/Spellcaster.md), your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 1 (this already includes the Autumn Folk modifier).
 17. Your starting Hit Points are equal to 4 plus your Constitution Modifier.
@@ -172,7 +172,7 @@
 11. Write down your starting [sigils](magic/Sigils.md).  If you rolled the same sigil multiple times, you may replace the duplicate(s) with different [sigils](magic/Sigils.md) of the same type.
 12. As a level 1 [Rogue](classes/Rogue.md)-Spellcaster, your Attack Bonus is +0.
 13. As a level 1 [Rogue](classes/Rogue.md)-Spellcaster, you have a Skill Bonus of +1.
-14. Your Initiative Bonus is equal your Dexterity bonus plus 1 for being a [Rogue-Spellcaster](classes/Rogue-Spellcaster.md).
+14. Your Initiative Bonus is equal your Dexterity plus 0.
 15. Your Armor Class is 10, plus your Dexterity bonus, plus the bonus of any [armor](EncumbranceAndEquipment.md#armor) you have.
 16. As an [Elf](species/Elf.md) [Rogue-Spellcaster](classes/Rogue-Spellcaster.md), your Base and Max [Fortune Points](RulesSynopsis.md#fortune) are both 2 (this already includes the Autumn Folk and Fortune's Favor modifiers).
 17. Your starting Hit Points are equal to 5 plus your Constitution Modifier.
