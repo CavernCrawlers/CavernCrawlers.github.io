@@ -1,8 +1,8 @@
 # Cosmic Allegiances
 
-There exists, beyond the knowledge of ordinary mortals, great powers who contest with each other for dominance of the cosmos.  Most mortals are completely oblivious to the existence of such battles and simply go about their lives.  Many religions know hints and fragments of this conflict but few have a full picture of The Conflict.
+There exists, beyond the knowledge of ordinary mortals, [great powers](#cosmic%20powers) who contest with each other for dominance of the cosmos.  Most mortals are completely oblivious to the existence of such battles and simply go about their lives.  Many religions know hints and fragments of this conflict but few have a full picture of The Conflict.
 
-However, there do exist some mortals who are drawn into The Conflict.  Such people may choose to align themselves with one of its factions (also called Pantheons).  In so doing, they earn the opportunity to influence this battle and which faction gains dominance.  On the other hand, this allegiance comes with great responsibility and duty as the deities, demons and other powers leading these Pantheons will make demands upon their followers.  In return, they grant significant power, if not always the freedom to use it as their servants would wish.
+However, there do exist some mortals who are drawn into The Conflict.  Such people may choose to [align](#pledging) themselves with one of its [factions](#cosmic%20powers) (also called Pantheons).  In so doing, they earn the opportunity to influence this battle and which faction gains dominance.  On the other hand, this allegiance comes with great responsibility and duty as the deities, demons and other powers leading these Pantheons will make demands upon their followers.  In return, they grant significant power, if not always the freedom to use it as their servants would wish.
 
 - [Pledging](#pledging)
 	- [Detect Allegiance](#detect%20allegiance)
@@ -22,36 +22,36 @@ However, there do exist some mortals who are drawn into The Conflict.  Such peop
 		- [Derlethians](#derlethians)
 
 ## Pledging
-Characters do not start play aligned with any of the Pantheons in The Conflict.  Likely, they are completely unaware of The Conflict’s existence.  However, they may become aware of The Conflict through the course of their adventures, and thus gain the opportunity to align themselves with one of the Pantheons.  
+Characters do not start play aligned with any of the [Pantheons](#cosmic%20powers) in The Conflict.  Likely, they are completely unaware of The Conflict’s existence.  However, they may become aware of The Conflict through the course of their adventures, and thus gain the opportunity to align themselves with one of the Pantheons.  
 
-The specifics of how this **Allegiance** is sworn is highly individual to both the character in question, and the faction (and specific faction agent) they are swearing allegiance to.  It may involve an oath sworn to a deity via elaborate ritual in one of its temples.  It may be that the character swears allegience to a greater power in a vision after visiting some long lost shrine.  It is left up to the GM and player involved to work out such details.
+The specifics of how this **Allegiance** is sworn is highly individual to both the character in question, and the faction (and specific faction agent) they are swearing allegiance to.  It may involve an oath sworn to a deity via elaborate ritual in one of its temples.  It may be that the character swears allegiance to a greater power in a vision after visiting some long lost shrine.  It is left up to the GM and player involved to work out such details.
 
-Once a character becomes a **Champion**, they gain the following features:
+Once a character becomes a **[Champion](#cosmic%20champion)**, they gain the following features:
 
 ### Detect Allegiance 
-**Champions** of the cosmic powers will find that they frequently recognize one another. When two Champions meet, they each make a **Wisdom Check** vs a **Difficulty** of 10 + the target’s **Hit Dice** and on a success, will know the other’s **Allegiance** and if they are a supernatural creature or not.
+**[Champions](#cosmic%20champion)** of the [cosmic powers](#cosmic%20powers) will find that they frequently recognize one another. When two Champions meet, they each make a **[Wisdom Check](Glossary.md#ability%20check)** vs a **Difficulty** of 10 + the target’s **[Hit Dice](Glossary.md#hit%20die)** and on a success, will know the other’s **Allegiance** and if they are a supernatural creature or not.
 
 ### Animosity
-**Champions** and supernatural participants in The Conflict often hate those of other **Allegiances**. Any social checks between creatures of differing Allegiances are made at **Disadvantage** (count as 2 ranks of Disadvantage if of opposing Allegiances).
+**[Champions](#cosmic%20champion)** and supernatural participants in The Conflict often hate those of other **[Allegiances](#cosmic%20powers)**. Any [social checks](Glossary.md#social%20check) between creatures of differing Allegiances are made at **[Disadvantage](Glossary.md#disadvantage)** (count as 2 ranks of Disadvantage if of opposing Allegiances).
 
 ### A Life of Conflict
-Perhaps the greatest downside to joining a faction of The Conflict is the fact that it will forever control your destiny.  Never more will your character be able to settle down to enjoy the simple life.  Agents of enemy Pantheons will seek you out and your own patron will require your services.  Perhaps you will find brief periods of rest in an isolated village or in a rich aristocrat’s palace, but eventually the conflict will draw you back in.
+Perhaps the greatest downside to joining a [faction](#cosmic%20powers) of The Conflict is the fact that it will forever control your destiny.  Never more will your character be able to settle down to enjoy the simple life.  Agents of enemy Pantheons will seek you out and your own patron will require your services.  Perhaps you will find brief periods of rest in an isolated village or in a rich aristocrat’s palace, but eventually the conflict will draw you back in.
 
 ### Empowered
-The character immediately gains an [Allegiance Trait](Traits.md#allegiance%20traits).  This is in addition to the normal [traits](Traits.md) gained for leveling up.
+The character immediately gains an [Allegiance Trait](Traits.md#allegiance%20traits).  This is in addition to the normal [traits](Glossary.md#trait) gained for [leveling up](Glossary.md#level) and does not count against their total.
 
 ### Cosmic Champion
-Those who choose to become a **Champion** in The Conflict are natural leaders for their faction.  As a result, they gain **Advantage** on any checks to lead, inspire or persuade other active participants of the same **Allegiance** who are of equal or lower rank in their faction.
+Those who choose to become a **Champion** in The Conflict are natural leaders for their [faction](#cosmic%20powers).  As a result, they gain **[Advantage](Glossary.md#advantage)** on any checks to lead, inspire or persuade other active participants of the same **Allegiance** who are of equal or lower rank in their faction.
 
 ### Summoned
-**Champions** in The Conflict are subject to being summoned to service by the higher ranking members of their faction.  They may be called by the **Summoning** ritual, even to other planes of existence.
+**Champions** in The Conflict are subject to being summoned to service by the higher ranking members of their [faction](#cosmic%20powers).  They may be called by the **Summoning** ritual, even to other planes of existence.
 
 ## Changing Allegiance
-It is possible, though rare and dangerous, that a **Champion** can change her **Allegiance**.  Perhaps she decided that her faction’s goals do not align with her own, or some member(s) of her faction have committed acts she cannot be associated with.  Whatever the cause, she can choose to swear fealty to another faction; however there is no way to become unaligned (once one has joined The Conflict, one is always part of it).
+It is possible, though rare and dangerous, that a **[Champion](#cosmic%20champion)** can change her **[Allegiance](#pledging)**.  Perhaps she decided that her [faction’s](#cosmic%20powers) goals do not align with her own, or some member(s) of her faction have committed acts she cannot be associated with.  Whatever the cause, she can choose to swear fealty to another faction; however there is no way to become unaligned (once one has joined The Conflict, one is always part of it).
 
 The effects of changing **Allegiance** are as follows:  
 - She immediately loses her previous **Allegiance** (naturally) and gains the new Allegiance.  
-- She keeps any [Traits](Traits.md) that were gained as part of her previous Allegiance; though the details of those [traits](Traits.md) may change (such as changing the target of the [Rebuke {Allegiance}](Traits.md#rebuke%20allegiance) trait.  
+- She keeps any [Traits](Glossary.md#trait) that were gained as part of her previous Allegiance; though the details of those Traits may change (such as changing the target of the [Rebuke {Allegiance}](Traits.md#rebuke%20allegiance) trait.  
 - Finally, she will be subject to a curse enacted by her previous patron (they do not take disloyalty lightly).  The exact nature of this curse should be worked out between the player and GM and it should be both appropriate to the faction being left and impactful on the life and abilities of the character.
 
 ## Cosmic Powers
@@ -65,7 +65,7 @@ There are many powerful Pantheons throughout the cosmos and the exact nature of 
 | Elemental Monarchs | Various Cults    | Grome, King of Earth<br/>Kakatal, Queen of Fire<br/>Misha, Queen of Air<br/>Straasha, King of Water<br/>many Princes and Princesses of "lesser" elements |
 | Qliphotic          | Various Cults    | Asmodeus, Demon Prince of Lust<br/>Azazel, Demon Princess of Envy<br/>Belial, Demon Prince of Despair<br/>Belphegor, Demon Princess of Gluttony<br/>Mammon, Demon Prince of Greed<br/>Mara, Demon Princess of Pride<br/>Shax, Demon Prince of Wrath |
 | Old Gods           | Old Faith        | Aerdrie, Goddess of the Sky<br/>Atroa, Goddess of Spring<br/>Beory, Goddess of Nature<br/>Bralm, Goddess of Insects<br/>Hlerg, God of Beasts<br/>Obad-Hai, God of Hunting<br/>Pelor, God of the Sun<br/>Phaulkon, God of Birds<br/>Phyton, God of Agriculture<br/>Procan, God of the Sea<br/>Rillifane, God of the Woodlands<br/>Sehanine, Goddess of the Moon<br/>Sotillion, Goddess of Summer<br/>Telchur, God of Fish<br/>Vatun, God of Winter<br/>Velnius, God of the Land<br/>Wenta, God of Autumn |
-| Derlethian Gods    | Various Cults    | Atropus, the God Born Dead<br/>Kyuss, the Worm the Walks<br/>Llymic, Hater of Light<br/>Pandorym, the Godslayer<br/>Ragnorra, Mother of Monsters<br/>Tharizdun, the Chained Oblivion<br/>Valusi, the Leviathan<br/>Zargon, the Undying<br/>Zoretha, the Cleansing Fire |
+| Derlethian Gods    | Various Cults    | Atropus, the God Born Dead<br/>Kyuss, the Worm that Walks<br/>Llymic, Hater of Light<br/>Pandorym, the Godslayer<br/>Ragnorra, Mother of Monsters<br/>Tharizdun, the Chained Oblivion<br/>Valusi, the Leviathan<br/>Zargon, the Undying<br/>Zoretha, the Cleansing Fire |
 
 #### Chthonians
 Also known as the Gods of Darkness, Gods of Chaos or the Gods of Limbo, are a pantheon of deities devoted to the idea that change is eternal and free will is the greatest virtue.  The very nature of these beings and their worship is anathema to an organized religion, thus their worship is spread among various small cults.  Additionally, many people only see the malevolent and destructive side of these gods and thus shun their worship; only speaking their names in whispered prayers to ward off their influence.  Others, mainly those among their various cults, espouse the positive and needed aspects of their deities' natures.

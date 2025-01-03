@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "species/Orc.md",
+                "file": "AllegiancesAndMorality.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Orc"
+              "title": "AllegiancesAndMorality"
             }
           },
           {
@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Glossary.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "species/Orc.md",
+                "file": "AllegiancesAndMorality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Orc"
+              "title": "Backlinks for AllegiancesAndMorality"
             }
           },
           {
@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "species/Orc.md",
+                "file": "AllegiancesAndMorality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Orc"
+              "title": "Outgoing links from AllegiancesAndMorality"
             }
           },
           {
@@ -185,10 +185,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "species/Orc.md"
+                "file": "AllegiancesAndMorality.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Orc"
+              "title": "Outline of AllegiancesAndMorality"
             }
           },
           {
@@ -239,12 +239,13 @@
   "active": "85e579bf5e25c806",
   "lastOpenFiles": [
     "Glossary.md",
+    "AllegiancesAndMorality.md",
+    "CoreRules.md",
+    "RulesSynopsis.md",
     "species/Orc.md",
     "species/Human.md",
     "species/Hob.md",
     "species/Goblin.md",
-    "RulesSynopsis.md",
-    "CoreRules.md",
     "EncumbranceAndEquipment.md",
     "species/Elf.md",
     "species/Dwarf.md",
@@ -264,7 +265,6 @@
     "Dungeoneering.md",
     "classes/ClassAbilities.md",
     "CharacterCreation.md",
-    "lifepaths/Lifepaths.md",
     "lifepaths/LibreOffice/Lifepaths.ods",
     "misc/lu16528yi3r.tmp",
     "misc/CavernCrawlers Classes.ods",

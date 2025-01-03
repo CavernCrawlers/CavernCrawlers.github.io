@@ -66,7 +66,7 @@ The value added to the character's Dexterity when calculating Initiative for a [
 A special ability selected from a list of such abilities available to certain [classes](classes/Classes.md).
 
 ## Level
-A measure of a character's training and experience.
+A measure of a character's training and [experience](ExperienceAndLevels.md).
 
 ## Low-Light Vision
 Allows a creature to see in [dim lighting](CoreRules.md#visibility) conditions as if it were bright light, but the [vision](CoreRules.md#low-light%20vision) is in shades of grey only. Full darkness still prevents any sight.
@@ -97,6 +97,9 @@ A numerical bonus that is added to the D20 roll when performing a [Skilled Check
 
 ## Skilled Check
 An [Ability Check](#Ability%20Check) to which the character's [Skill Bonus](#Skill%20Bonus) may be added.
+
+## Social Check
+A type of D20 Check used in a social interaction (often a [Charisma Check](RulesSynopsis.md#ability%20check)); such as attempting to persuade a guard to let you pass, bartering for a better deal on a horse or convincing a judge that you are innocent of the crime to which you are accused.  See D20 checks in both the [Core Rules](CoreRules.md#the%20d20%20check) and [Rules Synopsis](RulesSynopsis.md#d20%20checks).
 
 ## Stealth
 The act of attempting to avoid detection.  This is a type of [Skilled](RulesSynopsis.md#skilled%20check) check.  See [Stealth Checks](CoreRules.md#stealth) in the Core Rules.
