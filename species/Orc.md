@@ -11,4 +11,4 @@ Orcs are a physically powerful race slightly taller than humans but much stockie
 ---
 ## Features
 ### Relentless Endurance
-Orcs do not tire easily and have a +2 on any **Saving Throw** or **Ability Check** to resist gaining a level of [Exhaustion](Combat.md#exhaustion).  They also increase their **Strength** by +2 for determining [Encumbrance](EncumbranceAndEquipment#encumbrance) limits.
+Orcs do not tire easily and have a +2 on any **[Saving Throw](Glossary.md#saving%20throw)** or **[Ability Check](Glossary.md#ability%20check)** to resist gaining a level of [Exhaustion](Combat.md#exhaustion).  They also increase their **Strength** by +2 for determining [Encumbrance](EncumbranceAndEquipment#encumbrance) limits.

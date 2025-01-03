@@ -11,10 +11,10 @@ Elves are as much of the Fey world as they are of the mortal realm.  While this 
 ---
 ## Features
 ### Autumn Folk
-The age of the elves is long since past. A Elf’s Base and Max [Fortune Points](RulesSynopsis.md#fortune) are reduced by 1 (to a minimum 1 **Max Fortune**).
+The age of the elves is long since past. A Elf’s Base and Max [Fortune Points](Glossary.md#fortune%20points) are reduced by 1 (to a minimum 1 **Max Fortune**).
 ### Elven Senses
-Elves have +2 on [Perception](CoreRules.md#perception) checks.
+Elves have +2 on [Perception checks](Glossary.md#perception%20check).
 ### Fae Blooded
-Due to their inherently magical nature, elves gain a +2 bonus on all **Saving Throws** vs magic.
+Due to their inherently magical nature, elves gain a +2 bonus on all **[Saving Throws](Glossary.md#saving%20throw)** vs magic.
 ### True Name
-As fae creatures, elves have **True Names**, and those with the knowledge may use an elf’s true name against her. By calling out the true name, a character gains **Advantage** on all actions taken against the elf, including **attacks** and **saving throws**.
+As fae creatures, elves have **[True Names](Glossary.md#true%20name)**, and those with the knowledge may use an elf’s true name against her. By calling out the true name, a character gains **Advantage** on all actions taken against the elf, including **attacks** and **saving throws**.

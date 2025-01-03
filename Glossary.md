@@ -41,6 +41,9 @@ Rolling the dice twice and taking the worse result.
 ## Exhaustion
 A [condition](Combat.md#exhaustion) representing the character fatiguing and becoming less and less capable the more tired they get.
 
+## Fortune Points
+A pool of points used to grant characters certain bonuses as a reward for heroic and characterful role-play.  See [Fortune](RulesSynopsis.md#fortune) in the Rules Synopsis document.
+
 ## Full Class
 See [Core Class](#core%20class).
 
@@ -66,7 +69,7 @@ A special ability selected from a list of such abilities available to certain [c
 A measure of a character's training and experience.
 
 ## Low-Light Vision
-Allows a creature to see in dim lighting conditions as if it were bright light, but the vision is in shades of grey only. Full darkness still prevents any sight.
+Allows a creature to see in [dim lighting](CoreRules.md#visibility) conditions as if it were bright light, but the [vision](CoreRules.md#low-light%20vision) is in shades of grey only. Full darkness still prevents any sight.
 
 ## Mental Check
 An [Ability Check](#Ability%20Check) involving either **Intelligence**, **Wisdom** or **Charisma**.
@@ -75,10 +78,13 @@ An [Ability Check](#Ability%20Check) involving either **Intelligence**, **Wisdom
 - [ ] Description of morale.
 
 ## Perception Check
-A type of [Skilled check](#Skilled%20Check) involving one of the actor's senses (typically sight or hearing) based on **Wisdom**.
+A type of [Skilled check](#Skilled%20Check) involving one of the actor's senses (typically sight or hearing) based on **Wisdom**.  See [Perception](CoreRules.md#perception) in the Core Rules.
 
 ## Physical Check
 An [Ability Check](#Ability%20Check) involving either **Strength**, **Dexterity** or **Constitution**.
+
+## Saving Throw
+A type of D20 Check used to determine if a character is able to mitigate or outright avoid a dangerous or undesirable event.  This is broken into 3 distinct types: Evasion, Hardiness and Spirit.  See [Saving Throws](CoreRules.md#saving%20throws) in the Core Rules.
 
 ## Saving Throw Bonus
 A bonus added to your roll when making the named type of [saving throw](CoreRules.md#saving%20throws).
@@ -92,5 +98,17 @@ A numerical bonus that is added to the D20 roll when performing a [Skilled Check
 ## Skilled Check
 An [Ability Check](#Ability%20Check) to which the character's [Skill Bonus](#Skill%20Bonus) may be added.
 
+## Stealth
+The act of attempting to avoid detection.  This is a type of [Skilled](RulesSynopsis.md#skilled%20check) check.  See [Stealth Checks](CoreRules.md#stealth) in the Core Rules.
+
 ## Trait
 A specially ability available to all [classes](classes/Classes.md) at certain level ups.
+
+## True Name
+The true and hidden name of a supernatural creature (including spellcasters).  Those that know a creature's [true name](RulesSynopsis.md#names) have power over it that others do not.
+
+## Weapon Property
+Certain weapons have specific [properties](EncumbranceAndEquipment.md#weapon%20properties) that alter their use (such as Versatile, Finesse, Hurlant and so on).
+
+## Weapon Weight
+Weapons are categorized into 3 broad [weight](EncumbranceAndEquipment.md#weight) categories: Light, Medium and Heavy.
