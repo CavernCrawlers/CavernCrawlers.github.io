@@ -33,7 +33,7 @@
 
 ## Abjuration
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Spirit
+- **Sigils:** Form or Elemental matching the target's type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -49,14 +49,14 @@ At Tier 4+ this spell can send corporeal creatures back to their home dimension.
 
 | Tier    | Range | Area      |
 |:-------:|:-----:|:---------:|
-| 2 (6+)  | N     | 2 spirits |
-| 3 (9+)  | N     | 3 spirits |
-| 4 (12+) | F     | 4 spirits or 1 creature |
+| 2 (6+)  | Near  | 2 spirits |
+| 3 (9+)  | Near  | 3 spirits |
+| 4 (12+) | Far   | 4 spirits or 1 creature |
 | +1 (+3) | --    | +1 spirit/creature |
 
 ## Alarm
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Thought
+- **Sigils:** Thought
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -69,37 +69,37 @@ The caster touches a portal or singular object to set a magical alarm on it.  Fo
 
 *Upcasting*
 
-| Tier    | Area  | Duration |
-|:-------:|:-----:|:--------:|
-| 2 (6+)  | +1 Ob | 1 D      |
-| 3 (9+)  | +2 Ob | 1 We     |
-| +1 (+3) | +1 Ob | +1 step  |
+| Tier    | Area      | Duration |
+|:-------:|:---------:|:--------:|
+| 2 (6+)  | +1 Object | 1 Day    |
+| 3 (9+)  | +2 Object | 1 Week   |
+| +1 (+3) | +1 Object | +1 step  |
 
 ## Alter Appearance
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Illusion
+- **Sigils:** Illusion
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Personal
 - **Area:** Self
-- **Duration:** 10 min (c)
+- **Duration:** 1 Turn (c)
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-With this spell, a spellcaster can change their appearance to that of another humanoid creature of roughly the same size (within the same Size Category).  The magical disguise may be seen through if with a deliberate inspection and a [Perception](CoreRules.md#perception) check versus the caster's spell save difficulty. 
+With this spell, a spellcaster can change their appearance to that of another humanoid creature of roughly the same size (within the same Size Category).  The magical disguise may be seen through with a deliberate inspection and a [Perception](CoreRules.md#perception) check versus the caster's spell save difficulty. 
 
 *Upcasting*
 
-| Tier    | Range | Area         | Duration |
-|:-------:|:-----:|:------------:|:--------:|
-| 2 (6+)  | T     | 1 creature   | 1 H (c)  |
-| 3 (9+)  | C     | 2 creatures  | 1 Wa (c) |
-| 4 (12+) | N     | 4 creatures  | 1 D (c)  |
-| +1 (+3) | --    | +2 creatures | --       |
+| Tier    | Range | Area         | Duration    |
+|:-------:|:-----:|:------------:|:-----------:|
+| 2 (6+)  | Touch | 1 creature   | 1 Hour (c)  |
+| 3 (9+)  | Close | 2 creatures  | 1 Watch (c) |
+| 4 (12+) | Near  | 4 creatures  | 1 Day (c)   |
+| +1 (+3) | --    | +2 creatures | --          |
 
 ## Arcane Arrow
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** any elemental
+- **Sigils:** any elemental
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -108,7 +108,7 @@ With this spell, a spellcaster can change their appearance to that of another hu
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-The caster conjures an arrow of elemental energy, whose type is determined by the sigil used to cast the spell.  Once cast, the spellcaster makes a Magical [Magical Attack](Combat.md#Magical%20Attacks) roll vs the target's **AC**.  On a successful hit, the spell does 1d6 damage of the given type.  If the arrow is not loosed before the spell's duration expires, the arrow is lost.
+The caster conjures an arrow of elemental energy, whose type is determined by the sigil used to cast the spell.  Once cast, the spellcaster makes a [Magical Attack](Combat.md#Magical%20Attacks) roll vs the target's **AC**.  On a successful hit, the spell does 1d6 damage of the given type.  If the arrow is not loosed before the spell's duration expires, the arrow is lost.
 
 Additional arrows may be conjured at a rate of +1 arrow per +1 Tier. Each arrow may be targeted at a different creature and may be of any elemental sigil the mage knows.  The arrows do not need to be loosed all at the same time, though any arrows not loosed by the end of the spell's duration are lost.  Once all arrows are loosed, or the spell's duration expires, the spell ends.
 
@@ -116,13 +116,13 @@ Additional arrows may be conjured at a rate of +1 arrow per +1 Tier. Each arrow 
 
 | Tier    | Range | Duration | # Arrows |
 |:-------:|:-----:|:--------:|:--------:|
-| 2 (6+)  | N     | 10 Mi    | 2        |
-| 3 (9+)  | F     | 1 H      | 3        |
+| 2 (6+)  | Near  | 10 Mi    | 2        |
+| 3 (9+)  | Far     | 1 Hour      | 3        |
 | +1 (+3) | --    | --       | +1       |
 
 ## Beauty's Bane
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** A form sigil matching the target creature type.
+- **Sigils:** A form sigil matching the target creature type.
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 minute
 - **Range:** Near
@@ -135,16 +135,16 @@ This curse makes the target repulsive both physically and spiritually.  The affl
 
 *Upcasting*
 
-| Tier    | Range | Area  | Duration |
-|:-------:|:-----:|:-----:|:--------:|
-| 2 (6+)  | N     | 2 Cr  | 1 H      |
-| 3 (9+)  | F     | 3 Cr  | 1 Wa     |
-| 4 (12+) | F     | 4 Cr  | 1 D      |
-| +1 (+3) | --    | +1 Cr | --       |
+| Tier    | Range | Area        | Duration |
+|:-------:|:-----:|:-----------:|:--------:|
+| 2 (6+)  | Near  | 2 Creature  | 1 Hour   |
+| 3 (9+)  | Far   | 3 Creature  | 1 Watch  |
+| 4 (12+) | Far   | 4 Creature  | 1 Day    |
+| +1 (+3) | --    | +1 Creature | +1 Step  |
 
 ## Calm
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** A form sigil matching the target creature type.
+- **Sigils:** A form sigil matching the target creature type.
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -157,16 +157,16 @@ This calms the targeted creature's emotions and will remove the [Frightened](Com
 
 *Upcasting*
 
-| Tier    | Range | Area  |
-|:-------:|:-----:|:-----:|
-| 2 (6+)  | Cl    | 2 Cr  |
-| 3 (9+)  | N     | 4 Cr  |
-| 4 (12+) | F     | 6 Cr  |
-| +1 (+3) | --    | +2 Cr |
+| Tier    | Range | Area        |
+|:-------:|:-----:|:-----------:|
+| 2 (6+)  | Close | 2 Creature  |
+| 3 (9+)  | Near  | 4 Creature  |
+| 4 (12+) | Far   | 6 Creature  |
+| +1 (+3) | --    | +2 Creature |
 
 ## Charm
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** A form sigil matching the target creature type.
+- **Sigils:** A form sigil matching the target creature type.
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -187,15 +187,15 @@ As soon as the spell ends (or if the initial save was successful), the targeted 
 
 *Upcasting*
 
-| Tier    | Range | Area  |
-|:-------:|:-----:|:-----:|
-| 2 (6+)  | N     | 2 Cr  |
-| 3 (9+)  | F     | 3 Cr  |
-| +1 (+3) | --    | +1 Cr |
+| Tier    | Range | Area        |
+|:-------:|:-----:|:-----------:|
+| 2 (6+)  | Near  | 2 Creature  |
+| 3 (9+)  | Far   | 3 Creature  |
+| +1 (+3) | --    | +1 Creature |
 
 ## Detect Magic
 - **Tier:** 1 (3+)
-- **[Sigils](magic/Sigils.md):** Truth
+- **Sigils:** Truth
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Personal
@@ -211,7 +211,7 @@ The spell's duration may be increased 1 step per +1 Tier.
 
 ## Enchant Weapon
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Any elemental
+- **Sigils:** Any elemental
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -226,13 +226,13 @@ By casting this spell and touching a weapon, that weapon becomes infused with th
 
 | Tier    | Range | Area      | Duration |
 |:-------:|:-----:|:---------:|:--------:|
-| 2 (6+)  | C     | 2 Weapons | 1 H      |
-| 3 (9+)  | N     | 3 Weapons | 1 Wa     |
+| 2 (6+)  | Close | 2 Weapons | 1 Hour   |
+| 3 (9+)  | Near  | 3 Weapons | 1 Watch  |
 | +1 (+3) | --    | +1 Weapon | +1 Step  |
 
 ## Faerie Fire
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Light or Illusion
+- **Sigils:** Light or Illusion
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -241,19 +241,19 @@ By casting this spell and touching a weapon, that weapon becomes infused with th
 - **Save:** Spirit
 - **Components:** Incantations
 
-The target of this spell must make its save or become surrounded by a surreal, ghostly, heatless light of a color of the caster's choice.  The creature now sheds light equivalent to candlelight for the duration of the spell. Such creatures cannot be hidden or obscured by darkness, nor obscured by invisibility.
+The target of this spell must make its save or become surrounded by a surreal, ghostly, heatless light of a color of the caster's choice.  The creature now sheds light equivalent to candlelight for the duration of the spell. Such creatures cannot be hidden or obscured by darkness nor invisibility.
 
 *Upcasting*
 
-| Tier    | Range | Area  | Duration   |
-|:-------:|:-----:|:-----:|:----------:|
-| 2 (6+)  | N     | 2 Cr  | 10 min (c) |
-| 3 (9+)  | F     | 3 Cr  | 1 H (c)    |
-| +1 (+3) | --    | +1 Cr | +1 step    |
+| Tier    | Range | Area        | Duration   |
+|:-------:|:-----:|:-----------:|:----------:|
+| 2 (6+)  | Near  | 2 Creature  | 1 Turn (c) |
+| 3 (9+)  | Far   | 3 Creature  | 1 Hour (c) |
+| +1 (+3) | --    | +1 Creature | +1 step    |
 
 ## Feather Step
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Air
+- **Sigils:** Air
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -262,19 +262,19 @@ The target of this spell must make its save or become surrounded by a surreal, g
 - **Save:** n/a
 - **Components:** Incantations, Gestures
 
-The creature touched by the caster seems to float just a hair's width above whatever surface the stand upon, thus leaving no impressions in their wake and making virtually no sound from their movement.  Such creatures roll **stealth checks** with Advantage for the spell's duration and cannot be tracked by normal means (though they do leave a trail of magical "footprints" that last for 1 hour).  Finally, affected creatures are half as likely as normal to set off "pressure-plates" and similar devices activated by weight/being stepped on.
+The creature touched by the caster seems to float just a hair's width above whatever surface they stand upon, thus leaving no impressions in their wake and making virtually no sound from their movement.  Such creatures roll **stealth checks** with **Advantage** for the spell's duration and cannot be tracked by normal means (though they do leave a trail of magical "footprints" that last for 1 hour).  Finally, affected creatures are half as likely as normal to set off "pressure-plates" and similar devices activated by weight/being stepped on.
 
 *Upcasting*
 
-| Tier    | Range | Duration | Area  |
-|:-------:|:-----:|:--------:|:-----:|
-| 2 (6+)  | C     | 1 H (c)  | 2 Cr  |
-| 3 (9+)  | N     | 1 Wa (c) | 4 Cr  |
-| +1 (+3) | --    | +1 step  | +2 Cr |
+| Tier    | Range | Duration    | Area        |
+|:-------:|:-----:|:-----------:|:-----------:|
+| 2 (6+)  | Close | 1 Hour (c)  | 2 Creature  |
+| 3 (9+)  | Near  | 1 Watch (c) | 4 Creature  |
+| +1 (+3) | --    | +1 step     | +2 Creature |
 
 ## Frighten
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** A sigil matching the target creature type.
+- **Sigils:** A sigil matching the target creature type.
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -287,15 +287,15 @@ This spell afflicts the targeted creature with the [Frightened](Combat.md#Fright
 
 *Upcasting*
 
-| Tier    | Range | Area  | Duration |
-|:-------:|:-----:|:-----:|:--------:|
-| 2 (6+)  | N     | 2 Cr  | 10 min   |
-| 3 (9+)  | F     | 3 Cr  | 1 Hr     |
-| +1 (+3) | --    | +1 Cr | +1 step  |
+| Tier    | Range | Area        | Duration |
+|:-------:|:-----:|:-----------:|:--------:|
+| 2 (6+)  | Near  | 2 Creature  | 1 Turn   |
+| 3 (9+)  | Far   | 3 Creature  | 1 Hour   |
+| +1 (+3) | --    | +1 Creature | +1 step  |
 
 ## Gather Mist/Shadows
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Air, Illusion or Shadow
+- **Sigils:** Air, Illusion or Shadow
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -310,13 +310,13 @@ This spell fills a 5 ft cube with impenetrable mist or shadows, blocking normal 
 
 | Tier    | Range | Area    | Duration | Effects           |
 |:-------:|:-----:|:-------:|:--------:|:-----------------:|
-| 2 (6+)  | N     | L       | 1 Hr     | --                |
-| 3 (9+)  | F     | H       | 1 Wa     | blocks Darkvision |
+| 2 (6+)  | Near  | Large   | 1 Hour   | --                |
+| 3 (9+)  | Far   | Huge    | 1 Watch  | blocks Darkvision |
 | +1 (+3) | --    | +1 step | +1 step  | --                |
 
 ## Grasping Plants
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Plant
+- **Sigils:** Plant
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -333,13 +333,13 @@ This spell has no effect if the target area is barren of plant life.
 
 | Tier    | Range | Area    | Duration   |
 |:-------:|:-----:|:-------:|:----------:|
-| 2 (6+)  | N     | L       | 10 min (c) |
-| 3 (9+)  | F     | H       | 1 Hr (c)   |
+| 2 (6+)  | Near  | Large   | 1 Turn (c) |
+| 3 (9+)  | Far   | Huge    | 1 Hour (c) |
 | +1 (+3) | --    | +1 step | +1 step    |
 
 ## Gust
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Air
+- **Sigils:** Air
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Close
@@ -352,16 +352,16 @@ This spell summons a sudden burst of wind to force targets in the area of effect
 
 *Upcasting*
 
-| Tier    | Range | Area    | Distance |
-|:-------:|:-----:|:-------:|:--------:|
-| 2 (6+)  | C     | L       | 5ft      |
-| 3 (9+)  | N     | H       | 10ft     |
-| 4 (12+) | N     | G       | 15ft     |
-| +1 (+3) | --    | +1 step | --       |
+| Tier    | Range | Area       | Distance |
+|:-------:|:-----:|:----------:|:--------:|
+| 2 (6+)  | Close | Large      | 5 ft     |
+| 3 (9+)  | Near  | Huge       | 10 ft    |
+| 4 (12+) | Near  | Gargantuan | 15 ft    |
+| +1 (+3) | --    | +1 step    | --       |
 
 ## Heal Wounds
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** A form or elemental sigil matching the target creature type.
+- **Sigils:** A form or elemental sigil matching the target creature type.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -386,7 +386,7 @@ See the [Lingering Injury](Combat.md#lingering%20injuries) rules.
 
 ## Hypnotic Gaze
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Illusion
+- **Sigils:** Illusion
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Close
@@ -395,20 +395,20 @@ See the [Lingering Injury](Combat.md#lingering%20injuries) rules.
 - **Save:** Spirit
 - **Components:** Gestures & Incantations
 
-By speaking in a soothing voice and performing a complex pattern of weaving gestures, the caster attempts to lull the target into a trance-like state.  If the target fails its saving throw, it suffers the [Incapacitated](Combat.md#incapacitated) condition for the spell's duration.  Affected creatures may be shocked out of the effect as if they were asleep.  Affected creatures may re-try their saving throw at the end of each of their turns to shake off the effect.  Blind creatures are immune to this spell.
+By speaking in a soothing voice and performing a complex pattern of weaving gestures, the caster attempts to lull the target into a trance-like state.  If the target fails its saving throw, it suffers the [Incapacitated](Combat.md#incapacitated) condition for the spell's duration.  Affected creatures may be shocked out of the effect as if they were asleep.  Affected creatures may retry their saving throw at the end of each of their turns to shake off the effect.  Blind and mindless creatures are immune to this spell.
 
 *Upcasting*
 
-| Tier | Diff | Range | Area  | Duration   |
-|:----:|:----:|:-----:|:-----:|:----------:|
-| 2    | 6+   | C     | 1 Cr  | 10 min (c) |
-| 3    | 9+   | N     | 2 Cr  | --         |
-| 4    | 12+  | N     | 3 Cr  | 1 Hr (c)   |
-| +1   | +3   | --    | +1 Cr | --         |
+| Tier | Diff | Range | Area        | Duration   |
+|:----:|:----:|:-----:|:-----------:|:----------:|
+| 2    | 6+   | Close | 1 Creature  | 1 Turn (c) |
+| 3    | 9+   | Near  | 2 Creature  | 1 Turn (c) |
+| 4    | 12+  | Near  | 3 Creature  | 1 Hour (c) |
+| +1   | +3   | --    | +1 Creature | --         |
 
 ## Leaping
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** A sigil matching the target creature type.
+- **Sigils:** A sigil matching the target creature type.
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -421,15 +421,15 @@ This spell increases the target's [leaping](Combat.md#move%20actions) ability by
 
 *Upcasting*
 
-| Tier | Diff | Range | Area  | Duration   |
-|:----:|:----:|:-----:|:-----:|:----------:|
-| 2    | 6+   | C     | 2 Cr  | 10 min (c) |
-| 3    | 9+   | N     | 4 Cr  | 1 Hr (c)   |
-| +1   | +3   | --    | +2 Cr | --         |
+| Tier | Diff | Range | Area        | Duration   |
+|:----:|:----:|:-----:|:-----------:|:----------:|
+| 2    | 6+   | Close | 2 Creature  | 1 Turn (c) |
+| 3    | 9+   | Near  | 4 Creature  | 1 Hour (c) |
+| +1   | +3   | --    | +2 Creature | --         |
 
 ## Mage Lock
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Earth, Ice, Order or Plant (depending on the "construction" of the lock)
+- **Sigils:** Earth, Ice, Order or Plant (depending on the "construction" of the lock)
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -442,15 +442,15 @@ By use of this spell, a mage uses their power to seal a closable opening.  The o
 
 *Upcasting*
 
-| Tier | Diff | Range | Area  | Duration |
-|:----:|:----:|:-----:|:-----:|:--------:|
-| 2    | 6+   | C     | 2 Ob  | 10 min   |
-| 3    | 9+   | N     | 4 Ob  | 1 Hr     |
-| +1   | +3   | --    | +2 Ob | +1 step  |
+| Tier | Diff | Range | Area      | Duration |
+|:----:|:----:|:-----:|:---------:|:--------:|
+| 2    | 6+   | Close | 2 Object  | 1 Turn   |
+| 3    | 9+   | Near  | 4 Object  | 1 Hour   |
+| +1   | +3   | --    | +2 Object | +1 step  |
 
 ## Magic Pouch
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Void
+- **Sigils:** Void
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Touch
@@ -465,13 +465,13 @@ A single container you touch has its carrying capacity increased by +10 slots fo
 
 | Tier | Diff | Range | Duration | Effect   |
 |:----:|:----:|:-----:|:--------:|:--------:|
-| 2    | 6+   | C     | 1 Wa     | 15 slots |
-| 3    | 9+   | N     | 1 D      | 20 slots |
+| 2    | 6+   | Close | 1 Watch  | 15 slots |
+| 3    | 9+   | Near  | 1 Day    | 20 slots |
 | +1   | +3   | --    | +1 step  | +5 slots |
 
 ## Messenger Bird
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Beast
+- **Sigils:** Beast
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 minute
 - **Range:** Personal
@@ -486,14 +486,14 @@ With this spell, the caster summons an ordinary bird and enchants it to deliver 
 
 | Tier | Diff | Duration | # Birds |
 |:----:|:----:|:--------:|:-------:|
-| 2    | 6+   | 1 Wa     | 2       |
+| 2    | 6+   | 1 Watch  | 2       |
 | +1   | +3   | +1 step  | +1      |
 
 With multiple birds, each bird may be sent to a different recipient, but the messages must be identical.
 
 ## Purify Food and Drink
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Beast, Plant or Water (depending on food/drink type)
+- **Sigils:** Beast, Plant or Water (depending on food/drink type)
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 minute
 - **Range:** Near
@@ -506,7 +506,7 @@ This purification ritual causes all food and drink within the affected area to b
 
 ## Read Language
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Truth
+- **Sigils:** Truth
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Personal
@@ -522,7 +522,7 @@ For each +1 Tier, increase the duration [1 step](Spells.md#duration).
 
 ## Reflection
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Illusion
+- **Sigils:** Illusion
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Close
@@ -535,7 +535,7 @@ This spell conjures a one-way reflective surface in front of the caster.  Anyone
 
 ## Resist Element
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Elemental sigil(s) matching the element(s) to be resisted or the opposing elemental sigil
+- **Sigils:** Elemental sigil(s) matching the element(s) to be resisted or the opposing elemental sigil
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 reaction
 - **Range:** Touch
@@ -544,19 +544,19 @@ This spell conjures a one-way reflective surface in front of the caster.  Anyone
 - **Save:** none
 - **Components:** Gestures & Incantations
 
-The target gains **resistance** to that type of damage for the spell's duration.
+The target gains **[resistance](Combat.md#resistance)** to that type of damage for the spell's duration.
 
 *Upcasting*
 
-| Tier | Range | Area  | Duration | # Elements |
-|:----:|:-----:|:-----:|:--------:|:----------:|
-| 2    | 6+    | 2 Cr  | 10 min   | 1          |
-| 3    | 9+    | 4 Cr  | 1 Hr     | 2          |
-| +1   | +3    | +2 Cr | +1 step  | +1         |
+| Tier | Range | Area        | Duration | # Elements |
+|:----:|:-----:|:-----------:|:--------:|:----------:|
+| 2    | 6+    | 2 Creature  | 1 Turn   | 1          |
+| 3    | 9+    | 4 Creature  | 1 Hour   | 2          |
+| +1   | +3    | +2 Creature | +1 step  | +1         |
 
 ## Shield
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Earth (stone), Ice, Shadow, Water, Beast (bone) or Plant (wood)
+- **Sigils:** Earth (stone), Ice, Shadow, Water, Beast (bone) or Plant (wood)
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 reaction
 - **Range:** Personal
@@ -572,7 +572,7 @@ For each +1 Tier, increase the duration 1 [step](magic/Spells.md#duration).
 
 ## Sleep
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** A sigil matching the target creature type.
+- **Sigils:** A sigil matching the target creature type.
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -585,15 +585,15 @@ This spell forces the touched creature into a magical slumber, rendering them [U
 
 *Upcasting*
 
-| Tier | Diff | Range | Area  | Duration |
-|:----:|:----:|:-----:|:-----:|:--------:|
-| 2    | 6+   | C     | 2 Cr  | 10 min   |
-| 3    | 9+   | N     | 3 Cr  | 1 Hr     |
-| +1   | +3   | --    | +1 Cr | +1 step  |
+| Tier | Diff | Range | Area        | Duration |
+|:----:|:----:|:-----:|:-----------:|:--------:|
+| 2    | 6+   | Close | 2 Creature  | 1 Turn   |
+| 3    | 9+   | Near  | 3 Creature  | 1 Hour   |
+| +1   | +3   | --    | +1 Creature | +1 step  |
 
 ## Spider's Aspect
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Beast
+- **Sigils:** Beast
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -606,15 +606,15 @@ The touched creature gains the ability to cling to vertical and inverted surface
 
 *Upcasting*
 
-| Tier | Diff | Range | Area  | Duration |
-|:----:|:----:|:-----:|:-----:|:--------:|
-| 2    | 6+   | C     | 2 Cr  | 1 Hr (c) |
-| 3    | 9+   | N     | 4 Cr  | 1 Wa (c) |
-| +1   | +3   | --    | +2 Cr | +1 step  |
+| Tier | Diff | Range | Area        | Duration    |
+|:----:|:----:|:-----:|:-----------:|:-----------:|
+| 2    | 6+   | Close | 2 Creature  | 1 Hour (c)  |
+| 3    | 9+   | Near  | 4 Creature  | 1 Watch (c) |
+| +1   | +3   | --    | +2 Creature | +1 step     |
 
 ## Turn Undead
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Light, Life or Death.
+- **Sigils:** Light, Life or Death.
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -630,7 +630,7 @@ For each +1 Tier, increase the duration [1 step](Spells.md#duration).
 
 ## Unseen Servant
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Spirit
+- **Sigils:** Spirit
 - **Casting Ability:** Intelligence
 - **Casting Time:** 1 minute
 - **Range:** Near
@@ -645,13 +645,13 @@ The caster summons a minor spirit to help with mundane tasks.  The summoned spir
 
 | Tier | Diff | Range | Duration |
 |:----:|:----:|:-----:|:--------:|
-| 2    | 6+   | N     | 1 Wa     |
-| 3    | 9+   | F     | 1 D      |
+| 2    | 6+   | Near  | 1 Watch  |
+| 3    | 9+   | Far   | 1 Day    |
 | +1   | +3   | --    | +1 step  |
 
 ## Ventriloquism
 - **Tier:** 1st (3+)
-- **[Sigils](magic/Sigils.md):** Air or Illusion
+- **Sigils:** Air or Illusion
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Near

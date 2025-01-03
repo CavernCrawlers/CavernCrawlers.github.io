@@ -8,48 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4aad21b4ccf4479d",
+            "id": "85e579bf5e25c806",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CharacterCreation.md",
+                "file": "magic/TierFourSpells.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CharacterCreation"
+              "title": "TierFourSpells"
             }
           },
           {
-            "id": "25d941a740caf71c",
+            "id": "9e33a037def02955",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lifepaths/GiftedDilettante.md",
+                "file": "Combat.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GiftedDilettante"
+              "title": "Combat"
             }
           },
           {
-            "id": "cb08bdcc3ce184db",
+            "id": "37cb9e8d91dcb31b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traits.md",
+                "file": "RulesSynopsis.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "RulesSynopsis"
+            }
+          },
+          {
+            "id": "c7a2d8c30ea7a1ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "magic/Spells.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Traits"
+              "title": "Spells"
             }
           }
         ]
@@ -124,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CharacterCreation.md",
+                "file": "magic/TierFourSpells.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +149,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CharacterCreation"
+              "title": "Backlinks for TierFourSpells"
             }
           },
           {
@@ -219,35 +234,35 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "4aad21b4ccf4479d",
+  "active": "85e579bf5e25c806",
   "lastOpenFiles": [
+    "magic/TierThreeSpells.md",
+    "magic/Spells.md",
+    "magic/TierTwoSpells.md",
+    "magic/TierOneSpells.md",
+    "magic/TierZeroSpells.md",
+    "RulesSynopsis.md",
+    "CoreRules.md",
+    "magic/Sigils.md",
+    "magic/MagicalArts.md",
+    "classes/Classes.md",
+    "Combat.md",
+    "Encounters.md",
+    "Dungeoneering.md",
+    "classes/ClassAbilities.md",
+    "EncumbranceAndEquipment.md",
+    "CharacterCreation.md",
     "lifepaths/Lifepaths.md",
     "lifepaths/AssistantBeastKeeper.md",
-    "EncumbranceAndEquipment.md",
     "lifepaths/GiftedDilettante.md",
     "classes/Rogue-Spellcaster.md",
     "lifepaths/FutureWarlord.md",
     "lifepaths/BarbarianNamer.md",
     "Traits.md",
-    "magic/TierZeroSpells.md",
     "lifepaths/AcolyteOfTheOldGods.md",
     "lifepaths/VillageHero.md",
-    "CharacterCreation.md",
-    "RulesSynopsis.md",
     "lifepaths/LibreOffice/Lifepaths.ods",
     "lifepaths/CharacterSheetInstructions.md",
-    "classes/Rogue.md",
-    "lifepaths/AdventurousTrader.md",
-    "templates/LifepathTemplate.md",
-    "draft/Skills.md",
-    "draft/RaceOgre.md",
-    "draft/LegendaryKnacks.md",
-    "classes/Knacks.md",
-    "optional/Legendary Levels.md",
-    "classes/Fighter.md",
-    "classes/ClassAbilities.md",
-    "classes/Spellcaster.md",
-    "classes/Fighter-Spellcaster.md",
     "misc/lu16528yi3r.tmp",
     "misc/CavernCrawlers Classes.ods",
     "magic",

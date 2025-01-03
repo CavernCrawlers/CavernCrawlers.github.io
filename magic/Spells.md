@@ -27,7 +27,7 @@ All spell descriptions contain the following information.
 ### Tier
 This is the spell's Tier, which determines who may learn the spell.
 
-### [Sigils](magic/Sigils.md)
+### Sigils
 Which [sigils](magic/Sigils.md) are required for the casting of the spell.
 
 ### Casting Ability
@@ -45,7 +45,7 @@ Spells use the same values as are used for ranged weapons:<br/>
 **(D)istant** - Beyond perception
 
 Two additional ranges are also added:<br/>
-**(T)ouch** – magical arts with a range of touch require the caster to physically touch the subject.  Unwilling targets require an **Attack Roll** vs the target's **AC**.<br/>
+**(T)ouch** – magical arts with a range of touch require the caster to physically touch the subject.  Unwilling targets require a **Magical Attack Roll** vs the target's **AC**.<br/>
 **(P)ersonal** – This spell will only affect the caster.
 
 Unless otherwise noted, any spell with a range of **Near**, **Far**, **Sight** or **Distant**, that requires an **Attack Roll**, will suffer **Disadvantage** on that Attack Roll if cast within **Close** range of an enemy.
@@ -55,7 +55,7 @@ Unless otherwise noted, any spell cast at a range of **Far** or greater, that re
 ### Area
 This is the area over which the magical art’s effects can be felt:<br/>
 **Self** – Affects the caster only.<br/>
-**Creature/(Ob)ject** – Affects the targeted creature(s) or object(s) only.<br/>
+**Creature/Object** – Affects the targeted creature(s) or object(s) only.<br/>
 **Tiny** – Affects an area no larger than 216 cubic inches (a 6x6x6 inch cube).<br/>
 **Small** – Affects an area no larger than 27 cubic feet (3x3x3 feet).<br/>
 **Medium** – Affects an area no larger than 125 cubic feet (5x5x5 feet).<br/>

@@ -21,6 +21,7 @@
 		- [Lingering Injuries](#Lingering%20Injuries)
 		- [ ] Resistance
 		- [ ] Immunity
+		- [ ] Vulnerability
 - [Combat Maneuvers](#Combat%20Maneuvers)
 	- [Combat Maneuver Examples:](#Combat%20Maneuver%20Examples:)
 		- [Battle Cry](#Battle%20Cry)

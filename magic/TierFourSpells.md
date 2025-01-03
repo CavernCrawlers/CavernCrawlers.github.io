@@ -31,7 +31,7 @@ Wrath
 
 ## Arcane Eye
 - **Tier:** 4 (12+)
-- **[Sigils](magic/Sigils.md):** Truth
+- **Sigils:** Truth
 - **Casting Ability:** Wisdom
 - **Casting Time:** 10 minutes
 - **Range:** Near
@@ -44,15 +44,14 @@ By this spell, the wizard conjures an invisible "eye" through which they can see
 
 *Upcasting*
 
-| Difficulty | Effect   |
-|:----------:|:---------|
-| +2         | Grant the eye full [darkvision](Glossary.md#darkvision). |
-| +2         | Extend the range to Far. |
-| +2         | Extend the duration 1 step. |
+| Tier    | Range | Duration   | Effect |
+|:-------:|:-----:|:----------:|:-------|
+| 5 (15+) | Near  | 1 Hour (c) | The eye gains full [darkvision](Glossary.md#darkvision). |
+| 6 (18+) | Far   | 1 Hour (c) | --   |
 
 ## Confusion
 - **Tier:** 4 (12+)
-- **[Sigils](magic/Sigils.md):** Thought & Chaos
+- **Sigils:** Thought & Chaos
 - **Casting Ability:** Charisma
 - **Casting Time:** 1 action
 - **Range:** Near
@@ -65,24 +64,22 @@ All creatures in the target area must make a save or become affected the spell. 
 
 Each affected creature must roll on the following table at the start of each of their turns in order to determine their behavior:
 
-|  2d6 | Behavior |
-|:----:|:---------|
-|  2-5 | Attack caster's group |
-|  6-8 | No action |
+|  2d6 | Behavior               |
+|:----:|:-----------------------|
+|  2-5 | Attack caster's group  |
+|  6-8 | No action              |
 | 9-12 | Attack subject's group |
 
 *Upcasting*
 
-| Difficulty | Effect   |
-|:----------:|:---------|
-| +1         | Increase save difficulty by +1 |
-| +2         | Increase Range to Far |
-| +2         | Increase Area by 1 step |
-| +2         | Increase Duration by 1 step |
+| Tier    | Range | Area       |
+|:-------:|:-----:|:----------:|
+| 5 (15+) | Far   | Huge       |
+| 6 (18+) | Far   | Gargantuan |
 
 ## Create Food & Water
 - **Tier:** 4 (12+)
-- **[Sigils](magic/Sigils.md):** Beast & Plant
+- **Sigils:** Beast & Plant
 - **Casting Ability:** Wisdom
 - **Casting Time:** 10 minutes
 - **Range:** Close
@@ -95,14 +92,14 @@ This spell creates a 1 day supply of food & water for 6 medium-sized people.  Th
 
 *Upcasting*
 
-| Difficulty | Effect   |
-|:----------:|:---------|
-| +2         | Conjure enough food & water for an additional 6 medium-sized people. |
-| +2         | Create preserved rations instead of normal food (not tasty but will last as long as normal rations without spoiling). |
+| Tier    | Effect |
+|:-------:|:-------|
+| 5 (15+) | Conjure enough food & water for 12 medium-sized people. |
+| 6 (18+) | Create preserved rations instead of normal food (not tasty but will last as long as normal rations without spoiling). |
 
 ## Divination
 - **Tier:** 4 (12+)
-- **[Sigils](magic/Sigils.md):** Time & Truth
+- **Sigils:** Time & Truth
 - **Casting Ability:** Wisdom
 - **Casting Time:** 1 hour
 - **Range:** Self
@@ -111,7 +108,7 @@ This spell creates a 1 day supply of food & water for 6 medium-sized people.  Th
 - **Save:** none
 - **Components:** Gestures, Incantations & a fortune telling focus (bones, entrails, cards, special herbs, etc)
 
-The caster enters a trance and "casts" the fortune telling tools of their choice, sending their consciousness out into the aether to try to discern things not apparent to mortal eyes.  The trance lasts the full casting time and the caster is treated as [unconcious](Combat.md#unconcious) for the duration.
+The caster enters a trance and "casts" the fortune telling tools of their choice, sending their consciousness out into the aether to try to discern things not apparent to mortal eyes.  The trance lasts the full casting time and the caster is treated as [unconscious](Combat.md#unconscious) for the duration.
 
 The caster may ask the GM a single "yes" or "no" question that must be answered truthfully.
 
@@ -119,13 +116,14 @@ Each time this spell is cast within a 24-hour period increases the casting diffi
 
 *Upcasting*
 
-| Difficulty | Effect   |
-|:----------:|:---------|
-| +2         | Ask an additional question (max 3) |
+| Tier    | Effect |
+|:-------:|:-------|
+| 5 (15+) | May ask 2 questions. |
+| 6 (18+) | May ask 3 questions. |
 
 ## {name}
 - **Tier:** 4 (12+)
-- **[Sigils](magic/Sigils.md):** {runes}
+- **Sigils:** {runes}
 - **Casting Ability:** {ability}
 - **Casting Time:** {time}
 - **Range:** {range}

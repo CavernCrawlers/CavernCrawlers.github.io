@@ -11,9 +11,9 @@
   "copy-as-html",
   "obsidian-local-images",
   "simple-image-inserter",
-  "display-relative-path-img",
   "obsidian-enhancing-export",
   "obsidian-plugin-todo",
   "obisidian-note-linker",
-  "virtual-linker"
+  "virtual-linker",
+  "display-relative-path-img"
 ]

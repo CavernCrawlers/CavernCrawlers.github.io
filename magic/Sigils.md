@@ -2,7 +2,7 @@
 
 It is believed by many that sigils represent the language the gods used in the creation of the cosmos.  This is the reason some believe that magic is solely the provenance of the gods and that mortal casters are committing blasphemy by practicing magic. Regardless of their true nature, it is sigils that empower magic.
 
-[Full spellcasters](Glossary.md#full%20class) begin play knowing 4 sigils.  [Hybrid spellcasters](Glossar.md#hybrid%20class) begin play with just 2 sigils.  More must be discovered in play.
+[Full spellcasters](Glossary.md#full%20class) begin play knowing 4 sigils.  [Hybrid spellcasters](Glossary.md#hybrid%20class) begin play with just 2 sigils.  More must be discovered in play.
 - [Sigil List](Sigil%20List)
 - [Learning New Sigils](#Learning%20New%20Sigils)
 
