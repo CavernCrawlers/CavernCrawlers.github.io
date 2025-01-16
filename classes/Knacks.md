@@ -67,64 +67,43 @@ Pick a specific type of [Weapon](EncumbranceAndEquipment.md#weapons) (such as sh
 
 ## Rogue
 
-### %%Assassin%%
-Your [Sneak Attack](classes/ClassAbilities.md#sneak%20attack) dice increase [1 step](CoreRules.md#die%20adjustments).
+### Blackjack
+When attacking a humanoid victim not wearing a helmet while you have [Advantage](CoreRules.md#advantage%20and%20disadvantage) on your attack, you can attempt to knock them out with a suitable "non-lethal" attack (blackjack, weapon pommel, etc).  The victim will take 1d4 bludgeoning damage and must make a [Hardiness save](CoreRules.md#saving%20throw) vs. your attack total or fall [unconscious](Combat.md#unconscious) for [2p4](CoreRules.md#countdown%20pools) [Rounds](Combat.md#time).
 
-### %%Blackjack%%
-When attacking a humanoid victim not wearing a helmet while you have [Advantage](CoreRules.md#advantage%20and%20disadvantage) on your attack, you can attempt to knock them out with a suitable "non-lethal" attack (blackjack, weapon pommel, etc).  The victim will take 1d4 bludgeoning damage and must make a [Hardiness save](CoreRules.md#saving%20throw) vs. your attack total or fall [unconscious](Combat.md#unconscious) for [2d4(pool)](CoreRules.md#countdown%20pools) [Rounds](Combat.md#time).
-
-### %%Code-Breaker%%
+### Code-Breaker
 You have +2 on [checks](CoreRules.md#the%20d20%20check) to decipher secret codes and unknown languages.
 
-### %%Counterfeiter%%
-You have +2 on rolls to spot or create forgeries.
+### Death Blow
+Your [Sneak Attack](classes/ClassAbilities.md#sneak%20attack) dice increase [1 step](CoreRules.md#die%20adjustments).
 
-### %%Distracting Defense%%
-You are good at misdirection and add your **Charisma Bonus** to your [AC](CoreRules.md#attack%20roll) so long as you are not wearing medium or heavy [armor](EncumbranceAndEquipment.md#armor).  Cannot be combined with **Intelligent Defense**.
+### Distracting Defense
+You are good at misdirection and add your *Charisma Modifier* to your [AC](CoreRules.md#attack%20roll) so long as you are not wearing medium or heavy [armor](EncumbranceAndEquipment.md#armor).  Cannot be combined with *Intelligent Defense*.
 
-### %%Intelligent Defense%%
-You are good at recognizing danger and knowing how best to avoid it. Add your **Intelligence Bonus** to your [AC](CoreRules.md#attack%20roll) so long as you are not wearing medium or heavy [armor](EncumbranceAndEquipment.md#armor).  Cannot be combined with **Distracting Defense**.
+### Intelligent Defense
+You are good at recognizing danger and knowing how best to avoid it. Add your *Intelligence Modifier* to your [AC](CoreRules.md#attack%20roll) so long as you are not wearing medium or heavy [armor](EncumbranceAndEquipment.md#armor).  Cannot be combined with *Distracting Defense*.
 
-### %%Light Footed%%
+### Light Footed
 Gain +10ft movement and move at full speed with no penalty to stealth so long as you are not wearing medium or heavy [armor](EncumbranceAndEquipment.md#armor).
 
-### %%Master of Disguise%%
+### Master of Disguise
 You gain a +2 bonus on rolls to disguise yourself or someone else.  You also gain +2 on [checks](CoreRules.md#the%20d20%20check) to see through someone else's disguise.
 
-### %%Master of Locks%%
-You have +2 on Lock-picking [rolls](CoreRules.md#the%20d20%20check).
+### Poisoner
+If you poison a target, that target has *Disadvantage* on their [Saving Throw](CoreRules.md#saving%20throw) to resist the poison's effects.  Additionally, you have *Advantage* on your own Saving Throws to resist poison.
 
-### %%Master of Traps%%
-You have +2 on Trap Handling [rolls](CoreRules.md#the%20d20%20check).
+### Quick Reflexes
+So long as you are not wearing medium or heavy [armor](EncumbranceAndEquipment.md#armor), you may use your [Reaction](Combat.md#reactions) and spend a [Fortune Point](CoreRules.md#fortune) to take half damage from a single attack that hits you.  You may choose to use this ability after seeing the amount of damage done.
 
-### %%Observant%%
-You can read lips and have +2 on all [perception](CoreRules.md#perception) and [search](CoreRules.md#search) checks.
+### Second-Story Work
+So long as you are not wearing medium or heavy [armor](EncumbranceAndEquipment.md#armor), your movement is not slowed when climbing nor walking along narrow surfaces.  Additionally, you take half damage from [falls](CoreRules.md#falling) if you pass an [Evasion saving throw](CoreRules.md#saving%20throw) with a *Difficulty* of (10 + 1 per 10 feet fallen).
 
-### %%Poisoner%%
-If you poison a target, that target has **Disadvantage** on their **[Saving Throw](CoreRules.md#saving%20throw)** to resist the poison's effects.  Additionally, you have **Advantage** on your own **[Saving Throws](CoreRules.md#saving%20throw)** to resist poison.
+### Skulker
+While in dim [lighting](Corerules.md#visibility) conditions, you have +2 on stealth checks.   Additionally, you gain [Low-Light Vision](CoreRules.md#low-light%20vision).  If you already have Low-Light Vision, you gain [Darkvision](CoreRules.md#darkvision) and this knack then also applies in dark lighting conditions.
 
-### %%Quick Reflexes%%
-So long as you are not wearing medium or heavy [armor](EncumbranceAndEquipment.md#armor), you may use your **[Reaction](Combat.md#reactions)** and attempt an [Evasion save](CoreRules.md#saving%20throw) to take half damage from a single attack that hits you.  The difficulty of the save is equal to the damage done or 12, whichever is higher.  You may choose to use this ability after seeing the amount of damage done.
-
-### %%Second-Story Work%%
-So long as you are not wearing medium or heavy [armor](EncumbranceAndEquipment.md#armor), your movement is not slowed when climbing nor walking along narrow surfaces.  Additionally, you take half damage from [falls](CoreRules.md#falling) if you pass an **Evasion** [saving throw](CoreRules.md#saving%20throw) with a diff of (10 + 1 per 5 feet fallen).
-
-### %%Silver Tongue%%
-You have +2 on [deception](CoreRules.md#deception) and [persuasion](CoreRules.md#persuasion) checks.
-
-### %%Skulker%%
-While in dim [lighting](Corerules.md#visibility) conditions, you have +2 on stealth checks.   Additionally, you gain [Low-Light Vision](CoreRules.md#low-light%20vision).  If you already have Low-Light Vision, you gain [Darkvision](CoreRules.md#darkvision) and this knack also applies in dark lighting conditions.
-
-### %%Sleight of Hand Expert%%
-You have +2 on Sleight of Hand checks.
-
-### %%Trap Sense%%
-You have +2 on [Perception](CoreRules.md#perception) rolls to spot traps and you take half damage from traps.
-
-### %%Watchful%%
-So long as you are conscious, you have +2 on [perception](CoreRules.md#perception) rolls to spot an [ambush](Combat.md#ambush) and you are never considered “unaware” of attacks.
+### Watchful
+So long as you are conscious, you have +2 on [perception](Skills.md#perception) rolls to spot an [ambush](Combat.md#ambush) and you are never considered “unaware” of attacks.
 
 ## Hybrid
 
-### %%Mighty Warrior%%
+### Mighty Warrior
 Add +1 on your Combat Mastery rolls to perform a [Combat Maneuver](classes/ClassAbilities.md#combat%20maneuvers).

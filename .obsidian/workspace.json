@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combat.md",
+                "file": "Skills.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Combat"
+              "title": "Skills"
             }
           },
           {
@@ -53,33 +53,48 @@
             }
           },
           {
-            "id": "5d2dfe79cfe71df1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "classes/Knacks.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Knacks"
-            }
-          },
-          {
             "id": "fdc583c3e3f72ff3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/Fighter.md",
+                "file": "classes/Spellcaster.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Fighter"
+              "title": "Spellcaster"
+            }
+          },
+          {
+            "id": "52e91d9becc721ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traits.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Traits"
+            }
+          },
+          {
+            "id": "19d6a2d000c47636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glossary.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Glossary"
             }
           },
           {
@@ -89,7 +104,7 @@
               "type": "markdown",
               "state": {
                 "file": "EncumbranceAndEquipment.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
@@ -98,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -269,33 +284,33 @@
   },
   "active": "fdc583c3e3f72ff3",
   "lastOpenFiles": [
+    "classes/Fighter-Rogue.md",
+    "classes/Spellcaster.md",
+    "classes/Rogue.md",
     "classes/ClassAbilities.md",
+    "magic/MagicalArts.md",
+    "magic/Spells.md",
+    "CoreRules.md",
+    "Glossary.md",
+    "EncumbranceAndEquipment.md",
     "classes/Fighter.md",
     "classes/Knacks.md",
-    "EncumbranceAndEquipment.md",
-    "Combat.md",
-    "CoreRules.md",
-    "RulesSynopsis.md",
-    "Traits.md",
     "Skills.md",
+    "Combat.md",
+    "Traits.md",
+    "RulesSynopsis.md",
     "draft/RaceOgre.md",
     "draft/Skills.md",
     "AllegiancesAndMorality.md",
-    "classes/Spellcaster.md",
-    "classes/Rogue.md",
     "Background.md",
     "AquaticExploration.md",
-    "Glossary.md",
     "species/Orc.md",
     "species/Human.md",
     "species/Hob.md",
     "species/Goblin.md",
     "species/Elf.md",
     "species/Dwarf.md",
-    "magic/TierFourSpells.md",
     "misc/lu181322otujy.tmp",
-    "ExperienceAndLevels.md",
-    "magic/TierThreeSpells.md",
     "lifepaths/LibreOffice/Lifepaths.ods",
     "misc/lu16528yi3r.tmp",
     "misc/CavernCrawlers Classes.ods",

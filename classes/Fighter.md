@@ -2,16 +2,12 @@
 cssclass: clean-embeds
 ---
 # Fighter
-- [Statistics](#statistics)
-- [Equipment](#equipment)
-- [Class Abilities](#class%20abilities)
-	- [Combat Maneuvers](#combat%20maneuvers)
-	- [Hauler](#hauler)
-	- [Minimum Damage](#minimum%20damage)
-- [Fighter Table](#fighter%20table)
-	- [Fighter Saving Throws](#fighter%20saving%20throws)
-- [Fighter Knacks](#fighter%20knacks)
-- [Sample Fighter Builds](#sample%20fighter%20builds)
+- [Statistics](#Statistics)
+- [Equipment](#Equipment)
+- [Class Abilities](#Class%20Abilities)
+- [Fighter Knacks](#Fighter%20Knacks)
+- [Fighter Table](#Fighter%20Table)
+- [Sample Fighter Builds](#Sample%20Fighter%20Builds)
 
 ---
 ## Statistics
@@ -295,37 +291,37 @@ Fighters gain 1 Knack at Level 1 and gain an additional Knack at each odd-number
 ---
 ## Sample Fighter Builds
 - **All-Rounder**
-	- 1st Level: Deadly Blow, [Superior Training](Traits.md#Superior%20Training) -> Armored
+	- 1st Level: Deadly Blow
 	- 2nd Level: [Die Hard](Traits.md#Die%20Hard)
 	- 3rd Level: Weapon Specialization
 	- 5th Level: Exploit Weakness
 - **Archer**
-	- 1st Level: Archer, [Superior Training](Traits.md#Superior%20Training) -> Weapon Specialization
-	- 2nd Level: [Alert](Traits.md#Alert)
+	- 1st Level: Archer
+	- 2nd Level: [Superior Training](Traits.md#Superior%20Training) -> Weapon Specialization
 	- 3rd Level: Mighty Shot
 	- 5th Level: Precise Shot
 - **Berserker** 
-	- 1st Level: Berserk, [Superior Training](Traits.md#Superior%20Training) -> Reckless
-	- 2nd Level: [Catch Your Breath](Traits.md#Catch%20Your%20Breath)
+	- 1st Level: Berserk
+	- 2nd Level: [Superior Training](Traits.md#Superior%20Training) -> Reckless
 	- 3rd Level: Deadly Blow
-	- 5th Level: Cleave
+	- 5th Level: Last Stand
 - **Cavalier**
-	- 1st Level: Cavalry, [Superior Training](Traits.md#Superior%20Training) -> Charger
-	- 2nd Level: [Catch Your Breath](Traits.md#Catch%20Your%20Breath)
-	- 3rd Level: Weapon Specialization (lance or arming sword)
-	- 5th Level: Armored
+	- 1st Level: Cavalry
+	- 2nd Level: [Superior Training](Traits.md#Superior%20Training) -> Charger
+	- 3rd Level: Weapon Specialization (arming sword)
+	- 5th Level: Weapon Specialization (lance)
 - **Damage Dealer** 
-	- 1st Level: Deadly Blow, [Superior Training](Traits.md#Superior%20Training) -> Exploit Weakness
-	- 2nd Level: [Great Bravery](Traits.md#Great%20Bravery)
+	- 1st Level: Deadly Blow
+	- 2nd Level: [Superior Training](Traits.md#Superior%20Training) -> Exploit Weakness
 	- 3rd Level: Weapon Specialization (any heavy 2-handed melee weapon)
 	- 5th Level: Great Weapon Fighter
 - **Tank** 
-	- 1st Level: Armored, [Superior Training](Traits.md#Superior%20Training) -> Shield Master
-	- 2nd Level: [Die Hard](Traits.md#Die%20Hard)
-	- 3rd Level: Indomitable
-	- 5th Level: Deadly Blow
+	- 1st Level: Armored
+	- 2nd Level: [Tenacity](Traits.md#tenacity)
+	- 3rd Level: Defensive Fighter
+	- 5th Level: Protector
 - **Weapon Master**
-	- 1st Level: Deadly Blow, [Superior Training](Traits.md#Superior%20Training) -> Weapon Specialization
-	- 2nd Level: [Tenacity](Traits.md#Tenacity)
-	- 3rd Level: Exploit Weakness
-	- 5th Level: Weapon Specialization
+	- 1st Level: Weapon Specialization
+	- 2nd Level: [Superior Training](Traits.md#Superior%20Training) -> Great Damage
+	- 3rd Level: Deadly Blow
+	- 5th Level: Exploit Weakness

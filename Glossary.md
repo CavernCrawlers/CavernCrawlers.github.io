@@ -11,6 +11,9 @@ A numerical modifier that gets added to the [Attack Roll](#Attack%20Roll).  The 
 ## Attack Roll
 A [D20 Check](#D20%20Check) to which the characters Attack Bonus and appropriate Ability Modifier are added and compared to the target's Armor Class.
 
+## Caster Level
+For [Spellcasters](classes/Spellcaster.md), this is equal to their character level.  For [hybrid casters](#hybrid%20class), this is generally equal to half their character level, rounded down.  If a spell's effects are modified by level, this is the level used.
+
 ## Class
 An adventuring profession.  Either [Fighter](classes/Fighter.md), [Rogue](classes/Rogue.md), [Spellcaster](classes/Spellcaster.md), [Fighter-Rogue](classes/Fighter-Rogue.md), [Fighter-Spellcaster](classes/Fighter-Spellcaster.md) or [Rogue-Spellcaster](Rogue-Spellcster.md).
 
