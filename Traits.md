@@ -130,6 +130,9 @@ Your character’s good nature and handsome face cause strangers to trust her mo
 ### Great Bravery
 While this character certainly becomes frightened, he will not back down because of fear. He is immune to the [Frightened](Combat.md#frightened) condition.
 
+### Great Climber
+This character can scale surfaces normally deemed impossible without the need of special equipment.  In all but the most extreme cases (a surface of glass-like smoothness, hurricane-like conditions, or similar) they will have a chance of success.  Normal [climbs](CoreRules.md#climbing) are performed with *Advantage*.
+
 ### Great Fortune
 Your character's starting and max [Fortune Point](RulesSynopsis.md#fortune) values increase by 1 each.  This trait may be taken twice.
 

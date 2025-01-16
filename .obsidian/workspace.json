@@ -13,38 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AllegiancesAndMorality.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "AllegiancesAndMorality"
-            }
-          },
-          {
-            "id": "1b8ef17bbe6ef475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glossary.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Glossary"
-            }
-          },
-          {
-            "id": "bc5f54bae4020cde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "CoreRules.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
@@ -53,13 +23,13 @@
             }
           },
           {
-            "id": "1724ffe19a9d1231",
+            "id": "fdc583c3e3f72ff3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "RulesSynopsis.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
@@ -139,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AllegiancesAndMorality.md",
+                "file": "Background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AllegiancesAndMorality"
+              "title": "Backlinks for Background"
             }
           },
           {
@@ -158,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AllegiancesAndMorality.md",
+                "file": "Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AllegiancesAndMorality"
+              "title": "Outgoing links from Background"
             }
           },
           {
@@ -185,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AllegiancesAndMorality.md"
+                "file": "Background.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of AllegiancesAndMorality"
+              "title": "Outline of Background"
             }
           },
           {
@@ -238,33 +208,33 @@
   },
   "active": "85e579bf5e25c806",
   "lastOpenFiles": [
-    "Glossary.md",
-    "AllegiancesAndMorality.md",
-    "CoreRules.md",
     "RulesSynopsis.md",
+    "CoreRules.md",
+    "Traits.md",
+    "Combat.md",
+    "Skills.md",
+    "draft/RaceOgre.md",
+    "draft/Skills.md",
+    "AllegiancesAndMorality.md",
+    "classes/Knacks.md",
+    "classes/Fighter.md",
+    "EncumbranceAndEquipment.md",
+    "classes/ClassAbilities.md",
+    "classes/Spellcaster.md",
+    "classes/Rogue.md",
+    "Background.md",
+    "AquaticExploration.md",
+    "Glossary.md",
     "species/Orc.md",
     "species/Human.md",
     "species/Hob.md",
     "species/Goblin.md",
-    "EncumbranceAndEquipment.md",
     "species/Elf.md",
     "species/Dwarf.md",
     "magic/TierFourSpells.md",
     "misc/lu181322otujy.tmp",
     "ExperienceAndLevels.md",
     "magic/TierThreeSpells.md",
-    "magic/Spells.md",
-    "magic/TierTwoSpells.md",
-    "magic/TierOneSpells.md",
-    "magic/TierZeroSpells.md",
-    "magic/Sigils.md",
-    "magic/MagicalArts.md",
-    "classes/Classes.md",
-    "Combat.md",
-    "Encounters.md",
-    "Dungeoneering.md",
-    "classes/ClassAbilities.md",
-    "CharacterCreation.md",
     "lifepaths/LibreOffice/Lifepaths.ods",
     "misc/lu16528yi3r.tmp",
     "misc/CavernCrawlers Classes.ods",
