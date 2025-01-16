@@ -198,13 +198,14 @@ Like other items, armor quality can vary.  It is generally recommended that any 
 
 #### Armor Properties
 - **1H**: Requires the use of 1 hand.
-- **Category**: This is the armor category noted for proficiency purposes 
+- **Weight**: This is the armor category noted for proficiency purposes 
 	- (L)ight, (M)edium, (H)eavy, (B)uckler and (S)hield.
 - **Encumbering**: Reduces movement by 5ft (for Medium armor) or 10ft (for Heavy armor).  Also for every 1 minute of intense activity (such as [combat](Combat.md)), make a Constitution check vs DT 13 (Medium) or 15 (Heavy) or gain 1 level of Exhaustion.
 - **Noisy**: Imposes Disadvantage on stealth checks.
 - **DEX Mod**: This is the amount of your **Dexterity Modifier** (round up) that may be added to your AC.  If your Dexterity modifier is negative, always apply the full value.
 
-|  Type              |  Category  | AC   |  DEX Mod  |  Cost     |  Slots  |  Properties          |
+#### Armor Table
+|  Type              |  Weight    | AC   |  DEX Mod  |  Cost     |  Slots  |  Properties          |
 |:-------------------|:----------:|:----:|:---------:|----------:|:-------:|:---------------------|
 |  Cloth / Leather   |  L         |  +1  |  Full     |     10sp  |      1  |  --                  |
 |  Hardened Leather  |  L         |  +2  |  Full     |     20sp  |      1  |  --                  |
@@ -316,12 +317,62 @@ This is a list of common adventuring gear, much of which can be found in various
 #### Equipment Packs
 For convenience the following equipment packs exist as pre-build packages at a discount in cost for buying in ‘bulk’.
 
-| Pack            |  Cost | Contents | 
-|:----------------|------:|:---------|
-| Explorer's Pack |  50sp | backpack, practical clothes, heavy cloak, bedroll, mess kit, firestarting kit, 10 torches, 1 week’s rations, 50ft rope, leather armor, one light weapon and one medium weapon. |
-| Mage's Pack     | 100sp | backpack, common robes, spellbook, many pouches, a magical focus, the components for writing 2 Tier 1 Spell Scrolls or brewing 2 Tier 1 Potions, and a light weapon. |
-| Rogue's Pack    |  80sp | backpack, dark clothing, sack, 10 candles, crowbar, hammer, 10 pitons, hooded lantern, 2 flasks of oil, firestarting kit, lockpicks, 50ft rope, leather armor, 1 light weapon and 1 medium weapon. |
-| Warrior's Pack  |  90sp | backpack, common clothing, firestarting kit, tools for arms and armor maintenance, a light weapon and scale mail; plus either 2 weapons or a weapon and shield. |
+<table border=2>
+    <thead>
+        <tr style="background-color:#708090;">
+            <th id="pack" style="text-align:left;">Pack</th>
+            <th id="cost" style="text-align:right;">Cost</th>
+            <th id="contents" style="text-align:left;">Contents</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:left;">Adventurer's Pack</td>
+            <td style="text-align:right;">20sp</td>
+            <td style="text-align:left;">backpack, bedroll, dagger, heavy cloak, mess kit, practical clothing, rations (1 week), rope (50 ft), tinderbox, torches (bundle)</td>
+        </tr>
+        <tr style="background-color:#91a3b0;">
+            <td style="text-align:left;">Archer's Pack</td>
+            <td style="text-align:right;">120sp</td>
+            <td style="text-align:left;">arrows (20), hardened leather armor, medium weapons (2), shortbow</td>
+        </tr>
+        <tr>
+            <td style="text-align:left;">Hoplite's Pack</td>
+            <td style="text-align:right;">120sp</td>
+            <td style="text-align:left;">medium weapon, ringmail armor, shield</td>
+        </tr>
+        <tr style="background-color:#91a3b0;">
+            <td style="text-align:left;">Mage's Pack</td>
+            <td style="text-align:right;">120sp</td>
+            <td style="text-align:left;">a magic focus or holy symbol, candles (5), ink (vial), quills (10), spellbook</td>
+        </tr>
+        <tr>
+            <td style="text-align:left;">Rogue's Pack</td>
+            <td style="text-align:right;">70sp</td>
+            <td style="text-align:left;">caltrops (bag), candles (5), crowbar, leather armor, light weapon, lockpicks, medium weapon, sack</td>
+        </tr>
+        <tr style="background-color:#91a3b0;">
+            <td style="text-align:left;">Skirmisher's Pack</td>
+            <td style="text-align:right;">110sp</td>
+            <td style="text-align:left;">buckler, candles (5), crowbar, hardened leather armor, javelins (6), light weapon, lockpicks, medium weapon</td>
+        </tr>
+        <tr>
+            <td style="text-align:left;">Spellblade's Pack</td>
+            <td style="text-align:right;">120sp</td>
+            <td style="text-align:left;">a magic focus or holy symbol, buckler, ink (vial), leather armor, medium weapon, quills (10), spellbook (small)</td>
+        </tr>
+        <tr style="background-color:#91a3b0;">
+            <td style="text-align:left;">Trickster's Pack</td>
+            <td style="text-align:right;">120sp</td>
+            <td style="text-align:left;">a magic focus or holy symbol, candles (5), ink (vial), leather armor, lockpicks, medium weapon, quills (10), sack, spellbook (small)</td>
+        </tr>
+        <tr>
+            <td style="text-align:left;">Warrior's Pack</td>
+            <td style="text-align:right;">120sp</td>
+            <td style="text-align:left;">heavy weapon, ringmail armor</td>
+        </tr>
+    </tbody>
+</table>
 
 #### Food and Shelter
 While on an adventure, your character will still need food to eat and a place to sleep.  Travel rations and a thin bedroll on hard cold ground may be sustaining, but they’re hardly comfortable.  When in need of proper accommodations, the table below gives the cost for average examples of the normal food and service obtainable.

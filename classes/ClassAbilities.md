@@ -1,18 +1,16 @@
 # Class Abilities
 
----
 ## Fighter
 
-### %%Combat Maneuvers%%
-Once per turn, as part of a normal attack, you may declare a [Combat Maneuver](Combat.md#combat%20maneuvers).  If the [natural value](RulesSynopsis.md#Natural%20Results) of your attack roll is equal to or greater than your [Combat Mastery](Fighter.md#combat%20mastery) target number (see the table below), the target suffers the effects of the maneuver.  Many maneuvers, however, do allow the target to make a [saving throw](CoreRules.md#saving%20throws).  See the [Combat Maneuvers](Combat.md#combat%20maneuvers) section of the [Combat](Combat.md) document for further details.
+### Combat Maneuvers
+Once per turn, when you make a [melee attack](Combat.md#melee%20attacks), you may attempt a [Combat Maneuver](Combat.md#combat%20maneuvers).  If the attack hits and the [Natural](CoreRules.md#Natural%20Roll) value of your [Attack Roll](CoreRules.md#attack%20roll) is equal to or greater than your *Combat Mastery* target number (see the table below), the maneuver succeeds.  Many maneuvers, however, do allow the target to make a [Saving Throw](CoreRules.md#saving%20throw).
 
-### %%Hauler%%
-You add your **Constitution Modifier** (if positive) to your **Strength Score** for determining your [Encumbrance](EncumbranceAndEquipment.md#encumbrance) limits.
+### Hauler
+You add your *Constitution Modifier* (if positive) to your *Strength Score* for determining your [Encumbrance](EncumbranceAndEquipment.md#encumbrance) limits.
 
-### %%Minimum Damage%%
-Fighters are experts at dealing damage.  If your attack misses the target's [AC](Combat.md#attacking%20an%20enemy) by your level or less, you still deal your attack's minimum damage to the target.
+### Minimum Damage
+Fighters are experts at dealing [Damage](Combat.md#damage).  If your attack misses the target's [AC](Combat.md#attacking%20an%20enemy) by your [Level](ExperienceAndLevels.md) or less, you still deal your attack's minimum damage to the target.
 
----
 ## Rogue
 
 ### %%Fortune's Favor%%
@@ -29,7 +27,6 @@ For specific [skill checks](RulesSynopsis.md#skilled%20check), Rogues gain an ad
 ### %%Sneak Attack%%
 When you have **[Advantage](CoreRules.md#advantage%20and%20disadvantage)** on an attack, add the listed damage on the table below to the attack.
 
----
 ## Spellcaster
 
 ### %%Magical Focus%%

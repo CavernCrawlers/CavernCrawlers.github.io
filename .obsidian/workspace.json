@@ -23,21 +23,82 @@
             }
           },
           {
-            "id": "fdc583c3e3f72ff3",
+            "id": "eaa50253cc613bf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RulesSynopsis.md",
+                "file": "Combat.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Combat"
+            }
+          },
+          {
+            "id": "50692d7bf91d4090",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "classes/ClassAbilities.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "RulesSynopsis"
+              "title": "ClassAbilities"
+            }
+          },
+          {
+            "id": "5d2dfe79cfe71df1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "classes/Knacks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Knacks"
+            }
+          },
+          {
+            "id": "fdc583c3e3f72ff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "classes/Fighter.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Fighter"
+            }
+          },
+          {
+            "id": "ae21f6fec79222bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EncumbranceAndEquipment.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "EncumbranceAndEquipment"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -206,20 +267,20 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "85e579bf5e25c806",
+  "active": "fdc583c3e3f72ff3",
   "lastOpenFiles": [
-    "RulesSynopsis.md",
-    "CoreRules.md",
-    "Traits.md",
+    "classes/ClassAbilities.md",
+    "classes/Fighter.md",
+    "classes/Knacks.md",
+    "EncumbranceAndEquipment.md",
     "Combat.md",
+    "CoreRules.md",
+    "RulesSynopsis.md",
+    "Traits.md",
     "Skills.md",
     "draft/RaceOgre.md",
     "draft/Skills.md",
     "AllegiancesAndMorality.md",
-    "classes/Knacks.md",
-    "classes/Fighter.md",
-    "EncumbranceAndEquipment.md",
-    "classes/ClassAbilities.md",
     "classes/Spellcaster.md",
     "classes/Rogue.md",
     "Background.md",
