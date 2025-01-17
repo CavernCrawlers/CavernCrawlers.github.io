@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/Spellcaster.md",
+                "file": "classes/Fighter-Spellcaster.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Spellcaster"
+              "title": "Fighter-Spellcaster"
             }
           },
           {
@@ -299,20 +299,20 @@
   },
   "active": "fdc583c3e3f72ff3",
   "lastOpenFiles": [
-    "classes/Rogue.md",
-    "classes/Fighter.md",
-    "classes/Fighter-Rogue.md",
-    "classes/Fighter-Spellcaster.md",
     "Traits.md",
+    "classes/Fighter-Spellcaster.md",
     "classes/Knacks.md",
+    "Glossary.md",
+    "classes/Fighter.md",
+    "classes/Spellcaster.md",
+    "EncumbranceAndEquipment.md",
+    "classes/Rogue.md",
+    "classes/Fighter-Rogue.md",
     "classes/ClassAbilities.md",
     "Skills.md",
-    "EncumbranceAndEquipment.md",
-    "classes/Spellcaster.md",
     "magic/MagicalArts.md",
     "magic/Spells.md",
     "CoreRules.md",
-    "Glossary.md",
     "Combat.md",
     "RulesSynopsis.md",
     "draft/RaceOgre.md",
