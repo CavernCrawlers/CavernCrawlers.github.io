@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "classes/Knacks.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
@@ -88,13 +88,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/Fighter-Spellcaster.md",
+                "file": "classes/Rogue-Spellcaster.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Fighter-Spellcaster"
+              "title": "Rogue-Spellcaster"
             }
           },
           {
@@ -300,15 +300,16 @@
   "active": "fdc583c3e3f72ff3",
   "lastOpenFiles": [
     "Traits.md",
-    "classes/Fighter-Spellcaster.md",
-    "classes/Knacks.md",
-    "Glossary.md",
-    "classes/Fighter.md",
+    "classes/Rogue-Spellcaster.md",
     "classes/Spellcaster.md",
+    "Glossary.md",
+    "classes/Knacks.md",
+    "classes/ClassAbilities.md",
     "EncumbranceAndEquipment.md",
+    "classes/Fighter-Spellcaster.md",
+    "classes/Fighter.md",
     "classes/Rogue.md",
     "classes/Fighter-Rogue.md",
-    "classes/ClassAbilities.md",
     "Skills.md",
     "magic/MagicalArts.md",
     "magic/Spells.md",
@@ -324,7 +325,6 @@
     "species/Human.md",
     "species/Hob.md",
     "species/Goblin.md",
-    "species/Elf.md",
     "misc/lu181322otujy.tmp",
     "lifepaths/LibreOffice/Lifepaths.ods",
     "misc/lu16528yi3r.tmp",

@@ -2,6 +2,12 @@
 cssclass: clean-embeds
 ---
 # Fighter-Spellcaster
+- [Statistics](#Statistics)
+- [Equipment](#Equipment)
+- [Class Abilities](#Class%20Abilities)
+- [Fighter-Spellcaster Knacks](#Fighter-Spellcaster%20Knacks)
+- [Fighter-Spellcaster Table](#Fighter-Spellcaster%20Table)
+- [Sample Fighter-Spellcaster Builds](#Sample%20Fighter-Spellcaster%20Builds)
 
 ---
 ## Statistics
