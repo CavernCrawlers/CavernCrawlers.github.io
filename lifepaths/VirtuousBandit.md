@@ -4,7 +4,7 @@ cssclasses:
 ---
 # The Virtuous Bandit
 ## ([Rogue](classes/Rogue.md))
-You saw how the Local Lord's actions oppressed the kind and gentle people of this place. You knew that meeting his forces on an open field would be foolhardy, and lead only to your martyrdom. You fled to the wilderness, where you could strike back for the people. You gain access to the [Forester](Background.md#forester) background.
+You saw how the Local Lord's actions oppressed the kind and gentle people of this place. You knew that meeting his forces on an open field would be foolhardy, and lead only to your martyrdom. You fled to the wilderness, where you could strike back for the people. You gain access to the [Forester](optional/Background.md#forester) background.
 
 ## Childhood
 You are sneaky and quick. Your Dexterity begins at 12, and all of your other ability scores begin at 8.

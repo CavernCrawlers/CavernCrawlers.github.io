@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skills.md",
-                "mode": "source",
+                "file": "Combat.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Skills"
+              "title": "Combat"
             }
           },
           {
@@ -88,13 +88,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/Rogue-Spellcaster.md",
+                "file": "CharacterCreation.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Rogue-Spellcaster"
+              "title": "CharacterCreation"
+            }
+          },
+          {
+            "id": "b0bb02db26ed6bd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "classes/Fighter.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Fighter"
             }
           },
           {
@@ -299,32 +314,32 @@
   },
   "active": "fdc583c3e3f72ff3",
   "lastOpenFiles": [
-    "Traits.md",
-    "classes/Rogue-Spellcaster.md",
-    "classes/Spellcaster.md",
+    "classes/Fighter.md",
+    "CharacterCreation.md",
+    "Combat.md",
+    "CoreRules.md",
+    "Skills.md",
+    "Languages.md",
     "Glossary.md",
+    "optional/Background.md",
+    "AquaticExploration.md",
+    "AllegiancesAndMorality.md",
+    "classes/Rogue-Spellcaster.md",
+    "Traits.md",
+    "classes/Spellcaster.md",
     "classes/Knacks.md",
     "classes/ClassAbilities.md",
     "EncumbranceAndEquipment.md",
     "classes/Fighter-Spellcaster.md",
-    "classes/Fighter.md",
     "classes/Rogue.md",
     "classes/Fighter-Rogue.md",
-    "Skills.md",
     "magic/MagicalArts.md",
     "magic/Spells.md",
-    "CoreRules.md",
-    "Combat.md",
     "RulesSynopsis.md",
     "draft/RaceOgre.md",
     "draft/Skills.md",
-    "AllegiancesAndMorality.md",
-    "Background.md",
-    "AquaticExploration.md",
     "species/Orc.md",
     "species/Human.md",
-    "species/Hob.md",
-    "species/Goblin.md",
     "misc/lu181322otujy.tmp",
     "lifepaths/LibreOffice/Lifepaths.ods",
     "misc/lu16528yi3r.tmp",

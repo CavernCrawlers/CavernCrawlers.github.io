@@ -3,7 +3,7 @@ cssclass: clean-embeds
 ---
 # The Acolyte of the Old Gods
 ## ([Spellcaster](classes/Spellcaster.md))
-While your childhood was that of an ordinary villager, something miraculous happened when you came of age. After a dramatic event, you felt the call of the old gods, and now worship them openly, as your ancestors did. One of these ancient deities shows you particular favor, and you now do their work amongst your people.  You gain access to the [Acolyte](Background.md#acolyte) background.
+While your childhood was that of an ordinary villager, something miraculous happened when you came of age. After a dramatic event, you felt the call of the old gods, and now worship them openly, as your ancestors did. One of these ancient deities shows you particular favor, and you now do their work amongst your people.  You gain access to the [Acolyte](optional/Background.md#acolyte) background.
 
 ## Childhood
 You are wise beyond your years. Your Wisdom begins at 12, and all of your other ability scores begin at 8.

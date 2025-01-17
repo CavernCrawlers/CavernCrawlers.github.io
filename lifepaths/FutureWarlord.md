@@ -4,7 +4,7 @@ cssclasses:
 ---
 # The Future Warlord
 ## ([Fighter-Rogue](classes/Fighter-Rogue.md))
-As the eldest of your family, it has fallen to you to learn to rule, to lead soldiers in battle, and to inspire your people. While you have only been tested once, you proved yourself well, and are now ready to earn the right to take your place as the head of the family.  You gain access to the [Noble](Background.md#noble) background.
+As the eldest of your family, it has fallen to you to learn to rule, to lead soldiers in battle, and to inspire your people. While you have only been tested once, you proved yourself well, and are now ready to earn the right to take your place as the head of the family.  You gain access to the [Noble](optional/Background.md#noble) background.
 
 ## Childhood
 You are strong and commanding. Your Strength and Charisma begin at 10, and all of your other ability scores begin at 8.

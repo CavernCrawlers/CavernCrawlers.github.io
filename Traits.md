@@ -1,5 +1,5 @@
 # Traits
-Traits help set individual characters apart from one another, even if they are of the same species, class and general [background](Background.md).  Each trait represents some specific inborn ability or special training unique to that character.  They are different from Knacks in that they have no class requirements.
+Traits help set individual characters apart from one another, even if they are of the same species, class and general [background](optional/Background.md).  Each trait represents some specific inborn ability or special training unique to that character.  They are different from Knacks in that they have no class requirements.
 
 Each class abilities table shows when characters gain Traits.
 
@@ -107,7 +107,7 @@ Your character understands how to move in a particular weight of armor effective
 Your character gains a +2 bonus on non-combat checks involving Strength.
 
 ### Broad Skills
-Your character may roll for a 2nd [Background Career](Background.md).  If the same career is rolled a 2nd time re-roll.
+Your character may roll for a 2nd [Background Career](optional/Background.md).  If the same career is rolled a 2nd time re-roll.
 
 ### Catch Your Breath
 Your character can recover 1 level of [Exhaustion](Combat.md#exhaustion) with a [Short Rest](Combat.md#short%20rest).
@@ -149,7 +149,7 @@ Your character gains a +2 bonus on non-combat checks involving Intelligence.
 Due to study and a gift for languages, your character knows three additional languages.  This trait may be taken multiple times, gaining three new languages each time.
 
 ### Merchant’s Eye 
-Your character has a gift for appraising objects of various sorts. Under ordinary circumstances, he automatically knows the approximate value of any item.  If a roll is deemed necessary, the character makes it as a [Skilled](RulesSynopsis.md#skilled%20check) check.  If it is already a Skilled check for the character (such as being of the [Merchant](Background.md#merchant) background), they have **Advantage** on appraisal checks.
+Your character has a gift for appraising objects of various sorts. Under ordinary circumstances, he automatically knows the approximate value of any item.  If a roll is deemed necessary, the character makes it as a [Skilled](RulesSynopsis.md#skilled%20check) check.  If it is already a Skilled check for the character (such as being of the [Merchant](optional/Background.md#merchant) background), they have **Advantage** on appraisal checks.
 
 ### Second Wind
 A brief moment’s respite is all your character needs to be ready to get back into the fight. They may spend a [Fortune Point](RulesSynopsis.md#fortune) and take 1 minute to rest and gain the benefits of a [Short Rest](Combat.md#short%20rest).  This does not count against their daily short rest limit.

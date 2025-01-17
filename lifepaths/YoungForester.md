@@ -4,7 +4,7 @@ cssclasses:
 ---
 # The Young Forester
 ## ([Rogue](classes/Rogue.md))
-Hunter, gatherer, or guardian, it takes a brave soul to wander the woods. You go where few in your village would dare, and, moreover, you feel at home in those places. You know every twig and leaf for miles around, and all your friends look to your guidance when leaving home.  You gain access to the [Forester](Background.md#forester) background.
+Hunter, gatherer, or guardian, it takes a brave soul to wander the woods. You go where few in your village would dare, and, moreover, you feel at home in those places. You know every twig and leaf for miles around, and all your friends look to your guidance when leaving home.  You gain access to the [Forester](optional/Background.md#forester) background.
 
 ## Childhood
 You are agile and insightful. Your Dexterity and Wisdom begin at 10, and all of your other ability scores begin at 8.

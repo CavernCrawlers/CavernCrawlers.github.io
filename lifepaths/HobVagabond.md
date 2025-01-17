@@ -3,7 +3,7 @@ cssclass: clean-embeds
 ---
 # The Hob Vagabond
 ## ([Rogue](classes/Rogue.md))
-You can’t quite say why, but one day you began to dream of mountains, seas, and monsters. Now you wander from town to town, never staying anywhere long. The stories of humans fascinate you, and you haven’t had your fill of adventure yet.  You gain access to the [Wanderer](Background.md#wanderer) background.
+You can’t quite say why, but one day you began to dream of mountains, seas, and monsters. Now you wander from town to town, never staying anywhere long. The stories of humans fascinate you, and you haven’t had your fill of adventure yet.  You gain access to the [Wanderer](optional/Background.md#wanderer) background.
 
 ## Childhood
 You were the toughest and most athletic of your people. Your Dexterity begins at 12, your Constitution begins at 10, your Strength begins at 6, and all of your other ability scores begin at 8.

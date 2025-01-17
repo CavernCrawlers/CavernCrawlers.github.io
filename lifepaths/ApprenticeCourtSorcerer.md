@@ -4,7 +4,7 @@ cssclasses:
 ---
 # The Apprentice Court {Sorcerer/Sorceress}
 ## ([Spellcaster](classes/Spellcaster.md))
-Your desire was not to learn the ways of war or rulership as the other noble children did, but to study the arcane arts under the venerable court {sorcerer/sorceress}. You took to the difficult studies well, and are now ready to take his place.  You gain access to the [Wizard's Apprentice](Background.md#wizard's%20apprentice) background.
+Your desire was not to learn the ways of war or rulership as the other noble children did, but to study the arcane arts under the venerable court {sorcerer/sorceress}. You took to the difficult studies well, and are now ready to take his place.  You gain access to the [Wizard's Apprentice](optional/Background.md#wizard's%20apprentice) background.
 
 ## Childhood
 You are very smart and quick-witted. Your Intelligence begins at 12, and all of your other ability scores begin at 8.

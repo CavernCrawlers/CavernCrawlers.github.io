@@ -4,7 +4,7 @@ cssclasses:
 ---
 # The Gifted Dilettante
 ## ([Rogue-Spellcaster](classes/Rogue-Spellcaster.md))
-You are not the eldest in your family. You are not the greatest warrior of your many siblings, or a diligent student of the arcane arts. Rather, you have a broad range of abilities, a sharp mind, and a winning smile. You’ve also dabbled in some things you probably shouldn’t have. You know a bit of everything, and are rather bored with your situation. You gain access to the [Politician](Background.md#politician) background.
+You are not the eldest in your family. You are not the greatest warrior of your many siblings, or a diligent student of the arcane arts. Rather, you have a broad range of abilities, a sharp mind, and a winning smile. You’ve also dabbled in some things you probably shouldn’t have. You know a bit of everything, and are rather bored with your situation. You gain access to the [Politician](optional/Background.md#politician) background.
 
 ## Childhood
 You are intelligent and charming. Your Intelligence and Charisma begin at 10, and all of your other ability scores begin at 8.

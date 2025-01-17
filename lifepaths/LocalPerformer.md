@@ -3,7 +3,7 @@ cssclass: clean-embeds
 ---
 # The Local Performer
 ## ([Rogue](classes/Rogue.md))
-You grew up obsessed with ancient stories and songs, the oral history of your people. As a child, the stories told around the hearth at the inn and by traveling minstrels seemed more real to you than your own daily struggles in the village. Now that you have come of age, you keep the old stories, and your neighbors have come to respect your craft.  You may choose the Minstrel or Storyteller ([Entertainer](Background.md#entertainer)) background.
+You grew up obsessed with ancient stories and songs, the oral history of your people. As a child, the stories told around the hearth at the inn and by traveling minstrels seemed more real to you than your own daily struggles in the village. Now that you have come of age, you keep the old stories, and your neighbors have come to respect your craft.  You may choose the Minstrel or Storyteller ([Entertainer](optional/Background.md#entertainer)) background.
 
 ## Childhood
 You have great presence and charm. Your Charisma begins at 12, and all of your other ability scores begin at 8.

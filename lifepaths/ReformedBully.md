@@ -4,7 +4,7 @@ cssclasses:
 ---
 # The Reformed Bully
 ## ([fighter](classes/Fighter.md))
-You grew up picking on the weak and the outcast, but lately things have changed. You’ve seen the errors of your ways and have forged a strong friendship with the other villagers. You gain access to the [Criminal](Background.md#criminal) background.
+You grew up picking on the weak and the outcast, but lately things have changed. You’ve seen the errors of your ways and have forged a strong friendship with the other villagers. You gain access to the [Criminal](optional/Background.md#criminal) background.
 
 ## Childhood
 You were a very tough kid, but not well liked. Your Strength begins at 12, your Constitution at 10, your Charisma at 6, and all of your other ability scores begin at 8.

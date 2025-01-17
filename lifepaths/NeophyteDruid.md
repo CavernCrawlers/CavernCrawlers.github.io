@@ -3,7 +3,7 @@ cssclass: clean-embeds
 ---
 # The Neophyte Druid
 ## ([Spellcaster](classes/Spellcaster.md))
-The wilderness is a wild, untamed place. Though you grew up in the marginally civilized confines of the village, you demonstrated a gift that set you apart from the other children. You were selected to be taught the Old Ways of Nature, a force that was ancient when the eldest gods were conceived.  You may choose the [Forester](Background.md#forester) background.
+The wilderness is a wild, untamed place. Though you grew up in the marginally civilized confines of the village, you demonstrated a gift that set you apart from the other children. You were selected to be taught the Old Ways of Nature, a force that was ancient when the eldest gods were conceived.  You may choose the [Forester](optional/Background.md#forester) background.
 
 ## Childhood
 You are naturally philosophical and possess an animal cunning. Your Wisdom and Intelligence begin at 10, all other attributes are 8.

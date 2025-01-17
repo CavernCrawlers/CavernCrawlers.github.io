@@ -3,7 +3,7 @@ Lifepaths are a means of character generation that not only determine your chara
 
 Each lifepath is broken up into the following sections:
 - **Base Attribute Scores:** This determines where your [attribute scores](CharacterCreation.md#the%20attributes) start before you start applying your Lifepath results.
-- **Childhood:** These tables determine the foundational events of your childhood and will grant you access to different [Background](Background.md) options.  They also modify your base ability scores.
+- **Childhood:** These tables determine the foundational events of your childhood and will grant you access to different [Background](optional/Background.md) options.  They also modify your base ability scores.
 - **Threat:** The campaign you play in will have 2-3 Threats as determined by the game master.  You will select one of these Threats that has impacted your life up to this point.  You will then roll on the Character History Table for the threat in question to determine what impact this has had on your life.
 - **Apprenticeship:** These tables explain how your character came to be who they are and how they ultimately took up a life of adventuring.  These will determine various class-specific abilities (such as [spells](Spells.md) and [knacks](Knacks.md)), as well as provide additional ability score modifiers.
 - **Character Sheet Instructions:** This explains the steps you should follow to fill out your character sheet.

@@ -3,7 +3,7 @@ cssclass: clean-embeds
 ---
 # The Adventurous Trader
 ## ([Rogue](classes/Rogue.md))
-You always dreamed of taking to the road, selling your wares, and making your fortune. Recently, you actually managed to come into possession of some goods, a cart, and a trusty mule. With a helpful ally by your side, your plan is to take to the road, help the village, and become a wealthy merchant.  You gain access to the [Merchant](Background.md#merchant) background.
+You always dreamed of taking to the road, selling your wares, and making your fortune. Recently, you actually managed to come into possession of some goods, a cart, and a trusty mule. With a helpful ally by your side, your plan is to take to the road, help the village, and become a wealthy merchant.  You gain access to the [Merchant](optional/Background.md#merchant) background.
 
 ## Childhood
 You are savvy and charming. Your Intelligence and Charisma begin at 10, and all of your other ability scores begin at 8.

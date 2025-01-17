@@ -133,36 +133,40 @@ Each attribute also has an **Attribute Modifier** that is used as a bonus (or pe
 In fantasy gaming there are a practically limitless number of possible species to choose from.  The list presented in these pages is just a small sample of possible species and your GM may have their own list specific to their campaign world.
 
 There are several species to choose from: [Dwarf](species/Dwarf.md), [Elf](species/Elf.md), [Goblin](species/Goblin.md), [Hob](species/Hob.md), [Human](species/Human.md) and [Orc](species/Orc.md).
-
+%% 
 ---
 ## Roll for Background Career
-Roll on the [Background Career](Background.md#background%20career%20table) table to determine what your character did before becoming an adventurer.
-
+Roll on the [Background Career](optional/Background.md#background%20career%20table) table to determine what your character did before becoming an adventurer.
+ %%
 ---
 ## Pick a Class
 There are six character [classes](classes/Classes.md): [Fighter](classes/Fighter.md), [Rogue](classes/Rogue.md), [Spellcaster](classes/Spellcaster.md), [Fighter-Rogue](classes/Fighter-Rogue.md), [Fighter-Spellcaster](classes/Fighter-Spellcaster.md) and [Rogue-Spellcaster](classes/Rogue-Spellcaster.md).
 
 ---
+## Pick Skills
+Each character begins with between 2 and 4 [skills](Skills.md) at 1st level.  All classes have equal access to all skills.
+
+%% ---
 ## Pick a Trait
 All characters start with 1 [Trait](Traits.md) at level 1.  They will gain additional [Traits](Traits.md) at various levels.
-
+ %%
 ---
 ## Pick Languages
-Most characters begin the game speaking two languages (their native language and a "common" tongue).  To this, add a number of additional languages equal to your character’s **Intelligence Modifier** (though this cannot take you down to less than 1 starting language).  Additionally, most characters are illiterate by default.  One language pick may be spent for a character to become literate.  Once literate, a character is considered literate in all languages they know.
+Most characters begin the game speaking two [languages](Languages.md) (their native language and a "common" tongue).  To this, add a number of additional languages equal to your character’s *Intelligence Modifier* (though this cannot take you down to less than 1 starting language).  Additionally, most characters are illiterate by default.  One language pick may be spent for a character to become literate.  Once literate, a character is considered literate in all languages they know.
 
 ---
 ## Calculate Starting Hit Points
-Each character's starting **HP** is the maximum rolled on their class **Hit Die** plus their **Constitution Modifier**.
+Each character's starting *HP* is the maximum rolled on their class *Hit Die* plus their *Constitution Modifier*.
 
 ---
 ## Choose Starting Equipment
-Each [Class](Classes.md) and [Background](Background.md) grants starting equipment and a few extra Silver Pieces.  You may use this starting silver to purchase additional equipment if so desired.  Starting equipment may be sold off at half it's base value (due to being worn and used).
+Each [Class](Classes.md) and [Background](optional/Background.md) grants starting equipment and a few extra Silver Pieces.  You may use this starting silver to purchase additional equipment if so desired.  Starting equipment may be sold off at half it's base value (due to being worn and used).
 
 ---
 ## Calculate Armor Class and Saving Throws
-Calculate your character's **Armor Class** (based on armor worn and **Dexterity Modifier**), **Evasion Saving Throw** (based on **Class** and the higher of your character's **Dexterity** and **Intelligence Modifiers**), **Hardiness Saving Throw** (based on Class and the higher of your character's **Strength** and **Constitution Modifiers**) and **Spirit Saving Throw** (based on Class and the higher of your character's **Wisdom** and **Charisma Modifiers**).
+Calculate your character's *Armor Class* (based on armor worn and *Dexterity Modifier*), Evasion, Hardiness and Spirit  [Saving Throws](CoreRules.md#saving%20throw).
 
-Additionally, each of your **Saving Throws** will have a **Passive Save** value equal to 8 plus your Saving Throw (with appropriate **Ability Modifier**).
+Additionally, each of your *Saving Throws* will have a *Passive Save* value equal to 8 plus your Saving Throw (with appropriate *Ability Modifier*).
 
 _For example:  Bron the Brave is a 3rd level [Fighter](classes/Fighter.md) with 14 STR, 12 CON, 10 DEX, 8 INT, 9 WIS and 10 CHA, who wears Ringmail armor and carries a shield.  His Armor Class is 10 + 3 (Ringmail) + 2 (Shield) = 15.  His Evasion Save is +2 (class) + 0 (DEX is higher than INT) = +2.  His Hardiness Save is +3 (class) + 1 (STR is higher than CON) = +4.  His Spirit Save is +1 (class) +0 (CHA is higher than WIS) = +1.  His Passive Saves are 10, 12 and 9 respectively._
 

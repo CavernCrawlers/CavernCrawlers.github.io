@@ -4,7 +4,7 @@ cssclasses:
 ---
 # Orc Hunter
 ## ([Fighter-Rogue](classes/Fighter-Rogue.md))
-You were one of your tribes hunters, providing meat and skins for your people.  You gain access to the [Hunter](Background.md#hunter) background.
+You were one of your tribes hunters, providing meat and skins for your people.  You gain access to the [Hunter](optional/Background.md#hunter) background.
 
 ## Childhood
 You are strong, tough and familiar with the wilds but not considered civilized in most cultures.  Your Strength, Constitution and Wisdom begin at 10.  Your Charisma begins at 6.  Your other abilities start at 8.

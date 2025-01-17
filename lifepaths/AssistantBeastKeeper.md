@@ -8,7 +8,7 @@ The old witch in the village took a liking to you when you were still young, and
 
 You have a knack with animals. Your Constitution and Wisdom begin at 10, and all of your other ability scores begin at 8.
 
-You gain access to the [Animal Handler](Background.md#animal%20handler) background.
+You gain access to the [Animal Handler](optional/Background.md#animal%20handler) background.
 
 ## Childhood
 {description and base stats}
@@ -219,7 +219,7 @@ You took on the strangest job in the village. You become a level 1 [Rogue-Spellc
 ## Fill out your sheet.
 1. Record your name, class and level.
 2. Record your species as [Human](species/Human.md) and whatever features you gain from it.
-3. Select a [background](Background.md) from those made available from your Lifepath, above.
+3. Select a [background](optional/Background.md) from those made available from your Lifepath, above.
 4. As a [spellcaster](classes/Spellcaster.md), record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>The Assistant Beast Keepr begins with the following equipment: your background trappings, a dagger, peasant's clothing, a [mage's pack](EncumbranceAndEquipment.md#equipment%20packs) and 4d6sp.  You also have any items gained from your Lifepath.

@@ -3,7 +3,7 @@ cssclass: clean-embeds
 ---
 # The Lost Barbarian
 ## ([Fighter-Rogue](classes/Fighter-Rogue.md))
-You grew up far to the {direction} of the village in the lands of the barbarians. Due to circumstance or deadly threat, you have lived now for some years among the locals and learned their ways. You are still an outsider, but you have made fast friends with many in the village and will defend it with your blade and your honor.  You gain access to the [Hunter](Background.md#hunter) background.
+You grew up far to the {direction} of the village in the lands of the barbarians. Due to circumstance or deadly threat, you have lived now for some years among the locals and learned their ways. You are still an outsider, but you have made fast friends with many in the village and will defend it with your blade and your honor.  You gain access to the [Hunter](optional/Background.md#hunter) background.
 
 ## Childhood
 You have a mighty bearing. Your Constitution and Charisma begin at 10, and all of your other ability scores begin at 8.

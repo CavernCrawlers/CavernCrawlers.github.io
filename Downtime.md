@@ -126,7 +126,7 @@ You spend the week at a holy site of your choice.  After making your tithe (see 
 <sub>* Failure to meet these obligations results in the character being subject to the penalties of failing to fulfill an oath sworn before someone with the [Oathkeeper](Traits.md#Oathkeeper) trait.</sub>
 
 ## Work
-Your character employs their **[Background](Background.md)** skill or some other monetizable skill to earn money.  Make a **Skilled check** for the skill in question and consult the **Work Results** table.  Note that practicing certain professions without being a guild member or various illegal activities may result in legal troubles for the character.
+Your character employs their **[Background](optional/Background.md)** skill or some other monetizable skill to earn money.  Make a **Skilled check** for the skill in question and consult the **Work Results** table.  Note that practicing certain professions without being a guild member or various illegal activities may result in legal troubles for the character.
 
 ### Work Results
 |  Roll | Outcome |

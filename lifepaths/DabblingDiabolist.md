@@ -3,7 +3,7 @@ cssclass: clean-embeds
 ---
 # The Dabbling Diabolist
 ## ([Spellcaster](classes/Spellcaster.md))
-Your innate curiosity got the better of you, and you ended up invoking magical forces you weren’t powerful enough to master. Something or someone came through from the world of Demons, and now it’s with you always, plotting, scheming, and promising mystical might.  You gain access to the [Cult Initiate](Background.md#cult%20initiate) background.
+Your innate curiosity got the better of you, and you ended up invoking magical forces you weren’t powerful enough to master. Something or someone came through from the world of Demons, and now it’s with you always, plotting, scheming, and promising mystical might.  You gain access to the [Cult Initiate](optional/Background.md#cult%20initiate) background.
 
 ## Childhood
 It takes a formidable ego and sense of self to truck with dark forces, accidentally or otherwise. Your Charisma begins at 12, and all of your other ability scores begin at 8.

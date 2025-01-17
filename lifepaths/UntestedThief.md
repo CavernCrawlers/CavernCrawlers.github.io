@@ -4,7 +4,7 @@ cssclasses:
 ---
 # The Untested Thief
 ## ([Rogue](classes/Rogue.md))
-Some young would-be adventurers get by with their sword arm or with words of power in the language of magic, but you need neither.  The world is full of things to see and enjoy, and your fingers are more than quick enough to let you have what you like.  You gain access to the [Criminal](Background.md#criminal) background.
+Some young would-be adventurers get by with their sword arm or with words of power in the language of magic, but you need neither.  The world is full of things to see and enjoy, and your fingers are more than quick enough to let you have what you like.  You gain access to the [Criminal](optional/Background.md#criminal) background.
 
 ## Childhood
 You are deft and quick. Your Dexterity begins at 12, and all of your other ability scores begin at 8.

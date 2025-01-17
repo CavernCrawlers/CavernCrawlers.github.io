@@ -4,7 +4,7 @@ cssclass: clean-embeds
 # {Title}
 ## ({class})
 {description}  
-You gain access to the [{background}](Background.md#) background.
+You gain access to the [{background}](optional/Background.md#) background.
 
 ## Childhood
 {description and base stats}
@@ -229,10 +229,10 @@ Pick one of the campaign threats and roll on the related Character History Table
 ## Fill out your sheet.
 1. Record your name, class and level.
 2. Record your species and whatever [features]({species}.md) you gain from it.
-3. Select a [background](Background.md) from those made available from your Lifepath, above.
+3. Select a [background](optional/Background.md) from those made available from your Lifepath, above.
 4. As a {thing}, record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
-6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>{title} begins with the following equipment: your [background](Background.md) trappings, {other gear} and {#}d6sp.  You also have any items gained from your Lifepath.
+6. Jot down your class abilities, trait and starting equipment, as well as any other pieces of gear you may want to buy.<br/>{title} begins with the following equipment: your [background](optional/Background.md) trappings, {other gear} and {#}d6sp.  You also have any items gained from your Lifepath.
 7. Pick your starting languages. If your INT Bonus is -1 or less, you start with only 1 language (typically your native language). If it is +0 or higher, you start with 2 languages plus additional languages equal to your INT bonus. Usually one of these will be a common trade language. Finally, your character is literate because they are a spellcaster.
 8. Write down your starting [cantrips](magic/TierZeroSpells.md).
 9. Write down your starting [spells](magic/TierOneSpells.md).

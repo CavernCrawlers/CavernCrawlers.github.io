@@ -1,6 +1,6 @@
 # %%HumanSpellcaster%%
 1. Record your name, class and level.
-2. Select a [background](Background.md) from those made available from your Lifepath, above.
+2. Select a [background](optional/Background.md) from those made available from your Lifepath, above.
 3. Record your species as [Human](species/Human.md) and the [Intrepid](species/Human.md#intrepid) feature.
 4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 5. As a [spellcaster](classes/Spellcaster.md), record your [True Name](RulesSynopsis.md#names).
@@ -22,7 +22,7 @@
 21. 
 # %%HumanRogue%%
 1. Record your name, class and level.
-2. Select a [background](Background.md) from those made available from your Lifepath, above.
+2. Select a [background](optional/Background.md) from those made available from your Lifepath, above.
 3. Record your species as [Human](species/Human.md) and the [Intrepid](species/Human.md#intrepid) feature.
 4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Describe 3 to 5 [passions](CharacterCreation.md#passions) your character holds.  It's recommended that you look to your Lifepath results for inspiration.
@@ -40,7 +40,7 @@
 
 # %%HumanFighterRogue%%
 1. Record your name, class and level.
-2. Select a [background](Background.md) from those made available from your Lifepath, above.
+2. Select a [background](optional/Background.md) from those made available from your Lifepath, above.
 3. Record your species as [Human](species/Human.md) and the [Intrepid](species/Human.md#intrepid) feature.
 4. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute%20modifiers).
 6. Describe 3 to 5 [passions](CharacterCreation.md#passions) your character holds.  It's recommended that you look to your Lifepath results for inspiration.
@@ -58,7 +58,7 @@
 
 # %%DwarfFighter%%
 1. Record your name, class and level.
-2. Select a [background](Background.md) from those made available from your Lifepath, above.
+2. Select a [background](optional/Background.md) from those made available from your Lifepath, above.
 3. Record your species as [Dwarf](species/Dwarf.md) and your [species features](species/Dwarf.md#features).
 4. As a [Dwarf](species/Dwarf.md), record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
@@ -77,7 +77,7 @@
 
 # %%DwarfFighterRogue%%
 1. Record your name, class and level.
-2. Select a [background](Background.md) from those made available from your Lifepath, above.
+2. Select a [background](optional/Background.md) from those made available from your Lifepath, above.
 3. Record your species as [Dwarf](species/Dwarf.md) and your [species features](species/Dwarf.md#features).
 4. As a [Dwarf](species/Dwarf.md), record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
@@ -96,7 +96,7 @@
 
 # %%DwarfFighterSpellcaster%%
 1. Record your name, class and level.
-2. Select a [background](Background.md) from those made available from your Lifepath, above.
+2. Select a [background](optional/Background.md) from those made available from your Lifepath, above.
 3. Record your species as [Dwarf](species/Dwarf.md) and your [species features](species/Dwarf.md#features).
 4. As a [Dwarf](species/Dwarf.md), record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
@@ -117,7 +117,7 @@
 
 # %%ElfFighterSpellcaster%%
 1. Record your name, class and level.
-2. Select a [background](Background.md) from those made available from your Lifepath, above.
+2. Select a [background](optional/Background.md) from those made available from your Lifepath, above.
 3. Record your species as [Elf](species/Elf.md) and your [species features](species/Elf.md#features).
 4. As an [Elf](species/Elf.md), record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
@@ -138,7 +138,7 @@
 
 # %%ElfSpellcaster%%
 1. Record your name, class and level.
-2. Select a [background](Background.md) from those made available from your Lifepath, above.
+2. Select a [background](optional/Background.md) from those made available from your Lifepath, above.
 3. Record your species as [Elf](species/Elf.md) and your [species features](species/Elf.md#features).
 4. As an [Elf](species/Elf.md), record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).
@@ -160,7 +160,7 @@
 
 # %%ElfRogueSpellcaster%%
 1. Record your name, class and level.
-2. Select a [background](Background.md) from those made available from your Lifepath, above.
+2. Select a [background](optional/Background.md) from those made available from your Lifepath, above.
 3. Record your species as [Elf](species/Elf.md) and your [species features](species/Elf.md#features).
 4. As an [Elf](species/Elf.md), record your [True Name](RulesSynopsis.md#names).
 5. Record your ability scores. If any ability score ends up over 18, reduce it to 18 and place the excess points wherever you wish, so long as no ability ends up over 18. In the space beside each, record your [ability score modifier](CharacterCreation.md#attribute-modifiers).

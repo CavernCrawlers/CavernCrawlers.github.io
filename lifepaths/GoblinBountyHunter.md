@@ -4,7 +4,7 @@ cssclasses:
 ---
 # The Goblin Bounty Hunter
 ## ([Rogue](classes/Rogue.md))
-You made your living tracking down people for pay.  You've since decided to make your own life rather than serving at the beck and call of others.  You gain access to the [Criminal](Background.md#criminal) background.
+You made your living tracking down people for pay.  You've since decided to make your own life rather than serving at the beck and call of others.  You gain access to the [Criminal](optional/Background.md#criminal) background.
 
 ## Childhood
 You were always clever and agile, if a bit spindly in build.  You begin play with a 12 Dexterity, 10 Wisdom 6 Strength and 8 in all other abilities.

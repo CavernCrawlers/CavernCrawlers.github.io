@@ -4,7 +4,7 @@ cssclasses:
 ---
 # Goblin Rat Tamer
 ## ([Fighter-Rogue](classes/Fighter-Rogue.md))
-You raised and trained the giant rats your clan used the same way other cultures use hounds.  You gain access to the [Animal Handler](Background.md#animal%20handler) background.
+You raised and trained the giant rats your clan used the same way other cultures use hounds.  You gain access to the [Animal Handler](optional/Background.md#animal%20handler) background.
 
 ## Childhood
 Rat-taming requires a quick hand, an empathetic attitude and a tolerance for getting bit.  Your Dexterity, Constitution and Charisma start at 10.  Your Strength starts at 6.  All your other ability scores begin at 8.

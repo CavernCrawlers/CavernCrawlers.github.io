@@ -4,7 +4,7 @@ cssclasses:
 ---
 # Orc Berserker
 ## ([Fighter](classes/Fighter.md))
-You were raised in one of the mighty war-cults of your homeland and trained to be their most blessed of warriors, a berserker.  You gain access to the [Cult Initiate](Background.md#cult%20initiate) background.
+You were raised in one of the mighty war-cults of your homeland and trained to be their most blessed of warriors, a berserker.  You gain access to the [Cult Initiate](optional/Background.md#cult%20initiate) background.
 
 ## Childhood
 You are both mighty of arm and stout of body, but not the nicest person to be around.  Your Strength begins at 12 and your Constitution at 10.  Your Charisma begins at 6.  All your other abilities start at 8.

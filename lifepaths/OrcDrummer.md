@@ -4,7 +4,7 @@ cssclasses:
 ---
 # Orc Drummer
 ## ([Fighter-Spellcaster](classes/Fighter-Spellcaster.md))
-You were raised in the traditions of both your tribe's warriors and its priests.  It was your duty to maintain the rhythm of the march and bring courage and ferocity to the warriors in battle.  You gain access to the [Drummer (entertainer)](Background.md#entertainer) background.
+You were raised in the traditions of both your tribe's warriors and its priests.  It was your duty to maintain the rhythm of the march and bring courage and ferocity to the warriors in battle.  You gain access to the [Drummer (entertainer)](optional/Background.md#entertainer) background.
 
 ### What was it like, growing up in your tribe?
 ![](Birthright.md#orc)

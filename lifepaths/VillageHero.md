@@ -4,7 +4,7 @@ cssclasses:
 ---
 # The Village Hero(in)
 ## ([Fighter](classes/Fighter.md))
-While you are still young, you have made quite the name for yourself in the village. The common folk look to you to solve their problems and protect them from dangers.  You gain access to the [Farmer](Background.md#farmer) background.
+While you are still young, you have made quite the name for yourself in the village. The common folk look to you to solve their problems and protect them from dangers.  You gain access to the [Farmer](optional/Background.md#farmer) background.
 
 ## Childhood
 You are sturdy and well-built. Your Strength and Constitution begin at 10, and all of your other ability scores begin at 8.

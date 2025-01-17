@@ -5,7 +5,7 @@ cssclasses:
 # The {Lord's/Lady's} Secret
 ## ([Fighter-Spellcaster](classes/Fighter-Spellcaster.md))
 {description}  
-You gain access to the [Courtier](Background.md#courtier) background.
+You gain access to the [Courtier](optional/Background.md#courtier) background.
 
 ## Childhood
 Years ago, the local {lord/lady} returned from an adventure, quest, or war party. Only an infant, you were with {him/her}, a strange child of uncertain heritage. Raised in the noble house but always apart, you made close friends with the witch and a few others, but have always been an outsider in the eyes of the others in the castle.

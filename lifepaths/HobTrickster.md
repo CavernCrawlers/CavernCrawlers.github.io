@@ -3,7 +3,7 @@ cssclass: clean-embeds
 ---
 # The Hob Trickster
 ## ([Rogue-Spellcaster](classes/Rogue-Spellcaster.md))
-Ever since you were a child, you were fascinated by magic.  When the time of apprenticeship came, the village hedge-mage chose you to learn their art.  Now the time has come to make your own way in the world and put all you have learned to the test.  You have access to the [Wizard’s Apprentice](Background.md#wizard’s%20apprentice) background.
+Ever since you were a child, you were fascinated by magic.  When the time of apprenticeship came, the village hedge-mage chose you to learn their art.  Now the time has come to make your own way in the world and put all you have learned to the test.  You have access to the [Wizard’s Apprentice](optional/Background.md#wizard’s%20apprentice) background.
 
 ## Childhood
 You were always clever and dexterous. Your Intelligence begins at 12, your Dexterity at 10, your Strength at 6, and all of your other ability scores begin at 8.

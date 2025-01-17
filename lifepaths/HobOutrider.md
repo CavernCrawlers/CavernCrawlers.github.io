@@ -3,7 +3,7 @@ cssclass: clean-embeds
 ---
 # The Hob Outrider
 ## ([Fighter-Rogue](classes/Fighter-Rogue.md))
-Back in the halfling lands, you were one of the warriors of your people. You patrolled the borders of your homeland on your trusty pony, watching for bands of barbarians, goblins, and meddling big folk. Now you have journeyed far from home on adventures of your own.  You gain access to the [Scout](Background.md#scout) background.
+Back in the halfling lands, you were one of the warriors of your people. You patrolled the borders of your homeland on your trusty pony, watching for bands of barbarians, goblins, and meddling big folk. Now you have journeyed far from home on adventures of your own.  You gain access to the [Scout](optional/Background.md#scout) background.
 
 ## Childhood
 You were the strongest and most athletic of your people. Your Constitution and Dexterity begins at 10, and all of your other ability scores begin at 8.

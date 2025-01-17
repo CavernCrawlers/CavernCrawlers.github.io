@@ -4,7 +4,7 @@ cssclasses:
 ---
 # The Would-Be Knight
 ## ([Fighter](classes/Fighter.md))
-You grew up sitting wide-eyed round the fire, listening to stories of knights and heroes who slew dragons and saved the kingdom.  The other children liked those stories as well, but you lived for them, and you promised yourself that you would grow to be a great knight too. Roll a [Poor](Background.md#focused%20backgrounds) background.
+You grew up sitting wide-eyed round the fire, listening to stories of knights and heroes who slew dragons and saved the kingdom.  The other children liked those stories as well, but you lived for them, and you promised yourself that you would grow to be a great knight too. Roll a [Poor](optional/Background.md#focused%20backgrounds) background.
 
 ## Childhood
 You are strong and brave. Your Strength begins at 12, and all of your other ability scores begin at 8.

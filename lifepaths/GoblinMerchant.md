@@ -4,7 +4,7 @@ cssclasses:
 ---
 # The Goblin Merchant
 ## ([Rogue-Spellcaster](classes/Rogue-Spellcaster.md))
-You've always had a talent for making deals and getting the better end of them.  You decided to use this natural talent and became a wandering merchant.  You came to the village because you wanted to experience other cultures and species and profit off them all.  You gain access to the [Merchant](Background.md#merchant) background.
+You've always had a talent for making deals and getting the better end of them.  You decided to use this natural talent and became a wandering merchant.  You came to the village because you wanted to experience other cultures and species and profit off them all.  You gain access to the [Merchant](optional/Background.md#merchant) background.
 
 ## Childhood
 You are clever, cunning and bold.  You begin play with an Intelligence of 12, a Charisma of 10, a Strength of 6 and all other abilities at 8.

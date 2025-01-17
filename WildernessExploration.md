@@ -32,7 +32,7 @@ See also [Time](RulesSynopsis.md#Time) in the Rules Synopsis document.
 If the party is traveling in well-known lands along a known route, there is no chance of their getting lost barring supernatural effects.
 
 ## Getting Lost
-With a river, road or similar land-feature to follow, there is no chance of a party getting lost in the wilderness.  When travelling cross-country without such an aid, the GM should make a **Wisdom** check for the character best suited to wilderness exploration.  The character's **skill bonus** should be taken into account if they have an appropriate **[background](Background.md) profession** (such as ranger/forester or hunter).  The **DT** of the check depends on the terrain being traveled:
+With a river, road or similar land-feature to follow, there is no chance of a party getting lost in the wilderness.  When travelling cross-country without such an aid, the GM should make a **Wisdom** check for the character best suited to wilderness exploration.  The character's **skill bonus** should be taken into account if they have an appropriate **[background](optional/Background.md) profession** (such as ranger/forester or hunter).  The **DT** of the check depends on the terrain being traveled:
 - Clear with many landmarks: 9+
 - Obscured or few landmarks (hills, forest, etc): 12+
 - Heavily obscured or obscured with few landmarks (jungle, swamp, desert, ice fields): 15+

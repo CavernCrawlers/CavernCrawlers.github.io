@@ -4,7 +4,7 @@ cssclasses:
 ---
 # Noble's Wild Daughter
 ## ([Fighter](classes/Fighter.md))
-You were never quiet and demure, as some would have wished you to be. You grew up on tales of heroes, mighty deeds, and great battles. You learned the ways of war in secret and can now best any lad in the castle.  You gain access to the [Courtier](Background.md#courtier) background.
+You were never quiet and demure, as some would have wished you to be. You grew up on tales of heroes, mighty deeds, and great battles. You learned the ways of war in secret and can now best any lad in the castle.  You gain access to the [Courtier](optional/Background.md#courtier) background.
 
 ## Childhood
 You are quick and tough. Your Dexterity and Constitution begin at 10, and all of your other ability scores begin at 8.

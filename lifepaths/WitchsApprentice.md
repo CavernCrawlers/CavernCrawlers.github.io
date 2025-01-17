@@ -4,7 +4,7 @@ cssclasses:
 ---
 # The Witch's Apprentice
 ## ([Spellcaster](classes/Spellcaster.md))
-Every great mage was a student once. Some say the true heart of magic is the simple, practical work of the village witch. Your village, like many, had its own who tended the sick and blessed the fields.  {She/He} chose you as {her/his} apprentice.  You gain access to the [Herbalist](Background.md#herbalist) background.
+Every great mage was a student once. Some say the true heart of magic is the simple, practical work of the village witch. Your village, like many, had its own who tended the sick and blessed the fields.  {She/He} chose you as {her/his} apprentice.  You gain access to the [Herbalist](optional/Background.md#herbalist) background.
 
 ## Childhood
 You are naturally intelligent and thoughtful. Your Intelligence and Wisdom begin at 10, and all of your other ability scores begin at 8.

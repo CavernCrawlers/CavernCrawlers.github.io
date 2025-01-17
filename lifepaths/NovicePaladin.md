@@ -3,7 +3,7 @@ cssclass: clean-embeds
 ---
 # The Novice Paladin
 ## ([Fighter-Spellcaster](classes/Fighter-Spellcaster.md))
-An order of devout knights has accepted you into its ranks, and you have sworn to protect the weak and oppose darkness.  Your gods bless your blade and gives you great prowess in battle. While you have been vested by this order, you are still a novice, and now must prove yourself to them. You gain access to the [Squire](Background.md#squire) background.
+An order of devout knights has accepted you into its ranks, and you have sworn to protect the weak and oppose darkness.  Your gods bless your blade and gives you great prowess in battle. While you have been vested by this order, you are still a novice, and now must prove yourself to them. You gain access to the [Squire](optional/Background.md#squire) background.
 
 ## Childhood
 You are brave and pious. Your Strength and Wisdom begin at 10, and all of your other ability scores begin at 8.

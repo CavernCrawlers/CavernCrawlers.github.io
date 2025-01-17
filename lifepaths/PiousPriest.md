@@ -4,7 +4,7 @@ cssclasses:
 ---
 # The Pius Priest(ess)
 ## ([Spellcaster](classes/Spellcaster.md))
-You have always had a deeper connection with the ethereal world than most. You swear that the gods have spoken to you in your dreams. Eventually you heard the greater calling of a particular god, and you answered. Now you are blessed with [spells](magic/Spells.md) to aid you in His/Her mission.  You gain access to the [Acolyte](Background.md#acolyte) background.
+You have always had a deeper connection with the ethereal world than most. You swear that the gods have spoken to you in your dreams. Eventually you heard the greater calling of a particular god, and you answered. Now you are blessed with [spells](magic/Spells.md) to aid you in His/Her mission.  You gain access to the [Acolyte](optional/Background.md#acolyte) background.
 
 ## Childhood
 You are highly intelligent and motivated. Your Intelligence and Charisma both start at 10 and all other attributes start at 8.

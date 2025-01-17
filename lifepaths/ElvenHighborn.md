@@ -3,7 +3,7 @@ cssclass: clean-embeds
 ---
 # The Elven Highborn
 ## ([Fighter-Spellcaster](classes/Fighter-Spellcaster.md))
-Your people are scarce now, most having gone far away from the troubled lands of humans. Your family stayed, however, your mother acting as the leader of a small elven enclave which remained, secluded from humans. You have left that enclave now, and must find your way among strange people.  You gain access to the [Noble](Background.md#noble) background.
+Your people are scarce now, most having gone far away from the troubled lands of humans. Your family stayed, however, your mother acting as the leader of a small elven enclave which remained, secluded from humans. You have left that enclave now, and must find your way among strange people.  You gain access to the [Noble](optional/Background.md#noble) background.
 
 ## Childhood
 You are quick and intelligent. Your Dexterity and Intelligence begin at 10, and all of your other ability scores begin at 8.

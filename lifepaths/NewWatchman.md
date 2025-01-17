@@ -4,7 +4,7 @@ cssclass: clean-embeds
 
 # The New Watchman
 ## ([Fighter](classes/Fighter.md))
-The village is protected by a small band of watchmen, and you are the most recent recruit. While the watch has only two or three members, you are always on guard against dangers from beyond the village walls. The watchmen are respected in town and asked to solve disputes, investigate mysteries, keep the peace, and judge the festival competitions.  You may choose the Guard ([soldier](Background.md#soldier)) background.
+The village is protected by a small band of watchmen, and you are the most recent recruit. While the watch has only two or three members, you are always on guard against dangers from beyond the village walls. The watchmen are respected in town and asked to solve disputes, investigate mysteries, keep the peace, and judge the festival competitions.  You may choose the Guard ([soldier](optional/Background.md#soldier)) background.
 
 ## Childhood
 You strong, alert, and patient. Your Strength and Wisdom begin at 10, and all of your other ability scores begin at 8.

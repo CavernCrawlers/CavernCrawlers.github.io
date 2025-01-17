@@ -4,7 +4,7 @@ cssclasses:
 ---
 # The Barbarian Namer
 ## ([Spellcaster](classes/Spellcaster.md))
-In your homeland, you were a child apprentice of the tribe’s Namer, from whom you learned many secrets and the power of names. After being separated from your people and your ancestral lands, you found a new home in the village. You still keep the stories and secrets of your people, though now  you share them with new friends.  You gain access to the [Namer's (Wizard's) Apprentice](Background.md#wizard's%20Apprentice) background.
+In your homeland, you were a child apprentice of the tribe’s Namer, from whom you learned many secrets and the power of names. After being separated from your people and your ancestral lands, you found a new home in the village. You still keep the stories and secrets of your people, though now  you share them with new friends.  You gain access to the [Namer's (Wizard's) Apprentice](optional/Background.md#wizard's%20Apprentice) background.
 
 ## Childhood
 You are durable and wise. Your Constitution and Wisdom begin at 10, and all of your other ability scores begin at 8.

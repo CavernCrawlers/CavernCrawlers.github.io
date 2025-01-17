@@ -8,7 +8,7 @@
 		- [Hob](species/Hob.md)
 		- [Human](species/Human.md)
 		- [Orc](species/Orc.md)
-	- [Background Occupation](Background.md)
+	- [Background Occupation](optional/Background.md)
 	- [Classes](classes/Classes.md)
 		- [Fighter](classes/Fighter.md)
 		- [Rogue](classes/Rogue.md)

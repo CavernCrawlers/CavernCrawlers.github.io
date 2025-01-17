@@ -4,7 +4,7 @@ cssclasses:
 ---
 # The Self-Taught Mage
 ## ([Spellcaster](classes/Spellcaster.md))
-You were always a bright child, and loved stories of ancient wizards and sorceresses who mastered the arcane arts. Unfortunately, there was no one around to teach you such things. In fact, sometimes you wondered if the stories of magic were even true.  When you came of age, you found an ancient tome and decided to find out for yourself.  You gain access to the [sage](Background.md#sage) background.
+You were always a bright child, and loved stories of ancient wizards and sorceresses who mastered the arcane arts. Unfortunately, there was no one around to teach you such things. In fact, sometimes you wondered if the stories of magic were even true.  When you came of age, you found an ancient tome and decided to find out for yourself.  You gain access to the [sage](optional/Background.md#sage) background.
 
 ## Childhood
 You were the brightest child in the village. Your Intelligence begins at 12, and all of your other ability scores begin at 8.

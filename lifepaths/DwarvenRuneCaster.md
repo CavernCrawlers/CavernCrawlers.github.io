@@ -3,7 +3,7 @@ cssclass: clean-embeds
 ---
 # The Dwarven Rune Caster
 ## ([Fighter-Spellcaster](classes/Fighter-Spellcaster.md))
-Even more than others of your kin, you grew up valuing the past and keeping the stories and chants of your people. At a young age, you were apprenticed to the rune master and learned the secret magic of the dwarves.  You gain access to the [Wizard's Apprentice](Background.md#wizard’s%20apprentice) background.
+Even more than others of your kin, you grew up valuing the past and keeping the stories and chants of your people. At a young age, you were apprenticed to the rune master and learned the secret magic of the dwarves.  You gain access to the [Wizard's Apprentice](optional/Background.md#wizard’s%20apprentice) background.
 
 ## Childhood
 You are tough, and hold much lore in your head, but sometimes have little time for fools. Your Constitution, Intelligence, and Wisdom begin at 10, your Charisma begins at 6, and all of your other ability scores begin at 8.

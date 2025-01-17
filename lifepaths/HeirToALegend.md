@@ -3,7 +3,7 @@ cssclass: clean-embeds
 ---
 # The Heir to a Legend
 ## ([Fighter-Rogue](classes/Fighter-Rogue.md))
-Your father has always told you stories of how great a hero he was. Many of the other villagers scoff at his stories and pity you for being raised by such a liar, but you know that he is true and honest. Now you have his weapons and you will make a name for yourself to make him proud.  You gain access to the [Soldier](Background.md#soldier) background.
+Your father has always told you stories of how great a hero he was. Many of the other villagers scoff at his stories and pity you for being raised by such a liar, but you know that he is true and honest. Now you have his weapons and you will make a name for yourself to make him proud.  You gain access to the [Soldier](optional/Background.md#soldier) background.
 
 ## Childhood
 You are athletic and adventurous. Your Strength and Dexterity begin at 10, and all of your other ability scores begin at 8.

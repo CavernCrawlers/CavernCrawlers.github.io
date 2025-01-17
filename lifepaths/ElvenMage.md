@@ -3,7 +3,7 @@ cssclass: clean-embeds
 ---
 # The Elven Mage
 ## ([Spellcaster](classes/Spellcaster.md))
-Tutored from a young age in your peoples’ magic, you can call forth many wonders.  You’ve watched the rise of the younger races and are filled with a mixture of hope and dread.  You’ve gone forth into their world hoping to tame some of their recklessness yet acquire some of their vigor.  You gain access to the [Wizard's Apprentice](Background.md#wizards%20apprentice) background.
+Tutored from a young age in your peoples’ magic, you can call forth many wonders.  You’ve watched the rise of the younger races and are filled with a mixture of hope and dread.  You’ve gone forth into their world hoping to tame some of their recklessness yet acquire some of their vigor.  You gain access to the [Wizard's Apprentice](optional/Background.md#wizards%20apprentice) background.
 
 ## Childhood
 You have a gift for sorcery and diplomacy. Your Intelligence and Charisma begins at 10, and all of your other ability scores begin at 8.

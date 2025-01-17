@@ -4,7 +4,7 @@ cssclasses:
 ---
 # The Student of the Dark Arts
 ## ([Spellcaster](classes/Spellcaster.md))
-Somehow or another you have uncovered dark secrets and powerful magics. Now you dabble in many things that are probably better left alone. There are evils afoot in the world, and you are determined to use your knowledge to combat them.  You gain access to the [Cult Initiate](Background.md#cult%20initiate) background.
+Somehow or another you have uncovered dark secrets and powerful magics. Now you dabble in many things that are probably better left alone. There are evils afoot in the world, and you are determined to use your knowledge to combat them.  You gain access to the [Cult Initiate](optional/Background.md#cult%20initiate) background.
 
 ## Childhood
 You are intelligent and tougher than you might appear. Your Constitution and Intelligence begin at 10, and all of your other ability scores begin at 8.
