@@ -2,7 +2,7 @@
 This document contains a list of skills used in the <ins>**Cavern Crawlers**</ins> system.
 
 ## Skill Ranks
-All skills are ranked in 3 levels: *Unskilled*, *Expert* and *Master*.  The first time a skill is learned, it is taken at the *Expert* level.  Taking the same skill a second time raises it to *Master*.  The modifier from the table below is added to the character's [skill checks](CoreRules.md#skilled%20check).
+All skills are ranked in 4 levels: *Unskilled*, *Apprentice* *Expert* and *Master*.  The first time a skill is learned, it is taken at the *Apprentice* level.  Taking the same skill a second time raises it to *Expert* and a third raises it to *Master*.  The modifier from the table below is added to the character's [skill checks](CoreRules.md#skilled%20check).
 
 <table border=2>
     <tr style="background-color:#708090;">
@@ -14,10 +14,14 @@ All skills are ranked in 3 levels: *Unskilled*, *Expert* and *Master*.  The firs
         <td align="left">If a roll is allowed by the GM, roll with <i>Disadvantage</i>.</td>
     </tr>
     <tr style="background-color:#91a3b0;">
+        <td align="left">Apprentice</td>
+        <td align="left">+0</td>
+    </tr>
+    <tr>
         <td align="left">Expert</td>
         <td align="left">+3</td>
     </tr>
-    <tr>
+    <tr style="background-color:#91a3b0;">
         <td align="left">Master</td>
         <td align="left">+6</td>
     </tr>

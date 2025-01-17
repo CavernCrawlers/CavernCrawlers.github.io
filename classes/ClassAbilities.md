@@ -2,7 +2,7 @@
 
 ## Fighter
 
-### Combat Maneuvers
+### Combat Mastery
 Once per turn, when you make a [melee attack](Combat.md#melee%20attacks), you may attempt a [Combat Maneuver](Combat.md#combat%20maneuvers).  If the attack hits and the [Natural](CoreRules.md#Natural%20Roll) value of your [Attack Roll](CoreRules.md#attack%20roll) is equal to or greater than your *Combat Mastery* target number (see the table below), the maneuver succeeds.  Many maneuvers, however, do allow the target to make a [Saving Throw](CoreRules.md#saving%20throw).
 
 ### Hauler
@@ -16,11 +16,17 @@ Fighters are experts at dealing [Damage](Combat.md#damage).  If your attack miss
 ### Fortune's Favor
 You have greater luck than other characters. You gain +2 to both your Base and Max [Fortune Points](CoreRules.md#fortune).
 
-### Lesser Fortune's Favor
+### Highly Skilled
+Rogues receive 2 additional [skills](Skills.md) at first level.  They gain an additional 2 skills at every odd-numbered level thereafter.  Instead of gaining a new skill, they may [improve](Skills.md#skill%20ranks) an existing skill.
+
+### Luckier Than Most
 You have greater luck than other characters. You gain +1 to both your Base and Max [Fortune Points](CoreRules.md#fortune).
 
 ### Sneak Attack
 When you have [Advantage](CoreRules.md#advantage%20and%20disadvantage) on an attack, add the listed damage on the table below to the attack.
+
+### Well Trained
+[Hybrid Rogues](Glossary.md#hybrid%20class) receive 1 additional [skill](Skills.md) at first level.  They gain an additional 2 skills at the levels shown on the table below.  Instead of gaining a new skill, they may [improve](Skills.md#skill%20ranks) an existing skill.
 
 ## Spellcaster
 

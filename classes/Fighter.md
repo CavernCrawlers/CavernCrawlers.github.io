@@ -26,7 +26,7 @@ cssclass: clean-embeds
 ---
 ## Class Abilities
 
-![](classes/ClassAbilities.md#combat%20maneuvers)
+![](classes/ClassAbilities.md#combat%20mastery)
 
 ![](classes/ClassAbilities.md#hauler)
 

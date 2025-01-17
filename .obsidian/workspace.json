@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Skills.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
@@ -53,21 +53,6 @@
             }
           },
           {
-            "id": "fdc583c3e3f72ff3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "classes/Spellcaster.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Spellcaster"
-            }
-          },
-          {
             "id": "52e91d9becc721ec",
             "type": "leaf",
             "state": {
@@ -80,6 +65,36 @@
               },
               "icon": "lucide-file",
               "title": "Traits"
+            }
+          },
+          {
+            "id": "c1422e997289e424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "classes/Knacks.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Knacks"
+            }
+          },
+          {
+            "id": "fdc583c3e3f72ff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "classes/Spellcaster.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Spellcaster"
             }
           },
           {
@@ -113,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -284,20 +299,21 @@
   },
   "active": "fdc583c3e3f72ff3",
   "lastOpenFiles": [
-    "classes/Fighter-Rogue.md",
-    "classes/Spellcaster.md",
     "classes/Rogue.md",
+    "classes/Fighter.md",
+    "classes/Fighter-Rogue.md",
+    "classes/Fighter-Spellcaster.md",
+    "Traits.md",
+    "classes/Knacks.md",
     "classes/ClassAbilities.md",
+    "Skills.md",
+    "EncumbranceAndEquipment.md",
+    "classes/Spellcaster.md",
     "magic/MagicalArts.md",
     "magic/Spells.md",
     "CoreRules.md",
     "Glossary.md",
-    "EncumbranceAndEquipment.md",
-    "classes/Fighter.md",
-    "classes/Knacks.md",
-    "Skills.md",
     "Combat.md",
-    "Traits.md",
     "RulesSynopsis.md",
     "draft/RaceOgre.md",
     "draft/Skills.md",
@@ -309,7 +325,6 @@
     "species/Hob.md",
     "species/Goblin.md",
     "species/Elf.md",
-    "species/Dwarf.md",
     "misc/lu181322otujy.tmp",
     "lifepaths/LibreOffice/Lifepaths.ods",
     "misc/lu16528yi3r.tmp",

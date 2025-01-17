@@ -45,7 +45,7 @@ You do not immediately fall [Unconscious](Combat.md#unconscious) when dropped to
 You may use your [Combat Maneuvers](classes/ClassAbilities.md#combat%20maneuvers) ability with [Ranged Attacks](Combat.md#ranged%20attacks).
 
 ### Precise Shot
-You ignore any [Cover](Combat.md#cover) bonuses your target may have so long as you can see a significant portion of the target (such as a head, should, thigh, etc).  Additionally, you take no penalty for firing at [Close range](Combat.md#range%20bands) or [Into Melee](Combat.md#firing%20into%20melee) (and do not risk hitting your friends).
+You ignore any [Cover](Combat.md#cover) bonuses your target may have so long as you can see a significant portion of the target (such as a head, shoulder, thigh, etc).  Additionally, you take no penalty for firing at [Close range](Combat.md#range%20bands) or [Into Melee](Combat.md#firing%20into%20melee) (and do not risk hitting your friends).
 
 ### Protector
 While you are in melee with a foe, any [Attacks](Combat.md#attacking%20an%20enemy) that foe makes against a target other than you is done with *Disadvantage*.
