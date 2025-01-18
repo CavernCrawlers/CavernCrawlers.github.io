@@ -14,6 +14,7 @@ cssclass: clean-embeds
 - **Starting HP**: 6 + CON Modifier
 - **Hit Dice (Levels 2 to 10)**: 1d6 + CON Modifier per level
 - **HP for Levels 11+:** +1/level
+- **Initiative Bonus:** +1 at Level 3 and every 3 levels thereafter
 - **Armor Training**: Light Armor and Bucklers
 - **Weapon Training**: Light and Medium weapons.
 
@@ -66,6 +67,7 @@ Rogues gain 1 Knack at Level 1 and gain an additional Knack at Levels 4, 7, 10 a
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Experience</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Hit<br/>Dice*</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Base<br/>Attack<br/>Bonus</b></th>
+		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Initiative<br/>Bonus</b></th>
 		<th align="center" colspan=3 style="vertical-align:bottom;"><b>Saving Throws</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Skills</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Traits</b></th>
@@ -83,6 +85,7 @@ Rogues gain 1 Knack at Level 1 and gain an additional Knack at Levels 4, 7, 10 a
 		<td align="right">0</td><!--Experience-->
 		<td align="center">1d6</td><!--HD-->
 		<td align="center">+0</td><!--BAB-->
+		<td align="center">+0</td><!--Init-->
 		<td align="center">+1</td><!--Ref-->
 		<td align="center">+1</td><!--Fort-->
 		<td align="center">+0</td><!--Will-->
@@ -96,6 +99,7 @@ Rogues gain 1 Knack at Level 1 and gain an additional Knack at Levels 4, 7, 10 a
 		<td align="right">1,500</td><!--Experience-->
 		<td align="center">2d6</td><!--Level-->
 		<td align="center">+1</td><!--BAB-->
+		<td align="center">+0</td><!--Init-->
 		<td align="center">+2</td><!--Ref-->
 		<td align="center">+1</td><!--Fort-->
 		<td align="center">+1</td><!--Will-->
@@ -109,6 +113,7 @@ Rogues gain 1 Knack at Level 1 and gain an additional Knack at Levels 4, 7, 10 a
 		<td align="right">3,000</td><!--Experience-->
 		<td align="center">3d6</td><!--Level-->
 		<td align="center">+1</td><!--BAB-->
+		<td align="center">+1</td><!--Init-->
 		<td align="center">+3</td><!--Ref-->
 		<td align="center">+2</td><!--Fort-->
 		<td align="center">+1</td><!--Will-->
@@ -122,6 +127,7 @@ Rogues gain 1 Knack at Level 1 and gain an additional Knack at Levels 4, 7, 10 a
 		<td align="right">6,000</td><!--Experience-->
 		<td align="center">4d6</td><!--Level-->
 		<td align="center">+2</td><!--BAB-->
+		<td align="center">+1</td><!--Init-->
 		<td align="center">+3</td><!--Ref-->
 		<td align="center">+2</td><!--Fort-->
 		<td align="center">+3</td><!--Will-->
@@ -135,6 +141,7 @@ Rogues gain 1 Knack at Level 1 and gain an additional Knack at Levels 4, 7, 10 a
 		<td align="right">12,000</td><!--Experience-->
 		<td align="center">5d6</td><!--Level-->
 		<td align="center">+2</td><!--BAB-->
+		<td align="center">+1</td><!--Init-->
 		<td align="center">+4</td><!--Ref-->
 		<td align="center">+4</td><!--Fort-->
 		<td align="center">+3</td><!--Will-->
@@ -148,6 +155,7 @@ Rogues gain 1 Knack at Level 1 and gain an additional Knack at Levels 4, 7, 10 a
 		<td align="right">24,000</td><!--Experience-->
 		<td align="center">6d6</td><!--Level-->
 		<td align="center">+3</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+5</td><!--Ref-->
 		<td align="center">+4</td><!--Fort-->
 		<td align="center">+3</td><!--Will-->
@@ -161,6 +169,7 @@ Rogues gain 1 Knack at Level 1 and gain an additional Knack at Levels 4, 7, 10 a
 		<td align="right">48,000</td><!--Experience-->
 		<td align="center">7d6</td><!--Level-->
 		<td align="center">+3</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+6</td><!--Ref-->
 		<td align="center">+5</td><!--Fort-->
 		<td align="center">+4</td><!--Will-->
@@ -174,6 +183,7 @@ Rogues gain 1 Knack at Level 1 and gain an additional Knack at Levels 4, 7, 10 a
 		<td align="right">96,000</td><!--Experience-->
 		<td align="center">8d6</td><!--Level-->
 		<td align="center">+4</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+6</td><!--Ref-->
 		<td align="center">+6</td><!--Fort-->
 		<td align="center">+5</td><!--Will-->
@@ -187,6 +197,7 @@ Rogues gain 1 Knack at Level 1 and gain an additional Knack at Levels 4, 7, 10 a
 		<td align="right">190,000</td><!--Experience-->
 		<td align="center">9d6</td><!--Level-->
 		<td align="center">+5</td><!--BAB-->
+		<td align="center">+3</td><!--Init-->
 		<td align="center">+7</td><!--Ref-->
 		<td align="center">+6</td><!--Fort-->
 		<td align="center">+5</td><!--Will-->
@@ -200,6 +211,7 @@ Rogues gain 1 Knack at Level 1 and gain an additional Knack at Levels 4, 7, 10 a
 		<td align="right">290,000</td><!--Experience-->
 		<td align="center">10d6</td><!--Level-->
 		<td align="center">+5</td><!--BAB-->
+		<td align="center">+3</td><!--Init-->
 		<td align="center">+8</td><!--Ref-->
 		<td align="center">+7</td><!--Fort-->
 		<td align="center">+6</td><!--Will-->
@@ -213,6 +225,7 @@ Rogues gain 1 Knack at Level 1 and gain an additional Knack at Levels 4, 7, 10 a
 		<td align="right">390,000</td><!--Experience-->
 		<td align="center">10d6+1</td><!--Level-->
 		<td align="center">+6</td><!--BAB-->
+		<td align="center">+3</td><!--Init-->
 		<td align="center">+9</td><!--Ref-->
 		<td align="center">+8</td><!--Fort-->
 		<td align="center">+6</td><!--Will-->
@@ -226,6 +239,7 @@ Rogues gain 1 Knack at Level 1 and gain an additional Knack at Levels 4, 7, 10 a
 		<td align="right">490,000</td><!--Experience-->
 		<td align="center">10d6+2</td><!--Level-->
 		<td align="center">+6</td><!--BAB-->
+		<td align="center">+4</td><!--Init-->
 		<td align="center">+9</td><!--Ref-->
 		<td align="center">+9</td><!--Fort-->
 		<td align="center">+7</td><!--Will-->
@@ -239,6 +253,7 @@ Rogues gain 1 Knack at Level 1 and gain an additional Knack at Levels 4, 7, 10 a
 		<td align="right">590,000</td><!--Experience-->
 		<td align="center">10d6+3</td><!--Level-->
 		<td align="center">+7</td><!--BAB-->
+		<td align="center">+4</td><!--Init-->
 		<td align="center">+10</td><!--Ref-->
 		<td align="center">+9</td><!--Fort-->
 		<td align="center">+8</td><!--Will-->
@@ -252,6 +267,7 @@ Rogues gain 1 Knack at Level 1 and gain an additional Knack at Levels 4, 7, 10 a
 		<td align="right">690,000</td><!--Experience-->
 		<td align="center">10d6+4</td><!--Level-->
 		<td align="center">+7</td><!--BAB-->
+		<td align="center">+4</td><!--Init-->
 		<td align="center">+11</td><!--Ref-->
 		<td align="center">+9</td><!--Fort-->
 		<td align="center">+9</td><!--Will-->
@@ -265,6 +281,7 @@ Rogues gain 1 Knack at Level 1 and gain an additional Knack at Levels 4, 7, 10 a
 		<td align="right">790,000</td><!--Experience-->
 		<td align="center">10d6+5</td><!--Level-->
 		<td align="center">+8</td><!--BAB-->
+		<td align="center">+5</td><!--Init-->
 		<td align="center">+12</td><!--Ref-->
 		<td align="center">+10</td><!--Fort-->
 		<td align="center">+10</td><!--Will-->
@@ -274,7 +291,7 @@ Rogues gain 1 Knack at Level 1 and gain an additional Knack at Levels 4, 7, 10 a
 		<td align="center">+4d4</td><!--Notes-->
 	</tr>
 	<tr style="background-color:#708090;">
-		<td colspan=11>* Constitution modifiers no longer apply after level 10.</td>
+		<td colspan=12>* Constitution modifiers no longer apply after level 10.</td>
 	</tr>
 </table>
 

@@ -74,6 +74,9 @@ A measure of a character's training and [experience](ExperienceAndLevels.md).
 ## Low-Light Vision
 Allows a creature to see in [dim lighting](CoreRules.md#visibility) conditions as if it were bright light, but the [vision](CoreRules.md#low-light%20vision) is in shades of grey only. Full darkness still prevents any sight.
 
+## Mental Ability Scores
+*Intelligence*, *Wisdom* and *Charisma*
+
 ## Mental Check
 An [Ability Check](#Ability%20Check) involving either **Intelligence**, **Wisdom** or **Charisma**.
 
@@ -82,6 +85,9 @@ An [Ability Check](#Ability%20Check) involving either **Intelligence**, **Wisdom
 
 ## Perception Check
 A type of [Skilled check](#Skilled%20Check) involving one of the actor's senses (typically sight or hearing) based on **Wisdom**.  See [Perception](CoreRules.md#perception) in the Core Rules.
+
+## Physical Ability Scores
+*Strength*, *Dexterity* and *Constitution*
 
 ## Physical Check
 An [Ability Check](#Ability%20Check) involving either **Strength**, **Dexterity** or **Constitution**.

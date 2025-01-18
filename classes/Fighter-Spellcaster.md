@@ -13,7 +13,8 @@ cssclass: clean-embeds
 ## Statistics
 - **Starting HP**: 6 + CON Modifier
 - **Hit Dice (Levels 2 to 10)**: 1d6 + CON Modifier per level
-- HP for Levels 11+: +1/level
+- **HP for Levels 11+:** +1/level
+- **Initiative Bonus:** +1 at Level 4 and every 4 levels thereafter
 - **Armor Training**: Light and Medium Armor, Buckler and Shield
 - **Weapon Training**: Light and Medium weapons
 
@@ -67,6 +68,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Experience</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Hit<br/>Dice*</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Base<br/>Attack<br/>Bonus</b></th>
+		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Initiative<br/>Bonus</b></th>
 		<th align="center" colspan=3 style="vertical-align:bottom;"><b>Saves</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Skills</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Traits</b></th>
@@ -90,6 +92,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">0</td><!--Experience-->
 		<td align="center">1d6</td><!--HD-->
 		<td align="center">+1</td><!--BAB-->
+		<td align="center">+0</td><!--Init-->
 		<td align="center">+1</td><!--Ref-->
 		<td align="center">+1</td><!--Fort-->
 		<td align="center">+1</td><!--Will-->
@@ -109,6 +112,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">2,300</td><!--Experience-->
 		<td align="center">2d6</td><!--HD-->
 		<td align="center">+1</td><!--BAB-->
+		<td align="center">+0</td><!--Init-->
 		<td align="center">+1</td><!--Ref-->
 		<td align="center">+2</td><!--Fort-->
 		<td align="center">+2</td><!--Will-->
@@ -128,6 +132,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">4,500</td><!--Experience-->
 		<td align="center">3d6</td><!--HD-->
 		<td align="center">+2</td><!--BAB-->
+		<td align="center">+0</td><!--Init-->
 		<td align="center">+2</td><!--Ref-->
 		<td align="center">+3</td><!--Fort-->
 		<td align="center">+3</td><!--Will-->
@@ -147,6 +152,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">9,000</td><!--Experience-->
 		<td align="center">4d6</td><!--HD-->
 		<td align="center">+2</td><!--BAB-->
+		<td align="center">+1</td><!--Init-->
 		<td align="center">+3</td><!--Ref-->
 		<td align="center">+3</td><!--Fort-->
 		<td align="center">+3</td><!--Will-->
@@ -166,6 +172,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">18,000</td><!--Experience-->
 		<td align="center">5d6</td><!--HD-->
 		<td align="center">+3</td><!--BAB-->
+		<td align="center">+1</td><!--Init-->
 		<td align="center">+3</td><!--Ref-->
 		<td align="center">+4</td><!--Fort-->
 		<td align="center">+4</td><!--Will-->
@@ -185,6 +192,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">36,000</td><!--Experience-->
 		<td align="center">6d6</td><!--HD-->
 		<td align="center">+3</td><!--BAB-->
+		<td align="center">+1</td><!--Init-->
 		<td align="center">+4</td><!--Ref-->
 		<td align="center">+5</td><!--Fort-->
 		<td align="center">+5</td><!--Will-->
@@ -204,6 +212,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">72,000</td><!--Experience-->
 		<td align="center">7d6</td><!--HD-->
 		<td align="center">+4</td><!--BAB-->
+		<td align="center">+1</td><!--Init-->
 		<td align="center">+5</td><!--Ref-->
 		<td align="center">+5</td><!--Fort-->
 		<td align="center">+6</td><!--Will-->
@@ -223,6 +232,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">140,000</td><!--Experience-->
 		<td align="center">8d6</td><!--HD-->
 		<td align="center">+5</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+5</td><!--Ref-->
 		<td align="center">+6</td><!--Fort-->
 		<td align="center">+6</td><!--Will-->
@@ -242,6 +252,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">280,000</td><!--Experience-->
 		<td align="center">9d6</td><!--HD-->
 		<td align="center">+5</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+6</td><!--Ref-->
 		<td align="center">+7</td><!--Fort-->
 		<td align="center">+7</td><!--Will-->
@@ -261,6 +272,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">420,000</td><!--Experience-->
 		<td align="center">10d6</td><!--HD-->
 		<td align="center">+5</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+7</td><!--Ref-->
 		<td align="center">+7</td><!--Fort-->
 		<td align="center">+7</td><!--Will-->
@@ -280,6 +292,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">550,000</td><!--Experience-->
 		<td align="center">10d6+2</td><!--HD-->
 		<td align="center">+6</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+7</td><!--Ref-->
 		<td align="center">+8</td><!--Fort-->
 		<td align="center">+8</td><!--Will-->
@@ -299,6 +312,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">690,000</td><!--Experience-->
 		<td align="center">10d6+4</td><!--HD-->
 		<td align="center">+6</td><!--BAB-->
+		<td align="center">+3</td><!--Init-->
 		<td align="center">+8</td><!--Ref-->
 		<td align="center">+9</td><!--Fort-->
 		<td align="center">+9</td><!--Will-->
@@ -318,6 +332,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">820,000</td><!--Experience-->
 		<td align="center">10d6+3</td><!--HD-->
 		<td align="center">+7</td><!--BAB-->
+		<td align="center">+3</td><!--Init-->
 		<td align="center">+9</td><!--Ref-->
 		<td align="center">+9</td><!--Fort-->
 		<td align="center">+9</td><!--Will-->
@@ -337,6 +352,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">960,000</td><!--Experience-->
 		<td align="center">10d6+8</td><!--HD-->
 		<td align="center">+8</td><!--BAB-->
+		<td align="center">+3</td><!--Init-->
 		<td align="center">+9</td><!--Ref-->
 		<td align="center">+10</td><!--Fort-->
 		<td align="center">+10</td><!--Will-->
@@ -356,6 +372,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">1,090,000</td><!--Experience-->
 		<td align="center">10d6+5</td><!--HD-->
 		<td align="center">+8</td><!--BAB-->
+		<td align="center">+4</td><!--Init-->
 		<td align="center">+10</td><!--Ref-->
 		<td align="center">+11</td><!--Fort-->
 		<td align="center">+11</td><!--Will-->

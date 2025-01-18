@@ -14,6 +14,7 @@ cssclass: clean-embeds
 - **Starting HP**: 7 + CON Modifier
 - **Hit Dice (Levels 2 to 10)**: 1d6 + 1 + CON Modifier per level
 - **HP for Levels 11+:** +2/level
+- **Initiative Bonus:** +1 at Level 3 and every 4 levels thereafter
 - **Armor Training**: Light and Medium Armor, Buckler and Shield
 - **Weapon Training**: All
 
@@ -90,6 +91,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Experience</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Hit<br/>Dice*</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Base<br/>Attack<br/>Bonus</b></th>
+		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Initiative<br/>Bonus</b></th>
 		<th align="center" colspan=3 style="vertical-align:bottom;"><b>Saving Throws</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Skills</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Traits</b></th>
@@ -107,6 +109,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">0</td><!--Experience-->
 		<td align="center">1d6+1</td><!--HD-->
 		<td align="center">+1</td><!--BAB-->
+		<td align="center">+0</td><!--BAB-->
 		<td align="center">+1</td><!--Ref-->
 		<td align="center">+1</td><!--Fort-->
 		<td align="center">+0</td><!--Will-->
@@ -121,6 +124,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">2,100</td><!--Experience-->
 		<td align="center">2d6+2</td><!--Level-->
 		<td align="center">+2</td><!--BAB-->
+		<td align="center">+0</td><!--BAB-->
 		<td align="center">+2</td><!--Ref-->
 		<td align="center">+2</td><!--Fort-->
 		<td align="center">+1</td><!--Will-->
@@ -135,6 +139,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">4,200</td><!--Experience-->
 		<td align="center">3d6+3</td><!--Level-->
 		<td align="center">+2</td><!--BAB-->
+		<td align="center">+0</td><!--BAB-->
 		<td align="center">+3</td><!--Ref-->
 		<td align="center">+2</td><!--Fort-->
 		<td align="center">+2</td><!--Will-->
@@ -149,6 +154,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">8,400</td><!--Experience-->
 		<td align="center">4d6+4</td><!--Level-->
 		<td align="center">+3</td><!--BAB-->
+		<td align="center">+1</td><!--BAB-->
 		<td align="center">+3</td><!--Ref-->
 		<td align="center">+3</td><!--Fort-->
 		<td align="center">+2</td><!--Will-->
@@ -163,6 +169,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">17,000</td><!--Experience-->
 		<td align="center">5d6+5</td><!--Level-->
 		<td align="center">+4</td><!--BAB-->
+		<td align="center">+1</td><!--BAB-->
 		<td align="center">+4</td><!--Ref-->
 		<td align="center">+4</td><!--Fort-->
 		<td align="center">+3</td><!--Will-->
@@ -177,6 +184,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">34,000</td><!--Experience-->
 		<td align="center">6d6+6</td><!--Level-->
 		<td align="center">+4</td><!--BAB-->
+		<td align="center">+1</td><!--Init-->
 		<td align="center">+5</td><!--Ref-->
 		<td align="center">+5</td><!--Fort-->
 		<td align="center">+4</td><!--Will-->
@@ -191,6 +199,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">67,000</td><!--Experience-->
 		<td align="center">7d6+7</td><!--Level-->
 		<td align="center">+5</td><!--BAB-->
+		<td align="center">+1</td><!--Init-->
 		<td align="center">+6</td><!--Ref-->
 		<td align="center">+6</td><!--Fort-->
 		<td align="center">+4</td><!--Will-->
@@ -205,6 +214,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">130,000</td><!--Experience-->
 		<td align="center">8d6+8</td><!--Level-->
 		<td align="center">+5</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+6</td><!--Ref-->
 		<td align="center">+6</td><!--Fort-->
 		<td align="center">+5</td><!--Will-->
@@ -219,6 +229,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">260,000</td><!--Experience-->
 		<td align="center">9d6+9</td><!--Level-->
 		<td align="center">+6</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+7</td><!--Ref-->
 		<td align="center">+7</td><!--Fort-->
 		<td align="center">+6</td><!--Will-->
@@ -233,6 +244,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">390,000</td><!--Experience-->
 		<td align="center">10d6+10</td><!--Level-->
 		<td align="center">+6</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+8</td><!--Ref-->
 		<td align="center">+8</td><!--Fort-->
 		<td align="center">+6</td><!--Will-->
@@ -247,6 +259,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">520,000</td><!--Experience-->
 		<td align="center">10d6+12</td><!--Level-->
 		<td align="center">+7</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+8</td><!--Ref-->
 		<td align="center">+8</td><!--Fort-->
 		<td align="center">+7</td><!--Will-->
@@ -261,6 +274,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">650,000</td><!--Experience-->
 		<td align="center">10d6+14</td><!--Level-->
 		<td align="center">+7</td><!--BAB-->
+		<td align="center">+3</td><!--Init-->
 		<td align="center">+9</td><!--Ref-->
 		<td align="center">+9</td><!--Fort-->
 		<td align="center">+8</td><!--Will-->
@@ -275,6 +289,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">790,000</td><!--Experience-->
 		<td align="center">10d6+16</td><!--Level-->
 		<td align="center">+8</td><!--BAB-->
+		<td align="center">+3</td><!--Init-->
 		<td align="center">+10</td><!--Ref-->
 		<td align="center">+10</td><!--Fort-->
 		<td align="center">+8</td><!--Will-->
@@ -289,6 +304,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">920,000</td><!--Experience-->
 		<td align="center">10d6+18</td><!--Level-->
 		<td align="center">+9</td><!--BAB-->
+		<td align="center">+3</td><!--Init-->
 		<td align="center">+10</td><!--Ref-->
 		<td align="center">+10</td><!--Fort-->
 		<td align="center">+9</td><!--Will-->
@@ -303,6 +319,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="right">1,050,000</td><!--Experience-->
 		<td align="center">10d6+20</td><!--Level-->
 		<td align="center">+9</td><!--BAB-->
+		<td align="center">+4</td><!--Init-->
 		<td align="center">+11</td><!--Ref-->
 		<td align="center">+11</td><!--Fort-->
 		<td align="center">+10</td><!--Will-->
@@ -313,7 +330,7 @@ Unless stated otherwise, each knack may only be taken once.
 		<td align="center">+3d4</td><!--SA-->
 	</tr>
 	<tr style="background-color:#708090;">
-		<td colspan=12>* Constitution modifiers no longer apply after level 10.<br/># Pick one or the other.</td>
+		<td colspan=13>* Constitution modifiers no longer apply after level 10.<br/># Pick one or the other.</td>
 	</tr>
 </table>
 

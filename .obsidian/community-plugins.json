@@ -15,5 +15,6 @@
   "obsidian-plugin-todo",
   "obisidian-note-linker",
   "virtual-linker",
-  "display-relative-path-img"
+  "display-relative-path-img",
+  "find-unlinked-files"
 ]

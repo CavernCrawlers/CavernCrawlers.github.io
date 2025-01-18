@@ -8,22 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85e579bf5e25c806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CoreRules.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "CoreRules"
-            }
-          },
-          {
-            "id": "eaa50253cc613bf3",
+            "id": "fdc583c3e3f72ff3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,88 +23,43 @@
             }
           },
           {
-            "id": "50692d7bf91d4090",
+            "id": "ffa1f00182943b7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/ClassAbilities.md",
+                "file": "Rest_and_Recovery.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Rest_and_Recovery"
+            }
+          },
+          {
+            "id": "36a4cf84bb9142bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EncumbranceAndEquipment.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ClassAbilities"
+              "title": "EncumbranceAndEquipment"
             }
           },
           {
-            "id": "52e91d9becc721ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Traits.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Traits"
-            }
-          },
-          {
-            "id": "c1422e997289e424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "classes/Knacks.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Knacks"
-            }
-          },
-          {
-            "id": "fdc583c3e3f72ff3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CharacterCreation.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "CharacterCreation"
-            }
-          },
-          {
-            "id": "b0bb02db26ed6bd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "classes/Fighter.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Fighter"
-            }
-          },
-          {
-            "id": "19d6a2d000c47636",
+            "id": "121882786c8cba99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Glossary.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
@@ -128,22 +68,36 @@
             }
           },
           {
-            "id": "ae21f6fec79222bb",
+            "id": "4c4a4dab36eadee9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EncumbranceAndEquipment.md",
-                "mode": "preview",
+                "file": "magic/MagicalArts.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "EncumbranceAndEquipment"
+              "title": "MagicalArts"
+            }
+          },
+          {
+            "id": "df6a858a1a3052a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CoreRules.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "CoreRules"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,8 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5,
-    "collapsed": true
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -314,32 +267,35 @@
   },
   "active": "fdc583c3e3f72ff3",
   "lastOpenFiles": [
-    "classes/Fighter.md",
-    "CharacterCreation.md",
-    "Combat.md",
     "CoreRules.md",
+    "Combat.md",
+    "HirelingsAndAllies.md",
+    "Rest_and_Recovery.md",
+    "EncumbranceAndEquipment.md",
+    "Conditions.md",
+    "Glossary.md",
+    "misc/lu52049nc4bu.tmp",
+    "misc/CavernCrawlers Classes II.ods",
+    "misc/lu52049nc4b0.tmp",
+    "classes/Knacks.md",
+    "CharacterCreation.md",
+    "magic/MagicalArts.md",
+    "classes/Spellcaster.md",
+    "classes/Rogue.md",
+    "classes/Rogue-Spellcaster.md",
+    "classes/Fighter-Spellcaster.md",
+    "classes/Fighter-Rogue.md",
+    "classes/Fighter.md",
     "Skills.md",
     "Languages.md",
-    "Glossary.md",
     "optional/Background.md",
     "AquaticExploration.md",
     "AllegiancesAndMorality.md",
-    "classes/Rogue-Spellcaster.md",
     "Traits.md",
-    "classes/Spellcaster.md",
-    "classes/Knacks.md",
     "classes/ClassAbilities.md",
-    "EncumbranceAndEquipment.md",
-    "classes/Fighter-Spellcaster.md",
-    "classes/Rogue.md",
-    "classes/Fighter-Rogue.md",
-    "magic/MagicalArts.md",
     "magic/Spells.md",
     "RulesSynopsis.md",
     "draft/RaceOgre.md",
-    "draft/Skills.md",
-    "species/Orc.md",
-    "species/Human.md",
     "misc/lu181322otujy.tmp",
     "lifepaths/LibreOffice/Lifepaths.ods",
     "misc/lu16528yi3r.tmp",
@@ -347,9 +303,6 @@
     "magic",
     "lifepaths/LibreOffice/lu77164ebgjv.tmp",
     "lifepaths/LibreOffice/lu77164ebgjj.tmp",
-    "lifepaths/LibreOffice/lu77164ebgj6.tmp",
-    "lifepaths/LibreOffice/Acolyte of the Old Gods.odt",
-    "lifepaths/LibreOffice/lu77164ebgix.tmp",
     "images/sigils/Person.png",
     "images/sigils/Void.png",
     "images/sigils/Water.png",

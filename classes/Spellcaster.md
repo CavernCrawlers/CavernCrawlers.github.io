@@ -12,6 +12,7 @@ cssclass: clean-embeds
 - **Starting HP**: 4 + CON Modifier
 - **Hit Dice (Levels 2 to 10)**: 1d4 + CON Modifier per level
 - **HP for Levels 11+:** +1/level
+- **Initiative Bonus:** +1 at Level 5 and every 5 levels thereafter
 - **Armor Training**: None
 - **Weapon Training**: Light weapons & Staffs
 
@@ -41,6 +42,7 @@ cssclass: clean-embeds
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Experience</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Hit<br/>Dice*</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Base<br/>Attack<br/>Bonus</b></th>
+		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Initiative<br/>Bonus</b></th>
 		<th align="center" colspan=3 style="vertical-align:bottom;"><b>Saves</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Skills</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Traits</b></th>
@@ -64,6 +66,7 @@ cssclass: clean-embeds
 		<td align="right">0</td><!--Experience-->
 		<td align="center">1d4</td><!--HD-->
 		<td align="center">+0</td><!--BAB-->
+		<td align="center">+0</td><!--Init-->
 		<td align="center">+1</td><!--Ref-->
 		<td align="center">+0</td><!--Fort-->
 		<td align="center">+1</td><!--Will-->
@@ -83,6 +86,7 @@ cssclass: clean-embeds
 		<td align="right">2,500</td><!--Experience-->
 		<td align="center">2d4</td><!--HD-->
 		<td align="center">+0</td><!--BAB-->
+		<td align="center">+0</td><!--Init-->
 		<td align="center">+1</td><!--Ref-->
 		<td align="center">+1</td><!--Fort-->
 		<td align="center">+2</td><!--Will-->
@@ -102,6 +106,7 @@ cssclass: clean-embeds
 		<td align="right">5,000</td><!--Experience-->
 		<td align="center">3d4</td><!--HD-->
 		<td align="center">+1</td><!--BAB-->
+		<td align="center">+0</td><!--Init-->
 		<td align="center">+2</td><!--Ref-->
 		<td align="center">+2</td><!--Fort-->
 		<td align="center">+3</td><!--Will-->
@@ -122,6 +127,7 @@ cssclass: clean-embeds
 		<td align="right">10,000</td><!--Experience-->
 		<td align="center">4d4</td><!--HD-->
 		<td align="center">+1</td><!--BAB-->
+		<td align="center">+0</td><!--Init-->
 		<td align="center">+2</td><!--Ref-->
 		<td align="center">+2</td><!--Fort-->
 		<td align="center">+4</td><!--Will-->
@@ -141,6 +147,7 @@ cssclass: clean-embeds
 		<td align="right">20,000</td><!--Experience-->
 		<td align="center">5d4</td><!--HD-->
 		<td align="center">+1</td><!--BAB-->
+		<td align="center">+1</td><!--Init-->
 		<td align="center">+3</td><!--Ref-->
 		<td align="center">+3</td><!--Fort-->
 		<td align="center">+4</td><!--Will-->
@@ -160,6 +167,7 @@ cssclass: clean-embeds
 		<td align="right">40,000</td><!--Experience-->
 		<td align="center">6d4</td><!--HD-->
 		<td align="center">+2</td><!--BAB-->
+		<td align="center">+1</td><!--Init-->
 		<td align="center">+4</td><!--Ref-->
 		<td align="center">+4</td><!--Fort-->
 		<td align="center">+5</td><!--Will-->
@@ -179,6 +187,7 @@ cssclass: clean-embeds
 		<td align="right">80,000</td><!--Experience-->
 		<td align="center">7d4</td><!--HD-->
 		<td align="center">+2</td><!--BAB-->
+		<td align="center">+1</td><!--Init-->
 		<td align="center">+5</td><!--Ref-->
 		<td align="center">+4</td><!--Fort-->
 		<td align="center">+6</td><!--Will-->
@@ -198,6 +207,7 @@ cssclass: clean-embeds
 		<td align="right">160,000</td><!--Experience-->
 		<td align="center">8d4</td><!--HD-->
 		<td align="center">+3</td><!--BAB-->
+		<td align="center">+1</td><!--Init-->
 		<td align="center">+5</td><!--Ref-->
 		<td align="center">+5</td><!--Fort-->
 		<td align="center">+6</td><!--Will-->
@@ -217,6 +227,7 @@ cssclass: clean-embeds
 		<td align="right">320,000</td><!--Experience-->
 		<td align="center">9d4</td><!--HD-->
 		<td align="center">+3</td><!--BAB-->
+		<td align="center">+1</td><!--Init-->
 		<td align="center">+6</td><!--Ref-->
 		<td align="center">+6</td><!--Fort-->
 		<td align="center">+7</td><!--Will-->
@@ -236,6 +247,7 @@ cssclass: clean-embeds
 		<td align="right">470,000</td><!--Experience-->
 		<td align="center">10d4</td><!--HD-->
 		<td align="center">+3</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+7</td><!--Ref-->
 		<td align="center">+6</td><!--Fort-->
 		<td align="center">+8</td><!--Will-->
@@ -255,6 +267,7 @@ cssclass: clean-embeds
 		<td align="right">620,000</td><!--Experience-->
 		<td align="center">10d4+1</td><!--HD-->
 		<td align="center">+4</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+7</td><!--Ref-->
 		<td align="center">+7</td><!--Fort-->
 		<td align="center">+9</td><!--Will-->
@@ -274,6 +287,7 @@ cssclass: clean-embeds
 		<td align="right">770,000</td><!--Experience-->
 		<td align="center">10d4+2</td><!--HD-->
 		<td align="center">+4</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+8</td><!--Ref-->
 		<td align="center">+8</td><!--Fort-->
 		<td align="center">+9</td><!--Will-->
@@ -293,6 +307,7 @@ cssclass: clean-embeds
 		<td align="right">920,000</td><!--Experience-->
 		<td align="center">10d4+3</td><!--HD-->
 		<td align="center">+4</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+9</td><!--Ref-->
 		<td align="center">+8</td><!--Fort-->
 		<td align="center">+10</td><!--Will-->
@@ -312,6 +327,7 @@ cssclass: clean-embeds
 		<td align="right">1,070,000</td><!--Experience-->
 		<td align="center">10d4+4</td><!--HD-->
 		<td align="center">+5</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+9</td><!--Ref-->
 		<td align="center">+9</td><!--Fort-->
 		<td align="center">+11</td><!--Will-->
@@ -331,6 +347,7 @@ cssclass: clean-embeds
 		<td align="right">1,220,000</td><!--Experience-->
 		<td align="center">10d4+5</td><!--HD-->
 		<td align="center">+5</td><!--BAB-->
+		<td align="center">+3</td><!--Init-->
 		<td align="center">+10</td><!--Ref-->
 		<td align="center">+10</td><!--Fort-->
 		<td align="center">+12</td><!--Will-->
@@ -346,6 +363,6 @@ cssclass: clean-embeds
 		<td align="center">21+</td><!--Difficulty-->
 	</tr>
 	<tr style="background-color:#708090;">
-		<td colspan=17>* Constitution Modifier no longer applies after level 10.<br/># Add your Wisdom Modifier to the number of Invocation Dice you have.<br/>$ Add your Intelligence Modifier to the number of 1st level spells you can prepare.<br/>~ Add your Charisma Modifier to your Spell Save Difficulty.</td>
+		<td colspan=18>* Constitution Modifier no longer applies after level 10.<br/># Add your Wisdom Modifier to the number of Invocation Dice you have.<br/>$ Add your Intelligence Modifier to the number of 1st level spells you can prepare.<br/>~ Add your Charisma Modifier to your Spell Save Difficulty.</td>
 	</tr>
 </table>

@@ -14,6 +14,7 @@ cssclass: clean-embeds
 - **Starting HP**: 8 + CON Modifier
 - **Hit Dice (Levels 2 to 10)**: 1d6 + 2 + CON Modifier per level
 - **HP for Levels 11+:** +2/Level
+- **Initiative Bonus:** +1 at Level 4 and every 4 levels thereafter
 - **Armor Training**: All
 - **Weapon Training**: All
 
@@ -76,6 +77,7 @@ Fighters gain 1 Knack at Level 1 and gain an additional Knack at each odd-number
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Experience</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Hit<br/>Dice*</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Base<br/>Attack<br/>Bonus</b></th>
+		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Initiative<br/>Bonus</b></th>
 		<th align="center" colspan=3 style="vertical-align:bottom;"><b>Saving Throws</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Skills</b></th>
 		<th align="center" rowspan=2 style="vertical-align:bottom;"><b>Traits</b></th>
@@ -93,6 +95,7 @@ Fighters gain 1 Knack at Level 1 and gain an additional Knack at each odd-number
 		<td align="right">0</td><!--Experience-->
 		<td align="center">1d6+2</td><!--HD-->
 		<td align="center">+1</td><!--BAB-->
+		<td align="center">+0</td><!--Init-->
 		<td align="center">+1</td><!--Ref-->
 		<td align="center">+1</td><!--Fort-->
 		<td align="center">+0</td><!--Will-->
@@ -106,6 +109,7 @@ Fighters gain 1 Knack at Level 1 and gain an additional Knack at each odd-number
 		<td align="right">2,000</td><!--Experience-->
 		<td align="center">2d6+4</td><!--Level-->
 		<td align="center">+2</td><!--BAB-->
+		<td align="center">+0</td><!--Init-->
 		<td align="center">+1</td><!--Ref-->
 		<td align="center">+2</td><!--Fort-->
 		<td align="center">+1</td><!--Will-->
@@ -119,6 +123,7 @@ Fighters gain 1 Knack at Level 1 and gain an additional Knack at each odd-number
 		<td align="right">4,000</td><!--Experience-->
 		<td align="center">3d6+6</td><!--Level-->
 		<td align="center">+2</td><!--BAB-->
+		<td align="center">+0</td><!--Init-->
 		<td align="center">+2</td><!--Ref-->
 		<td align="center">+3</td><!--Fort-->
 		<td align="center">+1</td><!--Will-->
@@ -132,6 +137,7 @@ Fighters gain 1 Knack at Level 1 and gain an additional Knack at each odd-number
 		<td align="right">8,000</td><!--Experience-->
 		<td align="center">4d6+8</td><!--Level-->
 		<td align="center">+3</td><!--BAB-->
+		<td align="center">+1</td><!--Init-->
 		<td align="center">+3</td><!--Ref-->
 		<td align="center">+3</td><!--Fort-->
 		<td align="center">+2</td><!--Will-->
@@ -145,6 +151,7 @@ Fighters gain 1 Knack at Level 1 and gain an additional Knack at each odd-number
 		<td align="right">16,000</td><!--Experience-->
 		<td align="center">5d6+10</td><!--Level-->
 		<td align="center">+4</td><!--BAB-->
+		<td align="center">+1</td><!--Init-->
 		<td align="center">+4</td><!--Ref-->
 		<td align="center">+4</td><!--Fort-->
 		<td align="center">+3</td><!--Will-->
@@ -158,6 +165,7 @@ Fighters gain 1 Knack at Level 1 and gain an additional Knack at each odd-number
 		<td align="right">32,000</td><!--Experience-->
 		<td align="center">6d6+12</td><!--Level-->
 		<td align="center">+4</td><!--BAB-->
+		<td align="center">+1</td><!--Init-->
 		<td align="center">+4</td><!--Ref-->
 		<td align="center">+5</td><!--Fort-->
 		<td align="center">+4</td><!--Will-->
@@ -171,6 +179,7 @@ Fighters gain 1 Knack at Level 1 and gain an additional Knack at each odd-number
 		<td align="right">64,000</td><!--Experience-->
 		<td align="center">7d6+14</td><!--Level-->
 		<td align="center">+5</td><!--BAB-->
+		<td align="center">+1</td><!--Init-->
 		<td align="center">+5</td><!--Ref-->
 		<td align="center">+6</td><!--Fort-->
 		<td align="center">+4</td><!--Will-->
@@ -184,6 +193,7 @@ Fighters gain 1 Knack at Level 1 and gain an additional Knack at each odd-number
 		<td align="right">120,000</td><!--Experience-->
 		<td align="center">8d6+16</td><!--Level-->
 		<td align="center">+6</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+5</td><!--Ref-->
 		<td align="center">+7</td><!--Fort-->
 		<td align="center">+5</td><!--Will-->
@@ -197,6 +207,7 @@ Fighters gain 1 Knack at Level 1 and gain an additional Knack at each odd-number
 		<td align="right">240,000</td><!--Experience-->
 		<td align="center">9d6+18</td><!--Level-->
 		<td align="center">+6</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+6</td><!--Ref-->
 		<td align="center">+8</td><!--Fort-->
 		<td align="center">+5</td><!--Will-->
@@ -210,6 +221,7 @@ Fighters gain 1 Knack at Level 1 and gain an additional Knack at each odd-number
 		<td align="right">360,000</td><!--Experience-->
 		<td align="center">10d6+20</td><!--Level-->
 		<td align="center">+7</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+7</td><!--Ref-->
 		<td align="center">+8</td><!--Fort-->
 		<td align="center">+6</td><!--Will-->
@@ -223,6 +235,7 @@ Fighters gain 1 Knack at Level 1 and gain an additional Knack at each odd-number
 		<td align="right">480,000</td><!--Experience-->
 		<td align="center">10d6+22</td><!--Level-->
 		<td align="center">+8</td><!--BAB-->
+		<td align="center">+2</td><!--Init-->
 		<td align="center">+7</td><!--Ref-->
 		<td align="center">+9</td><!--Fort-->
 		<td align="center">+7</td><!--Will-->
@@ -236,6 +249,7 @@ Fighters gain 1 Knack at Level 1 and gain an additional Knack at each odd-number
 		<td align="right">600,000</td><!--Experience-->
 		<td align="center">10d6+24</td><!--Level-->
 		<td align="center">+8</td><!--BAB-->
+		<td align="center">+3</td><!--Init-->
 		<td align="center">+8</td><!--Ref-->
 		<td align="center">+10</td><!--Fort-->
 		<td align="center">+7</td><!--Will-->
@@ -249,6 +263,7 @@ Fighters gain 1 Knack at Level 1 and gain an additional Knack at each odd-number
 		<td align="right">720,000</td><!--Experience-->
 		<td align="center">10d6+26</td><!--Level-->
 		<td align="center">+9</td><!--BAB-->
+		<td align="center">+3</td><!--Init-->
 		<td align="center">+9</td><!--Ref-->
 		<td align="center">+10</td><!--Fort-->
 		<td align="center">+8</td><!--Will-->
@@ -262,6 +277,7 @@ Fighters gain 1 Knack at Level 1 and gain an additional Knack at each odd-number
 		<td align="right">840,000</td><!--Experience-->
 		<td align="center">10d6+28</td><!--Level-->
 		<td align="center">+9</td><!--BAB-->
+		<td align="center">+3</td><!--Init-->
 		<td align="center">+9</td><!--Ref-->
 		<td align="center">+11</td><!--Fort-->
 		<td align="center">+9</td><!--Will-->
@@ -275,6 +291,7 @@ Fighters gain 1 Knack at Level 1 and gain an additional Knack at each odd-number
 		<td align="right">960,000</td><!--Experience-->
 		<td align="center">10d6+30</td><!--Level-->
 		<td align="center">+10</td><!--BAB-->
+		<td align="center">+4</td><!--Init-->
 		<td align="center">+10</td><!--Ref-->
 		<td align="center">+12</td><!--Fort-->
 		<td align="center">+10</td><!--Will-->
@@ -284,7 +301,7 @@ Fighters gain 1 Knack at Level 1 and gain an additional Knack at each odd-number
 		<td align="center">7+</td><!--Notes-->
 	</tr>
 	<tr style="background-color:#708090;">
-		<td colspan=11>* Constitution modifiers no longer apply after level 10.</td>
+		<td colspan=12>* Constitution modifiers no longer apply after level 10.</td>
 	</tr>
 </table>
 
