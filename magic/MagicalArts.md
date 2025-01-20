@@ -43,6 +43,8 @@ Spellcasters may also learn [spells](magic/Spells.md) from other casters (if the
 ### Replacing a Spellbook
 If a spellbook is lost or destroyed, it may be recreated using the [spells](magic/Spells.md) that the spellcaster has already prepared.  Doing so requires a specially prepared [spellbook](#spellbooks) and takes the same cost in time and materials as learning each spell anew.
 
+-[ ] Backup copies
+
 ## Magical Focus
 A magical focus is a device that aids a spellcaster in channeling and controlling their magic.  This device must be easily seen, recognized and hand-held.  It also takes up 1 [inventory slot](EncumbranceAndEquipment#encumbrance).
 
