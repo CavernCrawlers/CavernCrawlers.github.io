@@ -9,10 +9,9 @@
 - Cannot attack or attempt to harm the charmer.
 - Charmer has *Advantage* on any [social checks](Glossary.md#social%20check) vs this creature.
 ## Concentrating
-- Cannot perform any other action requiring *Concentration*.
-- If another act requiring *Concentration* is performed, the existing concentration is lost.
-- Any time a *Concentrating* character takes damage, they must perform a *Constitution Check* vs a difficulty of 9 plus the spell's tier or 1/2 the damage taken, whichever is higher.  This is referred to as a **Concentration Check**.  If the check fails, concentration is lost.
-- Other circumstances may also require a **Concentration Check** with a difficulty set by the *Game Master* (such as a heavy storm, clinging to a cliff face, being grappled and so forth).
+- If another act requiring *Concentration* is performed, the existing *Concentration* is lost.
+- Any time a *Concentrating* character takes damage, they must perform a [Spirit Saving Throw](CoreRules.md#saving%20throw) vs a [Difficulty](CoreRules.md#difficulty) of 9 plus the spell's [Tier](magic/Spells.md#tier) or 1/2 the damage taken, whichever is higher.  This is referred to as a *Concentration Check*.  If the check fails, *Concentration* is lost.
+- Other circumstances may also require a *Concentration Check* with a difficulty set by the *Game Master* (such as a heavy storm, clinging to a cliff face, being grappled and so forth).
 ## Deafened
 - Auto-fail any check that requires hearing.
 ## Exhausted

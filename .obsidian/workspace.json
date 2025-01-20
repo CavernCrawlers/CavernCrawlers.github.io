@@ -13,43 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "magic/MagicalArts.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "MagicalArts"
+            }
+          },
+          {
+            "id": "3b92b67bd71ee181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Combat.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Combat"
-            }
-          },
-          {
-            "id": "ffa1f00182943b7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rest_and_Recovery.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Rest_and_Recovery"
-            }
-          },
-          {
-            "id": "36a4cf84bb9142bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EncumbranceAndEquipment.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "EncumbranceAndEquipment"
+              "title": "Combat"
             }
           },
           {
@@ -59,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "Glossary.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
@@ -73,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "magic/MagicalArts.md",
-                "mode": "source",
+                "file": "Conditions.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "MagicalArts"
+              "title": "Conditions"
             }
           },
           {
@@ -89,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "CoreRules.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
@@ -250,7 +235,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 233.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,40 +255,40 @@
   "lastOpenFiles": [
     "CoreRules.md",
     "Combat.md",
-    "HirelingsAndAllies.md",
-    "Rest_and_Recovery.md",
-    "EncumbranceAndEquipment.md",
-    "Conditions.md",
+    "magic/MagicalArts.md",
     "Glossary.md",
+    "Conditions.md",
+    "CharacterCreation.md",
+    "AllegiancesAndMorality.md",
+    "classes/ClassAbilities.md",
+    "TrueNames.md",
+    "Traits.md",
+    "Skills.md",
+    "README.md",
+    "HirelingsAndAllies.md",
+    "ExperienceAndLevels.md",
+    "EncumbranceAndEquipment.md",
+    "classes/Spellcaster.md",
+    "Rest_and_Recovery.md",
+    "Downtime.md",
+    "misc/lu52049nc4cp.tmp",
     "misc/lu52049nc4bu.tmp",
     "misc/CavernCrawlers Classes II.ods",
     "misc/lu52049nc4b0.tmp",
     "classes/Knacks.md",
-    "CharacterCreation.md",
-    "magic/MagicalArts.md",
-    "classes/Spellcaster.md",
     "classes/Rogue.md",
     "classes/Rogue-Spellcaster.md",
     "classes/Fighter-Spellcaster.md",
     "classes/Fighter-Rogue.md",
     "classes/Fighter.md",
-    "Skills.md",
     "Languages.md",
     "optional/Background.md",
-    "AquaticExploration.md",
-    "AllegiancesAndMorality.md",
-    "Traits.md",
-    "classes/ClassAbilities.md",
-    "magic/Spells.md",
-    "RulesSynopsis.md",
-    "draft/RaceOgre.md",
     "misc/lu181322otujy.tmp",
     "lifepaths/LibreOffice/Lifepaths.ods",
     "misc/lu16528yi3r.tmp",
     "misc/CavernCrawlers Classes.ods",
     "magic",
     "lifepaths/LibreOffice/lu77164ebgjv.tmp",
-    "lifepaths/LibreOffice/lu77164ebgjj.tmp",
     "images/sigils/Person.png",
     "images/sigils/Void.png",
     "images/sigils/Water.png",

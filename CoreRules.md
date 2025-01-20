@@ -547,7 +547,7 @@ Some creatures have true Darkvision, allowing them to not only see normally in *
 ## Time
 Time is broken up into three broad categories: *Combat Time*, *Exploration Time* and *Narrative Time*.  
 
-**Combat Time** is measured in *Combat Turns* (one creature’s chance to move and act), *Rounds* (the combined Turns of all participants; approximately 6 seconds) and *Minutes* (1 minute = 10 Rounds).  
+**Combat Time** is measured in *Combat Turns* (one creature’s chance to move and act), *Rounds* (the combined Turns of all participants; approximately 10 seconds) and *Minutes* (1 minute = 6 Rounds).  
 
 **Exploration Time** is measured in *Exploration Turns* (approximately 10 minutes), *Hours* and *Watches* (4 Hours).  
 
@@ -559,7 +559,7 @@ Time is broken up into three broad categories: *Combat Time*, *Exploration Time*
 Occasionally, the rules will call for the time something takes to be moved up or down one step:
 - 1 Reaction
 - 1 Action
-- 1 Round
+- 1 Round (10 seconds)
 - 1 Minute
 - 1 Exploration Turn (10 minutes)
 - 1 Hour

@@ -20,7 +20,7 @@ A character cannot benefit from more than 1 Long Rest in a 24 hour period.
 ## Extended Rest
 An **Extended Rest** requires a full week’s rest at a [Safe Haven](#safe%20haven).  At the end of an Extended Rest a character regains all Hit Points, recovers all ranks of [Exhaustion](Conditions.md#exhaustion) and has advantage on any rolls to recover from [Lingering Injuries](Combat.md#lingering%20injuries).
 
-No other Downtime Activities can be taken during an **Extended Rest**; your character is taking a week off to rest and recuperate.
+No other [Downtime Activities](Downtime.md) can be taken during an **Extended Rest**; your character is taking a week off to rest and recuperate.
 
 If an **Extended Rest** is interrupted, but the character has managed at least a full 8 hours of rest, they will gain the benefits of a [Long Rest](#long%20rest).
 

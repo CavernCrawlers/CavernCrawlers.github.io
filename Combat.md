@@ -64,9 +64,9 @@
 
 A **Combat Turn** is an individual creature’s opportunity to act.  All creatures' Combat Turns are executed in descending order of [Initiative](#initiative) with tied Initiative results acting simultaneously.
 
-A **Round** is the collection of all the Combat Turns of all the creature’s involved in the scene.  This takes up approximately 6 seconds.
+A **Round** is the collection of all the Combat Turns of all the creature’s involved in the scene.  This takes up approximately 10 seconds.
 
-A **Minute** is just that, one minute.  A minute is made up of 10 Rounds.
+A **Minute** is just that, one minute.  A minute is made up of 6 Rounds.
 
 ## Surprise
 The potential for surprise exists when one or more sides are unaware of the other(s).  The members of each side make individual Wisdom+[Perception](Skills.md#perception) checks vs a difficulty of 9 (see below for Ambushes).  During the first round of combat (known as the *Surprise Round*), those who passed their perception check take their *Combat Turns* as normal.  Those who failed their perception do not get to act during the *Surprise Round*.  If everyone is unaware, they all simply stand and stare at each other for the *Surprise Round* while they both recover from surprise.  

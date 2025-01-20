@@ -5,6 +5,7 @@ A [D20 Check](#D20%20Check) to which an Ability Modifier is added to the D20 rol
 ## Advantage
 Rolling the dice twice and taking the better result.
 
+
 ## Attack Bonus 
 A numerical modifier that gets added to the [Attack Roll](#Attack%20Roll).  The value of this modifier is depended upon the character's [Class](#Class) & [Level](#Level) or a monster's [Hit Dice](#Hit%20Die).
 
@@ -22,6 +23,9 @@ A type of [Hidden Door](#Hidden%20Door) that is simply obscured behind some othe
 
 ## Concentration
 This is the act of concentrating on a spell (or other activity that requires intense concentration).  Concentration may be lost by the character taking damage or other possible distractions.
+
+## Concentration Check
+This is a [Spirit Saving Throw](CoreRules.md#saving%20throw) to maintain [Concentration](Conditions.md#concentrating) on a [Spell](magic/Spells.md) (or similar activity).
 
 ## Condition
 A state that (typically) negatively effects a given character.  See [conditions](Combat.md#conditions) in the [Combat](Combat.md) chapter.
@@ -109,6 +113,10 @@ An [Ability Check](#Ability%20Check) to which the character's [Skill Bonus](#Ski
 
 ## Social Check
 A type of D20 Check used in a social interaction (often a [Charisma Check](RulesSynopsis.md#ability%20check)); such as attempting to persuade a guard to let you pass, bartering for a better deal on a horse or convincing a judge that you are innocent of the crime to which you are accused.  See D20 checks in both the [Core Rules](CoreRules.md#the%20d20%20check) and [Rules Synopsis](RulesSynopsis.md#d20%20checks).
+
+## Spellcasting Roll
+(aka Spellcasting Check)<br/>
+A roll of the caster's [Invocation Dice](magic/MagicalArts.md#the%20invocation%20dice%20pool) in an attempt to meet or exceed the [Spellcasting Difficulty](magic/MagicalArts.md#spell%20difficulty).
 
 ## Stealth
 The act of attempting to avoid detection.  This is a type of [Skilled](RulesSynopsis.md#skilled%20check) check.  See [Stealth Checks](CoreRules.md#stealth) in the Core Rules.

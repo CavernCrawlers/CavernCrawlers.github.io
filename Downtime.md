@@ -1,4 +1,55 @@
 # Downtime Activities
+
+## Lifestyle Expense
+Between adventures your character needs to be able to rest and heal.  Doing so in style costs money.  The table below lists the daily price to maintain a particular lifestyle.  Each lifestyle rank, aside from Modest, can impact your character’s social interactions and how well they can rest and heal.
+
+- A **Squalid** lifestyle basically means the character is homeless and penniless.  Others, even others living in squalid conditions, will look down on your filthy hygiene and ragged appearance.  As a result you have *Disadvantage* on all [social checks](Glossary.md#social%20check).  Additionally, you must pass at Difficulty 15 [Constitution Check](CoreRules.md#ability%20check) to recover any levels of [Exhaustion](Conditions.md#exhausted).
+- A **Poor** lifestyle is one of labor and hardship as you struggle to keep food on the table and a roof over your head.  The hard work of this lifestyle means you need to pass a Difficulty 12 [Constitution Check](CoreRules.md#ability%20check) to recover any levels of [Exhaustion](Conditions.md#exhausted).
+- A **Modest** lifestyle is that of the average commoner.  You have plenty of food and shelter, plus even some free time to enjoy yourself.  This lifestyle has no particular benefits, but no downsides either.
+- A **Wealthy** lifestyle affords the finer foods and lodging, as well as the opportunity to attend or throw the occasional party.  The extra rest and comfort allows you to roll one extra *Hit Die* whenever you [heal](Rest_and_Recovery.md).
+- With an **Aristocratic** lifestyle, you’re practically one of the nobility (even if not, in fact, a noble).  You are able to afford the best of everything and not only do you enjoy the same healing benefits as the *Wealthy*, others also look up to you.  Your finery and status grant you *Advantage* on all [social checks](Glossary.md#social%20check).
+
+<table border=2>
+    <thead>
+        <tr style="background-color:#708090;">
+            <th id="lifestyle" style="text-align:left;">Lifestyle</th>
+            <th id="cost" style="text-align:right;">Cost / Day</th>
+            <th id="notes" style="text-align:left;">Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:left;">Squalid</td>
+            <td style="text-align:right;">0sp</td>
+            <td style="text-align:left;"><i>Disadvantage</i> on social checks.  Must pass a diff 15 CON Check to recover <i>Exhaustion</i>.</td>
+        </tr>
+        <tr style="background-color:#91a3b0;">
+            <td style="text-align:left;">Poor</td>
+            <td style="text-align:right;">2cp</td>
+            <td style="text-align:left;">Must pass a Diff 12 CON Check to recover <i>Exhaustion</i>.</td>
+        </tr>
+        <tr>
+            <td style="text-align:left;">Modest</td>
+            <td style="text-align:right;">2sp</td>
+            <td style="text-align:left;">--</td>
+        </tr>
+        <tr style="background-color:#91a3b0;">
+            <td style="text-align:left;">Wealthy</td>
+            <td style="text-align:right;">1gp</td>
+            <td style="text-align:left;">Roll +1 HD when healing.</td>
+        </tr>
+        <tr>
+            <td style="text-align:left;">Aristocratic</td>
+            <td style="text-align:right;">10gp</td>
+            <td style="text-align:left;">Roll +1 HD when healing.  <i>Advantage</i> on social checks.</td>
+        </tr>
+    </tbody>
+</table>
+
+## Training
+Training is the default way in which PCs will spend their free time.  This allows a character to continue to practice and hone their class skills and keep them sharp for the next adventure.  The bonus is that every SP spent on training directly translates into 1 EP earned for the character.  However, the size of community you are in limits the amount of training you can do in a week.
+
+## Activities
 As an optional rule, it is possible for characters to partake in various downtime activities that will give PCs potential benefits.  The activities that may be undertaken are [Carousing](#Carousing), [Extended Rest](Combat.md#Extended%20Rest), [Study](#Study), [Training](#Training), [Worship](#Worship), [Work](#Work) or [Other](#other%20downtime%20activities).  Which activity a PC chooses to partake in is up to the player in question.  Different methods can offer different boons but also come with different risks.
 
 It is recommended that downtime be taken in weeks and that is what the below rules assume.  If there is less time available, the GM should work out what needs to be changed and how much can be accomplished.  Only one downtime activity may be taken per week.
