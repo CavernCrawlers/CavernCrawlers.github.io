@@ -28,6 +28,9 @@ All skills are ranked in 4 levels: *Unskilled*, *Apprentice* *Expert* and *Maste
 </table>
 
 ## Skill List
+### Animal Handling
+The skill of training and caring for animals.  Like the Lore skill, there is not just one flavor of Animal Handler.  Instead, this skill must be learned once for each type of animal to be trained (canines, felines, equines, etc).
+
 ### Athletics
 Most any sort of physical endeavor such as acrobatics, climbing, lifting heavy objects, long distance running, swimming and the like.
 
