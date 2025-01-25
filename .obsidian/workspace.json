@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EncumbranceAndEquipment.md",
+                "file": "beastiary/Humans.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "EncumbranceAndEquipment"
+              "title": "Humans"
+            }
+          },
+          {
+            "id": "0143988be4c28b17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "beastiary/Animals.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Animals"
             }
           },
           {
@@ -28,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classes/Fighter.md",
+                "file": "classes/Spellcaster.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Fighter"
+              "title": "Spellcaster"
             }
           },
           {
@@ -43,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CharacterCreation.md",
+                "file": "EncumbranceAndEquipment.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "CharacterCreation"
+              "title": "EncumbranceAndEquipment"
             }
           },
           {
@@ -82,7 +97,8 @@
               "title": "CoreRules"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ac5cb02070cbcc1d",
@@ -241,6 +256,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obisidian-note-linker:Note Linker": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
@@ -251,25 +267,32 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "4e0a0551d07ae661",
+  "active": "3b92b67bd71ee181",
   "lastOpenFiles": [
-    "misc/lu5067va2n.tmp",
-    "misc/lu5067va2g.tmp",
-    "misc/lu5067va23.tmp",
-    "misc/lu5067va1w.tmp",
-    "beastiary/Renegades_and_Mercenaries.md",
-    "EncumbranceAndEquipment.md",
-    "misc/lu5067va1d.tmp",
-    "misc/lu5067va16.tmp",
-    "misc/lu79002j9jhg.tmp",
+    "misc/lu79002j9jl4.tmp",
+    "misc/lu79002j9jl0.tmp",
+    "classes/Fighter-Spellcaster.md",
     "classes/Fighter.md",
-    "CharacterCreation.md",
-    "Glossary.md",
-    "Skills.md",
+    "beastiary/Humans.md",
     "templates/Monster.md",
+    "beastiary/Animals.md",
+    "misc/lu79002j9jkh.tmp",
+    "misc/lu79002j9jkd.tmp",
+    "misc/lu79002j9jk3.tmp",
+    "misc/lu79002j9jjw.tmp",
+    "misc/lu79002j9jjf.tmp",
+    "EncumbranceAndEquipment.md",
+    "CharacterCreation.md",
+    "classes/Rogue.md",
+    "misc/lu79002j9jiq.tmp",
+    "misc/lu79002j9jim.tmp",
+    "Skills.md",
+    "misc/lu79002j9jic.tmp",
+    "misc/lu5067va2n.tmp",
+    "beastiary/Renegades_and_Mercenaries.md",
+    "Glossary.md",
     "templates/LifepathTemplate.md",
     "beastiary/Beastiary.md",
-    "beastiary",
     "Combat.md",
     "Downtime.md",
     "CoreRules.md",
@@ -282,13 +305,6 @@
     "TrueNames.md",
     "Traits.md",
     "README.md",
-    "HirelingsAndAllies.md",
-    "ExperienceAndLevels.md",
-    "classes/Spellcaster.md",
-    "Rest_and_Recovery.md",
-    "misc/lu52049nc4cp.tmp",
-    "misc/lu52049nc4bu.tmp",
-    "misc/CavernCrawlers Classes II.ods",
     "images/sigils/Person.png",
     "images/sigils/Void.png",
     "images/sigils/Water.png",

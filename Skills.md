@@ -1,5 +1,24 @@
 # Skills
 This document contains a list of skills used in the <ins>**Cavern Crawlers**</ins> system.
+- [Skill Ranks](#Skill%20Ranks)
+- [Skill List](#Skill%20List)
+	- [Animal Handling](#Animal%20Handling)
+	- [Athletics](#Athletics)
+	- [Deception](#Deception)
+	- [Deduction](#Deduction)
+	- [Healing](#Healing)
+	- [Insight](#Insight)
+	- [Intimidation](#Intimidation)
+	- [Lockpick](#Lockpick)
+	- [Lore](#Lore)
+	- [Perception](#Perception)
+	- [Persuasion](#Persuasion)
+	- [Profession](#Profession)
+	- [Riding](#Riding)
+	- [Legerdemain](#Legerdemain)
+	- [Stealth](#Stealth)
+	- [Survival](#Survival)
+	- [Trap Handling](#Trap%20Handling)
 
 ## Skill Ranks
 All skills are ranked in 4 levels: *Unskilled*, *Apprentice* *Expert* and *Master*.  The first time a skill is learned, it is taken at the *Apprentice* level.  Taking the same skill a second time raises it to *Expert* and a third raises it to *Master*.  The modifier from the table below is added to the character's [skill checks](CoreRules.md#skilled%20check).

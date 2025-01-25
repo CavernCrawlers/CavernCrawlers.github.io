@@ -4,6 +4,7 @@
   "textFontFamily": "Courier",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "clean-embeds"
+    "clean-embeds",
+    "tableStyles"
   ]
 }
