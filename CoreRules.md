@@ -1,3 +1,7 @@
+---
+cssclasses:
+  - flatGrey
+---
 # Core Rules
 
 The earlier [Rules Synopsis](RulesSynopsis.md) provided a quick overview of the base game mechanics. In this chapter we'll go into more details about the rules and procedures for implementing them in your games.
@@ -50,7 +54,7 @@ The earlier [Rules Synopsis](RulesSynopsis.md) provided a quick overview of the 
 
 ---
 ## The D20 Check
-The core mechanic of this system is the **D20 Check**.  There are four broad types of D20 check: the [Ability Check](#ability%20check), the [Skilled Check](#skilled%20check), the [Attack Roll](#attack%20roll) and the Saving Throw.  An Ability Check is the roll of a 20-sided die, modified by the character's relevant **Ability Modifier** and then compared to a target difficulty.  Skilled Checks and Attack Rolls can be consider sub-types of the Ability Check, which add in a character's **Skill Modifier** or **Attack Bonus** (respectively).
+The core mechanic of this system is the **D20 Check**.  There are four broad types of D20 check: the [Ability Check](#ability%20check), the [Skilled Check](#skilled%20check), the [Attack Roll](#attack%20roll) and the [Saving Throw](#Saving%20Throw).  An Ability Check is the roll of a 20-sided die, modified by the character's relevant [Attribute Modifiers](CharacterCreation.md#Attribute%20Modifiers) and then compared to a target difficulty.  Skilled Checks and Attack Rolls can be consider sub-types of the Ability Check, which add in a character's [Skill Ranks](Skills.md#Skill%20Ranks) or [Attacking an Enemy](Combat.md#Attacking%20an%20Enemy) (respectively).
 
 ### Ability Check
 This is the most basic form of *D20 Check*.  The player simply rolls 1d20 and adds the appropriate *Ability Modifier* and compares the total to the [Difficulty](#difficulty%20target) set by the GM.
@@ -60,7 +64,7 @@ This is the most basic form of *D20 Check*.  The player simply rolls 1d20 and ad
 <p style="text-align:center;"><i>1d20 + Ability Modifier >= Difficulty</i></p>
 
 ### Skilled Check
-In some cases, a character may attempt a task that is directly related to one of their [Skills](Skills.md).  In these cases, an [Ability Check](#ability%20check) is made and the character adds their [Skill Bonus](Skills.md#skill%20bonus) to the check total.  [Rogues](classes/Rogue.md) and [hybrid-rogues](Glossary.md#hybrid%20class) gain more skills than other classes.  If a **skilled check** is called for, but the acting character lacks the skill, then the skill roll is made as a raw [Ability Check](#ability%20check) at *Disadvantage*, if the GM rules that the check is possible at all.
+In some cases, a character may attempt a task that is directly related to one of their [Skills](Skills.md).  In these cases, an [Ability Check](#ability%20check) is made and the character adds their *Competency* bonus to the check total.  If a **skilled check** is called for, but the acting character lacks the skill, then the skill roll is made as a raw [Ability Check](#ability%20check) at *Disadvantage*, if the GM rules that the check is possible at all.
 
 <p style="text-align:center;"><i>1d20 + Ability Modifier + Skill Bonus >= Difficulty</i></p>
 
@@ -82,11 +86,14 @@ Unlike other *D20 Checks*, a [Natural 1](#natural%20roll) always results in a fa
 ### Difficulty
 Any given [D20 Check](#the%20d20%20check) will be compared to a **Difficulty**.  For attacks, this is typically the target's *Armor Class*.  For other *D20 Checks* ([Ability Checks](#ability%20check), [Skilled Checks](#skilled%20check) and [Saving Throws](#saving%20throw)), this will be a value determined by the GM based on how difficult the task is.
 
-<table border=2>
-    <tr style="background-color:#708090;">
+<table>
+    <thead>
+    <tr>
         <th align="center"><b>Difficulty</b></th>
         <th align="center"><b>Target #</b></th>
     </tr>
+    </thead>
+    <tbody>
     <tr>
         <td align="center">Very Easy</td>
         <td align="center">6+</td>
@@ -99,15 +106,15 @@ Any given [D20 Check](#the%20d20%20check) will be compared to a **Difficulty**. 
         <td align="center">Moderate</td>
         <td align="center">12+</td>
     </tr>
-    <tr style="background-color:#91a3b0;">
+    <tr>
         <td align="center">Tricky</td>
         <td align="center">15+</td>
     </tr>
-    <tr style="background-color:#91a3b0;">
+    <tr>
         <td align="center">Hard</td>
         <td align="center">18+</td>
     </tr>
-    <tr style="background-color:#91a3b0;">
+    <tr>
         <td align="center">Very Hard</td>
         <td align="center">21+</td>
     </tr>
@@ -123,6 +130,7 @@ Any given [D20 Check](#the%20d20%20check) will be compared to a **Difficulty**. 
         <td align="center">Nigh Impossible</td>
         <td align="center">30+</td>
     </tr>
+    </tbody>
 </table>
 
 ### Natural Roll
@@ -199,9 +207,9 @@ One special **Countdown Pool** is the **Death Pool**.  A Death Pool is a number 
 
 <!-- directives:[] -->
 <div id="content">
-    <table border=2>
+    <table>
         <thead>
-            <tr style="background-color:#708090;">
+            <tr>
                 <th id="pool_size" style="text-align:center;">Pool Size</th>
                 <th id="d6" style="text-align:center;">D6</th>
                 <th id="d4" style="text-align:center;">D4</th>
@@ -217,7 +225,7 @@ One special **Countdown Pool** is the **Death Pool**.  A Death Pool is a number 
                 <td style="text-align:center;">1-2</td>
                 <td style="text-align:center;">1-2</td>
             </tr>
-            <tr style="background-color:#91a3b0;">
+            <tr>
                 <td style="text-align:center;">2</td>
                 <td style="text-align:center;">7-8</td>
                 <td style="text-align:center;">4-5</td>
@@ -231,7 +239,7 @@ One special **Countdown Pool** is the **Death Pool**.  A Death Pool is a number 
                 <td style="text-align:center;">4-5</td>
                 <td style="text-align:center;">2-3</td>
             </tr>
-            <tr style="background-color:#91a3b0;">
+            <tr>
                 <td style="text-align:center;">4</td>
                 <td style="text-align:center;">11-12</td>
                 <td style="text-align:center;">7-8</td>
@@ -245,7 +253,7 @@ One special **Countdown Pool** is the **Death Pool**.  A Death Pool is a number 
                 <td style="text-align:center;">5-6</td>
                 <td style="text-align:center;">3-4</td>
             </tr>
-            <tr style="background-color:#91a3b0;">
+            <tr>
                 <td style="text-align:center;">6</td>
                 <td style="text-align:center;">13-14</td>
                 <td style="text-align:center;">8-9</td>
@@ -264,16 +272,19 @@ A character has a **Base Fortune Point** (**BFP**) score equal to their level di
 
 **Fortune Points** may be spent in the following ways.
 
-<table border=2>
-    <tr style="background-color:#708090;">
+<table>
+    <thead>
+    <tr>
         <th><b>Use</b></th>
         <th><b>Effect</b></th>
     </tr>
+    </thead>
+    <tbody>
     <tr>
         <td>Help a Friend</td>
         <td>If a friend is performing a <i>D20 Check</i> that is related to one of your <i>Passions</i>, you may spend a <b>Fortune Point</b> to take the <i>Help</i> action.</td>
     </tr>
-    <tr style="background-color:#91a3b0;">
+    <tr>
         <td>Second Chance</td>
         <td>A <b>Fortune Point</b> may be spent to re-roll a failed <i>D20 Check</i> so long as that check is in service to one of your <i>Passions</i>. Only one die may be re-rolled (thus a roll with <i>Advantage</i> or <i>Disadvantage</i> only re-rolls 1 of the two dice, not both).</td>
     </tr>
@@ -281,7 +292,7 @@ A character has a **Base Fortune Point** (**BFP**) score equal to their level di
         <td>Lucky Situation</td>
         <td>A <b>Fortune Point</b> may be spent to use something in the environment to your benefit, or introduce a reasonable element that can be used. For example, a nearby hay stack may be used to cushion a fall off the roof of a building. This must be in service to one of your <i>Passions</i>.</td>
     </tr>
-    <tr style="background-color:#91a3b0;">
+    <tr>
         <td>Cheat Death</td>
         <td>A character who has reached 0 HP, may spend a <b>Fortune Point</b> to automatically stabilize and not need to continue rolling their <i>Death Pool</i>. However, they are still at 0 HP and <i>Unconscious</i>. This may always be done, even if not directly related to a <i>Passion</i>.</td>
     </tr>
@@ -289,6 +300,7 @@ A character has a **Base Fortune Point** (**BFP**) score equal to their level di
         <td>Special Ability</td>
         <td>Certain <i>Traits</i> and <i>Class Abilities</i> require the expenditure of a <b>Fortune Point</b> to activate. This may always be done, even if not directly related to a <i>Passion</i>.</td>
     </tr>
+    </tbody>
 </table>
 
 ---
@@ -323,9 +335,9 @@ Here is a list of common damage types:
 A **Reaction Check** is made upon the PCs meeting an NPC or group of NPCs for the first time and how they may react is uncertain.  Unlike other [D20 Checks](#the%20d20%20check), this is not a simple pass/fail test.  Instead the D20 is rolled and the spokesperson's *Charisma Modifier* is added to the roll.  If the NPC group is inclined to be hostile, the roll is made with [Disadvantage](#advantage%20and%20disadvantage).  If they are already inclined to be friendly, the roll is made with *Advantage*.  Most groups are neutral and this will simply be a standard roll.  Compare the total rolled to the table below.
 
 ### Reaction Check Result Table
-<table border=2>
+<table>
     <thead>
-        <tr style="background-color:#708090;">
+        <tr>
             <th id="d20" style="text-align:left;">d20</th>
             <th id="result" style="text-align:left;">Result</th>
         </tr>
@@ -335,7 +347,7 @@ A **Reaction Check** is made upon the PCs meeting an NPC or group of NPCs for th
             <td style="text-align:left;">1-</td>
             <td style="text-align:left;"><strong>Hostile:</strong> Will either attack or otherwise attempt to thwart the PCs. If hostile action is not possible or obvious suicide, will attempt to flee or get help.</td>
         </tr>
-        <tr style="background-color:#91a3b0;">
+        <tr>
             <td style="text-align:left;">2 to 6</td>
             <td style="text-align:left;"><strong>Unfriendly:</strong> Will either attack or otherwise thwart the PCs if the NPCs have the upper hand. Otherwise will watch the PCs warily to see what they do.</td>
         </tr>
@@ -343,7 +355,7 @@ A **Reaction Check** is made upon the PCs meeting an NPC or group of NPCs for th
             <td style="text-align:left;">7 to 14</td>
             <td style="text-align:left;"><strong>Neutral:</strong> The NPCs are undecided and will keep a watch on what the PCs do before deciding on their own course of action.</td>
         </tr>
-        <tr style="background-color:#91a3b0;">
+        <tr>
             <td style="text-align:left;">15 to 19</td>
             <td style="text-align:left;"><strong>Indifferent:</strong> Open to friendly negotiation or simply going about one another’s business unmolested.</td>
         </tr>
@@ -368,9 +380,9 @@ Very steep or sheer surfaces cannot normally be climbed without specialized clim
 ### Falling
 Falling from a height onto a hard surface inflicts blunt damage onto the falling creature.  The following table denotes how much damage a creature takes when falling from a given height, as well as how long that fall will take.
 
-<table border=2>
+<table>
     <thead>
-        <tr style="background-color:#708090;">
+        <tr>
             <th id="time" style="text-align:right;">Time</th>
             <th id="velocity" style="text-align:right;">Velocity</th>
             <th id="dist" style="text-align:right;">Dist</th>
@@ -386,7 +398,7 @@ Falling from a height onto a hard surface inflicts blunt damage onto the falling
             <td style="text-align:right;">1d6</td>
             <td style="text-align:left;"></td>
         </tr>
-        <tr style="background-color:#91a3b0;">
+        <tr>
             <td style="text-align:right;">0.60s</td>
             <td style="text-align:right;">20fps</td>
             <td style="text-align:right;">6ft</td>
@@ -400,7 +412,7 @@ Falling from a height onto a hard surface inflicts blunt damage onto the falling
             <td style="text-align:right;">3d6</td>
             <td style="text-align:left;"></td>
         </tr>
-        <tr style="background-color:#91a3b0;">
+        <tr>
             <td style="text-align:right;">1.20s</td>
             <td style="text-align:right;">40fps</td>
             <td style="text-align:right;">23ft</td>
@@ -414,7 +426,7 @@ Falling from a height onto a hard surface inflicts blunt damage onto the falling
             <td style="text-align:right;">5d6</td>
             <td style="text-align:left;"></td>
         </tr>
-        <tr style="background-color:#91a3b0;">
+        <tr>
             <td style="text-align:right;">1.90s</td>
             <td style="text-align:right;">60fps</td>
             <td style="text-align:right;">58ft</td>
@@ -428,7 +440,7 @@ Falling from a height onto a hard surface inflicts blunt damage onto the falling
             <td style="text-align:right;">7d6</td>
             <td style="text-align:left;"></td>
         </tr>
-        <tr style="background-color:#91a3b0;">
+        <tr>
             <td style="text-align:right;">2.60s</td>
             <td style="text-align:right;">80fps</td>
             <td style="text-align:right;">108ft</td>
@@ -442,7 +454,7 @@ Falling from a height onto a hard surface inflicts blunt damage onto the falling
             <td style="text-align:right;">9d6</td>
             <td style="text-align:left;"></td>
         </tr>
-        <tr style="background-color:#91a3b0;">
+        <tr>
             <td style="text-align:right;">3.40s</td>
             <td style="text-align:right;">100fps</td>
             <td style="text-align:right;">185ft</td>
@@ -456,7 +468,7 @@ Falling from a height onto a hard surface inflicts blunt damage onto the falling
             <td style="text-align:right;">11d6</td>
             <td style="text-align:left;"></td>
         </tr>
-        <tr style="background-color:#91a3b0;">
+        <tr>
             <td style="text-align:right;">4.30s</td>
             <td style="text-align:right;">120fps</td>
             <td style="text-align:right;">296ft</td>
@@ -470,7 +482,7 @@ Falling from a height onto a hard surface inflicts blunt damage onto the falling
             <td style="text-align:right;">13d6</td>
             <td style="text-align:left;"></td>
         </tr>
-        <tr style="background-color:#91a3b0;">
+        <tr>
             <td style="text-align:right;">5.40s</td>
             <td style="text-align:right;">140fps</td>
             <td style="text-align:right;">467ft</td>
@@ -484,7 +496,7 @@ Falling from a height onto a hard surface inflicts blunt damage onto the falling
             <td style="text-align:right;">15d6</td>
             <td style="text-align:left;">1 Round</td>
         </tr>
-        <tr style="background-color:#91a3b0;">
+        <tr>
             <td style="text-align:right;">7.00s</td>
             <td style="text-align:right;">160fps</td>
             <td style="text-align:right;">784ft</td>
@@ -498,7 +510,7 @@ Falling from a height onto a hard surface inflicts blunt damage onto the falling
             <td style="text-align:right;">17d6</td>
             <td style="text-align:left;"></td>
         </tr>
-        <tr style="background-color:#91a3b0;">
+        <tr>
             <td style="text-align:right;">10.00s</td>
             <td style="text-align:right;">180fps</td>
             <td style="text-align:right;">1,600ft</td>
